@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Spelling Practice</title>
+
+<style>
+
+body{
+    font-family: Arial, sans-serif;
+    padding:20px;
+    background:#f5f5f5;
+}
+
+h1{
+    margin-bottom:8px;
+}
+
+.stats{
+    margin-bottom:20px;
+    font-size:18px;
+}
+
+.container{
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+}
+
+.word{
+    position:relative;
+    padding:10px 14px;
+    border-radius:8px;
+    border:1px solid #ccc;
+    cursor:pointer;
+    user-select:none;
+    transition:all .15s ease;
+    font-size:18px;
+}
+
+.word:hover{
+    transform:translateY(-2px);
+}
+
+.count{
+    position:absolute;
+    top:-6px;
+    right:-6px;
+    width:20px;
+    height:20px;
+    border-radius:50%;
+    font-size:12px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background:#333;
+    color:white;
+}
+
+.legend{
+    margin-bottom:15px;
+    color:#555;
+    line-height:1.6;
+}
+
+button{
+    margin-bottom:15px;
+    padding:8px 14px;
+    cursor:pointer;
+}
+
+</style>
+</head>
+<body>
+
+<h1>Spelling Practice</h1>
+
+<div class="legend">
+0 = not attempted<br>
+1 = learned / attempted<br>
+2+ = mistakes during revision
+</div>
+
+<button id="resetBtn">Reset Progress</button>
+
+<div class="stats">
+Words: <span id="wordCount"></span>
+</div>
+
+<div id="container" class="container"></div>
+
+<script>
+
+/****************************************************
+ PUT YOUR WORDS HERE
+****************************************************/
+const words = [
+"about",
+"after",
+"again",
+"always",
+"animal",
+"apple",
+"around",
+"ask",
+"away",
+"baby",
+
+"back",
+"ball",
+"banana",
+"because",
+"before",
+"best",
+"bike",
+"birthday",
+"blue",
+"book",
+
+"break",
+"brother",
+"build",
+"busy",
+"call",
+"came",
+"carry",
+"catch",
+"chair",
+"class",
+
+"clean",
+"close",
+"color",
+"come",
+"cookie",
+"cool",
+"could",
+"dance",
+"dinner",
+"dog",
+
+"don't",
+"door",
+"drink",
+"drive",
+"early",
+"easy",
+"eat",
+"every",
+"family",
+"fast",
+
+"favorite",
+"friend",
+"funny",
+"game",
+"garden",
+"girl",
+"give",
+"goes",
+"good",
+"great",
+
+"guess",
+"happy",
+"help",
+"home",
+"horse",
+"house",
+"hungry",
+"inside",
+"jump",
+"just",
+
+"keep",
+"kind",
+"kitchen",
+"know",
+"laugh",
+"learn",
+"leave",
+"little",
+"listen",
+"lunch",
+
+"maybe",
+"milk",
+"minute",
+"mommy",
+"money",
+"morning",
+"movie",
+"music",
+"night",
+"outside",
+
+"paper",
+"party",
+"people",
+"pencil",
+"pizza",
+"play",
+"please",
+"practice",
+"quick",
+"quiet",
+
+"ready",
+"remember",
+"right",
+"school",
+"share",
+"shirt",
+"sleep",
+"small",
+"snack",
+"soccer",
+
+"sorry",
+"story",
+"table",
+"teacher",
+"thank",
+"their",
+"there",
+"think",
+"today",
+"tomorrow",
+
+"together",
+"water",
+"where",
+"which",
+"while",
+"window",
+"wonder",
+"world",
+"write",
+"wrong",
+"afternoon",
+"angry",
+"another",
+"answer",
+"anything",
+"arrive",
+"attention",
+"awesome",
+"bathroom",
+"beach",
+
+"beautiful",
+"believe",
+"blanket",
+"borrow",
+"bottom",
+"bring",
+"broken",
+"careful",
+"cereal",
+"change",
+
+"check",
+"choose",
+"circle",
+"clothes",
+"collect",
+"computer",
+"confused",
+"corner",
+"correct",
+"cousin",
+
+"crazy",
+"crowd",
+"curious",
+"decide",
+"delicious",
+"different",
+"doctor",
+"drawing",
+"dream",
+"drop",
+
+"enough",
+"excited",
+"exercise",
+"explain",
+"fair",
+"finish",
+"forget",
+"forward",
+"free",
+"friday",
+
+"garage",
+"grown",
+"happen",
+"healthy",
+"heard",
+"heart",
+"holiday",
+"important",
+"invite",
+"jacket",
+
+"jealous",
+"journey",
+"laughing",
+"library",
+"lonely",
+"lovely",
+"messy",
+"mistake",
+"month",
+"nearby",
+
+"nervous",
+"notice",
+"number",
+"office",
+"patient",
+"perfect",
+"phone",
+"picture",
+"planet",
+"problem",
+
+"promise",
+"proud",
+"question",
+"rainy",
+"reason",
+"recess",
+"return",
+"science",
+"search",
+"should",
+
+"shower",
+"simple",
+"since",
+"sister",
+"skill",
+"spring",
+"stairs",
+"strong",
+"stuff",
+"summer",
+
+"surprise",
+"through",
+"thunder",
+"tired",
+"toward",
+"travel",
+"trouble",
+"vacation",
+"visit",
+"weekend"
+
+];
+
+// [
+
+// "able","about","above","actor","advice","after","again","agree","alive","along",
+// "angel","apple","arrow","audio","basic","beach","begin","below","black","block",
+// "board","brain","brave","bread","bring","brown","build","cabin","camel","carry",
+// "catch","chair","chalk","charm","cheese","chess","chief","climb","clock","cloud",
+// "coach","coast","color","could","count","craft","crane","cream","dance","daily",
+// "dream","drink","eagle","early","earth","eight","enter","event","faith","family",
+// "farmer","father","field","fight","first","flame","floor","focus","found","frame",
+// "fresh","friend","fruit","giant","glass","globe","grace","grade","grand","grass",
+// "green","group","guard","happy","heart","hello","honey","horse","house","human",
+// "image","index","jelly","judge","juice","knife","laugh","learn","light","local",
+// "lucky","magic","major","maker","metal","might","model","money","month","mouse",
+// "music","never","noble","north","ocean","offer","olive","order","paint","party",
+// "peace","piano","pilot","pizza","plant","point","power","pride","print","prize",
+// "queen","quick","quiet","radio","raise","reach","ready","river","robot","royal",
+// "ruler","saint","scale","score","sense","shape","share","shine","shirt","shoot",
+// "smart","smile","snake","solar","sound","south","space","speak","spend","sport",
+// "stage","stand","start","stone","store","storm","story","study","sugar","table",
+// "teach","thank","their","there","thing","think","tiger","today","topic","total",
+// "tower","track","train","trust","under","union","value","voice","water","wheel",
+// "whole","world","write","young",
+
+// "acorn","adapt","admire","almost","animal","answer","artist","attend","autumn",
+// "backup","banana","basket","battle","beauty","become","before","belief","better",
+// "border","bottle","branch","bridge","bright","bubble","butter","camera","candle",
+// "captain","castle","center","circle","client","closed","coffee","column","corner",
+// "cotton","course","custom","danger","debate","decide","degree","demand","desert",
+// "design","double","dragon","drawer","editor","effect","effort","either","engine",
+// "enough","escape","estate","exactly","except","exhibit","expert","fabric","fairly",
+// "famous","fasten","figure","filter","finger","flight","flower","forest","forget",
+// "future","garden","golden","govern","gentle","ground","handle","health","heater",
+// "hidden","honest","hunter","ignore","impact","inform","injury","inside","island",
+// "jacket","jungle","kidney","kitten","ladder","lawyer","leader","lesson","letter",
+// "liquid","listen","market","master","matter","member","memory","middle","minute",
+// "modern","moment","monkey","morning","mother","museum","nation","native","nature",
+// "object","office","online","orange","palace","parent","pencil","people","period",
+// "phrase","planet","player","pocket","police","prefer","pretty","prince","prison",
+// "proper","public","purple","rabbit","random","reader","reason","record","remote",
+// "repair","result","rocket","safety","school","season","second","secret","select",
+// "shadow","signal","silver","simple","single","smooth","soccer","spirit","square",
+// "stable","street","strong","summer","sunset","supply","switch","system","talent",
+// "target","temple","tennis","ticket","travel","tunnel","unable","unique","useful",
+// "vacuum","valley","velvet","victory","village","vision","volume","wander","wealth",
+// "window","winter","wonder","yellow","zebra",
+
+// "absent","accept","across","action","active","afford","afraid","agency","airplane",
+// "amount","anchor","ancient","annual","appeal","arrive","aspect","assist","author",
+// "avenue","baboon","balance","balloon","barrier","battery","bedroom","beneath",
+// "benefit","bicycle","blanket","blossom","boyhood","brother","cabinet","camping",
+// "careful","ceiling","certain","chapter","citizen","college","combine","comfort",
+// "command","company","compare","compass","concert","contain","control","correct",
+// "country","creator","crystal","culture","curious","current","curtain","custard",
+// "cyclone","declare","delight","develop","diamond","digital","dinner","distant",
+// "doctor","dolphin","dragonfly","drawing","eastern","elastic","elderly","element",
+// "embrace","emotion","emperor","endless","energy","engineer","epic","evening",
+// "example","explore","factory","failure","fashion","feature","february","festival",
+// "fiction","finally","fireman","fitness","fortune","freedom","freeway","fridge",
+// "gallery","general","genius","giraffe","glacier","grammar","gravity","habitat",
+// "harvest","heading","helpful","heroic","highway","holiday","husband","iceberg",
+// "imagine","improve","include","instant","invent","journey","justice","kingdom",
+// "kitchen","lantern","library","limited","machine","magnet","marble","maximum",
+// "measure","message","miracle","mission","monitor","mountain","musical","mystery",
+// "natural","network","notable","novelty","observe","october","opinion","orchard",
+// "outdoor","package","parade","passion","patient","perfect","perform","picture",
+// "pioneer","plastic","popular","portion","poverty","prevent","primary","problem",
+// "produce","program","project","protect","purpose","quality","quarter","railway",
+// "rainbow","rapidly","receive","respect","restore","reverse","rhythm","satisfy",
+// "science","section","serious","service","settle","shelter","shortly","similar",
+// "sincere","skilled","special","station","storage","subject","success","support",
+// "teacher","thought","towards","traffic","uniform","upgrade","utility","various",
+// "vehicle","venture","version","veteran","visitor","weather","welcome","western",
+// "whisper","wildlife","wisdom","without","woodland","working","worthy"
+
+// ];
+
+
+/****************************************************
+ LOCAL STORAGE KEYS
+****************************************************/
+const ORDER_KEY = "jay_word_order_v1";
+const CLICKS_KEY = "jay_word_clicks_v1";
+
+/****************************************************
+ LOAD SAVED DATA
+****************************************************/
+let clickData =
+    JSON.parse(localStorage.getItem(CLICKS_KEY) || "{}");
+
+/****************************************************
+ SHUFFLE ONLY FIRST TIME
+****************************************************/
+let displayWords =
+    JSON.parse(localStorage.getItem(ORDER_KEY) || "null");
+
+if(!displayWords){
+
+    displayWords = [...words];
+
+    for(let i=displayWords.length-1;i>0;i--){
+        const j=Math.floor(Math.random()*(i+1));
+        [displayWords[i],displayWords[j]]
+            =
+        [displayWords[j],displayWords[i]];
+    }
+
+    localStorage.setItem(
+        ORDER_KEY,
+        JSON.stringify(displayWords)
+    );
+}
+
+/****************************************************
+ COLOR RULES
+****************************************************/
+function getStyle(clicks){
+
+    if(clicks === 0){
+        return {
+            bg:"hsl(0 0% 100%)",
+            color:"#000"
+        };
+    }
+
+    if(clicks === 1){
+        return {
+            bg:"hsl(120 60% 85%)",
+            color:"#000"
+        };
+    }
+
+    if(clicks === 2){
+        return {
+            bg:"hsl(45 100% 80%)",
+            color:"#000"
+        };
+    }
+
+    if(clicks === 3){
+        return {
+            bg:"hsl(25 100% 72%)",
+            color:"#000"
+        };
+    }
+
+    if(clicks === 4){
+        return {
+            bg:"hsl(10 85% 65%)",
+            color:"#fff"
+        };
+    }
+
+    return {
+        bg:"hsl(0 75% 50%)",
+        color:"#fff"
+    };
+}
+
+/****************************************************
+ SAVE
+****************************************************/
+function saveClicks(){
+    localStorage.setItem(
+        CLICKS_KEY,
+        JSON.stringify(clickData)
+    );
+}
+
+/****************************************************
+ RENDER
+****************************************************/
+const container =
+    document.getElementById("container");
+
+document.getElementById("wordCount")
+    .textContent = displayWords.length;
+
+displayWords.forEach(word => {
+
+    const clicks = clickData[word] || 0;
+
+    const div = document.createElement("div");
+    div.className = "word";
+
+    const badge = document.createElement("div");
+    badge.className = "count";
+    badge.textContent = clicks;
+
+    div.appendChild(badge);
+    div.append(document.createTextNode(word));
+
+    updateAppearance(div,badge,clicks);
+
+    div.addEventListener("click", () => {
+
+        clickData[word] =
+            (clickData[word] || 0) + 1;
+
+        saveClicks();
+
+        badge.textContent = clickData[word];
+
+        updateAppearance(
+            div,
+            badge,
+            clickData[word]
+        );
+    });
+
+    // Right click decreases count
+    div.addEventListener("contextmenu",(e)=>{
+
+        e.preventDefault();
+
+        clickData[word] =
+            Math.max(
+                0,
+                (clickData[word] || 0) - 1
+            );
+
+        saveClicks();
+
+        badge.textContent = clickData[word];
+
+        updateAppearance(
+            div,
+            badge,
+            clickData[word]
+        );
+    });
+
+    container.appendChild(div);
+
+});
+
+function updateAppearance(div,badge,clicks){
+
+    const style = getStyle(clicks);
+
+    div.style.background = style.bg;
+    div.style.color = style.color;
+
+    badge.style.background =
+        clicks === 0 ? "#999" : "#333";
+}
+
+/****************************************************
+ RESET
+****************************************************/
+document
+.getElementById("resetBtn")
+.addEventListener("click",()=>{
+
+    if(confirm("Reset all progress?")){
+
+        localStorage.removeItem(CLICKS_KEY);
+
+        location.reload();
+    }
+
+});
+
+</script>
+</body>
+</html>
