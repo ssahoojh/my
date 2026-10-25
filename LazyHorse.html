@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>The Lazy Horse</title>
+
+<style>
+body {
+    margin: 0;
+    padding: 0.5rem;
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-size: 1.5rem;
+    line-height: 2;
+    color: #333;
+    background: #fffef8;
+}
+
+h2 {
+    margin: 0 0 1rem 0;
+    color: #2c3e50;
+    font-size: 2.2rem;
+}
+
+#stats {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    color: #666;
+}
+
+#story {
+    max-width: 1000px;
+}
+
+.word {
+    display: inline-block;
+    padding: 0.18rem 0.45rem;
+    margin: 0.12rem;
+    border-radius: 8px;
+    cursor: pointer;
+    user-select: none;
+
+    background: #fff59d;
+    border: 1px solid #e6d65a;
+
+    transition: all .15s ease;
+}
+
+.word:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(0,0,0,.12);
+}
+
+.word.mastered {
+    background: #43a047 !important;
+    border-color: #43a047;
+    color: white;
+    font-weight: bold;
+}
+
+.plain {
+    margin-right: 0.15rem;
+}
+</style>
+</head>
+
+<body>
+
+<h2>The Lazy Horse</h2>
+
+<div id="stats"></div>
+
+<div id="story"></div>
+
+<script>
+
+const story = `
+In a land far away lived a hard-working and kind trader.
+
+He mostly traded in salt.
+
+He also had a horse that was very lazy and always avoided work.
+The trader used him to carry sacks of salt from one town to another.
+
+"Here, let me load these sacks up, and let's go to the town across the river to sell the salt," said the trader.
+
+"I am so tired today. Why do I have to work every day?
+I wish I could sleep throughout the day.
+But no, I have to carry these loads of salt and move," thought the horse.
+
+"Come on, horse.
+Start walking across that bridge.
+Until then, I'll buy some food for myself," said the trader.
+
+The horse was crossing the river.
+
+Suddenly, he slipped and fell into the water.
+
+As he was carrying sacks of salt on his back, the salt got wet and dissolved in the water.
+
+When the horse got up, the sacks on his back were much lighter.
+
+The horse felt very happy.
+`;
+
+const spellingWords = new Set([
+    "trader",
+    "horse",
+    "load",
+    "every ",
+    "traded",
+    "lazy",
+    "avoided",
+    "carry",
+    "sacks",
+    "another",
+    "across",
+    "throughout",
+    "loads",
+    "walking",
+    "bridge",
+    "crossing",
+    "suddenly",
+    "slipped",
+    "carrying",
+    "dissolved",
+    "lighter",
+    "happy"
+]);
+
+const storageKey = "spelling_" + location.pathname;
+
+const state = JSON.parse(localStorage.getItem(storageKey) || "{}");
+
+function save() {
+    localStorage.setItem(storageKey, JSON.stringify(state));
+    updateStats();
+}
+
+function updateStats() {
+    const total = spellingWords.size;
+
+    const mastered = Object.values(state)
+        .filter(v => v === -1)
+        .length;
+
+    document.getElementById("stats").innerHTML =
+        `✅ Mastered: ${mastered} / ${total}`;
+}
+
+function getRedColor(count) {
+
+    const c = Math.min(count, 9);
+
+    const lightness = 92 - ((c - 1) * 6);
+
+    return `hsl(0, 85%, ${lightness}%)`;
+}
+
+function applyState(el, wordKey) {
+
+    const value = state[wordKey] || 0;
+
+    if (value === -1) {
+
+        el.classList.add("mastered");
+        el.title = "Mastered";
+
+    } else {
+
+        el.classList.remove("mastered");
+
+        if (value > 0) {
+            el.style.backgroundColor = getRedColor(value);
+            el.title = `Missed ${value} time(s)`;
+        } else {
+            el.style.backgroundColor = "#fff59d";
+            el.title = "Not tested yet";
+        }
+    }
+}
+
+const container = document.getElementById("story");
+
+story.split(/\s+/).forEach((token, index) => {
+
+    const clean = token
+        .toLowerCase()
+        .replace(/[^a-z'-]/g, "");
+
+    if (!clean || !spellingWords.has(clean)) {
+
+        const span = document.createElement("span");
+        span.className = "plain";
+        span.textContent = token + " ";
+
+        container.appendChild(span);
+        return;
+    }
+
+    const wordKey = `${clean}_${index}`;
+
+    const span = document.createElement("span");
+    span.className = "word";
+    span.textContent = token;
+
+    applyState(span, wordKey);
+
+    span.addEventListener("click", () => {
+
+        if (state[wordKey] === -1) {
+            return;
+        }
+
+        state[wordKey] = (state[wordKey] || 0) + 1;
+
+        if (state[wordKey] > 9) {
+            state[wordKey] = 9;
+        }
+
+        applyState(span, wordKey);
+        save();
+    });
+
+    span.addEventListener("dblclick", (e) => {
+
+        e.preventDefault();
+
+        if (state[wordKey] === -1) {
+            delete state[wordKey];
+        } else {
+            state[wordKey] = -1;
+        }
+
+        applyState(span, wordKey);
+        save();
+    });
+
+    container.appendChild(span);
+    container.appendChild(document.createTextNode(" "));
+});
+
+updateStats();
+
+</script>
+
+</body>
+</html>
