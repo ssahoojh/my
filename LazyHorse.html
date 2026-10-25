@@ -74,39 +74,60 @@ h2 {
 <script>
 
 const story = `
-In a land far away lived a hard-working and kind trader.
+In a land far away lived a hardworking and kind trader. He mostly traded in salt.
 
-He mostly traded in salt.
+He also had a horse that was very lazy and always avoided work. The trader used him to carry sacks of salt from one town to another.
 
-He also had a horse that was very lazy and always avoided work.
-The trader used him to carry sacks of salt from one town to another.
+"Here, let me load these sacks up and let's go to the town across the river to sell this salt."
 
-"Here, let me load these sacks up, and let's go to the town across the river to sell the salt," said the trader.
+The horse thought, "I am so tired today. Why do I have to work every day? I wish I could sleep throughout the day. But no, I have to carry these loads of salt and move."
 
-"I am so tired today. Why do I have to work every day?
-I wish I could sleep throughout the day.
-But no, I have to carry these loads of salt and move," thought the horse.
+"Come on, horse. Start walking across that bridge. Until then, I'll pack some food for myself."
 
-"Come on, horse.
-Start walking across that bridge.
-Until then, I'll buy some food for myself," said the trader.
+The horse was crossing the river when he suddenly slipped and fell into the water. As he was carrying sacks of salt on his back, the salt got wet and dissolved in the water.
 
-The horse was crossing the river.
+When the horse got up, the sacks on his back were lighter.
 
-Suddenly, he slipped and fell into the water.
+The horse thought to himself, "Wow! This seems to be a good idea. Every time I slip into the river, the salt dissolves and my burden becomes less. I must try doing this more often. I hope my master is not watching."
 
-As he was carrying sacks of salt on his back, the salt got wet and dissolved in the water.
+When the trader reached town to sell the salt, it weighed only half of what he had loaded. Thinking it might have been his miscalculation, he sold whatever salt was left and returned home with his horse.
 
-When the horse got up, the sacks on his back were much lighter.
+The next morning, he again loaded his horse with sacks of salt and started packing his food.
 
-The horse felt very happy.
+The horse once again walked ahead of him and made his way to the bridge.
+
+"I must try the dipping trick again before my master reaches here," thought the horse.
+
+The trader became confused as the sacks kept weighing less each day. The horse had purposely started slipping into the water every day so that the sacks would become lighter.
+
+One day, the trader followed the horse and hid in the bushes.
+
+To his surprise, he discovered the horse's new trick.
+
+"Oh, that's very cunning. I must teach this lazy horse a lesson."
+
+The following day, instead of salt, the trader filled the sacks with cotton and tied them onto the horse's back.
+
+Following his usual habit, the horse purposely fell into the river.
+
+"Oh no! What is happening today? Why are these sacks getting heavier? My back hurts!"
+
+Since the sacks were filled with cotton, they soaked up water and became much heavier.
+
+The horse dipped into the water again and again, hoping to make the load lighter, but it only became heavier.
+
+In great pain, he somehow managed to get up and cross the bridge.
+
+The trader laughed and said,
+
+"Horse, I am your master. This is your work. I work hard and do not make excuses or use tricks to avoid my responsibilities. I wanted to teach you a lesson so that you never try to avoid your work again."
+
+The horse learned his lesson and never tried to avoid his work again.
 `;
 
 const spellingWords = new Set([
-    "trader",
-    "horse",
-    "load",
-    "every ",
+   "horse", "load", "hardworking",
+    "trader", 
     "traded",
     "lazy",
     "avoided",
@@ -115,18 +136,22 @@ const spellingWords = new Set([
     "another",
     "across",
     "throughout",
-    "loads",
-    "walking",
+    "burden",
+    "miscalculation",
+    "packing",
     "bridge",
     "crossing",
     "suddenly",
     "slipped",
     "carrying",
     "dissolved",
+    "cotton",
+    "cunning",
+    "responsibilities",
+    "heavier",
     "lighter",
-    "happy"
+    "learned"
 ]);
-
 const storageKey = "spelling_" + location.pathname;
 
 const state = JSON.parse(localStorage.getItem(storageKey) || "{}");
