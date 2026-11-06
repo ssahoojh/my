@@ -1,1 +1,69 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>Alice in Wonderland</title><meta name="viewport" content="width=device-width, initial-scale=1"><style>body{margin:0;padding:.75rem;font-family:"Segoe UI",Arial,sans-serif;font-size:2rem;line-height:2;color:#333;background:#fffef8}h2{margin:0 0 1rem 0;color:#2c3e50;font-size:clamp(2rem,6vw,2.8rem)}#stats{margin-bottom:1rem;font-size:1rem;color:#666}.word{display:inline-block;margin:.1rem;border-radius:8px;cursor:pointer;user-select:none;background:#fff59d;border:1px solid #e6d65a;min-height:2.2rem}.word.mastered{background:#43a047!important;border-color:#43a047;color:#fff;font-weight:bold}.plain{margin-right:.15rem}</style></head><body><h2>Alice in Wonderland</h2><div id="stats"></div><div id="story"></div><script>const story=`One sunny day, Alice was sitting next to her sister while she was reading. Her sister had been reading books all morning, and Alice was very bored. Suddenly, Alice saw a little white rabbit with pink eyes run past. "Oh dear! I am late! I have to hurry!" cried the rabbit as he ran into a rabbit hole. Curious, Alice followed him and peered down the hole. The ground suddenly gave way and Alice fell into it. She kept falling for what seemed like a very long time before landing with a thud in a large empty room. The room had three doors of different sizes. She saw the rabbit outside the smallest door before it closed shut. On a small table she found a tiny key and a bottle labeled Drink Me. Alice drank the potion and began shrinking. Soon she was small enough to unlock the tiny door and enter a beautiful garden. There she met the White Rabbit again, who rudely ordered her to fetch his gloves and fan. Alice followed him to his house and found a cake labeled Eat Me. After taking a bite, she began growing again. She grabbed the rabbit's fan and hurried outside, where she started shrinking once more. A caterpillar sitting on a mushroom told her that one side of the mushroom would make her grow and the other side would make her shrink. After returning to her normal size, Alice asked how to get home. A Cheshire Cat appeared in a tree and showed her two paths, one leading to the Mad Hatter and the other to the rabbit's house. Alice chose the path to the Mad Hatter. The Mad Hatter asked her a riddle: Why is a raven like a writing desk? Alice could not answer, and neither could he. He laughed and allowed her to continue to the Queen's castle. The Queen was unkind and loved giving impossible orders. She forced Alice to play croquet with her and threatened punishment if she lost. During the game, a trumpet sounded and the White Rabbit announced that the royal court was in session. Alice was accused of stealing heart-shaped tarts from the Queen's kitchen. The accusation made no sense, and Alice protested that she had done nothing wrong. She looked around and saw the White Rabbit, the Mad Hatter, the Caterpillar, and the Cheshire Cat all smiling at her. Suddenly someone tapped her arm. It was her sister. Alice woke up and realized everything had been a dream. Smiling, she said she would never complain about being bored again.`;const spellingWords=new Set(['alice','rabbit','wonderland','curious','peered','thud','different','smallest','unlock','beautiful','garden','gloves','shrinking','caterpillar','mushroom','normal','cheshire','paths','hatter','riddle','raven','writing','croquet','trumpet','royal','accused','stealing','heart-shaped','kitchen','protested','realized']);const storageKey='spelling_'+location.pathname;const state=JSON.parse(localStorage.getItem(storageKey)||'{}');function save(){localStorage.setItem(storageKey,JSON.stringify(state));updateStats()}function updateStats(){const total=spellingWords.size;const mastered=Object.values(state).filter(v=>v===-1).length;document.getElementById('stats').innerHTML=`✅ Mastered: ${mastered} / ${total}`}function getRedColor(c){c=Math.min(c,9);return `hsl(0,85%,${92-((c-1)*6)}%)`}function applyState(el,key){const v=state[key]||0;if(v===-1){el.classList.add('mastered')}else{el.classList.remove('mastered');el.style.backgroundColor=v>0?getRedColor(v):'#fff59d'}}const container=document.getElementById('story');story.split(/\s+/).forEach((t,i)=>{const clean=t.toLowerCase().replace(/[^a-z'-]/g,'');if(!clean||!spellingWords.has(clean)){const s=document.createElement('span');s.className='plain';s.textContent=t+' ';container.appendChild(s);return;}const k=`${clean}_${i}`;const s=document.createElement('span');s.className='word';s.textContent=t;applyState(s,k);s.onclick=()=>{if(state[k]===-1)return;state[k]=(state[k]||0)+1;if(state[k]>9)state[k]=9;applyState(s,k);save()};s.ondblclick=e=>{e.preventDefault();if(state[k]===-1)delete state[k];else state[k]=-1;applyState(s,k);save()};container.appendChild(s);container.appendChild(document.createTextNode(' '))});updateStats();</script></body></html>
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Alice in Wonderland</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            margin: 0;
+            padding: .75rem;
+            font-family: "Segoe UI", Arial, sans-serif;
+            font-size: 2rem;
+            line-height: 2;
+            color: #333;
+            background: #fffef8
+        }
+
+        h2 {
+            margin: 0 0 1rem 0;
+            color: #2c3e50;
+            font-size: clamp(2rem, 6vw, 2.8rem)
+        }
+
+        #stats {
+            margin-bottom: 1rem;
+            font-size: 1rem;
+            color: #666
+        }
+
+        .word {
+            display: inline-block;
+            margin: .1rem;
+            border-radius: 8px;
+            cursor: pointer;
+            user-select: none;
+            background: #fff59d;
+            border: 1px solid #e6d65a;
+            min-height: 2.2rem
+        }
+
+        .word.mastered {
+            background: #43a047 !important;
+            border-color: #43a047;
+            color: #fff;
+            font-weight: bold
+        }
+
+        .plain {
+            margin-right: .15rem
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Alice in Wonderland</h2>
+    <div id="stats"></div>
+    <div id="story"></div>
+    <script>
+    const story = `One sunny day, Alice was sitting next to her sister while she was reading. Her sister had been reading books all morning, and Alice was very bored. Suddenly, Alice saw a little white rabbit with pink eyes run past. "Oh dear! I am late! I have to hurry!" cried the rabbit as he ran into a rabbit hole. Curious, Alice followed him and peered down the hole. The ground suddenly gave way and Alice fell into it. She kept falling for what seemed like a very long time before landing with a thud in a large empty room. The room had three doors of different sizes. She saw the rabbit outside the smallest door before it closed shut. On a small table she found a tiny key and a bottle labeled Drink Me. Alice drank the potion and began shrinking. Soon she was small enough to unlock the tiny door and enter a beautiful garden. There she met the White Rabbit again, who rudely ordered her to fetch his gloves and fan. Alice followed him to his house and found a cake labeled Eat Me. After taking a bite, she began growing again. She grabbed the rabbit's fan and hurried outside, where she started shrinking once more. A caterpillar sitting on a mushroom told her that one side of the mushroom would make her grow and the other side would make her shrink. After returning to her normal size, Alice asked how to get home. A Cheshire Cat appeared in a tree and showed her two paths, one leading to the Mad Hatter and the other to the rabbit's house. Alice chose the path to the Mad Hatter. The Mad Hatter asked her a riddle: Why is a raven like a writing desk? Alice could not answer, and neither could he. He laughed and allowed her to continue to the Queen's castle. The Queen was unkind and loved giving impossible orders. She forced Alice to play croquet with her and threatened punishment if she lost. During the game, a trumpet sounded and the White Rabbit announced that the royal court was in session. Alice was accused of stealing heart-shaped tarts from the Queen's kitchen. The accusation made no sense, and Alice protested that she had done nothing wrong. She looked around and saw the White Rabbit, the Mad Hatter, the Caterpillar, and the Cheshire Cat all smiling at her. Suddenly someone tapped her arm. It was her sister. Alice woke up and realized everything had been a dream. Smiling, she said she would never complain about being bored again.`; 
+    const spellingWords = new Set(['followed', 'rabbit', 'wonderland', 'curious', 'peered', 'thud', 
+    'different', 'smallest', 'unlock', 'beautiful', 'garden', 'gloves', 'shrinking', 'caterpillar', 
+    'mushroom', 'normal', 'cheshire', 'paths', 'hatter', 'riddle', 'raven', 'writing', 'croquet', 'trumpet', 
+    'royal', 'accused', 'stealing', 'heart-shaped', 'kitchen', 'protested', 'realized','Suddenly','ground','thunder']); 
+    const storageKey = 'spelling_' + location.pathname; const state = JSON.parse(localStorage.getItem(storageKey) || '{}'); function save() { localStorage.setItem(storageKey, JSON.stringify(state)); updateStats() } function updateStats() { const total = spellingWords.size; const mastered = Object.values(state).filter(v => v === -1).length; document.getElementById('stats').innerHTML = `✅ Mastered: ${mastered} / ${total}` } function getRedColor(c) { c = Math.min(c, 9); return `hsl(0,85%,${92 - ((c - 1) * 6)}%)` } function applyState(el, key) { const v = state[key] || 0; if (v === -1) { el.classList.add('mastered') } else { el.classList.remove('mastered'); el.style.backgroundColor = v > 0 ? getRedColor(v) : '#fff59d' } } const container = document.getElementById('story'); story.split(/\s+/).forEach((t, i) => { const clean = t.toLowerCase().replace(/[^a-z'-]/g, ''); if (!clean || !spellingWords.has(clean)) { const s = document.createElement('span'); s.className = 'plain'; s.textContent = t + ' '; container.appendChild(s); return; } const k = `${clean}_${i}`; const s = document.createElement('span'); s.className = 'word'; s.textContent = t; applyState(s, k); s.onclick = () => { if (state[k] === -1) return; state[k] = (state[k] || 0) + 1; if (state[k] > 9) state[k] = 9; applyState(s, k); save() }; s.ondblclick = e => { e.preventDefault(); if (state[k] === -1) delete state[k]; else state[k] = -1; applyState(s, k); save() }; container.appendChild(s); container.appendChild(document.createTextNode(' ')) }); updateStats();
+    </script>
+</body>
+
+</html>
