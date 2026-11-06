@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Aladdin and the Magic Lamp</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+    margin: 0;
+    padding: 0.75rem;
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-size: 2rem;
+    line-height: 2;
+    color: #333;
+    background: #fffef8;
+}
+h2 {
+    margin: 0 0 1rem 0;
+    color: #2c3e50;
+    font-size: clamp(2rem, 6vw, 2.8rem);
+}
+#stats {
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    color: #666;
+}
+#story {
+    max-width: 1000px;
+}
+.word {
+    display: inline-block;
+    margin: 0.1rem;
+    border-radius: 8px;
+    cursor: pointer;
+    user-select: none;
+    background: #fff59d;
+    border: 1px solid #e6d65a;
+    min-height: 2.2rem;
+}
+.word:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(0,0,0,.12);
+}
+.word.mastered {
+    background: #43a047 !important;
+    border-color: #43a047;
+    color: white;
+    font-weight: bold;
+}
+.plain {
+    margin-right: 0.15rem;
+}
+#moral {
+    margin-top: 2rem;
+    padding: 1rem;
+    background: #e8f5e9;
+    border-left: 6px solid #43a047;
+    font-size: 1.6rem;
+    line-height: 1.8;
+}
+@media (max-width: 600px) {
+    body {
+        font-size: 1.8rem;
+        line-height: 2.1;
+    }
+    #stats {
+        font-size: 1.2rem;
+    }
+}
+</style>
+</head>
+<body>
+
+<h2>Aladdin and the Magic Lamp</h2>
+
+<div id="stats"></div>
+<div id="story"></div>
+
+<div id="moral">
+    <strong>Moral:</strong> Honesty, patience, and hard work bring lasting happiness. Greed and deceit eventually lead to failure.
+</div>
+
+<script>
+const story = `
+Long ago in Arabia, there lived a poor young boy named Aladdin. He lived with his mother and their pet monkey in a small village.
+
+One day, a man claiming to be Aladdin's long-lost uncle visited them. Seeing their poverty, he offered to take Aladdin with him to learn a trade and earn money. He even gave Aladdin's mother a piece of gold to support herself while Aladdin was away.
+
+Trusting him, Aladdin left with his uncle the next morning.
+
+After traveling for several days, they arrived at a lonely place filled with caves and rocky hills.
+
+"Under that tree is a large stone with a ring attached to it," said the uncle. "Lift it."
+
+Aladdin struggled but finally managed to move the stone. Beneath it was a hidden staircase leading deep underground.
+
+Before sending him down, the uncle gave Aladdin a ring.
+
+"Wear this magical ring. It will protect you."
+
+Aladdin descended the stairs and entered a vast cave filled with treasure, gold, and jewels.
+
+His uncle called down, "Collect as many precious items as you can and bring them out."
+
+As Aladdin gathered treasure, he noticed an old dusty lamp. Though it looked worthless, he took it with him.
+
+When he returned to the opening, he called for help.
+
+"Please pull me out first."
+
+But the uncle demanded the treasures before helping him.
+
+As soon as he received them, the uncle revealed his true intentions.
+
+"I never intended to help you. Only a young boy could enter this cave. I have what I wanted."
+
+He sealed the entrance, trapping Aladdin inside.
+
+Aladdin was frightened but did not lose hope. As he prayed for help, he accidentally rubbed the magical ring.
+
+Suddenly, a spirit appeared.
+
+"I am the servant of the ring. What is your command, Master?"
+
+"Please take me home to my mother."
+
+In an instant, Aladdin found himself safely back home.
+
+When Aladdin told his mother everything, she was shocked by the betrayal.
+
+The next day, while cleaning the old lamp before selling it, Aladdin rubbed its surface.
+
+A powerful genie appeared.
+
+"I am the Genie of the Lamp. What is your command?"
+
+Aladdin asked for food because he and his mother were starving.
+
+Immediately, delicious food appeared on fine silver plates.
+
+To survive, Aladdin and his mother sold the silver plates one by one. Over time, Aladdin learned business and became a successful merchant. Although he possessed a magical lamp, he rarely used it and lived a modest life.
+
+Years later, Aladdin saw the princess and fell in love with her.
+
+He approached the king and asked for permission to marry her. Impressed by Aladdin's honesty and character, the king agreed.
+
+Aladdin married the princess, and they lived happily together.
+
+But news of Aladdin's good fortune eventually reached the evil uncle.
+
+Realizing that Aladdin possessed the magical lamp, the uncle plotted revenge.
+
+One day, while Aladdin was away, the uncle stole the lamp and ordered the genie to transport Aladdin's palace to a distant desert.
+
+When the princess discovered what had happened, she pretended to obey the uncle. Secretly, she mixed a sleeping potion into his drink.
+
+After the uncle fell asleep, she took the lamp and summoned the genie.
+
+"Find Aladdin and bring him here."
+
+The genie obeyed.
+
+When Aladdin arrived, he understood everything immediately. Together, he and the princess recovered the lamp and defeated the wicked uncle.
+
+Aladdin then ordered the genie to return the palace to its rightful place.
+
+From that day forward, Aladdin and the princess lived peacefully and happily for the rest of their lives.
+`;
+
+const spellingWords = new Set([
+"aladdin",
+"arabia",
+"village",
+"claiming",
+"poverty",
+"offered",
+"traveling",
+"lonely",
+"attached",
+"struggled",
+"beneath",
+"staircase",
+"magical",
+"descended",
+"treasure",
+"jewels",
+"precious",
+"noticed",
+"worthless",
+"demanded",
+"intentions",
+"entrance",
+"trapping",
+"frightened",
+"accidentally",
+"servant",
+"command",
+"betrayal",
+"cleaning",
+"surface",
+"powerful",
+"genie",
+"starving",
+"delicious",
+"merchant",
+"possessed",
+"modest",
+"princess",
+"permission",
+"honesty",
+"fortune",
+"eventually",
+"realizing",
+"revenge",
+"transport",
+"distant",
+"discovered",
+"pretended",
+"secretly",
+"sleeping",
+"potion",
+"summoned",
+"recovered",
+"defeated",
+"rightful",
+"peacefully"
+]);
+
+const storageKey = "spelling_" + location.pathname;
+
+const state = JSON.parse(
+    localStorage.getItem(storageKey) || "{}"
+);
+
+function save() {
+    localStorage.setItem(
+        storageKey,
+        JSON.stringify(state)
+    );
+    updateStats();
+}
+
+function updateStats() {
+    const total = spellingWords.size;
+
+    const mastered = Object.values(state)
+        .filter(v => v === -1)
+        .length;
+
+    document.getElementById("stats").innerHTML =
+        `✅ Mastered: ${mastered} / ${total}`;
+}
+
+function getRedColor(count) {
+    const c = Math.min(count, 9);
+    const lightness = 92 - ((c - 1) * 6);
+    return `hsl(0, 85%, ${lightness}%)`;
+}
+
+function applyState(el, wordKey) {
+    const value = state[wordKey] || 0;
+
+    if (value === -1) {
+        el.classList.add("mastered");
+        el.title = "Mastered";
+    } else {
+        el.classList.remove("mastered");
+
+        if (value > 0) {
+            el.style.backgroundColor =
+                getRedColor(value);
+            el.title =
+                `Missed ${value} time(s)`;
+        } else {
+            el.style.backgroundColor =
+                "#fff59d";
+            el.title =
+                "Not tested yet";
+        }
+    }
+}
+
+const container =
+    document.getElementById("story");
+
+story.split(/\s+/).forEach(
+    (token, index) => {
+
+    const clean = token
+        .toLowerCase()
+        .replace(/[^a-z'-]/g, "");
+
+    if (
+        !clean ||
+        !spellingWords.has(clean)
+    ) {
+        const span =
+            document.createElement("span");
+
+        span.className = "plain";
+        span.textContent =
+            token + " ";
+
+        container.appendChild(span);
+        return;
+    }
+
+    const wordKey =
+        `${clean}_${index}`;
+
+    const span =
+        document.createElement("span");
+
+    span.className = "word";
+    span.textContent = token;
+
+    applyState(span, wordKey);
+
+    span.addEventListener(
+        "click",
+        () => {
+
+        if (state[wordKey] === -1) {
+            return;
+        }
+
+        state[wordKey] =
+            (state[wordKey] || 0) + 1;
+
+        if (state[wordKey] > 9) {
+            state[wordKey] = 9;
+        }
+
+        applyState(span, wordKey);
+        save();
+    });
+
+    span.addEventListener(
+        "dblclick",
+        (e) => {
+
+        e.preventDefault();
+
+        if (state[wordKey] === -1) {
+            delete state[wordKey];
+        } else {
+            state[wordKey] = -1;
+        }
+
+        applyState(span, wordKey);
+        save();
+    });
+
+    container.appendChild(span);
+    container.appendChild(
+        document.createTextNode(" ")
+    );
+});
+
+updateStats();
+</script>
+
+</body>
+</html>
