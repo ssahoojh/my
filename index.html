@@ -63,17 +63,52 @@
         font-weight: bold;
         color: #4caf50;
     }
+    #menuButton {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    font-size: 30px;
+    user-select: none;
+    z-index: 1001;
+}
+
+#menu {
+    position: fixed;
+    top: 50px;
+    right: 10px;
+    display: none;
+    background: white;
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 10px rgba(0,0,0,.2);
+    min-width: 220px;
+    z-index: 1000;
+}
+
+#menu a {
+    display: block;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: black;
+}
+
+#menu a:hover {
+    background: #f0f0f0;
+}
 </style>
 </head>
 
 <body>
-<a href="https://onedrive.live.com/?id=%2Fpersonal%2Fd636d364ad7458b0%2FDocuments%2FImages%2DJayWriting%2FDay1&viewid=5e7122ea%2Db889%2D455f%2D82fd%2D838b19f433c1&sharingv2=true&at=9&fromShare=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy9kNjM2ZDM2NGFkNzQ1OGIwL0lnQ3VabzBlamdmSVM2RnBPTGtMZS1vQ0FSbmExSURHQ0ZZazFyQTMzYngzMlNjP2U9NTo5YjlkZmM5NjAyNGY0NTlkODI0OWE3MjkxYjQxZjRlYyZzaGFyaW5ndjI9dHJ1ZSZmcm9tU2hhcmU9dHJ1ZSZhdD05&ga=1">Images for Jay</a>
-<a href="LazyHorse.html">Lazy Horse</a>
-<a href="Alice_in_Wonderland.htm">Alice_in_Wonderland</a>
-<a href="AladdinMagicLamp.html">Aladdin Magic Lamp</a>
+<div id="menuButton">☰</div>
+<div id="menu">
+    <a href="https://onedrive.live.com/?id=%2Fpersonal%2Fd636d364ad7458b0%2FDocuments%2FImages%2DJayWriting%2FDay1&viewid=5e7122ea%2Db889%2D455f%2D82fd%2D838b19f433c1&sharingv2=true&at=9&fromShare=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy9kNjM2ZDM2NGFkNzQ1OGIwL0lnQ3VabzBlamdmSVM2RnBPTGtMZS1vQ0FSbmExSURHQ0ZZazFyQTMzYngzMlNjP2U9NTo5YjlkZmM5NjAyNGY0NTlkODI0OWE3MjkxYjQxZjRlYyZzaGFyaW5ndjI9dHJ1ZSZmcm9tU2hhcmU9dHJ1ZSZhdD05&ga=1">Images for Jay</a>
+    <a href="LazyHorse.html">Lazy Horse</a>
+    <a href="Alice_in_Wonderland.htm">Alice_in_Wonderland</a>
+    <a href="AladdinMagicLamp.html">Aladdin Magic Lamp</a>
     <a href="TheSelfishGiant.html">The Selfish Giant</a>
     <a href="multi.html">Times Table</a>
-     <a href="clock.html">Clock</a>
+    <a href="clock.html">Clock</a>
+</div>
 <div class="container">
 
     <h1>🌟 Jay's Daily Schedule 🌟</h1>
@@ -217,6 +252,19 @@
     </div>
 
 </div>
+<script>
+const btn = document.getElementById("menuButton");
+const menu = document.getElementById("menu");
 
+btn.onclick = function (e) {
+    e.stopPropagation();
+    menu.style.display =
+        menu.style.display === "block" ? "none" : "block";
+};
+
+document.addEventListener("click", function () {
+    menu.style.display = "none";
+});
+</script>
 </body>
 </html>
