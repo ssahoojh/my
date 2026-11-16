@@ -157,23 +157,7 @@ function initializeStorage() {
     if (localStorage.getItem(STORAGE_KEY))
         return;
 
-    const defaultTimes = [
-        "1:05",
-        "2:30",
-        "3:45",
-        "4:15",
-        "5:00",
-        "6:30",
-        "7:20",
-        "8:10",
-        "9:55",
-        "10:40"
-    ];
-
-    localStorage.setItem(
-        STORAGE_KEY,
-        defaultTimes.join(",")
-    );
+    localStorage.setItem(STORAGE_KEY,"1:05,2:15,3:25,4:35,5:45,6:55,7:10,8:20,9:30,10:40,11:50,12:05,1:15,2:25,3:35,4:45,5:55,6:10,7:20,8:35");
 }
 
 function saveTimes() {
