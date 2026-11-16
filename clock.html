@@ -6,129 +6,132 @@
 <title>Om Time Practice</title>
 
 <style>
-    * {
-        box-sizing: border-box;
-    }
+* {
+    box-sizing: border-box;
+}
 
-    body {
-        font-family: Arial, sans-serif;
-        margin: 10px;
-        background: #f5f5f5;
-    }
+body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    background: #f5f5f5;
+}
 
-    h1 {
-        text-align: center;
-        margin: 10px 0;
-    }
+h1 {
+    text-align: center;
+    margin: 10px 0 20px;
+}
 
-    .editor {
-        margin-bottom: 20px;
-    }
+.editor {
+    margin-bottom: 20px;
+}
 
-    textarea {
-        width: 100%;
-        min-height: 80px;
-        font-size: 1rem;
-        padding: 10px;
-    }
+textarea {
+    width: 100%;
+    min-height: 90px;
+    padding: 10px;
+    font-size: 18px;
+}
 
-    button {
-        padding: 10px 16px;
-        font-size: 1rem;
-        margin-top: 8px;
-        cursor: pointer;
-    }
+button {
+    padding: 10px 18px;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+}
 
-    .help {
-        margin-top: 5px;
-        color: #666;
-        font-size: .9rem;
-    }
+.help {
+    margin-top: 8px;
+    color: #666;
+}
 
-    .clocks {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 20px;
-        justify-content: center;
-    }
+.clocks {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
 
-    .clock-card {
-        background: white;
-        border-radius: 8px;
-        padding: 10px;
-        box-shadow: 0 1px 4px rgba(0,0,0,.15);
-    }
+.clock-card {
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,.15);
+}
 
-    .answer-box {
-        width: 100%;
-        margin-top: 10px;
-        font-size: 1.25rem;
-        text-align: center;
-        padding: 6px;
-    }
+.clock {
+    position: relative;
+    width: 220px;
+    height: 220px;
+    border: 5px solid #000;
+    border-radius: 50%;
+    background: white;
+}
+
+.number {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    font-size: 28px;
+    user-select: none;
+}
+
+.hand {
+    position: absolute;
+    left: 50%;
+    bottom: 50%;
+    transform-origin: bottom center;
+}
+
+.hour-hand {
+    width: 8px;
+    height: 28%;
+    background: #333;
+    margin-left: -4px;
+    border-radius: 4px;
+}
+
+.minute-hand {
+    width: 4px;
+    height: 40%;
+    background: #0078d4;
+    margin-left: -2px;
+    border-radius: 2px;
+}
+
+.center {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background: red;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.answer-box {
+    width: 100%;
+    margin-top: 10px;
+    padding: 8px;
+    font-size: 28px;
+    text-align: center;
+}
+
+@media (max-width: 600px) {
 
     .clock {
-        position: relative;
-        width: 220px;
-        aspect-ratio: 1;
-        border: 5px solid black;
-        border-radius: 50%;
-        background: white;
+        width: 170px;
+        height: 170px;
     }
 
     .number {
-        position: absolute;
-        transform: translate(-50%, -50%);
-        font-size: 1.5rem;
-        font-weight: bold;
-        width: 30px;
-        text-align: center;
-        user-select: none;
+        font-size: 20px;
     }
 
-    .hand {
-        position: absolute;
-        left: 50%;
-        bottom: 50%;
-        transform-origin: bottom center;
+    .answer-box {
+        font-size: 24px;
     }
-
-    .hour-hand {
-        width: 8px;
-        height: 28%;
-        background: #333;
-        margin-left: -4px;
-        border-radius: 4px;
-    }
-
-    .minute-hand {
-        width: 4px;
-        height: 40%;
-        background: #0078d4;
-        margin-left: -2px;
-        border-radius: 2px;
-    }
-
-    .center {
-        position: absolute;
-        width: 14px;
-        height: 14px;
-        background: red;
-        border-radius: 50%;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-    }
-
-    @media (max-width:600px) {
-        .clock {
-            width: 170px;
-        }
-
-        .number {
-            font-size: 1.2rem;
-        }
-    }
+}
 </style>
 </head>
 <body>
@@ -141,8 +144,7 @@
     <button onclick="saveTimes()">Save Times</button>
 
     <div class="help">
-        Comma separated times. Example:
-        1:05,12:15,10:00,6:30
+        Example: 1:05,2:15,3:25,4:35
     </div>
 </div>
 
@@ -157,11 +159,13 @@ function initializeStorage() {
     if (localStorage.getItem(STORAGE_KEY))
         return;
 
-    localStorage.setItem(STORAGE_KEY,"1:05,2:15,3:25,4:35,5:45,6:55,7:10,8:20,9:30,10:40,11:50,12:05,1:15,2:25,3:35,4:45,5:55,6:10,7:20,8:35");
+    localStorage.setItem(
+        STORAGE_KEY,
+        "1:05,2:15,3:25,4:35,5:45,6:55,7:10,8:20,9:30,10:40,11:50,12:05,1:15,2:25,3:35,4:45,5:55,6:10,7:20,8:35"
+    );
 }
 
 function saveTimes() {
-
     localStorage.setItem(
         STORAGE_KEY,
         document.getElementById("timesText").value
@@ -172,10 +176,13 @@ function saveTimes() {
 
 function createClock(timeText) {
 
-    const [hourStr, minuteStr] = timeText.trim().split(":");
+    const parts = timeText.trim().split(":");
 
-    const hour = parseInt(hourStr);
-    const minute = parseInt(minuteStr);
+    if (parts.length !== 2)
+        return null;
+
+    const hour = parseInt(parts[0], 10);
+    const minute = parseInt(parts[1], 10);
 
     if (isNaN(hour) || isNaN(minute))
         return null;
@@ -186,25 +193,21 @@ function createClock(timeText) {
     const clock = document.createElement("div");
     clock.className = "clock";
 
-    const size = 220;
-    const center = size / 2;
-    const radius = size * 0.38;
-
     for (let n = 1; n <= 12; n++) {
-
-        const num = document.createElement("div");
-        num.className = "number";
-        num.textContent = n;
 
         const angle = (n - 3) * 30 * Math.PI / 180;
 
-        num.style.left =
-            center + radius * Math.cos(angle) + "px";
+        const number = document.createElement("div");
+        number.className = "number";
+        number.textContent = n;
 
-        num.style.top =
-            center + radius * Math.sin(angle) + "px";
+        number.style.left =
+            (50 + Math.cos(angle) * 38) + "%";
 
-        clock.appendChild(num);
+        number.style.top =
+            (50 + Math.sin(angle) * 38) + "%";
+
+        clock.appendChild(number);
     }
 
     const hourHand = document.createElement("div");
@@ -231,20 +234,21 @@ function createClock(timeText) {
 
     card.appendChild(clock);
 
-    const answer = document.createElement("input");
-    answer.className = "answer-box";
-    answer.placeholder = "What time?";
-    card.appendChild(answer);
+    const answerBox = document.createElement("input");
+    answerBox.className = "answer-box";
+    answerBox.placeholder = "What time?";
+
+    card.appendChild(answerBox);
 
     return card;
 }
 
 function renderClocks() {
 
-    const clocksDiv =
+    const clocksContainer =
         document.getElementById("clocks");
 
-    clocksDiv.innerHTML = "";
+    clocksContainer.innerHTML = "";
 
     const data =
         localStorage.getItem(STORAGE_KEY) || "";
@@ -252,17 +256,17 @@ function renderClocks() {
     document.getElementById("timesText").value =
         data;
 
-    const times =
-        data.split(",")
-            .map(x => x.trim())
-            .filter(Boolean);
+    const times = data
+        .split(",")
+        .map(t => t.trim())
+        .filter(t => t.length > 0);
 
     times.forEach(time => {
 
         const clock = createClock(time);
 
         if (clock)
-            clocksDiv.appendChild(clock);
+            clocksContainer.appendChild(clock);
     });
 }
 
