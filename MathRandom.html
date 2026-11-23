@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Math Story Problems for Om</title>
+
+<style>
+    *{
+        box-sizing:border-box;
+        font-family:Arial, sans-serif;
+    }
+
+    body{
+        margin:0;
+        background:#f4f6f8;
+        padding:20px;
+    }
+
+    .container{
+        max-width:1000px;
+        margin:auto;
+    }
+
+    h1{
+        text-align:center;
+    }
+
+    .controls{
+        background:white;
+        padding:15px;
+        border-radius:10px;
+        margin-bottom:20px;
+        box-shadow:0 2px 6px rgba(0,0,0,.1);
+    }
+
+    button{
+        padding:10px 18px;
+        font-size:16px;
+        cursor:pointer;
+        margin-right:10px;
+    }
+
+    .question{
+        background:white;
+        padding:16px;
+        margin-bottom:12px;
+        border-radius:10px;
+        box-shadow:0 1px 4px rgba(0,0,0,.08);
+        font-size:20px;
+        line-height:1.5;
+    }
+
+    .answer{
+        margin-top:10px;
+        color:green;
+        font-weight:bold;
+        display:none;
+    }
+
+    .show .answer{
+        display:block;
+    }
+
+    @media(max-width:700px){
+        .question{
+            font-size:18px;
+        }
+    }
+</style>
+</head>
+<body>
+
+<div class="container">
+
+    <h1>Math Story Problems for Om</h1>
+
+    <div class="controls">
+        <button onclick="generateQuestions()">
+            Generate New Questions
+        </button>
+
+        <button onclick="toggleAnswers()">
+            Show / Hide Answers
+        </button>
+    </div>
+
+    <div id="questions"></div>
+
+</div>
+
+<script>
+
+let answersVisible = false;
+
+function rand(min,max){
+    return Math.floor(Math.random()*(max-min+1))+min;
+}
+
+function generateQuestions(){
+
+    const list=[];
+
+    // 10 multiplication questions
+    for(let i=0;i<10;i++){
+
+        const item = ["chocolate","apple","cookie","toy car","book","pencil"][rand(0,5)];
+        const cost = rand(2,9);
+        const qty = rand(2,12);
+
+        list.push({
+            q:`One ${item} costs $${cost}. How much will ${qty} ${item}s cost?`,
+            a:`$${cost*qty}`
+        });
+    }
+
+    // 10 subtraction / money left questions
+    for(let i=0;i<10;i++){
+
+        const money=rand(10,50);
+        const cost=rand(2,6);
+        const qty=rand(1,5);
+
+        list.push({
+            q:`You have $${money}. You buy ${qty} chocolates at $${cost} each. How much money do you have left?`,
+            a:`$${money-(cost*qty)}`
+        });
+    }
+
+    // 10 age/logic questions
+    for(let i=0;i<10;i++){
+
+        const brother=rand(3,12);
+        const diff=rand(1,4);
+        const yours=(brother*2)-diff;
+
+        list.push({
+            q:`Your age is double your brother's age minus ${diff}. You are ${yours} years old. How old is your brother?`,
+            a:`${brother} years`
+        });
+    }
+
+    // Shuffle
+    for(let i=list.length-1;i>0;i--){
+        const j=Math.floor(Math.random()*(i+1));
+        [list[i],list[j]]=[list[j],list[i]];
+    }
+
+    const container=document.getElementById("questions");
+    container.innerHTML="";
+
+    list.forEach((x,index)=>{
+
+        const div=document.createElement("div");
+        div.className="question";
+
+        if(answersVisible)
+            div.classList.add("show");
+
+        div.innerHTML=`
+            <strong>Q${index+1}.</strong>
+            ${x.q}
+            <div class="answer">Answer: ${x.a}</div>
+        `;
+
+        container.appendChild(div);
+    });
+}
+
+function toggleAnswers(){
+
+    answersVisible=!answersVisible;
+
+    document
+        .querySelectorAll(".question")
+        .forEach(x=>x.classList.toggle("show"));
+}
+
+generateQuestions();
+
+</script>
+
+</body>
+</html>
