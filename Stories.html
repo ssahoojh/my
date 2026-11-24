@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Story Viewer</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 16px;
+            background: #f5f5f5;
+            color: #333;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, .08);
+        }
+
+        h1 {
+            margin-top: 24px;
+            margin-bottom: 16px;
+            font-size: 1.8rem;
+            line-height: 1.2;
+        }
+
+        select {
+            width: 100%;
+            padding: 12px;
+            font-size: 16px;
+            /* prevents zoom on iPhone */
+            border: 1px solid #ccc;
+            border-radius: 8px;
+        }
+
+        #script {
+            margin-top: 16px;
+        }
+
+        #script p {
+            line-height: 1.8;
+            margin: 0 0 16px;
+            font-size: 1rem;
+        }
+
+        @media (max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+
+            .container {
+                padding: 16px;
+                border-radius: 0;
+            }
+
+            h1 {
+                font-size: 1.4rem;
+            }
+
+            #script p {
+                font-size: 1.5rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h2>Select Story</h2>
+
+        <select id="storySelect">
+            <option value="">-- Select a Story --</option>
+        </select>
+
+        <h1 id="title"></h1>
+
+        <div id="script"></div>
+
+    </div>
+
+    <script>
+        const stories = [
+            {
+                title: "The Sun Moon and Wind",
+                name: "TheSunMoonAndWind",
+                script: [
+                    "Once upon a time, the Sun, the Moon, and the Wind went out for dinner with their uncle and aunt, Thunder and Lightning.",
+                    "Their mother, the Star, waited for them at home.",
+                    "\"Children, you can order whatever you like.\"",
+                    "\"Oh wow, thanks, Uncle! I am going to try a bit of everything.\"",
+                    "And so the children had a delicious meal of countless dishes and desserts. None of them thought of saving anything for their mother except the Moon. From every dish that was served, she hid a little piece in her hand to take home to her mother.",
+                    "When they reached home, Mother asked how their dinner was.",
+                    "\"Did you have a good time, children?\"",
+                    "\"Yes, Mother. The dinner was just lovely.\"",
+                    "\"Oh, was it? Did you get some for me?\"",
+                    "\"Mother, I had gone to enjoy myself, not to get you dinner. Therefore, I didn't bring anything for you.\"",
+                    "\"Wind, did you get me any dinner?\"",
+                    "\"I had gone to enjoy a dinner out, Mother. I didn't go to get you a dinner parcel. I didn't get you anything.\"",
+                    "\"Moon, did you remember to get anything for me?\"",
+                    "\"Yes, Mother, I did.\"",
+                    "And she shook her hands, and the choicest dishes showered down from them.",
+                    "\"Sun, you went out for your selfish pleasures and completely forgot about your mother at home. Hence, you will forever be cursed. Your rays will always be hot and burn everything that comes near you. Men will hide themselves from your presence.\"",
+                    "\"Wind, you did not care for your mother. You decided to selfishly enjoy the dishes by yourself. Hence, you too will be cursed. You will always accompany the heat, and men will cover themselves in your presence.\"",
+                    "\"My dear Moon, because you thought of someone else besides yourself, you will always be cool and calm. There will be no mean heat or blinding light from you. People will always love you and call you blessed.\""
+                ]
+            },
+            {
+                title: "The Wind and The Sun",
+                name: "TheWindAndTheSun",
+                script: [
+                    "A long time ago, the Wind and the Sun were talking when the Wind said something strange to the Sun.",
+                    "\"You do know that I am more powerful than you, don't you?\"",
+                    "\"Don't be arrogant, my friend.\"",
+                    "But the Wind got offended. \"I am not being arrogant. I am being truthful.\"",
+                    "\"If you don't believe me, let's have a competition right now.\"",
+                    "The Sun did not want to compete with his friend, but the Wind left him with no choice.",
+                    "Reluctantly, he agreed.",
+                    "\"Okay, my friend. Let's have a competition.\"",
+                    "Just then, a young man was walking on the road below them. He was wearing a beautiful scarf and a handsome coat.",
+                    "\"See that man below? Whoever can get the scarf and coat off him wins.\"",
+                    "\"Okay, Wind. You go ahead first.\"",
+                    "And so the Wind blew at the man.",
+                    "The man's scarf moved a bit, and the front of his coat flapped slightly.",
+                    "\"I was just beginning. I will show the man some more of my power now.\"",
+                    "The Wind blew more strongly.",
+                    "The man's scarf and coat started flapping wildly in the wind.",
+                    "The Wind grew fiercer and blew even harder.",
+                    "The man's scarf almost came off, but he caught it and tied it securely around his neck.",
+                    "The Wind blew at the man with all his power and anger.",
+                    "But it only made the man wrap his scarf and coat around himself more tightly.",
+                    "He felt so cold from the Wind that he sat down by the roadside and wrapped his arms around himself.",
+                    "The Wind failed to get the man's scarf and coat off.",
+                    "\"I have still not lost. If my power and anger couldn't do the job, you surely won't be able to do it either.\"",
+                    "\"Let us see. I think you have frozen the poor man. Maybe he could use some warmth.\"",
+                    "And so the Sun gently smiled down at the man.",
+                    "Immediately, the man started feeling better. He straightened up, and color returned to his cheeks.",
+                    "He got up and started walking again.",
+                    "\"Is that it? Is that all you will do? Smile at him?\"",
+                    "The Sun ignored his friend and smiled at the man a little more.",
+                    "The man became more comfortable and walked even faster.",
+                    "\"Watch what happens now.\"",
+                    "The Sun gave the man an even bigger smile.",
+                    "As the Sun's smile grew brighter, the man started feeling warmer and warmer.",
+                    "Finally, he could take it no more and started sweating.",
+                    "Slowly, he took off his scarf.",
+                    "\"Oh no!\"",
+                    "At last, the Sun's warmth became so intense that the man took off his coat and threw it aside.",
+                    "The Sun had won the competition.",
+                    "\"I am sorry. I underestimated the effect of gentleness.\"",
+                    "\"I thought only power could make things happen in the world, but I was wrong.\"",
+                    "\"Oh, don't worry, my friend. Why don't you blow gently on him so his sweat can dry away?\"",
+                    "The Wind did so while the Sun continued to smile warmly.",
+                    "The man went on his way, enjoying a pleasant day."
+                ]
+            },
+            {
+                title: "The Selfish Giant",
+                name: "TheSelfishGiant",
+                script: [
+                    "Once upon a time, there was a beautiful garden.",
+                    "It had big trees laden with fruits and many flowers of different colors and fragrances.",
+                    "The grass was so soft that it felt like a cozy bed.",
+                    "Different birds sang beautiful melodies in the garden all day long.",
+                    "The children of the village loved playing in the garden. They would come there as soon as school was over and stay until evening.",
+                    "At the far end of the garden stood a big castle.",
+                    "People often said that the Giant who owned the garden used to live there, but it was empty now.",
+                    "Nobody knew what had happened to the Giant, and they thought he would never return.",
+                    "Then one day, the earth shook and loud thumping sounds filled the air.",
+                    "With each thump, the children were lifted off the ground and dropped back down again.",
+                    "\"Oh no! It's the Giant!\"",
+                    "\"It cannot be. Why has he returned after all these years?\"",
+                    "The Giant saw all the children in his garden and yelled loudly.",
+                    "\"What are these children doing here? This is my garden! Get out! Get out of here!\"",
+                    "The frightened children ran away.",
+                    "The Giant then built a large wall around the garden so that no one could ever enter it.",
+                    "The next day, the Giant went into the garden thinking he would pluck some fruits and flowers.",
+                    "But the trees were so sad without the children that they shed all their leaves and fruits and stood bare.",
+                    "Even the flowers that had blossomed became sad and went back into the ground.",
+                    "\"Oh, I feel so sad. I don't feel like dressing up with my leaves today.\"",
+                    "\"Yes, without the children, I don't want to come out either.\"",
+                    "\"I wish the Giant had never returned.\"",
+                    "\"Who will I sing for in this empty garden? I am leaving.\"",
+                    "As time went by, winter came and passed.",
+                    "When spring arrived, everything outside the garden became lush and green.",
+                    "The roadsides were filled with colorful flowers and green trees.",
+                    "Everyone wondered how beautiful the garden must look too.",
+                    "But because of the sadness inside the garden, spring never came there.",
+                    "The garden remained frozen.",
+                    "The only ones happy in the garden were Snow and Frost.",
+                    "With no spring to melt them, they became the masters of the garden.",
+                    "\"I will cover every tree in this garden so that it looks white.\"",
+                    "And so Snow covered every tree until all one could see was white.",
+                    "\"I am going to invite the North Wind to join us here.\"",
+                    "The icy North Wind swept over the garden.",
+                    "It knocked chimney pots off the castle and rattled its roof.",
+                    "Then the naughty Wind had another idea.",
+                    "\"My friends, let's invite Hail and claim this garden as ours forever.\"",
+                    "Soon Hail came down on the garden.",
+                    "All four of them worked together and caused havoc.",
+                    "Hail and Wind attacked the castle roof every day and damaged it piece by piece.",
+                    "One day, while the Giant was lying in bed, he heard beautiful music coming through his bedroom window.",
+                    "He thought perhaps the King's musicians were passing by the garden.",
+                    "He looked outside and saw a small bird sitting on the window ledge and singing.",
+                    "\"Has spring finally arrived?\"",
+                    "He looked farther into the garden.",
+                    "The icy wind had stopped blowing, the snow was melting, and the frost was disappearing.",
+                    "Hail was nowhere to be seen.",
+                    "Instead, he saw the most beautiful sight.",
+                    "The children had returned to the garden.",
+                    "Some children had found a hole in the wall and entered through it.",
+                    "They were climbing trees and happily playing on the grass.",
+                    "The trees were so happy that they covered themselves with green leaves.",
+                    "The flowers came out again, and the grass smiled gleefully.",
+                    "Even the birds were singing cheerful new songs.",
+                    "\"What I did was terrible. I was selfish.\"",
+                    "\"I should never have kept the children out of the garden.\"",
+                    "\"I will go and correct my mistake now.\"",
+                    "The Giant went outside and broke down the wall.",
+                    "\"From now on, this garden is your playground forever.\"",
+                    "The children were so happy that they hugged the Giant.",
+                    "From then on, the Giant played with the children every day.",
+                    "As time passed, the Giant grew very old and tired.",
+                    "He no longer played with the children and instead watched them from his window.",
+                    "One day, he saw a little boy crying.",
+                    "The Giant went to him and asked,",
+                    "\"What is the matter, little boy?\"",
+                    "The boy's hands were bleeding.",
+                    "This made the Giant very angry.",
+                    "\"Who has hurt you? Tell me his name, and I will punish him.\"",
+                    "The little boy calmed the Giant and said,",
+                    "\"Calm down, my friend. These are wounds of love.\"",
+                    "Then the boy took the Giant's hand and led him to the Garden of Paradise.",
+                    "After some time, the other children came to the place where the little boy had been.",
+                    "They found the Giant lying on the grass, covered with white flowers.",
+                    "He had died with a loving smile upon his face.",
+                    "The Giant was no longer selfish, and his kindness had finally brought him peace."
+                ]
+            },
+            {
+                title: "The Clever Rabbit",
+                name: "TheCleverRabbit",
+                script: [
+                    "Once upon a time, there was a fierce lion who lived in a forest.",
+                    "Every day, the lion hunted many animals and frightened everyone.",
+                    "The animals gathered together to find a solution.",
+                    "They decided that each day one animal would willingly go to the lion as his meal.",
+                    "The lion agreed to the plan because it saved him the trouble of hunting.",
+                    "For many days, one animal was sent to the lion each afternoon.",
+                    "One day, it was a small rabbit's turn.",
+                    "The rabbit was very clever and did not want to be eaten.",
+                    "He slowly made his way toward the lion's cave, arriving very late.",
+                    "The hungry lion roared in anger.",
+                    "\"Why are you so late?\" he demanded.",
+                    "The rabbit bowed and replied, \"Your Majesty, I was not alone. Several rabbits were sent for your meal.\"",
+                    "\"Then where are the others?\" asked the lion.",
+                    "\"Another lion stopped us on the way,\" said the rabbit.",
+                    "\"He claimed that he was the true king of the forest and ate all the other rabbits.\"",
+                    "The lion became furious.",
+                    "\"Take me to this lion immediately!\"",
+                    "The rabbit led the lion deep into the forest.",
+                    "At last they arrived at an old well filled with clear water.",
+                    "\"The other lion lives down there,\" said the rabbit.",
+                    "The lion looked into the well.",
+                    "There he saw his own reflection staring back at him.",
+                    "When he roared, the echo roared back.",
+                    "Believing it was a rival lion, he became even angrier.",
+                    "\"How dare he challenge me!\" shouted the lion.",
+                    "Without thinking, he jumped into the well to attack his enemy.",
+                    "The lion fell into the water and could not escape.",
+                    "The forest was finally free from the cruel lion.",
+                    "The rabbit returned and told the animals what had happened.",
+                    "All the animals cheered for the clever rabbit.",
+                    "They celebrated his bravery and intelligence.",
+                    "From that day on, the animals lived peacefully in the forest.",
+                    "The rabbit taught everyone that wisdom can be stronger than brute force."
+                ]
+            },
+            {
+                title: "The Honest Woodcutter",
+                name: "TheHonestWoodcutter",
+                script: [
+                    "Once upon a time, there lived a poor but honest woodcutter.",
+                    "Every day, he went into the forest to chop wood and sell it in the village.",
+                    "One morning, he was cutting a tree near a river.",
+                    "As he swung his axe, it slipped from his hands.",
+                    "Splash!",
+                    "The axe fell into the deep river and disappeared.",
+                    "\"Oh no!\" cried the woodcutter.",
+                    "\"That was my only axe. How will I earn my living now?\"",
+                    "He sat by the riverbank and began to weep.",
+                    "Hearing his cries, the River Goddess appeared from the water.",
+                    "\"Why are you so sad, good woodcutter?\" she asked.",
+                    "The woodcutter explained what had happened.",
+                    "The Goddess dived into the river and returned holding a golden axe.",
+                    "\"Is this your axe?\" she asked.",
+                    "\"No,\" replied the woodcutter. \"That is not mine.\"",
+                    "The Goddess smiled and disappeared beneath the water again.",
+                    "This time she returned with a silver axe.",
+                    "\"Is this your axe?\" she asked.",
+                    "\"No,\" said the woodcutter honestly. \"That is not mine either.\"",
+                    "The Goddess went into the river once more.",
+                    "When she returned, she held an old iron axe.",
+                    "\"Is this your axe?\" she asked.",
+                    "\"Yes! That is my axe!\" said the woodcutter happily.",
+                    "\"Thank you for finding it.\"",
+                    "The Goddess was pleased by his honesty.",
+                    "\"Because you told the truth and did not take what was not yours, I will reward you.\"",
+                    "She gave him the gold axe, the silver axe, and his own iron axe.",
+                    "The woodcutter thanked her again and again.",
+                    "He returned home and told everyone what had happened.",
+                    "The villagers praised him for his honesty.",
+                    "From that day on, the woodcutter lived happily and comfortably.",
+                    "He never forgot that honesty is always rewarded in the end."
+                ]
+            },
+            {
+                title: "The Monkey and the Crocodile",
+                name: "TheMonkeyAndTheCrocodile",
+                script: [
+                    "Once upon a time, a clever monkey lived on a jamun tree beside a river.",
+                    "The tree was full of sweet and juicy fruits.",
+                    "The monkey spent his days eating fruit, swinging from branch to branch, and enjoying the cool breeze.",
+                    "One day, a crocodile came to the riverbank and rested beneath the tree.",
+                    "\"Hello, Crocodile,\" said the monkey. \"You look tired. Would you like some fruit?\"",
+                    "\"Thank you,\" replied the crocodile.",
+                    "The monkey threw down some ripe jamuns.",
+                    "The crocodile loved them.",
+                    "From that day on, the monkey and the crocodile became friends.",
+                    "Every day, the monkey shared fruits with him.",
+                    "Sometimes the crocodile even took some home for his wife.",
+                    "One day, the crocodile's wife asked,",
+                    "\"Where do these delicious fruits come from?\"",
+                    "\"My friend the monkey gives them to me,\" said the crocodile.",
+                    "\"If he eats such sweet fruits every day, his heart must be very sweet too,\" she said.",
+                    "The crocodile was surprised.",
+                    "\"Why are you talking about his heart?\"",
+                    "\"Because I want to eat it,\" said his wife.",
+                    "\"I am sure it must be the sweetest heart in the world.\"",
+                    "\"That is terrible,\" replied the crocodile. \"The monkey is my friend.\"",
+                    "But his wife would not listen.",
+                    "Day after day, she insisted that he bring her the monkey's heart.",
+                    "At last, the crocodile sadly gave in.",
+                    "The next day, he visited the monkey.",
+                    "\"My friend,\" said the crocodile, \"my wife has heard so much about you. She would love to meet you.\"",
+                    "\"I would like that,\" said the monkey, \"but I cannot swim.\"",
+                    "\"Do not worry. Climb onto my back and I will carry you across the river.\"",
+                    "The monkey trusted his friend and climbed onto the crocodile's back.",
+                    "Together they started crossing the river.",
+                    "When they reached deep water, the crocodile slowed down.",
+                    "\"Monkey,\" he said sadly, \"I must tell you the truth.\"",
+                    "\"What truth?\" asked the monkey.",
+                    "\"My wife wants to eat your heart, and I am taking you to her.\"",
+                    "The monkey was shocked, but he quickly remained calm.",
+                    "He knew he had to think fast.",
+                    "\"Oh, Crocodile,\" said the monkey, \"why didn't you tell me earlier?\"",
+                    "\"What do you mean?\"",
+                    "\"I left my heart hanging on the jamun tree.\"",
+                    "\"You left your heart on the tree?\" asked the crocodile.",
+                    "\"Of course,\" replied the monkey. \"I never carry it around when I am playing among the branches.\"",
+                    "The foolish crocodile believed him.",
+                    "\"Then we must go back immediately and get it,\" he said.",
+                    "He turned around and swam back toward the riverbank.",
+                    "As soon as they reached the tree, the monkey leaped onto a branch.",
+                    "He climbed high into the tree where the crocodile could not reach him.",
+                    "\"Where is your heart?\" shouted the crocodile.",
+                    "The monkey laughed.",
+                    "\"You silly crocodile! Nobody can leave their heart hanging on a tree.\"",
+                    "\"You wanted to trick me and take my life.\"",
+                    "\"A true friend would never do that.\"",
+                    "The crocodile realized he had been fooled.",
+                    "He felt ashamed for betraying his friend.",
+                    "\"I am sorry,\" he said.",
+                    "\"You should be,\" replied the monkey. \"Friendship is built on trust.\"",
+                    "The crocodile swam away sadly.",
+                    "The monkey remained safely in his tree.",
+                    "From that day on, he was more careful about whom he trusted.",
+                    "And everyone remembered how wisdom and quick thinking saved the monkey's life."
+                ]
+            },
+            {
+                title: "The Emperor's New Clothes",
+                name: "TheEmperorsNewClothes",
+                script: [
+                    "Once upon a time, there was an emperor who loved beautiful clothes more than anything else.",
+                    "He spent all his money on fancy outfits.",
+                    "Every hour of the day, he changed into a different set of clothes.",
+                    "One day, two tricksters arrived in the kingdom.",
+                    "\"We are master weavers,\" they said.",
+                    "\"We can make magical clothes that are invisible to foolish people.\"",
+                    "The emperor was amazed.",
+                    "\"I must have these clothes at once!\"",
+                    "He paid the tricksters a chest full of gold.",
+                    "The tricksters pretended to work on empty looms all day long.",
+                    "But there was no cloth at all.",
+                    "After a few days, the emperor sent his oldest minister to check on the work.",
+                    "The minister looked at the empty loom.",
+                    "He could not see any cloth.",
+                    "\"Oh dear,\" he thought. \"Does this mean I am foolish?\"",
+                    "Not wanting to appear foolish, he smiled.",
+                    "\"Magnificent! What beautiful colors!\"",
+                    "The tricksters nodded seriously.",
+                    "\"We knew a wise man like you would appreciate our work.\"",
+                    "Soon everyone in the kingdom claimed they could see the magical clothes.",
+                    "Nobody wanted to admit they saw nothing.",
+                    "Finally, the big day arrived.",
+                    "\"Your Majesty, your new clothes are ready,\" said the tricksters.",
+                    "They pretended to help the emperor put on the invisible outfit.",
+                    "The emperor looked in the mirror.",
+                    "He couldn't see any clothes.",
+                    "\"Uh oh,\" he thought.",
+                    "But he too was afraid of looking foolish.",
+                    "\"Wonderful! Absolutely wonderful!\" he declared.",
+                    "A grand parade was organized.",
+                    "The emperor proudly marched through the city.",
+                    "People lined the streets.",
+                    "\"What amazing clothes!\" shouted one person.",
+                    "\"Such beautiful patterns!\" yelled another.",
+                    "Everyone kept pretending.",
+                    "Then a small boy sitting on his father's shoulders frowned.",
+                    "\"Dad,\" he said loudly.",
+                    "\"Why is the emperor walking around in his underwear?\"",
+                    "The street suddenly became silent.",
+                    "Then another child laughed.",
+                    "And another.",
+                    "Soon the whole crowd was laughing.",
+                    "\"He's not wearing anything!\" they shouted.",
+                    "The emperor realized that the little boy was telling the truth.",
+                    "He felt very embarrassed.",
+                    "But he continued walking because stopping would have been even more embarrassing.",
+                    "The tricksters had already escaped with all the gold.",
+                    "From that day on, the emperor learned an important lesson.",
+                    "He discovered that being honest is better than pretending to be right.",
+                    "And the little boy became famous for saying what everyone else was afraid to say."
+                ]
+            },
+            {
+                title: "The Magic Porridge Pot",
+                name: "TheMagicPorridgePot",
+                script: [
+                    "Once upon a time, a poor little girl lived with her mother.",
+                    "Sometimes they had very little food to eat.",
+                    "One day, while walking in the forest, the girl met a mysterious old woman.",
+                    "\"You look hungry,\" said the old woman.",
+                    "\"We are,\" said the girl.",
+                    "The old woman smiled and handed her a small clay pot.",
+                    "\"This is a magic porridge pot.\"",
+                    "\"When you say, 'Cook, little pot, cook,' it will make delicious porridge.\"",
+                    "\"And when you say, 'Stop, little pot, stop,' it will stop.\"",
+                    "\"Thank you!\" said the girl.",
+                    "The girl ran home and showed the pot to her mother.",
+                    "They decided to test it.",
+                    "\"Cook, little pot, cook!\"",
+                    "BLOOP! BLOOP! BLOOP!",
+                    "Warm porridge began filling the pot.",
+                    "\"It's working!\" shouted the mother.",
+                    "Soon they had enough porridge for dinner.",
+                    "\"Stop, little pot, stop!\"",
+                    "The pot stopped immediately.",
+                    "For many days, the magic pot fed them wonderful meals.",
+                    "Then one afternoon, the girl went out while her mother stayed home.",
+                    "Her mother became hungry and decided to use the magic pot.",
+                    "\"Cook, little pot, cook!\"",
+                    "BLOOP! BLOOP! BLOOP!",
+                    "The pot began making porridge.",
+                    "Soon the bowl was full.",
+                    "Then the table was full.",
+                    "Then another bowl was full.",
+                    "\"Oh dear,\" said her mother.",
+                    "She suddenly realized she had forgotten the words to make it stop.",
+                    "\"Enough, little pot!\"",
+                    "BLOOP! BLOOP! BLOOP!",
+                    "\"Quit, little pot!\"",
+                    "BLOOP! BLOOP! BLOOP!",
+                    "\"Pretty please stop!\"",
+                    "BLOOP! BLOOP! BLOOP!",
+                    "The porridge kept coming.",
+                    "It flowed off the table.",
+                    "It covered the chairs.",
+                    "SPLAT! PLOP! SPLISH!",
+                    "Soon the kitchen was buried in porridge.",
+                    "\"Help!\" cried the mother.",
+                    "The pot kept cooking.",
+                    "PLOOP! PLOOP! PLOOP!",
+                    "The porridge rolled through the front door.",
+                    "It filled the yard.",
+                    "It covered the fence.",
+                    "The neighbors opened their doors.",
+                    "\"Why is there porridge in my garden?\"",
+                    "\"Why is there porridge on my chicken?\"",
+                    "\"Why am I standing in porridge?\"",
+                    "The chickens ran around shouting,",
+                    "\"BOK! BOK! BOK! PORRIDGE! PORRIDGE!\"",
+                    "The town baker slipped.",
+                    "\"WHOOPS!\"",
+                    "The mayor slipped.",
+                    "\"WHEEEEEE!\"",
+                    "A goat ate so much porridge that it fell asleep standing up.",
+                    "\"Maaaaaaa... zzzzzz.\"",
+                    "The porridge reached the main street.",
+                    "People had to eat their way through town.",
+                    "At last, the little girl came home.",
+                    "\"Oh my,\" she said.",
+                    "She saw porridge everywhere.",
+                    "\"Cook, little pot, stop!\" shouted her mother.",
+                    "\"Those aren't the words,\" said the girl.",
+                    "She smiled and said,",
+                    "\"Stop, little pot, stop!\"",
+                    "Instantly the pot became quiet.",
+                    "The town was saved.",
+                    "Everyone spent the next week eating porridge for breakfast, lunch, and dinner.",
+                    "The baker invented porridge cookies.",
+                    "The mayor invented porridge pizza.",
+                    "Even the chickens refused to eat any more.",
+                    "From that day on, the girl's mother never forgot the magic words again.",
+                    "And whenever anyone in town saw a bowl of porridge, they laughed and remembered the Great Porridge Disaster."
+                ]
+            },
+            {
+    title: "The Fox and the Drum",
+    name: "TheFoxAndTheDrum",
+    script: [
+        "Once upon a time, a hungry fox wandered through a forest looking for food.",
+        "His stomach growled loudly.",
+        "\"GRRRRUMBLE!\"",
+        "\"Easy there,\" said the fox to his stomach. \"I'm trying my best.\"",
+        "The fox searched under bushes and behind trees, but he could not find anything to eat.",
+        "Suddenly he heard a strange sound.",
+        "\"BOOM! BOOM! BOOM!\"",
+        "The fox froze.",
+        "\"What was that?\"",
+        "\"BOOOOOM!\"",
+        "The sound echoed through the forest.",
+        "The fox's tail puffed up like a feather duster.",
+        "\"That must be a giant monster!\"",
+        "He hid behind a bush and peeked out.",
+        "\"BOOM! BOOM! BOOM!\"",
+        "\"Oh dear,\" said the fox. \"It sounds enormous.\"",
+        "A squirrel nearby rolled its eyes.",
+        "\"You think everything is enormous.\"",
+        "\"Last week you were scared of a pumpkin.\"",
+        "\"It was a very suspicious pumpkin,\" said the fox.",
+        "The noise continued.",
+        "\"BOOM! BOOM! BOOOOOM!\"",
+        "The fox decided to investigate.",
+        "He took one tiny step forward.",
+        "\"BOOM!\"",
+        "He took another tiny step.",
+        "\"BOOM!\"",
+        "\"I am being extremely brave,\" he whispered.",
+        "\"No, you are tiptoeing,\" said the squirrel.",
+        "Slowly the fox reached a clearing.",
+        "In the middle stood a large drum left behind by some travelers.",
+        "Branches from a nearby tree rubbed against it whenever the wind blew.",
+        "\"BOOM! BOOM!\"",
+        "\"Aha!\" said the fox.",
+        "\"So you are the monster!\"",
+        "The drum said nothing.",
+        "\"Good. Stay quiet.\"",
+        "The fox circled the drum.",
+        "\"It is very round.\"",
+        "\"And very noisy.\"",
+        "\"Maybe it is full of food!\"",
+        "The thought made him drool.",
+        "\"Imagine! Chickens! Cakes! Sausages!\"",
+        "\"Possibly even chicken-flavored cake!\"",
+        "The fox licked his lips.",
+        "He jumped on top of the drum.",
+        "\"BOOOOOONG!\"",
+        "The fox flew into the air in surprise.",
+        "\"WHOA!\"",
+        "He landed upside down in a bush.",
+        "\"I meant to do that,\" he said.",
+        "The squirrel laughed so hard it nearly fell out of its tree.",
+        "The fox climbed out and scratched the drum with his claws.",
+        "Then he bit a hole in it.",
+        "RIIIP!",
+        "\"Now I shall enjoy the feast inside.\"",
+        "He stuck his head into the drum.",
+        "Nothing.",
+        "He looked harder.",
+        "Still nothing.",
+        "Not a single crumb.",
+        "\"You mean I was scared of an empty drum?\"",
+        "The squirrel nodded.",
+        "\"For half the afternoon.\"",
+        "\"I don't want to talk about it,\" said the fox.",
+        "At that moment his stomach growled again.",
+        "\"GRRRRUMBLE!\"",
+        "\"See? Even my stomach is laughing at me.\"",
+        "The squirrel finally pointed toward a berry bush nearby.",
+        "\"Try looking there next time.\"",
+        "The fox happily ran over and found plenty to eat.",
+        "As he munched on berries, he learned an important lesson.",
+        "Things often seem much scarier from far away than they really are.",
+        "And whenever he later heard a loud noise, he checked before panicking.",
+        "Well... most of the time."
+    ]
+}
+        ];
+
+        const select = document.getElementById('storySelect');
+        const titleEl = document.getElementById('title');
+        const scriptEl = document.getElementById('script');
+
+        stories.forEach((story, i) => {
+            select.add(new Option(story.title, i));
+        });
+
+        select.addEventListener('change', () => {
+            const story = stories[select.value];
+
+            if (!story) {
+                titleEl.textContent = '';
+                scriptEl.innerHTML = '';
+                return;
+            }
+
+            titleEl.textContent = story.title;
+            renderStory(story);
+        });
+        let activeStory = null;
+
+        function getStorage() {
+            return JSON.parse(localStorage.getItem("spellingTracker") || "{}");
+        }
+
+        function saveStorage(data) {
+            localStorage.setItem("spellingTracker", JSON.stringify(data));
+        }
+
+        function getStoryData(storyName) {
+            const data = getStorage();
+            return data[storyName] || {};
+        }
+
+        function setWordState(storyName, word, state) {
+            const data = getStorage();
+
+            if (!data[storyName]) {
+                data[storyName] = {};
+            }
+
+            data[storyName][word] = state;
+
+            saveStorage(data);
+        }
+
+        function normalize(word) {
+            return word.toLowerCase().replace(/[^a-z]/gi, "");
+        }
+
+        function getColor(info) {
+            if (!info) return "";
+
+            if (info.state === "mastered") {
+                return "hsl(120,50%,85%)";
+            }
+
+            if (info.state === "tracked") {
+                return "hsl(55,100%,85%)";
+            }
+
+            const lightness = Math.max(85 - ((info.failures || 1) - 1) * 5, 50);
+
+            return `hsl(0,100%,${lightness}%)`;
+        }
+
+        function renderStory(story) {
+            activeStory = story;
+
+            const tracked = getStoryData(story.name);
+
+            const firstOccurrences = new Set();
+
+            scriptEl.innerHTML = story.script.map(paragraph => {
+
+                return paragraph.replace(/\b[\w']+\b/g, word => {
+
+                    const key = normalize(word);
+
+                    if (!key || key.length < 2) {
+                        return word;
+                    }
+
+                    // only first occurrence
+                    if (firstOccurrences.has(key)) {
+                        return word;
+                    }
+
+                    firstOccurrences.add(key);
+
+                    const info = tracked[key];
+                    const color = getColor(info);
+
+                    return `
+                <span
+                    class="spelling-word"
+                    data-word="${key}"
+                    style="${color ? `background:${color};padding:2px 4px;border-radius:4px;` : ''}"
+                >${word}</span>
+            `;
+                });
+
+            }).map(x => `<p>${x}</p>`).join("");
+
+            wireWordEvents();
+        }
+
+        function updateWordElement(word) {
+            const storyData = getStoryData(activeStory.name);
+            const info = storyData[word];
+
+            const el = document.querySelector(
+                `.spelling-word[data-word="${word}"]`
+            );
+
+            if (!el) return;
+
+            const color = getColor(info);
+
+            if (!color) {
+                el.style.background = "";
+                return;
+            }
+
+            el.style.background = color;
+            el.style.padding = "2px 4px";
+            el.style.borderRadius = "4px";
+        }
+
+        function wireWordEvents() {
+
+            const menu = document.getElementById("wordMenu");
+
+            let selectedWord = null;
+
+            document.querySelectorAll(".spelling-word").forEach(el => {
+
+                el.onclick = e => {
+
+                    selectedWord = el.dataset.word;
+
+                    menu.style.left = e.clientX + "px";
+                    menu.style.top = e.clientY + "px";
+                    menu.style.display = "block";
+
+                    e.stopPropagation();
+                };
+            });
+
+            menu.onclick = e => {
+
+                const action = e.target.dataset.action;
+
+                if (!action || !selectedWord)
+                    return;
+
+                if (action === "clear") {
+
+                    const data = getStorage();
+
+                    delete data[activeStory.name]?.[selectedWord];
+
+                    saveStorage(data);
+
+                } else if (action === "tracked") {
+
+                    setWordState(activeStory.name, selectedWord, {
+                        state: "tracked",
+                        failures: 0
+                    });
+
+                } else if (action === "mastered") {
+
+                    setWordState(activeStory.name, selectedWord, {
+                        state: "mastered",
+                        failures: 0
+                    });
+
+                } else if (action === "failed") {
+
+                    const storyData = getStoryData(activeStory.name);
+
+                    const failures =
+                        (storyData[selectedWord]?.failures || 0) + 1;
+
+                    setWordState(activeStory.name, selectedWord, {
+                        state: "failed",
+                        failures
+                    });
+                }
+
+                updateWordElement(selectedWord);
+
+                menu.style.display = "none";
+            };
+
+            document.addEventListener("click", () => {
+                menu.style.display = "none";
+            });
+        }
+
+    </script>
+    <div id="wordMenu" style="
+display:none;
+position:fixed;
+background:white;
+border:1px solid #ccc;
+border-radius:8px;
+box-shadow:0 2px 10px rgba(0,0,0,.2);
+z-index:9999;
+overflow:hidden;
+">
+        <div data-action="tracked">🟨 Start Learning</div>
+        <div data-action="failed">🟥 Missed It</div>
+        <div data-action="mastered">🟩 Mastered</div>
+        <div data-action="clear">❌ Clear</div>
+    </div>
+
+    <style>
+        #wordMenu div {
+            padding: 10px 16px;
+            cursor: pointer;
+            white-space: nowrap;
+        }
+
+        #wordMenu div:hover {
+            background: #f5f5f5;
+        }
+    </style>
+</body>
+
+</html>
