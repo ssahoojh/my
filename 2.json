@@ -1,0 +1,35 @@
+﻿{
+  "id": 2,
+  "questions": [
+    {
+      "id": 1,
+      "question": "345 + 678 = ?",
+      "options": ["1013", "1023", "1033", "1043"],
+      "answer": "1023"
+    },
+    {
+      "id": 2,
+      "question": "1200 - 485 = ?",
+      "options": ["705", "715", "725", "735"],
+      "answer": "715"
+    },
+    {
+      "id": 3,
+      "question": "96 ÷ 8 = ?",
+      "options": ["10", "11", "12", "13"],
+      "answer": "12"
+    },
+    {
+      "id": 4,
+      "question": "A toy costs $7. You have $50. How many toys can you buy?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "id": 5,
+      "question": "A toy costs $7. You have $50. You buy 4 toys. How many dollars are left?",
+      "options": ["$20", "$21", "$22", "$23"],
+      "answer": "$22"
+    }
+  ]
+}

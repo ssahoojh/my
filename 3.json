@@ -1,0 +1,35 @@
+﻿{
+  "id": 3,
+  "questions": [
+    {
+      "id": 1,
+      "question": "125 × 12 = ?",
+      "options": ["1400", "1450", "1500", "1550"],
+      "answer": "1500"
+    },
+    {
+      "id": 2,
+      "question": "3500 - 1789 = ?",
+      "options": ["1711", "1721", "1731", "1741"],
+      "answer": "1711"
+    },
+    {
+      "id": 3,
+      "question": "144 ÷ 12 = ?",
+      "options": ["10", "11", "12", "13"],
+      "answer": "12"
+    },
+    {
+      "id": 4,
+      "question": "A notebook costs $3. You have $50. After buying 12 notebooks, how much money is left?",
+      "options": ["$12", "$14", "$16", "$18"],
+      "answer": "$14"
+    },
+    {
+      "id": 5,
+      "question": "A box has 8 rows of 9 apples. How many apples are there?",
+      "options": ["62", "72", "82", "92"],
+      "answer": "72"
+    }
+  ]
+}
