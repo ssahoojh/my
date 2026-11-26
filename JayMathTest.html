@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Jay Math Test</title>
+
+<style>
+:root{
+    --green:#2e7d32;
+    --red:#c62828;
+    --blue:#1976d2;
+    --light:#f5f5f5;
+}
+
+*{
+    box-sizing:border-box;
+}
+
+body{
+    margin:0;
+    padding:1rem;
+    font-family:Arial,sans-serif;
+    background:var(--light);
+    font-size:1.5rem;
+}
+
+.top{
+    position:sticky;
+    top:0;
+    background:white;
+    padding:1rem;
+    border-radius:12px;
+    margin-bottom:1rem;
+    box-shadow:0 2px 6px rgba(0,0,0,.15);
+    z-index:10;
+}
+
+.stats{
+    margin-top:.5rem;
+    font-weight:bold;
+}
+
+select{
+    width:100%;
+    padding:1rem;
+    font-size:1.5rem;
+}
+
+.question{
+    background:white;
+    padding:1rem;
+    margin-bottom:1rem;
+    border-radius:12px;
+    box-shadow:0 2px 6px rgba(0,0,0,.1);
+}
+
+.qtitle{
+    font-weight:bold;
+    margin-bottom:1rem;
+}
+
+.option{
+    display:block;
+    width:100%;
+    padding:1rem;
+    margin:.5rem 0;
+    border:2px solid #ccc;
+    border-radius:10px;
+    background:white;
+    font-size:1.5rem;
+    cursor:pointer;
+}
+
+.option.correct{
+    background:#c8e6c9;
+    border-color:var(--green);
+    color:var(--green);
+    font-weight:bold;
+}
+
+.option.wrong{
+    background:#ffcdd2;
+    border-color:var(--red);
+    color:var(--red);
+    font-weight:bold;
+}
+
+.option.disabled{
+    pointer-events:none;
+}
+
+@media (max-width:600px){
+    body{
+        padding:.5rem;
+    }
+
+    .option,
+    select{
+        font-size:1.5rem;
+    }
+}
+</style>
+</head>
+<body>
+
+<div class="top">
+    <select id="testSelect"></select>
+
+    <div class="stats">
+        Current Test:
+        <span id="currentScore">0/0</span>
+    </div>
+
+    <div class="stats">
+        Total Score:
+        <span id="totalScore">0/0</span>
+    </div>
+</div>
+
+<div id="questions"></div>
+
+<script>
+
+const BASE_URL =
+'https://ssahoojh.github.io/my/json/test/math/';
+
+const TEST_COUNT = 5;
+
+let currentTest;
+let currentData;
+
+function getStorage()
+{
+    return JSON.parse(
+        localStorage.getItem('jayMathProgress') || '{}'
+    );
+}
+
+function saveStorage(data)
+{
+    localStorage.setItem(
+        'jayMathProgress',
+        JSON.stringify(data)
+    );
+}
+
+async function loadTests()
+{
+    const select =
+        document.getElementById('testSelect');
+
+    for(let i=1;i<=TEST_COUNT;i++)
+    {
+        const option=document.createElement('option');
+        option.value=i;
+        option.textContent='Test '+i;
+        select.appendChild(option);
+    }
+
+    currentTest=1;
+
+    select.addEventListener('change',()=>{
+        currentTest=parseInt(select.value);
+        loadTest(currentTest);
+    });
+
+    await loadTest(1);
+}
+
+async function loadTest(id)
+{
+    const response=
+        await fetch(BASE_URL + id + '.json');
+
+    currentData=await response.json();
+
+    renderQuestions();
+    updateScores();
+}
+
+function renderQuestions()
+{
+    const container=
+        document.getElementById('questions');
+
+    const saved=getStorage();
+
+    container.innerHTML='';
+
+    currentData.questions.forEach(q=>{
+
+        const questionDiv=
+            document.createElement('div');
+
+        questionDiv.className='question';
+
+        let html=
+            `<div class="qtitle">${q.id}. ${q.question}</div>`;
+
+        q.options.forEach(option=>{
+
+            let cls='option';
+
+            const answer=
+                saved[currentData.id]?.[q.id];
+
+            if(answer)
+            {
+                cls+=' disabled';
+
+                if(option===answer)
+                {
+                    cls+=
+                    option===q.answer
+                    ? ' correct'
+                    : ' wrong';
+                }
+            }
+
+            html+=`
+            <button
+              class="${cls}"
+              onclick="answerQuestion(
+                ${currentData.id},
+                ${q.id},
+                '${option.replace(/'/g,"\\'")}',
+                '${q.answer.replace(/'/g,"\\'")}'
+              )">
+              ${option}
+            </button>`;
+        });
+
+        questionDiv.innerHTML=html;
+        container.appendChild(questionDiv);
+    });
+}
+
+function answerQuestion(
+    testId,
+    questionId,
+    selected,
+    correct)
+{
+    const data=getStorage();
+
+    data[testId]=data[testId]||{};
+
+    if(data[testId][questionId])
+        return;
+
+    data[testId][questionId]=selected;
+
+    saveStorage(data);
+
+    renderQuestions();
+    updateScores();
+}
+
+function updateScores()
+{
+    const data=getStorage();
+
+    let currentCorrect=0;
+    let currentTotal=
+        currentData.questions.length;
+
+    currentData.questions.forEach(q=>{
+
+        const ans=
+          data[currentData.id]?.[q.id];
+
+        if(ans===q.answer)
+            currentCorrect++;
+    });
+
+    document.getElementById(
+        'currentScore'
+    ).textContent=
+        `${currentCorrect}/${currentTotal}`;
+
+    let totalCorrect=0;
+    let totalQuestions=0;
+
+    for(let test=1;test<=TEST_COUNT;test++)
+    {
+        const testProgress=
+            data[test];
+
+        if(testProgress)
+        {
+            Object.keys(testProgress)
+                .forEach(()=>totalQuestions++);
+        }
+    }
+
+    totalCorrect=
+        countCorrectAnswers(data);
+
+    document.getElementById(
+        'totalScore'
+    ).textContent=
+        `${totalCorrect}/${totalQuestions}`;
+}
+
+async function countCorrectAnswers(data)
+{
+    let correct=0;
+
+    for(let i=1;i<=TEST_COUNT;i++)
+    {
+        try{
+            const res=
+                await fetch(BASE_URL+i+'.json');
+
+            const test=
+                await res.json();
+
+            test.questions.forEach(q=>{
+
+                const ans=
+                    data[i]?.[q.id];
+
+                if(ans===q.answer)
+                    correct++;
+            });
+        }
+        catch{}
+    }
+
+    document.getElementById(
+        'totalScore'
+    ).textContent=
+        `${correct}/${getAnsweredCount(data)}`;
+}
+
+function getAnsweredCount(data)
+{
+    let count=0;
+
+    Object.values(data)
+        .forEach(test=>{
+            count+=Object.keys(test).length;
+        });
+
+    return count;
+}
+
+loadTests();
+
+</script>
+
+</body>
+</html>
