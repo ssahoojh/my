@@ -1,0 +1,22 @@
+[
+  {
+    "question": "I am the closest star to Earth. Who am I?",
+    "answer": "Sun"
+  },
+  {
+    "question": "I am known as the Red Planet. Who am I?",
+    "answer": "Mars"
+  },
+  {
+    "question": "I am the largest planet in our solar system. Who am I?",
+    "answer": "Jupiter"
+  },
+  {
+    "question": "I have beautiful rings around me. Who am I?",
+    "answer": "Saturn"
+  },
+  {
+    "question": "I light up the night sky but do not make my own light. Who am I?",
+    "answer": "Moon"
+  }
+]
