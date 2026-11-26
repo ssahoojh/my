@@ -1,0 +1,22 @@
+[
+  {
+    "question": "I am the largest animal on Earth. Who am I?",
+    "answer": "Blue Whale"
+  },
+  {
+    "question": "I am the tallest animal on Earth. Who am I?",
+    "answer": "Giraffe"
+  },
+  {
+    "question": "I am the fastest land animal. Who am I?",
+    "answer": "Cheetah"
+  },
+  {
+    "question": "I am the largest bird in the world. I cannot fly. Who am I?",
+    "answer": "Ostrich"
+  },
+  {
+    "question": "I am a mammal that lays eggs. Who am I?",
+    "answer": "Platypus"
+  }
+]
