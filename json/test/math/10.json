@@ -1,0 +1,65 @@
+{
+  "id": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What number plus 38 equals 91?",
+      "options": ["53", "43", "63", "58"],
+      "answer": "53"
+    },
+    {
+      "id": 2,
+      "question": "A rectangle is 8 feet long and 5 feet wide. What is its area?",
+      "options": ["40", "26", "13", "80"],
+      "answer": "40"
+    },
+    {
+      "id": 3,
+      "question": "Half of 36 is ?",
+      "options": ["18", "16", "12", "24"],
+      "answer": "18"
+    },
+    {
+      "id": 4,
+      "question": "Tom has 4 more marbles than Jay. Jay has 3 fewer marbles than Om. Om has 12 marbles. How many marbles does Tom have?",
+      "options": ["13", "15", "16", "17"],
+      "answer": "13"
+    },
+    {
+      "id": 5,
+      "question": "3 apples cost $6. How much do 5 apples cost?",
+      "options": ["$10", "$12", "$8", "$15"],
+      "answer": "$10"
+    },
+    {
+      "id": 6,
+      "question": "Which number comes next? 3, 6, 9, 12, ?",
+      "options": ["15", "18", "14", "16"],
+      "answer": "15"
+    },
+    {
+      "id": 7,
+      "question": "A movie starts at 2:20 PM and lasts 1 hour. What time does it end?",
+      "options": ["3:20 PM", "3:00 PM", "2:80 PM", "4:20 PM"],
+      "answer": "3:20 PM"
+    },
+    {
+      "id": 8,
+      "question": "Jay has 5 red pencils and 4 blue pencils. His teacher's name is Mrs. Smith. How many pencils does Jay have?",
+      "options": ["9", "8", "10", "11"],
+      "answer": "9"
+    },
+    {
+      "id": 9,
+      "question": "One-fourth of 20 is ?",
+      "options": ["5", "4", "10", "20"],
+      "answer": "5"
+    },
+    {
+      "id": 10,
+      "question": "I am thinking of a number. If I double it and then add 3, I get 17. What is the number?",
+      "options": ["7", "8", "6", "5"],
+      "answer": "7"
+    }
+  ]
+}
