@@ -1,0 +1,35 @@
+{
+  "id": 5,
+  "questions": [
+    {
+      "id": 1,
+      "question": "999 + 999 = ?",
+      "options": ["1898", "1998", "2098", "2198"],
+      "answer": "1998"
+    },
+    {
+      "id": 2,
+      "question": "5000 - 2345 = ?",
+      "options": ["2555", "2655", "2755", "2855"],
+      "answer": "2655"
+    },
+    {
+      "id": 3,
+      "question": "225 ÷ 15 = ?",
+      "options": ["13", "14", "15", "16"],
+      "answer": "15"
+    },
+    {
+      "id": 4,
+      "question": "A sandwich costs $6. You have $50. After buying 7 sandwiches, how much money is left?",
+      "options": ["$2", "$4", "$6", "$8"],
+      "answer": "$8"
+    },
+    {
+      "id": 5,
+      "question": "There are 12 boxes. Each box has 8 balls. How many balls are there?",
+      "options": ["86", "96", "106", "116"],
+      "answer": "96"
+    }
+  ]
+}
