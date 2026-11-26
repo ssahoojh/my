@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Grid of Squares</title>
+<style>
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        overflow: hidden;
+    }
+
+    #container {
+        display: flex;
+        flex-wrap: wrap;
+        width: 100vw;
+        height: 100vh;
+    }
+
+    .cell {
+        width: 2rem;
+        height: 2rem;
+        border: 1px solid #ccc;
+        flex-shrink: 0;
+    }
+</style>
+</head>
+<body>
+    <div id="container"></div>
+
+    <script>
+        const container = document.getElementById('container');
+
+        function buildGrid() {
+            container.innerHTML = '';
+
+            const cols = Math.ceil(window.innerWidth / 24); // 1.5rem ≈ 24px
+            const rows = Math.ceil(window.innerHeight / 24);
+            const total = cols * rows;
+
+            for (let i = 0; i < total; i++) {
+                const div = document.createElement('div');
+                div.className = 'cell';
+                container.appendChild(div);
+            }
+        }
+
+        buildGrid();
+        window.addEventListener('resize', buildGrid);
+    </script>
+</body>
+</html>

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Horizontal Lines</title>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        background: white;
+    }
+
+    #container {
+        width: 100vw;
+        height: 100vh;
+    }
+
+    .line {
+        width: 100%;
+        border-top: 1px solid #999;
+        margin-top: 2rem;
+    }
+
+    .line:first-child {
+        margin-top: 0;
+    }
+</style>
+</head>
+<body>
+    <div id="container"></div>
+
+    <script>
+        const container = document.getElementById('container');
+
+        function buildLines() {
+            container.innerHTML = '';
+
+            const gap = 32; // 2rem ~= 32px
+            const count = 200;
+
+            for (let i = 0; i < count; i++) {
+                const line = document.createElement('div');
+                line.className = 'line';
+                container.appendChild(line);
+            }
+        }
+
+        buildLines();
+        window.addEventListener('resize', buildLines);
+    </script>
+</body>
+</html>
