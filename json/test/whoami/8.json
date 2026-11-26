@@ -1,0 +1,22 @@
+[
+  {
+    "question": "You can see me on a map, but you cannot walk on me. Who am I?",
+    "answer": "Road"
+  },
+  {
+    "question": "I separate two countries, states, or cities. Who am I?",
+    "answer": "Border"
+  },
+  {
+    "question": "I am land almost surrounded by water. Who am I?",
+    "answer": "Peninsula"
+  },
+  {
+    "question": "I am the largest ocean on Earth. Who am I?",
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "I am the state where Houston and Katy are located. Who am I?",
+    "answer": "Texas"
+  }
+]
