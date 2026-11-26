@@ -1,0 +1,62 @@
+[
+  {
+    "question": "I am the country where you live. Who am I?",
+    "answer": "United States"
+  },
+  {
+    "question": "I am the planet where people, animals, and plants live. Who am I?",
+    "answer": "Earth"
+  },
+  {
+    "question": "I am a large body of salt water. Who am I?",
+    "answer": "Ocean"
+  },
+  {
+    "question": "I am a large area of land with very little rain. Who am I?",
+    "answer": "Desert"
+  },
+  {
+    "question": "I am very tall land with a peak at the top. Who am I?",
+    "answer": "Mountain"
+  },
+  {
+    "question": "I am a flowing body of water that goes to a lake, sea, or ocean. Who am I?",
+    "answer": "River"
+  },
+  {
+    "question": "I am surrounded by water on all sides. Who am I?",
+    "answer": "Island"
+  },
+  {
+    "question": "I am a large body of water surrounded by land. Who am I?",
+    "answer": "Lake"
+  },
+  {
+    "question": "I am frozen water found near the North and South Poles. Who am I?",
+    "answer": "Ice"
+  },
+  {
+    "question": "I am made of many states. My capital is Washington, D.C. Who am I?",
+    "answer": "United States"
+  },
+  {
+    "question": "I am the continent where the United States, Canada, and Mexico are located. Who am I?",
+    "answer": "North America"
+  },
+  {
+    "question": "I help you find places and directions. Who am I?",
+    "answer": "Map"
+  },
+  {
+    "question": "People use me to find north, south, east, and west. Who am I?",
+    "answer": "Compass"
+  },
+  {
+    "question": "I am the imaginary line that divides the Earth into the Northern and Southern Hemispheres. Who am I?",
+    "answer": "Equator"
+  },
+  {
+    "question": "I am the place where a river meets the ocean. Who am I?",
+    "answer": "Mouth"
+  }
+]
