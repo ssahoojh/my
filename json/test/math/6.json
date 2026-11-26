@@ -1,96 +1,35 @@
 {
   "id": 6,
-  "Title": "Mixed Reasoning 1",
   "questions": [
     {
       "id": 1,
-      "question": "6 × 7 = ?",
-      "options": [42, 36, 48, 49],
-      "answer": 42
+      "question": "125 + 378 = ?",
+      "options": ["503", "493", "513", "523"],
+      "answer": "503"
     },
     {
       "id": 2,
-      "question": "You have $50. You spend $12. How much money is left?",
-      "options": [38, 42, 62, 28],
-      "answer": 38
+      "question": "92 × 6 = ?",
+      "options": ["552", "542", "562", "572"],
+      "answer": "552"
     },
     {
       "id": 3,
-      "question": "A box has 9 pencils. How many pencils are in 4 boxes?",
-      "options": [36, 32, 45, 40],
-      "answer": 36
+      "question": "900 - 347 = ?",
+      "options": ["553", "543", "563", "573"],
+      "answer": "553"
     },
     {
       "id": 4,
       "question": "I have 2 less than double your candies. You have 5 candies. How many candies do I have?",
-      "options": [8, 10, 12, 7],
-      "answer": 8
+      "options": ["8", "10", "12", "6"],
+      "answer": "8"
     },
     {
       "id": 5,
       "question": "Your dad's age is 6 times your age plus 3. If you are 5 years old, how old is your dad?",
-      "options": [30, 33, 35, 28],
-      "answer": 33
-    },
-    {
-      "id": 6,
-      "question": "15 + 18 = ?",
-      "options": [33, 23, 28, 31],
-      "answer": 33
-    },
-    {
-      "id": 7,
-      "question": "There are 40 apples. 15 are eaten. How many remain?",
-      "options": [25, 35, 30, 20],
-      "answer": 25
-    },
-    {
-      "id": 8,
-      "question": "A pack contains 12 juice boxes. How many juice boxes are in 3 packs?",
-      "options": [36, 24, 48, 30],
-      "answer": 36
-    },
-    {
-      "id": 9,
-      "question": "Tom has twice as many marbles as Jay. Jay has 7 marbles. How many does Tom have?",
-      "options": [14, 9, 21, 12],
-      "answer": 14
-    },
-    {
-      "id": 10,
-      "question": "You buy 3 toys costing $8 each. You pay with $30. How much money remains?",
-      "options": [6, 8, 4, 10],
-      "answer": 6
-    },
-    {
-      "id": 11,
-      "question": "8 × 9 = ?",
-      "options": [72, 64, 81, 63],
-      "answer": 72
-    },
-    {
-      "id": 12,
-      "question": "A train leaves at 2 PM and arrives at 5 PM. How long was the trip?",
-      "options": ["3 hours", "2 hours", "4 hours", "5 hours"],
-      "answer": "3 hours"
-    },
-    {
-      "id": 13,
-      "question": "There are 5 bags. Each bag has 8 oranges. Then 6 more oranges are added. How many oranges are there now?",
-      "options": [46, 40, 48, 36],
-      "answer": 46
-    },
-    {
-      "id": 14,
-      "question": "Sarah has 4 more books than Jay. Jay has 9 books. How many books does Sarah have?",
-      "options": [13, 15, 12, 14],
-      "answer": 13
-    },
-    {
-      "id": 15,
-      "question": "A number doubled is 18. What is the number?",
-      "options": [9, 18, 8, 10],
-      "answer": 9
+      "options": ["30", "33", "35", "28"],
+      "answer": "33"
     }
   ]
 }
