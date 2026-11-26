@@ -1,0 +1,62 @@
+[
+  {
+    "question": "You cannot see me, but you cannot live without me. Who am I?",
+    "answer": "Air"
+  },
+  {
+    "question": "I come down from the clouds. I help plants grow. Who am I?",
+    "answer": "Rain"
+  },
+  {
+    "question": "I shine during the day and give light and warmth. Who am I?",
+    "answer": "Sun"
+  },
+  {
+    "question": "I come out at night and sometimes look full and round. Who am I?",
+    "answer": "Moon"
+  },
+  {
+    "question": "You drink me when you are thirsty. Who am I?",
+    "answer": "Water"
+  },
+  {
+    "question": "You sit on me at school. Who am I?",
+    "answer": "Chair"
+  },
+  {
+    "question": "You wear me on your feet when you go outside. Who am I?",
+    "answer": "Shoes"
+  },
+  {
+    "question": "I have pages, but I am not a tree. You read me. Who am I?",
+    "answer": "Book"
+  },
+  {
+    "question": "I tell you what time it is. Who am I?",
+    "answer": "Clock"
+  },
+  {
+    "question": "You use me to write with a pencil. Who am I?",
+    "answer": "Eraser"
+  },
+  {
+    "question": "I have keys but no locks. You can type on me. Who am I?",
+    "answer": "Keyboard"
+  },
+  {
+    "question": "I am cold and white. People build snowmen from me. Who am I?",
+    "answer": "Snow"
+  },
+  {
+    "question": "I bark, but I am not a tree. Who am I?",
+    "answer": "Dog"
+  },
+  {
+    "question": "I say 'meow'. Who am I?",
+    "answer": "Cat"
+  },
+  {
+    "question": "I have wings but I am not an airplane. I can fly. Who am I?",
+    "answer": "Bird"
+  }
+]
