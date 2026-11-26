@@ -1,0 +1,65 @@
+{
+  "id": 9,
+  "questions": [
+    {
+      "id": 1,
+      "question": "96 × 8 = ?",
+      "options": ["768", "758", "776", "788"],
+      "answer": "768"
+    },
+    {
+      "id": 2,
+      "question": "A number plus 145 equals 500. What is the number?",
+      "options": ["355", "365", "345", "375"],
+      "answer": "355"
+    },
+    {
+      "id": 3,
+      "question": "1400 - 675 = ?",
+      "options": ["725", "735", "715", "745"],
+      "answer": "725"
+    },
+    {
+      "id": 4,
+      "question": "I have 5 fewer than triple your marbles. You have 12 marbles. How many marbles do I have?",
+      "options": ["31", "36", "29", "41"],
+      "answer": "31"
+    },
+    {
+      "id": 5,
+      "question": "A father is 4 times his son's age plus 6. If the son is 9 years old, how old is the father?",
+      "options": ["42", "40", "44", "38"],
+      "answer": "42"
+    },
+    {
+      "id": 6,
+      "question": "Jay has 15 candies. Om has 7 more candies than Jay. Together, how many candies do they have?",
+      "options": ["37", "32", "29", "42"],
+      "answer": "37"
+    },
+    {
+      "id": 7,
+      "question": "A toy costs $24. You buy 3 toys and pay with $100. How many dollars are left?",
+      "options": ["28", "26", "32", "24"],
+      "answer": "28"
+    },
+    {
+      "id": 8,
+      "question": "There are 8 bags. Each bag has 9 oranges. Then 10 more oranges are added. How many oranges are there now?",
+      "options": ["82", "72", "92", "80"],
+      "answer": "82"
+    },
+    {
+      "id": 9,
+      "question": "Tom is 3 years older than Sam. Sam is 4 years older than Jay. Jay is 8 years old. How old is Tom?",
+      "options": ["15", "14", "13", "16"],
+      "answer": "15"
+    },
+    {
+      "id": 10,
+      "question": "A train leaves at 2 PM. The trip takes 4 hours and 30 minutes. What time does it arrive?",
+      "options": ["6:30 PM", "6:00 PM", "5:30 PM", "7:30 PM"],
+      "answer": "6:30 PM"
+    }
+  ]
+}
