@@ -1,0 +1,49 @@
+{
+  "id": 8,
+  "questions": [
+    {
+      "id": 1,
+      "question": "84 × 7 = ?",
+      "options": ["588", "578", "598", "568"],
+      "answer": "588"
+    },
+    {
+      "id": 2,
+      "question": "675 + 248 = ?",
+      "options": ["923", "913", "933", "943"],
+      "answer": "923"
+    },
+    {
+      "id": 3,
+      "question": "1000 - 286 = ?",
+      "options": ["714", "724", "704", "734"],
+      "answer": "714"
+    },
+    {
+      "id": 4,
+      "question": "I have 4 more than triple your candies. You have 6 candies. How many candies do I have?",
+      "options": ["22", "18", "20", "24"],
+      "answer": "22"
+    },
+    {
+      "id": 5,
+      "question": "Your mom's age is 5 times your age plus 7. If you are 8 years old, how old is your mom?",
+      "options": ["47", "45", "42", "49"],
+      "answer": "47"
+    },
+    {
+      "id": 6,
+      "question": "What number plus 27 equals 83?",
+      "options": ["56", "54", "46", "58"],
+      "answer": "56"
+    },
+    {
+      "id": 7,
+      "question": "Om has 5 more books than Jay. Jay has 12 books. How many books does Om have?",
+      "options": ["17", "15", "18", "19"],
+      "answer": "17"
+    },
+    {
+      "id": 8,
+      "question": "A toy costs $18. You buy 3 toys. How much do you spend?",
+      "
