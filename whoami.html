@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Who Am I Tests</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #f5f5f5;
+}
+
+h1 {
+    text-align: center;
+}
+
+.controls {
+    margin-bottom: 20px;
+}
+
+select {
+    padding: 8px;
+    font-size: 1rem;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.question {
+    background: white;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 15px;
+    border: 2px solid #ddd;
+}
+
+.question.correct {
+    background: #d4edda;
+    border-color: #28a745;
+}
+
+.question.wrong {
+    background: #f8d7da;
+    border-color: #dc3545;
+}
+
+.question h3 {
+    margin-top: 0;
+}
+
+.answer-input {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    box-sizing: border-box;
+}
+
+.correct-answer {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+#submitBtn {
+    display: none;
+}
+
+#result {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin: 20px 0;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Who Am I Quiz</h1>
+
+<div class="controls">
+    <select id="testSelect">
+        <option value="">Select Test</option>
+    </select>
+
+    <button onclick="loadTest()">Load Test</button>
+</div>
+
+<div id="questions"></div>
+
+<div id="result"></div>
+
+<button id="submitBtn" onclick="submitQuiz()">Submit</button>
+
+<script>
+
+const TEST_COUNT = 13;
+
+// CHANGE THIS TO YOUR GITHUB PAGES URL
+const BASE_URL =
+'https://ssahoojh.github.io/my/json/test/whoami';
+
+const testSelect = document.getElementById('testSelect');
+
+for(let i=1;i<=TEST_COUNT;i++){
+    const opt=document.createElement('option');
+    opt.value=i;
+    opt.textContent=`Test ${i}`;
+    testSelect.appendChild(opt);
+}
+
+let questions=[];
+
+async function loadTest(){
+
+    const testId=testSelect.value;
+
+    if(!testId){
+        alert('Please select a test.');
+        return;
+    }
+
+    const res=await fetch(`${BASE_URL}/${testId}.json`);
+    const data=await res.json();
+
+    questions=data;
+
+    const container=document.getElementById('questions');
+    container.innerHTML='';
+
+    document.getElementById('result').innerHTML='';
+
+    questions.forEach((q,i)=>{
+
+        const div=document.createElement('div');
+        div.className='question';
+        div.dataset.answer=q.answer;
+
+        div.innerHTML=`
+            <h3>${i+1}. ${q.question}</h3>
+
+            <input
+                type="text"
+                class="answer-input"
+                placeholder="Type your answer">
+
+            <div class="correct-answer"></div>
+        `;
+
+        container.appendChild(div);
+    });
+
+    document.getElementById('submitBtn').style.display='inline-block';
+}
+
+function submitQuiz(){
+
+    const questionDivs =
+        document.querySelectorAll('.question');
+
+    let answered=true;
+
+    questionDivs.forEach(div=>{
+
+        const input =
+            div.querySelector('.answer-input');
+
+        if(!input.value.trim()){
+            answered=false;
+        }
+    });
+
+    if(!answered){
+        alert('Please answer all questions.');
+        return;
+    }
+
+    let score=0;
+
+    questionDivs.forEach(div=>{
+
+        const answer =
+            div.dataset.answer.trim().toLowerCase();
+
+        const input =
+            div.querySelector('.answer-input');
+
+        const userAnswer =
+            input.value.trim().toLowerCase();
+
+        const answerArea =
+            div.querySelector('.correct-answer');
+
+        if(userAnswer===answer){
+
+            div.classList.add('correct');
+            answerArea.textContent =
+                `✓ Correct`;
+
+            score++;
+        }
+        else{
+
+            div.classList.add('wrong');
+
+            answerArea.textContent =
+                `Correct Answer: ${div.dataset.answer}`;
+        }
+
+        input.disabled=true;
+    });
+
+    document.getElementById('result').innerHTML =
+        `Score: ${score} / ${questions.length}`;
+
+    document.getElementById('submitBtn').disabled=true;
+}
+</script>
+
+</body>
+</html>
