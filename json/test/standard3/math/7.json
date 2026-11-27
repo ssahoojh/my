@@ -1,0 +1,98 @@
+{
+  "id": 7,
+  "chapter": "Money",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A pencil costs $3. How much do 2 pencils cost?",
+      "options": ["$5", "$6", "$7", "$8"],
+      "answer": "$6"
+    },
+    {
+      "id": 2,
+      "question": "You have $10 and spend $4. How much money is left?",
+      "options": ["$4", "$5", "$6", "$7"],
+      "answer": "$6"
+    },
+    {
+      "id": 3,
+      "question": "A toy costs $8. You pay with a $10 bill. How much change should you get?",
+      "options": ["$1", "$2", "$3", "$4"],
+      "answer": "$2"
+    },
+    {
+      "id": 4,
+      "question": "Which is greater?",
+      "options": ["$15", "$12", "They are equal", "Cannot tell"],
+      "answer": "$15"
+    },
+    {
+      "id": 5,
+      "question": "You have three $5 bills. How much money do you have?",
+      "options": ["$10", "$15", "$20", "$25"],
+      "answer": "$15"
+    },
+
+    {
+      "id": 6,
+      "question": "A notebook costs $7 and a ruler costs $3. How much do they cost together?",
+      "options": ["$8", "$9", "$10", "$11"],
+      "answer": "$10"
+    },
+    {
+      "id": 7,
+      "question": "You have $20. You buy a book for $12. How much money is left?",
+      "options": ["$6", "$7", "$8", "$9"],
+      "answer": "$8"
+    },
+    {
+      "id": 8,
+      "question": "A shirt costs $15. You pay with a $20 bill. How much change do you receive?",
+      "options": ["$3", "$4", "$5", "$6"],
+      "answer": "$5"
+    },
+    {
+      "id": 9,
+      "question": "Jay buys 3 sandwiches for $4 each. How much does he spend?",
+      "options": ["$10", "$11", "$12", "$13"],
+      "answer": "$12"
+    },
+    {
+      "id": 10,
+      "question": "A toy costs $18. Om has $25. Can he buy the toy and how much money will be left?",
+      "options": ["Yes, $7 left", "Yes, $5 left", "No, needs $3 more", "No, needs $7 more"],
+      "answer": "Yes, $7 left"
+    },
+
+    {
+      "id": 11,
+      "question": "A movie ticket costs $9. A popcorn costs $4. How much do 2 tickets and 2 popcorns cost?",
+      "options": ["$22", "$24", "$26", "$28"],
+      "answer": "$26"
+    },
+    {
+      "id": 12,
+      "question": "Emma saves $5 each week for 8 weeks. How much money does she save?",
+      "options": ["$35", "$40", "$45", "$50"],
+      "answer": "$40"
+    },
+    {
+      "id": 13,
+      "question": "A bicycle costs $95. Jay has saved $68. How much more money does he need?",
+      "options": ["$17", "$27", "$37", "$47"],
+      "answer": "$27"
+    },
+    {
+      "id": 14,
+      "question": "A store sells pencils for $2 each. If you buy 6 pencils and pay with a $20 bill, how much change should you receive?",
+      "options": ["$6", "$7", "$8", "$9"],
+      "answer": "$8"
+    },
+    {
+      "id": 15,
+      "question": "Sara has $50. She buys a game for $18 and two books costing $12 each. How much money does she have left?",
+      "options": ["$6", "$7", "$8", "$9"],
+      "answer": "$8"
+    }
+  ]
+}
