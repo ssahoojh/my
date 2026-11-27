@@ -1,0 +1,98 @@
+{
+  "id": 2,
+  "chapter": "Synonyms and Antonyms",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which word means the same as 'big'?",
+      "options": ["Large", "Tiny", "Short", "Slow"],
+      "answer": "Large"
+    },
+    {
+      "id": 2,
+      "question": "Which word means the opposite of 'hot'?",
+      "options": ["Warm", "Cold", "Dry", "Bright"],
+      "answer": "Cold"
+    },
+    {
+      "id": 3,
+      "question": "Which word means the same as 'happy'?",
+      "options": ["Glad", "Sad", "Angry", "Tired"],
+      "answer": "Glad"
+    },
+    {
+      "id": 4,
+      "question": "Which word means the opposite of 'up'?",
+      "options": ["Over", "High", "Down", "Across"],
+      "answer": "Down"
+    },
+    {
+      "id": 5,
+      "question": "Which word means the same as 'fast'?",
+      "options": ["Quick", "Slow", "Late", "Heavy"],
+      "answer": "Quick"
+    },
+
+    {
+      "id": 6,
+      "question": "Which word is an antonym of 'clean'?",
+      "options": ["Messy", "Neat", "Fresh", "Bright"],
+      "answer": "Messy"
+    },
+    {
+      "id": 7,
+      "question": "Which word is a synonym of 'smart'?",
+      "options": ["Clever", "Lazy", "Noisy", "Weak"],
+      "answer": "Clever"
+    },
+    {
+      "id": 8,
+      "question": "Which word is an antonym of 'early'?",
+      "options": ["Soon", "Late", "Quick", "Near"],
+      "answer": "Late"
+    },
+    {
+      "id": 9,
+      "question": "Which word is a synonym of 'begin'?",
+      "options": ["Start", "End", "Stop", "Pause"],
+      "answer": "Start"
+    },
+    {
+      "id": 10,
+      "question": "Which word is an antonym of 'strong'?",
+      "options": ["Brave", "Weak", "Tall", "Smart"],
+      "answer": "Weak"
+    },
+
+    {
+      "id": 11,
+      "question": "Choose the synonym for 'silent'.",
+      "options": ["Quiet", "Loud", "Busy", "Fast"],
+      "answer": "Quiet"
+    },
+    {
+      "id": 12,
+      "question": "Choose the antonym for 'ancient'.",
+      "options": ["Old", "New", "Broken", "Large"],
+      "answer": "New"
+    },
+    {
+      "id": 13,
+      "question": "Which word is closest in meaning to 'difficult'?",
+      "options": ["Hard", "Easy", "Simple", "Short"],
+      "answer": "Hard"
+    },
+    {
+      "id": 14,
+      "question": "Which word is the opposite of 'generous'?",
+      "options": ["Kind", "Selfish", "Helpful", "Polite"],
+      "answer": "Selfish"
+    },
+    {
+      "id": 15,
+      "question": "The word 'exhausted' means very tired. Which word is its antonym?",
+      "options": ["Sleepy", "Energetic", "Quiet", "Hungry"],
+      "answer": "Energetic"
+    }
+  ]
+}
