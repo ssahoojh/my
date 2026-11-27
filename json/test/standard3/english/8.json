@@ -1,0 +1,148 @@
+{
+  "id": 8,
+  "chapter": "Reading Comprehension",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Read: 'Sam has a red kite. He likes to fly it in the park.' Where does Sam fly his kite?",
+      "options": ["School", "Park", "Library", "House"],
+      "answer": "Park"
+    },
+    {
+      "id": 2,
+      "question": "Read: 'Lily has a pet rabbit. Its name is Snowball.' What is the rabbit's name?",
+      "options": ["Lily", "Rabbit", "Snowball", "Pet"],
+      "answer": "Snowball"
+    },
+    {
+      "id": 3,
+      "question": "Read: 'The sun was shining, so Mia wore sunglasses.' Why did Mia wear sunglasses?",
+      "options": ["It was raining", "It was sunny", "It was snowing", "It was windy"],
+      "answer": "It was sunny"
+    },
+    {
+      "id": 4,
+      "question": "Read: 'Tom packed a sandwich, an apple, and water for lunch.' What did Tom pack to drink?",
+      "options": ["Juice", "Milk", "Water", "Soda"],
+      "answer": "Water"
+    },
+    {
+      "id": 5,
+      "question": "Read: 'The dog barked loudly when the mail carrier arrived.' Who arrived?",
+      "options": ["The dog", "Tom", "The mail carrier", "The teacher"],
+      "answer": "The mail carrier"
+    },
+
+    {
+      "id": 6,
+      "question": "Read: 'Emma practiced piano every day for two weeks. At the concert, she played beautifully.' Why did Emma play well at the concert?",
+      "options": [
+        "She practiced every day",
+        "She bought a new piano",
+        "She was lucky",
+        "She skipped practice"
+      ],
+      "answer": "She practiced every day"
+    },
+    {
+      "id": 7,
+      "question": "Read: 'The class planted seeds in April. By May, small green plants appeared.' What happened after the seeds were planted?",
+      "options": [
+        "Flowers appeared immediately",
+        "Small plants grew",
+        "The seeds disappeared",
+        "The plants turned brown"
+      ],
+      "answer": "Small plants grew"
+    },
+    {
+      "id": 8,
+      "question": "Read: 'Jake forgot his umbrella. When he got home, his clothes were wet.' Why were Jake's clothes wet?",
+      "options": [
+        "He spilled water",
+        "He went swimming",
+        "It probably rained",
+        "He washed them"
+      ],
+      "answer": "It probably rained"
+    },
+    {
+      "id": 9,
+      "question": "Read: 'The library was quiet because many people were reading.' Why was the library quiet?",
+      "options": [
+        "It was closed",
+        "People were sleeping",
+        "People were reading",
+        "Nobody was there"
+      ],
+      "answer": "People were reading"
+    },
+    {
+      "id": 10,
+      "question": "Read: 'Anna finished her homework before dinner and then watched a movie.' What did Anna do first?",
+      "options": [
+        "Watched a movie",
+        "Ate dinner",
+        "Finished homework",
+        "Went to bed"
+      ],
+      "answer": "Finished homework"
+    },
+
+    {
+      "id": 11,
+      "question": "Read: 'Carlos trained for the race every morning. On race day, he finished first.' Which sentence best explains why Carlos finished first?",
+      "options": [
+        "He trained regularly",
+        "The race was short",
+        "He had new shoes",
+        "Nobody else raced"
+      ],
+      "answer": "He trained regularly"
+    },
+    {
+      "id": 12,
+      "question": "Read: 'The power went out during the storm. The family used flashlights until the electricity returned.' Why did the family use flashlights?",
+      "options": [
+        "They were camping",
+        "It was dark because the power was out",
+        "They wanted to play a game",
+        "They lost their lamps"
+      ],
+      "answer": "It was dark because the power was out"
+    },
+    {
+      "id": 13,
+      "question": "Read: 'Nina brought extra snacks on the field trip. By lunchtime, several classmates had forgotten their lunches.' Why was bringing extra snacks a good idea?",
+      "options": [
+        "The snacks were expensive",
+        "Other students needed food",
+        "Nina did not like lunch",
+        "The trip was canceled"
+      ],
+      "answer": "Other students needed food"
+    },
+    {
+      "id": 14,
+      "question": "Read: 'Ben saw dark clouds gathering. He canceled the picnic and planned it for another day.' What can you infer?",
+      "options": [
+        "Ben expected bad weather",
+        "Ben did not like picnics",
+        "The picnic already happened",
+        "The sun was very bright"
+      ],
+      "answer": "Ben expected bad weather"
+    },
+    {
+      "id": 15,
+      "question": "Read: 'After months of saving money from chores, Maya finally bought the bicycle she wanted.' What helped Maya buy the bicycle?",
+      "options": [
+        "Winning a race",
+        "Borrowing money",
+        "Saving money over time",
+        "Receiving it as a gift"
+      ],
+      "answer": "Saving money over time"
+    }
+  ]
+}
