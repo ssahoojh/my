@@ -1,0 +1,98 @@
+{
+  "id": 6,
+  "chapter": "Time",
+  "questions": [
+    {
+      "id": 1,
+      "question": "How many minutes are in 1 hour?",
+      "options": ["30", "60", "90", "120"],
+      "answer": "60"
+    },
+    {
+      "id": 2,
+      "question": "How many hours are in 1 day?",
+      "options": ["12", "18", "24", "36"],
+      "answer": "24"
+    },
+    {
+      "id": 3,
+      "question": "What time is 2 hours after 3:00 PM?",
+      "options": ["4:00 PM", "5:00 PM", "6:00 PM", "7:00 PM"],
+      "answer": "5:00 PM"
+    },
+    {
+      "id": 4,
+      "question": "What time is 30 minutes after 7:15 AM?",
+      "options": ["7:35 AM", "7:45 AM", "8:15 AM", "8:45 AM"],
+      "answer": "7:45 AM"
+    },
+    {
+      "id": 5,
+      "question": "How many minutes are in half an hour?",
+      "options": ["15", "20", "30", "60"],
+      "answer": "30"
+    },
+
+    {
+      "id": 6,
+      "question": "School starts at 8:00 AM and ends at 2:00 PM. How many hours is school open?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "6"
+    },
+    {
+      "id": 7,
+      "question": "A movie starts at 4:15 PM and ends at 6:15 PM. How long is the movie?",
+      "options": ["1 hour", "2 hours", "3 hours", "4 hours"],
+      "answer": "2 hours"
+    },
+    {
+      "id": 8,
+      "question": "What time is 45 minutes after 9:20 AM?",
+      "options": ["9:55 AM", "10:00 AM", "10:05 AM", "10:15 AM"],
+      "answer": "10:05 AM"
+    },
+    {
+      "id": 9,
+      "question": "A soccer game starts at 10:30 AM and lasts 1 hour. What time does it end?",
+      "options": ["11:00 AM", "11:15 AM", "11:30 AM", "12:30 PM"],
+      "answer": "11:30 AM"
+    },
+    {
+      "id": 10,
+      "question": "How many minutes are there in 2 hours?",
+      "options": ["60", "90", "120", "180"],
+      "answer": "120"
+    },
+
+    {
+      "id": 11,
+      "question": "Jay starts reading at 3:25 PM and reads for 1 hour 35 minutes. What time does he finish?",
+      "options": ["4:50 PM", "5:00 PM", "5:10 PM", "5:20 PM"],
+      "answer": "5:00 PM"
+    },
+    {
+      "id": 12,
+      "question": "A train leaves at 9:45 AM and arrives at 12:15 PM. How long is the trip?",
+      "options": ["2 hours", "2 hours 15 minutes", "2 hours 30 minutes", "3 hours"],
+      "answer": "2 hours 30 minutes"
+    },
+    {
+      "id": 13,
+      "question": "Bedtime is 8:30 PM. If Om sleeps for 9 hours, what time does he wake up?",
+      "options": ["4:30 AM", "5:00 AM", "5:30 AM", "6:30 AM"],
+      "answer": "5:30 AM"
+    },
+    {
+      "id": 14,
+      "question": "A class begins at 1:20 PM and ends at 2:55 PM. How long is the class?",
+      "options": ["1 hour 25 minutes", "1 hour 35 minutes", "1 hour 45 minutes", "2 hours"],
+      "answer": "1 hour 35 minutes"
+    },
+    {
+      "id": 15,
+      "question": "A flight takes 3 hours 20 minutes. It leaves at 7:40 AM. What time does it arrive?",
+      "options": ["10:40 AM", "11:00 AM", "11:10 AM", "11:20 AM"],
+      "answer": "11:00 AM"
+    }
+  ]
+}
