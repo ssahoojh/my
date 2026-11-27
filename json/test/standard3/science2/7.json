@@ -1,0 +1,83 @@
+{
+  "id": 7,
+  "chapter": "Nutrition and Healthy Living",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which nutrient helps build and repair muscles?",
+      "options": [
+        "Protein",
+        "Sugar",
+        "Salt",
+        "Water"
+      ],
+      "answer": "Protein"
+    },
+    {
+      "id": 2,
+      "question": "Which food is a good source of protein?",
+      "options": [
+        "Eggs",
+        "Candy",
+        "Soda",
+        "Potato Chips"
+      ],
+      "answer": "Eggs"
+    },
+    {
+      "id": 3,
+      "question": "Why do we need fruits and vegetables?",
+      "options": [
+        "They provide vitamins and minerals",
+        "They make us taller instantly",
+        "They replace water",
+        "They replace sleep"
+      ],
+      "answer": "They provide vitamins and minerals"
+    },
+    {
+      "id": 4,
+      "question": "Which choice is the healthiest drink?",
+      "options": [
+        "Water",
+        "Soda",
+        "Energy Drink",
+        "Candy Shake"
+      ],
+      "answer": "Water"
+    },
+    {
+      "id": 5,
+      "question": "What can happen if a person does not get enough sleep?",
+      "options": [
+        "They may feel tired and have trouble concentrating",
+        "They become stronger immediately",
+        "They never get sick",
+        "They stop needing food"
+      ],
+      "answer": "They may feel tired and have trouble concentrating"
+    },
+    {
+      "id": 6,
+      "question": "Which habit helps keep teeth healthy?",
+      "options": [
+        "Brushing twice a day",
+        "Eating candy before bed",
+        "Never visiting a dentist",
+        "Drinking soda every day"
+      ],
+      "answer": "Brushing twice a day"
+    },
+    {
+      "id": 7,
+      "question": "A balanced diet means eating ____.",
+      "options": [
+        "Different kinds of healthy foods",
+        "Only fruits",
+        "Only meat",
+        "Only sweets"
+      ],
+      "answer": "Different kinds of healthy foods"
+    }
+  ]
+}
