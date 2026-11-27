@@ -1,0 +1,123 @@
+{
+  "id": 4,
+  "chapter": "Verbs and Tenses",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which word is a verb?",
+      "options": ["Run", "Dog", "Blue", "School"],
+      "answer": "Run"
+    },
+    {
+      "id": 2,
+      "question": "Which verb best completes the sentence? 'The bird ____ in the sky.'",
+      "options": ["fly", "flies", "flying", "flown"],
+      "answer": "flies"
+    },
+    {
+      "id": 3,
+      "question": "Which sentence is happening now?",
+      "options": [
+        "I played soccer.",
+        "I am playing soccer.",
+        "I will play soccer.",
+        "I had played soccer."
+      ],
+      "answer": "I am playing soccer."
+    },
+    {
+      "id": 4,
+      "question": "Which verb tells about the past?",
+      "options": ["jump", "jumps", "jumped", "jumping"],
+      "answer": "jumped"
+    },
+    {
+      "id": 5,
+      "question": "Which verb tells about the future?",
+      "options": ["run", "ran", "will run", "running"],
+      "answer": "will run"
+    },
+
+    {
+      "id": 6,
+      "question": "Choose the correct verb: 'She ____ her homework every day.'",
+      "options": ["do", "does", "did", "doing"],
+      "answer": "does"
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct verb: 'Yesterday, we ____ to the park.'",
+      "options": ["go", "goes", "went", "going"],
+      "answer": "went"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct verb: 'Tomorrow, I ____ my grandparents.'",
+      "options": ["visit", "visited", "will visit", "visiting"],
+      "answer": "will visit"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence is in the past tense?",
+      "options": [
+        "The dog barks loudly.",
+        "The dog barked loudly.",
+        "The dog will bark loudly.",
+        "The dog is barking loudly."
+      ],
+      "answer": "The dog barked loudly."
+    },
+    {
+      "id": 10,
+      "question": "Which sentence is in the future tense?",
+      "options": [
+        "We eat dinner.",
+        "We ate dinner.",
+        "We are eating dinner.",
+        "We will eat dinner."
+      ],
+      "answer": "We will eat dinner."
+    },
+
+    {
+      "id": 11,
+      "question": "Choose the correct verb: 'The children ____ outside right now.'",
+      "options": ["play", "played", "are playing", "will play"],
+      "answer": "are playing"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence uses the verb correctly?",
+      "options": [
+        "She walk to school.",
+        "She walks to school.",
+        "She walking to school.",
+        "She walkeds to school."
+      ],
+      "answer": "She walks to school."
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct sentence.",
+      "options": [
+        "Yesterday I eat pizza.",
+        "Yesterday I ate pizza.",
+        "Yesterday I eating pizza.",
+        "Yesterday I will eat pizza."
+      ],
+      "answer": "Yesterday I ate pizza."
+    },
+    {
+      "id": 14,
+      "question": "Which verb best completes the sentence? 'By this time tomorrow, our class ____ a science test.'",
+      "options": ["takes", "took", "will take", "taking"],
+      "answer": "will take"
+    },
+    {
+      "id": 15,
+      "question": "Read the sentence: 'Sam opened the door, picked up the package, and carried it inside.' How many verbs are in the sentence?",
+      "options": ["1", "2", "3", "4"],
+      "answer": "3"
+    }
+  ]
+}
