@@ -1,0 +1,103 @@
+{
+  "id": 11,
+  "chapter": "Advanced Multi-Step Word Problems and Logical Reasoning",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Tom has 15 marbles. Jay has 7 more marbles than Tom. How many marbles do they have altogether?",
+      "options": ["37", "42", "45", "52"],
+      "answer": "37"
+    },
+    {
+      "id": 2,
+      "question": "A bus carried 36 passengers. At the first stop, 8 got off and 5 got on. At the second stop, 4 got off. How many passengers are on the bus now?",
+      "options": ["27", "29", "31", "33"],
+      "answer": "29"
+    },
+    {
+      "id": 3,
+      "question": "A box contains 48 cookies. They are shared equally among 6 children. How many cookies does each child get?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8"
+    },
+    {
+      "id": 4,
+      "question": "Ria has twice as many stickers as Sam. Sam has 9 stickers. How many stickers do they have together?",
+      "options": ["18", "27", "36", "45"],
+      "answer": "27"
+    },
+    {
+      "id": 5,
+      "question": "A rope is 95 cm long. First 25 cm is cut off. Then 18 cm is cut off. How much rope remains?",
+      "options": ["42 cm", "52 cm", "62 cm", "72 cm"],
+      "answer": "52 cm"
+    },
+
+    {
+      "id": 6,
+      "question": "There are 8 baskets with 7 apples in each basket. 12 apples are eaten. How many apples remain?",
+      "options": ["42", "44", "46", "48"],
+      "answer": "44"
+    },
+    {
+      "id": 7,
+      "question": "Om has $30. He buys a toy for $12 and a book for $7. Then his grandmother gives him $10. How much money does he have now?",
+      "options": ["$19", "$21", "$23", "$25"],
+      "answer": "$21"
+    },
+    {
+      "id": 8,
+      "question": "A classroom has 5 rows of desks with 6 desks in each row. 4 more desks are brought in. How many desks are there now?",
+      "options": ["30", "32", "34", "36"],
+      "answer": "34"
+    },
+    {
+      "id": 9,
+      "question": "If one notebook costs $4, how many notebooks can you buy with $28?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "id": 10,
+      "question": "A train traveled 145 miles on Monday and 178 miles on Tuesday. It traveled 95 miles on Wednesday. How many miles did it travel altogether?",
+      "options": ["408", "418", "428", "438"],
+      "answer": "418"
+    },
+
+    {
+      "id": 11,
+      "question": "Jay has 3 fewer candies than Om. Together they have 21 candies. If Om has 12 candies, how many candies does Jay have?",
+      "options": ["7", "8", "9", "10"],
+      "answer": "9"
+    },
+    {
+      "id": 12,
+      "question": "A farmer has chickens and cows. There are 12 animals altogether. If 5 are cows, how many are chickens?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "id": 13,
+      "question": "A number is greater than 30 but less than 40. It is also divisible by 5. What number could it be?",
+      "options": ["32", "35", "37", "38"],
+      "answer": "35"
+    },
+    {
+      "id": 14,
+      "question": "School starts at 8:20 AM and ends at 2:50 PM. How long is the school day?",
+      "options": [
+        "6 hours 10 minutes",
+        "6 hours 20 minutes",
+        "6 hours 30 minutes",
+        "6 hours 40 minutes"
+      ],
+      "answer": "6 hours 30 minutes"
+    },
+    {
+      "id": 15,
+      "question": "I am thinking of a number. If you double it and then add 6, the answer is 20. What is my number?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7"
+    }
+  ]
+}
