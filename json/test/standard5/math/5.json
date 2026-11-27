@@ -1,0 +1,22 @@
+{
+  "id": 5,
+  "questions": [
+    {"id": 1, "question": "What is negative number?", "options": ["Positive", "Less than zero", "Only subtraction", "No zero"], "answer": "Less than zero"},
+    {"id": 2, "question": "-5 + 3 = ?", "options": ["-2", "2", "-8", "8"], "answer": "-2"},
+    {"id": 3, "question": "What is absolute value?", "options": ["Negative", "Distance from zero", "Only positive", "Only negative"], "answer": "Distance from zero"},
+    {"id": 4, "question": "|-5| = ?", "options": ["-5", "5", "0", "10"], "answer": "5"},
+    {"id": 5, "question": "-3 - (-2) = ?", "options": ["-5", "-1", "5", "1"], "answer": "-1"},
+    {"id": 6, "question": "What is integer multiplication?", "options": ["Same sign", "Sign rules", "Only positive", "Only negative"], "answer": "Sign rules"},
+    {"id": 7, "question": "-4 × 3 = ?", "options": ["12", "-12", "7", "-7"], "answer": "-12"},
+    {"id": 8, "question": "-3 × -4 = ?", "options": ["-12", "12", "-7", "7"], "answer": "12"},
+    {"id": 9, "question": "What is integer division?", "options": ["Same sign", "Sign rules", "Only positive", "Only negative"], "answer": "Sign rules"},
+    {"id": 10, "question": "-12 ÷ 3 = ?", "options": ["4", "-4", "9", "-9"], "answer": "-4"},
+    {"id": 11, "question": "What is positive integer?", "options": ["Negative", "Greater than zero", "Only whole", "Only big"], "answer": "Greater than zero"},
+    {"id": 12, "question": "What is negative integer?", "options": ["Positive", "Less than zero", "Only whole", "Only small"], "answer": "Less than zero"},
+    {"id": 13, "question": "What is number line?", "options": ["No line", "Visual representation", "Only positive", "Only negative"], "answer": "Visual representation"},
+    {"id": 14, "question": "What is opposite?", "options": ["Same", "Additive inverse", "Only negative", "Only positive"], "answer": "Additive inverse"},
+    {"id": 15, "question": "Opposite of 7?", "options": ["7", "-7", "1/7", "0"], "answer": "-7"},
+    {"id": 16, "question": "What is sum of opposites?", "options": ["Positive", "Zero", "Negative", "One"], "answer": "Zero"},
+    {"id": 17, "question": "Why integers?", "options": ["No reason", "Represent real world", "Only math", "Only tests"], "answer": "Represent real world"}
+  ]
+}

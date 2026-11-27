@@ -1,0 +1,22 @@
+{
+  "id": 8,
+  "questions": [
+    {"id": 1, "question": "What is dialect literature?", "options": ["No dialect", "Regional speech", "Only accent", "Only grammar"], "answer": "Regional speech"},
+    {"id": 2, "question": "What is multicultural?", "options": ["One culture", "Many cultures", "Only blended", "No difference"], "answer": "Many cultures"},
+    {"id": 3, "question": "What is postcolonial?", "options": ["Before colonization", "After colonization", "Only political", "No literature"], "answer": "After colonization"},
+    {"id": 4, "question": "What is feminist?", "options": ["Anti-women", "Gender equality", "Only women", "No men"], "answer": "Gender equality"},
+    {"id": 5, "question": "What is queer theory?", "options": ["No theory", "Non-normative", "Only sexuality", "Only identity"], "answer": "Non-normative"},
+    {"id": 6, "question": "What is Marxist?", "options": ["No theory", "Class analysis", "Only economics", "No power"], "answer": "Class analysis"},
+    {"id": 7, "question": "What is psychoanalytic?", "options": ["No psychology", "Unconscious analysis", "Only dreams", "No symbols"], "answer": "Unconscious analysis"},
+    {"id": 8, "question": "What is new historicism?", "options": ["No context", "Historical context", "Only period", "No connection"], "answer": "Historical context"},
+    {"id": 9, "question": "What is deconstruction?", "options": ["No construction", "Analyzing meaning", "Only words", "No structure"], "answer": "Analyzing meaning"},
+    {"id": 10, "question": "What is reception?", "options": ["Writing", "Reader response", "Only meaning", "No interpretation"], "answer": "Reader response"},
+    {"id": 11, "question": "What is narrative theory?", "options": ["No theory", "Story structure", "Only plot", "No point"], "answer": "Story structure"},
+    {"id": 12, "question": "What is semiotics?", "options": ["No symbols", "Sign meaning", "Only obvious", "No interpretation"], "answer": "Sign meaning"},
+    {"id": 13, "question": "What is structural?", "options": ["No structure", "Pattern analysis", "Only obvious", "No layers"], "answer": "Pattern analysis"},
+    {"id": 14, "question": "What is cultural studies?", "options": ["No culture", "Culture meaning", "Only high", "Only low"], "answer": "Culture meaning"},
+    {"id": 15, "question": "What is adaptation?", "options": ["Original", "Changed form", "Only film", "Only novel"], "answer": "Changed form"},
+    {"id": 16, "question": "What is intertextuality?", "options": ["No connection", "Text references", "Only obvious", "No layers"], "answer": "Text references"},
+    {"id": 17, "question": "Why literary theory?", "options": ["No reason", "Deeper understanding", "Only tests", "Only class"], "answer": "Deeper understanding"}
+  ]
+}

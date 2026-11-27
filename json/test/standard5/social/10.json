@@ -1,0 +1,22 @@
+{
+  "id": 10,
+  "questions": [
+    {"id": 1, "question": "What is civic responsibility?", "options": ["No duty", "Community duty", "Only voting", "Only obvious"], "answer": "Community duty"},
+    {"id": 2, "question": "What is volunteer?", "options": ["Paid", "Unpaid help", "Only obvious", "Only formal"], "answer": "Unpaid help"},
+    {"id": 3, "question": "What is activism?", "options": ["No change", "Advocacy action", "Only obvious", "Only political"], "answer": "Advocacy action"},
+    {"id": 4, "question": "What is advocacy?", "options": ["No support", "Public support", "Only obvious", "Only political"], "answer": "Public support"},
+    {"id": 5, "question": "What is democracy participation?", "options": ["No involvement", "Active involvement", "Only voting", "Only obvious"], "answer": "Active involvement"},
+    {"id": 6, "question": "What is civil disobedience?", "options": ["Obedience", "Justified defiance", "Only obvious", "Only legal"], "answer": "Justified defiance"},
+    {"id": 7, "question": "What is protest?", "options": ["No expression", "Objection expression", "Only obvious", "Only political"], "answer": "Objection expression"},
+    {"id": 8, "question": "What is civil rights?", "options": ["No rights", "Equal protection", "Only obvious", "Only legal"], "answer": "Equal protection"},
+    {"id": 9, "question": "What is human rights?", "options": ["No rights", "Universal protection", "Only obvious", "Only legal"], "answer": "Universal protection"},
+    {"id": 10, "question": "What is dignity?", "options": ["No respect", "Human worth", "Only obvious", "Only personal"], "answer": "Human worth"},
+    {"id": 11, "question": "What is empathy?", "options": ["No feeling", "Shared understanding", "Only obvious", "Only emotional"], "answer": "Shared understanding"},
+    {"id": 12, "question": "What is tolerance?", "options": ["Intolerance", "Accepting difference", "Only obvious", "Only cultural"], "answer": "Accepting difference"},
+    {"id": 13, "question": "What is cooperation?", "options": ["Competition", "Working together", "Only obvious", "Only formal"], "answer": "Working together"},
+    {"id": 14, "question": "What is community service?", "options": ["No service", "Public benefit", "Only obvious", "Only formal"], "answer": "Public benefit"},
+    {"id": 15, "question": "What is social responsibility?", "options": ["No duty", "Societal obligation", "Only obvious", "Only personal"], "answer": "Societal obligation"},
+    {"id": 16, "question": "What is ethical leadership?", "options": ["No ethics", "Moral guidance", "Only obvious", "Only political"], "answer": "Moral guidance"},
+    {"id": 17, "question": "Why social responsibility?", "options": ["No reason", "Better society", "Only obvious", "Only class"], "answer": "Better society"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 4,
+  "questions": [
+    {"id": 1, "question": "What is text type?", "options": ["No type", "Written form", "Only fiction", "Only nonfiction"], "answer": "Written form"},
+    {"id": 2, "question": "What is narrative?", "options": ["Information", "Story form", "Only long", "Only fiction"], "answer": "Story form"},
+    {"id": 3, "question": "What is exposition?", "options": ["Story", "Information form", "Only data", "Only facts"], "answer": "Information form"},
+    {"id": 4, "question": "What is persuasive text?", "options": ["Information", "Convincing form", "Only argument", "No opinion"], "answer": "Convincing form"},
+    {"id": 5, "question": "What is descriptive?", "options": ["Action", "Detail form", "Only sensory", "Only visual"], "answer": "Detail form"},
+    {"id": 6, "question": "What is journalism?", "options": ["Creative", "News writing", "Only investigation", "No reporting"], "answer": "News writing"},
+    {"id": 7, "question": "What is memoir?", "options": ["Biography", "Personal narrative", "Only memory", "Only recent"], "answer": "Personal narrative"},
+    {"id": 8, "question": "What is autobiography?", "options": ["Biography", "Self life story", "Only long", "Only detailed"], "answer": "Self life story"},
+    {"id": 9, "question": "What is essay?", "options": ["Story", "Short composition", "Only persuasive", "Only long"], "answer": "Short composition"},
+    {"id": 10, "question": "What is review?", "options": ["No judgment", "Critical evaluation", "Only positive", "Only negative"], "answer": "Critical evaluation"},
+    {"id": 11, "question": "What is proposal?", "options": ["No suggestion", "Formal suggestion", "Only project", "Only action"], "answer": "Formal suggestion"},
+    {"id": 12, "question": "What is report?", "options": ["Opinion", "Factual account", "Only data", "Only research"], "answer": "Factual account"},
+    {"id": 13, "question": "What is manual?", "options": ["No guide", "Instruction guide", "Only technical", "Only manual"], "answer": "Instruction guide"},
+    {"id": 14, "question": "What is abstract?", "options": ["Detailed", "Summary form", "Only long", "Only short"], "answer": "Summary form"},
+    {"id": 15, "question": "What is annotation?", "options": ["No notes", "Explanatory notes", "Only margins", "Only text"], "answer": "Explanatory notes"},
+    {"id": 16, "question": "What is outline?", "options": ["Random", "Organized structure", "Only final", "No hierarchy"], "answer": "Organized structure"},
+    {"id": 17, "question": "Why different forms?", "options": ["No reason", "Different purpose", "Only choice", "Only style"], "answer": "Different purpose"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "questions": [
+    {"id": 1, "question": "What is integer?", "options": ["Fraction", "Whole number", "Only positive", "No zero"], "answer": "Whole number"},
+    {"id": 2, "question": "50 + 75 = ?", "options": ["125", "120", "130", "110"], "answer": "125"},
+    {"id": 3, "question": "What is sum property?", "options": ["No property", "Order independent", "Only adding", "No change"], "answer": "Order independent"},
+    {"id": 4, "question": "250 + 150 = ?", "options": ["300", "350", "400", "450"], "answer": "400"},
+    {"id": 5, "question": "What is inverse?", "options": ["Same", "Opposite operation", "No relation", "Only subtraction"], "answer": "Opposite operation"},
+    {"id": 6, "question": "100 - 35 = ?", "options": ["60", "65", "70", "75"], "answer": "65"},
+    {"id": 7, "question": "What is borrowing?", "options": ["Giving", "Regrouping tens", "Only subtraction", "No change"], "answer": "Regrouping tens"},
+    {"id": 8, "question": "What is carrying?", "options": ["Moving", "Regrouping addition", "Only units", "No change"], "answer": "Regrouping addition"},
+    {"id": 9, "question": "What is commutative?", "options": ["No property", "Order independent", "Only for+", "No multiplication"], "answer": "Order independent"},
+    {"id": 10, "question": "What is associative?", "options": ["No property", "Grouping independent", "Only +", "No parentheses"], "answer": "Grouping independent"},
+    {"id": 11, "question": "What is distributive?", "options": ["No property", "Multiply sum", "Only multiply", "No distribute"], "answer": "Multiply sum"},
+    {"id": 12, "question": "5 × (3 + 2) = 5×3 + 5×2?", "options": ["No", "Yes", "Only sometimes", "Never"], "answer": "Yes"},
+    {"id": 13, "question": "If 20 + ? = 55, missing = ?", "options": ["35", "30", "40", "25"], "answer": "35"},
+    {"id": 14, "question": "What is equation?", "options": ["Expression", "Equal statement", "Only two", "No equals"], "answer": "Equal statement"},
+    {"id": 15, "question": "What is variable?", "options": ["Fixed", "Unknown value", "Only letter", "No symbol"], "answer": "Unknown value"},
+    {"id": 16, "question": "Solve: x + 10 = 25, x = ?", "options": ["35", "15", "50", "5"], "answer": "15"},
+    {"id": 17, "question": "Why understand properties?", "options": ["No reason", "Solve efficiently", "Only tests", "Only needed"], "answer": "Solve efficiently"}
+  ]
+}

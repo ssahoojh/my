@@ -1,0 +1,22 @@
+{
+  "id": 7,
+  "questions": [
+    {"id": 1, "question": "What is weather?", "options": ["Climate", "Atmospheric condition", "Only temperature", "Only short-term"], "answer": "Atmospheric condition"},
+    {"id": 2, "question": "What is climate?", "options": ["Weather instant", "Long-term pattern", "Only average", "Only predictable"], "answer": "Long-term pattern"},
+    {"id": 3, "question": "What is atmosphere?", "options": ["Land", "Air layer", "Only oxygen", "Only visible"], "answer": "Air layer"},
+    {"id": 4, "question": "What is pressure?", "options": ["No force", "Air weight", "Only high", "Only low"], "answer": "Air weight"},
+    {"id": 5, "question": "What is humidity?", "options": ["Dry", "Water vapor", "Only high", "Only percentage"], "answer": "Water vapor"},
+    {"id": 6, "question": "What is temperature?", "options": ["Pressure", "Heat measure", "Only hot", "Only cold"], "answer": "Heat measure"},
+    {"id": 7, "question": "What is precipitation?", "options": ["Evaporation", "Water falling", "Only rain", "Only snow"], "answer": "Water falling"},
+    {"id": 8, "question": "What is condensation?", "options": ["Evaporation", "Vapor liquid", "Only clouds", "Only visible"], "answer": "Vapor liquid"},
+    {"id": 9, "question": "What is evaporation?", "options": ["Condensing", "Liquid vapor", "Only heat", "Only water"], "answer": "Liquid vapor"},
+    {"id": 10, "question": "What is water cycle?", "options": ["No cycle", "Continuous movement", "Only water", "Only atmosphere"], "answer": "Continuous movement"},
+    {"id": 11, "question": "What is front?", "options": ["Uniform", "Air mass boundary", "Only cold", "Only warm"], "answer": "Air mass boundary"},
+    {"id": 12, "question": "What is storm?", "options": ["Clear", "Severe weather", "Only thunder", "Only tornado"], "answer": "Severe weather"},
+    {"id": 13, "question": "What is hurricane?", "options": ["Small", "Rotating system", "Only tropical", "Only Atlantic"], "answer": "Rotating system"},
+    {"id": 14, "question": "What is tornado?", "options": ["Large", "Spinning column", "Only visible", "Only dangerous"], "answer": "Spinning column"},
+    {"id": 15, "question": "What is jet stream?", "options": ["Stationary", "High wind", "Only visible", "Only weather"], "answer": "High wind"},
+    {"id": 16, "question": "What is greenhouse effect?", "options": ["No effect", "Heat trapping", "Only bad", "Only current"], "answer": "Heat trapping"},
+    {"id": 17, "question": "Why meteorology?", "options": ["No reason", "Weather prediction", "Only storms", "Only observation"], "answer": "Weather prediction"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 2,
+  "questions": [
+    {"id": 1, "question": "What is literary analysis?", "options": ["Summary", "Examining meaning", "Only plot", "No interpretation"], "answer": "Examining meaning"},
+    {"id": 2, "question": "What is symbolism?", "options": ["Literal", "Representation meaning", "Only objects", "No meaning"], "answer": "Representation meaning"},
+    {"id": 3, "question": "What is theme?", "options": ["Setting", "Central idea", "Only obvious", "No universal"], "answer": "Central idea"},
+    {"id": 4, "question": "What is tone?", "options": ["Volume", "Author attitude", "Only harsh", "Only nice"], "answer": "Author attitude"},
+    {"id": 5, "question": "What is mood?", "options": ["Emotion", "Feeling created", "Only happy", "Only sad"], "answer": "Feeling created"},
+    {"id": 6, "question": "What is irony?", "options": ["Straightforward", "Opposite expectation", "Only sarcasm", "No contrast"], "answer": "Opposite expectation"},
+    {"id": 7, "question": "What is dramatic irony?", "options": ["Audience knows", "Reader knows more", "Only obvious", "No knowledge"], "answer": "Reader knows more"},
+    {"id": 8, "question": "What is foreshadowing?", "options": ["Flashback", "Hinting ahead", "Only obvious", "Only subtle"], "answer": "Hinting ahead"},
+    {"id": 9, "question": "What is flashback?", "options": ["Forward", "Past event", "Only recent", "Only old"], "answer": "Past event"},
+    {"id": 10, "question": "What is pacing?", "options": ["Walking", "Narrative speed", "Only fast", "Only slow"], "answer": "Narrative speed"},
+    {"id": 11, "question": "What is tension?", "options": ["No tension", "Suspenseful build", "Only conflict", "No suspense"], "answer": "Suspenseful build"},
+    {"id": 12, "question": "What is denouement?", "options": ["Problem", "Resolution after", "Only final", "No unwinding"], "answer": "Resolution after"},
+    {"id": 13, "question": "What is archetype?", "options": ["Individual", "Universal character", "Only hero", "Only villain"], "answer": "Universal character"},
+    {"id": 14, "question": "What is bildungsroman?", "options": ["Random", "Coming of age", "Only young", "Only old"], "answer": "Coming of age"},
+    {"id": 15, "question": "What is allegory?", "options": ["Literal", "Extended metaphor", "Only obvious", "No layers"], "answer": "Extended metaphor"},
+    {"id": 16, "question": "What is allusion?", "options": ["Illusion", "Reference to", "Only obvious", "No connection"], "answer": "Reference to"},
+    {"id": 17, "question": "Why analyze literature?", "options": ["No reason", "Understand depth", "Only tests", "Only class"], "answer": "Understand depth"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3,
+  "questions": [
+    {"id": 1, "question": "What is matter?", "options": ["No substance", "Physical substance", "Only visible", "No weight"], "answer": "Physical substance"},
+    {"id": 2, "question": "What is atom?", "options": ["Divisible", "Smallest unit", "Only visible", "No nucleus"], "answer": "Smallest unit"},
+    {"id": 3, "question": "What is molecule?", "options": ["Single atom", "Bonded atoms", "Only big", "Only visible"], "answer": "Bonded atoms"},
+    {"id": 4, "question": "What is element?", "options": ["Mixture", "Pure substance", "Only metal", "Only visible"], "answer": "Pure substance"},
+    {"id": 5, "question": "What is compound?", "options": ["Element", "Bonded elements", "Only liquid", "Only molecular"], "answer": "Bonded elements"},
+    {"id": 6, "question": "What is mixture?", "options": ["Pure", "Combined substances", "Only homogeneous", "Only heterogeneous"], "answer": "Combined substances"},
+    {"id": 7, "question": "What is chemical bond?", "options": ["No connection", "Atomic connection", "Only ionic", "Only covalent"], "answer": "Atomic connection"},
+    {"id": 8, "question": "What is ionic bond?", "options": ["Sharing", "Electron transfer", "Only metals", "Only nonmetals"], "answer": "Electron transfer"},
+    {"id": 9, "question": "What is covalent bond?", "options": ["Transfer", "Electron sharing", "Only metals", "Only nonmetals"], "answer": "Electron sharing"},
+    {"id": 10, "question": "What is pH?", "options": ["No scale", "Acidity measure", "Only acidic", "Only basic"], "answer": "Acidity measure"},
+    {"id": 11, "question": "What is acid?", "options": ["Basic", "Hydrogen donor", "Only liquid", "Only corrosive"], "answer": "Hydrogen donor"},
+    {"id": 12, "question": "What is base?", "options": ["Acidic", "Hydrogen acceptor", "Only liquid", "Only slippery"], "answer": "Hydrogen acceptor"},
+    {"id": 13, "question": "What is oxidation?", "options": ["Reduction", "Electron loss", "Only with oxygen", "Only slow"], "answer": "Electron loss"},
+    {"id": 14, "question": "What is reduction?", "options": ["Oxidation", "Electron gain", "Only with hydrogen", "Only fast"], "answer": "Electron gain"},
+    {"id": 15, "question": "What is catalyze?", "options": ["Slow", "Speed reaction", "Only unchanged", "No regeneration"], "answer": "Speed reaction"},
+    {"id": 16, "question": "What is equilibrium?", "options": ["Change", "Balanced state", "Only static", "Only dynamic"], "answer": "Balanced state"},
+    {"id": 17, "question": "Why chemistry?", "options": ["No reason", "Matter understanding", "Only reactions", "Only formulas"], "answer": "Matter understanding"}
+  ]
+}

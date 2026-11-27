@@ -1,0 +1,22 @@
+{
+  "id": 10,
+  "questions": [
+    {"id": 1, "question": "What is composition?", "options": ["Literature", "Writing skill", "Only essays", "No structure"], "answer": "Writing skill"},
+    {"id": 2, "question": "What is rhetoric?", "options": ["No speaking", "Persuasive technique", "Only writing", "Only speaking"], "answer": "Persuasive technique"},
+    {"id": 3, "question": "What is argument structure?", "options": ["No structure", "Claim-evidence", "Only claim", "No evidence"], "answer": "Claim-evidence"},
+    {"id": 4, "question": "What is counterargument?", "options": ["No opposition", "Opposing view", "Only refutation", "No concession"], "answer": "Opposing view"},
+    {"id": 5, "question": "What is concession?", "options": ["Disagreement", "Acknowledging", "Only agreement", "Only partial"], "answer": "Acknowledging"},
+    {"id": 6, "question": "What is refutation?", "options": ["Agreement", "Disproving", "Only argument", "No rebuttal"], "answer": "Disproving"},
+    {"id": 7, "question": "What is thesis development?", "options": ["No thesis", "Argument growth", "Only argument", "No support"], "answer": "Argument growth"},
+    {"id": 8, "question": "What is topic sentence?", "options": ["Ending", "Main idea", "Only paragraph", "No main"], "answer": "Main idea"},
+    {"id": 9, "question": "What is coherence?", "options": ["Disconnected", "Logical flow", "Only obvious", "No connection"], "answer": "Logical flow"},
+    {"id": 10, "question": "What is cohesion?", "options": ["Separated", "Connected elements", "Only words", "Only phrases"], "answer": "Connected elements"},
+    {"id": 11, "question": "What is transition?", "options": ["No connection", "Connecting ideas", "Only words", "No signal"], "answer": "Connecting ideas"},
+    {"id": 12, "question": "What is elaboration?", "options": ["Simplification", "Expansion detail", "Only examples", "Only evidence"], "answer": "Expansion detail"},
+    {"id": 13, "question": "What is revision?", "options": ["First draft", "Improving draft", "Only grammar", "No substance"], "answer": "Improving draft"},
+    {"id": 14, "question": "What is editing?", "options": ["No change", "Fixing errors", "Only grammar", "No content"], "answer": "Fixing errors"},
+    {"id": 15, "question": "What is proofreading?", "options": ["No checking", "Final check", "Only spelling", "No punctuation"], "answer": "Final check"},
+    {"id": 16, "question": "What is feedback?", "options": ["No response", "Constructive comment", "Only criticism", "Only praise"], "answer": "Constructive comment"},
+    {"id": 17, "question": "Why composition?", "options": ["No reason", "Express effectively", "Only tests", "Only class"], "answer": "Express effectively"}
+  ]
+}

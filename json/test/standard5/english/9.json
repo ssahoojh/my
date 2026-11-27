@@ -1,0 +1,22 @@
+{
+  "id": 9,
+  "questions": [
+    {"id": 1, "question": "What is digital media?", "options": ["Physical", "Electronic content", "Only internet", "No devices"], "answer": "Electronic content"},
+    {"id": 2, "question": "What is hypertext?", "options": ["No links", "Linked text", "Only online", "No navigation"], "answer": "Linked text"},
+    {"id": 3, "question": "What is multimodal?", "options": ["One mode", "Multiple modes", "Only visual", "No audio"], "answer": "Multiple modes"},
+    {"id": 4, "question": "What is new media?", "options": ["Traditional", "Digital technology", "Only internet", "Only recent"], "answer": "Digital technology"},
+    {"id": 5, "question": "What is social media?", "options": ["Traditional", "Platform sharing", "Only Facebook", "Only Twitter"], "answer": "Platform sharing"},
+    {"id": 6, "question": "What is viral?", "options": ["Illness", "Rapid spread", "Only internet", "Only intentional"], "answer": "Rapid spread"},
+    {"id": 7, "question": "What is meme?", "options": ["Gene", "Shareable idea", "Only jokes", "Only image"], "answer": "Shareable idea"},
+    {"id": 8, "question": "What is remix?", "options": ["Original", "Reused content", "Only music", "Only creative"], "answer": "Reused content"},
+    {"id": 9, "question": "What is convergence?", "options": ["Separation", "Media merging", "Only digital", "Only physical"], "answer": "Media merging"},
+    {"id": 10, "question": "What is participatory?", "options": ["No participation", "Active involvement", "Only audience", "No creation"], "answer": "Active involvement"},
+    {"id": 11, "question": "What is crowdsourcing?", "options": ["Single source", "Collective input", "Only online", "Only big"], "answer": "Collective input"},
+    {"id": 12, "question": "What is algorithm?", "options": ["Random", "Procedural rules", "Only mathematical", "No logic"], "answer": "Procedural rules"},
+    {"id": 13, "question": "What is data mining?", "options": ["No data", "Information extraction", "Only personal", "No insight"], "answer": "Information extraction"},
+    {"id": 14, "question": "What is metadata?", "options": ["Data only", "Data about data", "Only important", "No context"], "answer": "Data about data"},
+    {"id": 15, "question": "What is privacy?", "options": ["No protection", "Information control", "Only personal", "Only digital"], "answer": "Information control"},
+    {"id": 16, "question": "What is digital literacy?", "options": ["No literacy", "Technology understanding", "Only skills", "Only awareness"], "answer": "Technology understanding"},
+    {"id": 17, "question": "Why digital media?", "options": ["No reason", "Modern communication", "Only entertainment", "Only work"], "answer": "Modern communication"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 5,
+  "questions": [
+    {"id": 1, "question": "What is culture?", "options": ["Individual", "Shared practice", "Only visible", "Only obvious"], "answer": "Shared practice"},
+    {"id": 2, "question": "What is tradition?", "options": ["New", "Passed practice", "Only religious", "Only obvious"], "answer": "Passed practice"},
+    {"id": 3, "question": "What is custom?", "options": ["Individual", "Social practice", "Only formal", "Only obvious"], "answer": "Social practice"},
+    {"id": 4, "question": "What is religion?", "options": ["No faith", "Belief system", "Only organized", "Only visible"], "answer": "Belief system"},
+    {"id": 5, "question": "What is ritual?", "options": ["Random", "Ceremonial act", "Only religious", "Only visible"], "answer": "Ceremonial act"},
+    {"id": 6, "question": "What is language?", "options": ["No communication", "Communication system", "Only spoken", "Only visible"], "answer": "Communication system"},
+    {"id": 7, "question": "What is dialect?", "options": ["Standard", "Regional variation", "Only accent", "Only obvious"], "answer": "Regional variation"},
+    {"id": 8, "question": "What is artifact?", "options": ["No creation", "Cultural object", "Only visible", "Only ancient"], "answer": "Cultural object"},
+    {"id": 9, "question": "What is value cultural?", "options": ["Individual", "Shared belief", "Only obvious", "Only moral"], "answer": "Shared belief"},
+    {"id": 10, "question": "What is worldview?", "options": ["Individual", "Cultural perspective", "Only philosophical", "Only Western"], "answer": "Cultural perspective"},
+    {"id": 11, "question": "What is acculturation?", "options": ["No change", "Cultural adoption", "Only forced", "Only obvious"], "answer": "Cultural adoption"},
+    {"id": 12, "question": "What is assimilation?", "options": ["Maintained", "Cultural integration", "Only forced", "Only obvious"], "answer": "Cultural integration"},
+    {"id": 13, "question": "What is pluralism?", "options": ["Uniform", "Multiple cultures", "Only equal", "Only obvious"], "answer": "Multiple cultures"},
+    {"id": 14, "question": "What is appropriation?", "options": ["Respect", "Unauthorized taking", "Only obvious", "Only cultural"], "answer": "Unauthorized taking"},
+    {"id": 15, "question": "What is heritage cultural?", "options": ["Individual", "Inherited tradition", "Only visible", "Only ancient"], "answer": "Inherited tradition"},
+    {"id": 16, "question": "What is diffusion cultural?", "options": ["Stationary", "Cultural spread", "Only obvious", "Only modern"], "answer": "Cultural spread"},
+    {"id": 17, "question": "Why anthropology?", "options": ["No reason", "Culture understanding", "Only different", "Only obvious"], "answer": "Culture understanding"}
+  ]
+}

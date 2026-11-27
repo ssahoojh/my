@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "questions": [
+    {"id": 1, "question": "What is society?", "options": ["Individual", "Organized group", "Only big", "Only nation"], "answer": "Organized group"},
+    {"id": 2, "question": "What is culture?", "options": ["No values", "Shared values", "Only arts", "Only traditions"], "answer": "Shared values"},
+    {"id": 3, "question": "What is institution?", "options": ["Individual", "Established system", "Only government", "Only family"], "answer": "Established system"},
+    {"id": 4, "question": "What is role?", "options": ["No position", "Expected behavior", "Only official", "Only fixed"], "answer": "Expected behavior"},
+    {"id": 5, "question": "What is status?", "options": ["No position", "Social position", "Only high", "Only official"], "answer": "Social position"},
+    {"id": 6, "question": "What is norm?", "options": ["Individual", "Behavior standard", "Only written", "Only official"], "answer": "Behavior standard"},
+    {"id": 7, "question": "What is sanction?", "options": ["No consequence", "Behavior consequence", "Only punishment", "Only reward"], "answer": "Behavior consequence"},
+    {"id": 8, "question": "What is socialization?", "options": ["No learning", "Cultural learning", "Only childhood", "Only formal"], "answer": "Cultural learning"},
+    {"id": 9, "question": "What is conformity?", "options": ["Individual", "Group following", "Only forced", "Only natural"], "answer": "Group following"},
+    {"id": 10, "question": "What is deviance?", "options": ["Norm following", "Norm violation", "Only illegal", "Only obvious"], "answer": "Norm violation"},
+    {"id": 11, "question": "What is stratification?", "options": ["Equal", "Hierarchy system", "Only economic", "Only obvious"], "answer": "Hierarchy system"},
+    {"id": 12, "question": "What is class?", "options": ["Individual", "Social stratum", "Only economic", "Only obvious"], "answer": "Social stratum"},
+    {"id": 13, "question": "What is caste?", "options": ["Flexible", "Fixed position", "Only hereditary", "Only India"], "answer": "Fixed position"},
+    {"id": 14, "question": "What is ethnicity?", "options": ["No identity", "Shared heritage", "Only language", "Only obvious"], "answer": "Shared heritage"},
+    {"id": 15, "question": "What is stereotype?", "options": ["Individual", "Group generalization", "Only negative", "Only obvious"], "answer": "Group generalization"},
+    {"id": 16, "question": "What is prejudice?", "options": ["No judgment", "Pre-judgment", "Only negative", "Only obvious"], "answer": "Pre-judgment"},
+    {"id": 17, "question": "Why sociology?", "options": ["No reason", "Society understanding", "Only obvious", "Only class"], "answer": "Society understanding"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "questions": [
+    {"id": 1, "question": "What is rhetoric?", "options": ["No speaking", "Persuasive speech", "Only writing", "Only technical"], "answer": "Persuasive speech"},
+    {"id": 2, "question": "What is argument?", "options": ["Fight", "Supporting claim", "Only evidence", "No claim"], "answer": "Supporting claim"},
+    {"id": 3, "question": "What is thesis?", "options": ["Introduction", "Main argument", "Only last", "No restatement"], "answer": "Main argument"},
+    {"id": 4, "question": "What is evidence?", "options": ["Opinion", "Support for claim", "Only examples", "No proof"], "answer": "Support for claim"},
+    {"id": 5, "question": "What is warrant?", "options": ["No connection", "Connecting evidence", "Only logical", "No bridge"], "answer": "Connecting evidence"},
+    {"id": 6, "question": "What is logical fallacy?", "options": ["Logical", "Invalid reasoning", "Only obvious", "No fallacy"], "answer": "Invalid reasoning"},
+    {"id": 7, "question": "What is ad hominem?", "options": ["Argument", "Attacking person", "Only words", "No attack"], "answer": "Attacking person"},
+    {"id": 8, "question": "What is straw man?", "options": ["Real", "Oversimplified", "Only words", "No simplification"], "answer": "Oversimplified"},
+    {"id": 9, "question": "What is appeal to authority?", "options": ["No appeal", "Expert reference", "Only credentials", "No expertise"], "answer": "Expert reference"},
+    {"id": 10, "question": "What is bandwagon?", "options": ["No appeal", "Popular because", "Only voting", "No popularity"], "answer": "Popular because"},
+    {"id": 11, "question": "What is ethos?", "options": ["Emotion", "Speaker credibility", "Only character", "No trust"], "answer": "Speaker credibility"},
+    {"id": 12, "question": "What is pathos?", "options": ["Logic", "Emotional appeal", "Only feeling", "No reason"], "answer": "Emotional appeal"},
+    {"id": 13, "question": "What is logos?", "options": ["Emotion", "Logical appeal", "Only facts", "No reasoning"], "answer": "Logical appeal"},
+    {"id": 14, "question": "What is bias?", "options": ["No bias", "One-sided view", "Only obvious", "No prejudice"], "answer": "One-sided view"},
+    {"id": 15, "question": "What is propaganda?", "options": ["No propaganda", "Persuasive material", "Only political", "Only false"], "answer": "Persuasive material"},
+    {"id": 16, "question": "What is credibility?", "options": ["No credibility", "Believability", "Only obvious", "No trust"], "answer": "Believability"},
+    {"id": 17, "question": "Why rhetoric matters?", "options": ["No reason", "Understand persuasion", "Only tests", "Only class"], "answer": "Understand persuasion"}
+  ]
+}

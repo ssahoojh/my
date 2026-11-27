@@ -1,0 +1,22 @@
+{
+  "id": 2,
+  "questions": [
+    {"id": 1, "question": "What is adaptation?", "options": ["Change", "Organism feature", "Only physical", "No behavioral"], "answer": "Organism feature"},
+    {"id": 2, "question": "What is natural selection?", "options": ["Random", "Survival selection", "Only obvious", "No evolution"], "answer": "Survival selection"},
+    {"id": 3, "question": "What is evolution?", "options": ["No change", "Species change", "Only recent", "No time"], "answer": "Species change"},
+    {"id": 4, "question": "What is mutation?", "options": ["No change", "Genetic change", "Only harmful", "Only beneficial"], "answer": "Genetic change"},
+    {"id": 5, "question": "What is variation?", "options": ["Identical", "Difference", "Only genetic", "Only obvious"], "answer": "Difference"},
+    {"id": 6, "question": "What is inheritance?", "options": ["No passing", "Trait passing", "Only genetic", "Only learned"], "answer": "Trait passing"},
+    {"id": 7, "question": "What is homologous?", "options": ["Different", "Similar origin", "Only structure", "No function"], "answer": "Similar origin"},
+    {"id": 8, "question": "What is analogous?", "options": ["Different", "Similar function", "Only structure", "Only origin"], "answer": "Similar function"},
+    {"id": 9, "question": "What is fossil?", "options": ["Living", "Ancient remains", "Only bones", "No imprint"], "answer": "Ancient remains"},
+    {"id": 10, "question": "What is extinction?", "options": ["Adapting", "Species loss", "Only recent", "No cause"], "answer": "Species loss"},
+    {"id": 11, "question": "What is speciation?", "options": ["No change", "New species", "Only separation", "Only time"], "answer": "New species"},
+    {"id": 12, "question": "What is niche?", "options": ["Habitat only", "Organism role", "Only space", "No resources"], "answer": "Organism role"},
+    {"id": 13, "question": "What is biodiversity?", "options": ["One species", "Species variety", "Only genetics", "Only obvious"], "answer": "Species variety"},
+    {"id": 14, "question": "What is ecosystem?", "options": ["Plants only", "Community system", "Only biotic", "Only abiotic"], "answer": "Community system"},
+    {"id": 15, "question": "What is food chain?", "options": ["No chain", "Energy path", "Only animals", "Only plants"], "answer": "Energy path"},
+    {"id": 16, "question": "What is succession?", "options": ["No change", "Ecosystem change", "Only primary", "Only secondary"], "answer": "Ecosystem change"},
+    {"id": 17, "question": "Why evolution?", "options": ["No reason", "Explain diversity", "Only tests", "Only theories"], "answer": "Explain diversity"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 6,
+  "questions": [
+    {"id": 1, "question": "What is geology?", "options": ["Life study", "Earth science", "Only rocks", "Only minerals"], "answer": "Earth science"},
+    {"id": 2, "question": "What is mineral?", "options": ["Rock", "Crystalline solid", "Only valuable", "Only visible"], "answer": "Crystalline solid"},
+    {"id": 3, "question": "What is rock?", "options": ["Mineral single", "Mineral aggregate", "Only hard", "Only visible"], "answer": "Mineral aggregate"},
+    {"id": 4, "question": "What is igneous?", "options": ["No magma", "Cooled magma", "Only volcanic", "Only plutonic"], "answer": "Cooled magma"},
+    {"id": 5, "question": "What is sedimentary?", "options": ["Molten", "Compacted sediment", "Only visible", "Only layered"], "answer": "Compacted sediment"},
+    {"id": 6, "question": "What is metamorphic?", "options": ["Molten", "Heat pressure rock", "Only deep", "Only changed"], "answer": "Heat pressure rock"},
+    {"id": 7, "question": "What is plate tectonics?", "options": ["No motion", "Moving crust", "Only surface", "Only causing"], "answer": "Moving crust"},
+    {"id": 8, "question": "What is convergent?", "options": ["Separating", "Colliding plates", "Only mountains", "Only earthquakes"], "answer": "Colliding plates"},
+    {"id": 9, "question": "What is divergent?", "options": ["Colliding", "Separating plates", "Only spreading", "Only rifting"], "answer": "Separating plates"},
+    {"id": 10, "question": "What is transform?", "options": ["Separating", "Sliding plates", "Only horizontal", "Only earthquakes"], "answer": "Sliding plates"},
+    {"id": 11, "question": "What is earthquake?", "options": ["No shaking", "Ground shaking", "Only sudden", "Only visible"], "answer": "Ground shaking"},
+    {"id": 12, "question": "What is volcano?", "options": ["No eruption", "Magma opening", "Only active", "Only dangerous"], "answer": "Magma opening"},
+    {"id": 13, "question": "What is magma?", "options": ["Cooled rock", "Molten rock", "Only visible", "Only deep"], "answer": "Molten rock"},
+    {"id": 14, "question": "What is lava?", "options": ["Molten deep", "Erupted magma", "Only visible", "Only cooled"], "answer": "Erupted magma"},
+    {"id": 15, "question": "What is erosion?", "options": ["Deposition", "Surface wear", "Only water", "Only wind"], "answer": "Surface wear"},
+    {"id": 16, "question": "What is weathering?", "options": ["No change", "Rock breakdown", "Only chemical", "Only physical"], "answer": "Rock breakdown"},
+    {"id": 17, "question": "Why geology?", "options": ["No reason", "Earth understanding", "Only rocks", "Only minerals"], "answer": "Earth understanding"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 10,
+  "questions": [
+    {"id": 1, "question": "What is logic?", "options": ["Random", "Reasoning system", "Only math", "No reasoning"], "answer": "Reasoning system"},
+    {"id": 2, "question": "What is theorem?", "options": ["Assumption", "Proven statement", "Only obvious", "No proof"], "answer": "Proven statement"},
+    {"id": 3, "question": "What is proof?", "options": ["Assumption", "Logical verification", "Only obvious", "No steps"], "answer": "Logical verification"},
+    {"id": 4, "question": "What is postulate?", "options": ["Proven", "Assumed true", "Only obvious", "Only 1"], "answer": "Assumed true"},
+    {"id": 5, "question": "What is deductive?", "options": ["Inductive", "General to specific", "Only specific", "No general"], "answer": "General to specific"},
+    {"id": 6, "question": "What is inductive?", "options": ["Deductive", "Specific to general", "Only general", "No specific"], "answer": "Specific to general"},
+    {"id": 7, "question": "What is counterexample?", "options": ["Supporting", "Disproving example", "Only exception", "No example"], "answer": "Disproving example"},
+    {"id": 8, "question": "What is conditional?", "options": ["No condition", "If-then statement", "Only if", "Only then"], "answer": "If-then statement"},
+    {"id": 9, "question": "What is converse?", "options": ["Same", "Reversing if-then", "Only if", "Only then"], "answer": "Reversing if-then"},
+    {"id": 10, "question": "What is inverse statement?", "options": ["Same", "Negating both", "Only hypothesis", "Only conclusion"], "answer": "Negating both"},
+    {"id": 11, "question": "What is contrapositive?", "options": ["Same", "Reversing negated", "Only negating", "Only reversing"], "answer": "Reversing negated"},
+    {"id": 12, "question": "What is set?", "options": ["One element", "Collection", "Only finite", "No infinite"], "answer": "Collection"},
+    {"id": 13, "question": "What is subset?", "options": ["Superset", "Contained in", "Only part", "No equal"], "answer": "Contained in"},
+    {"id": 14, "question": "What is union?", "options": ["Intersection", "Combined elements", "Only all", "Only common"], "answer": "Combined elements"},
+    {"id": 15, "question": "What is intersection?", "options": ["Union", "Common elements", "Only all", "No common"], "answer": "Common elements"},
+    {"id": 16, "question": "What is complement?", "options": ["Superset", "Not in set", "Only outside", "Only inside"], "answer": "Not in set"},
+    {"id": 17, "question": "Why logic?", "options": ["No reason", "Sound reasoning", "Only math", "Only tests"], "answer": "Sound reasoning"}
+  ]
+}

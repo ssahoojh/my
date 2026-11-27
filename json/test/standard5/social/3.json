@@ -1,0 +1,22 @@
+{
+  "id": 3,
+  "questions": [
+    {"id": 1, "question": "What is government?", "options": ["Individual", "Authority system", "Only federal", "Only democratic"], "answer": "Authority system"},
+    {"id": 2, "question": "What is democracy?", "options": ["Individual", "Popular rule", "Only direct", "Only representative"], "answer": "Popular rule"},
+    {"id": 3, "question": "What is monarchy?", "options": ["Democracy", "Monarch rule", "Only hereditary", "Only absolute"], "answer": "Monarch rule"},
+    {"id": 4, "question": "What is constitution?", "options": ["Law", "Government framework", "Only written", "Only fixed"], "answer": "Government framework"},
+    {"id": 5, "question": "What is legislation?", "options": ["Execution", "Law making", "Only federal", "Only visible"], "answer": "Law making"},
+    {"id": 6, "question": "What is judiciary?", "options": ["Executive", "Court system", "Only federal", "Only visible"], "answer": "Court system"},
+    {"id": 7, "question": "What is executive?", "options": ["Judicial", "Law enforcement", "Only president", "Only visible"], "answer": "Law enforcement"},
+    {"id": 8, "question": "What is parliament?", "options": ["Single", "Legislative body", "Only democratic", "Only bicameral"], "answer": "Legislative body"},
+    {"id": 9, "question": "What is representative?", "options": ["Direct", "Chosen leader", "Only official", "Only visible"], "answer": "Chosen leader"},
+    {"id": 10, "question": "What is vote?", "options": ["No choice", "Political selection", "Only election", "Only visible"], "answer": "Political selection"},
+    {"id": 11, "question": "What is policy?", "options": ["No plan", "Government action", "Only federal", "Only visible"], "answer": "Government action"},
+    {"id": 12, "question": "What is regulation?", "options": ["No rule", "Official rule", "Only government", "Only visible"], "answer": "Official rule"},
+    {"id": 13, "question": "What is right?", "options": ["Duty", "Individual protection", "Only legal", "Only obvious"], "answer": "Individual protection"},
+    {"id": 14, "question": "What is liberty?", "options": ["Restriction", "Individual freedom", "Only legal", "Only obvious"], "answer": "Individual freedom"},
+    {"id": 15, "question": "What is justice?", "options": ["Injustice", "Fair treatment", "Only legal", "Only obvious"], "answer": "Fair treatment"},
+    {"id": 16, "question": "What is law?", "options": ["No rule", "Official rule", "Only written", "Only fixed"], "answer": "Official rule"},
+    {"id": 17, "question": "Why civics?", "options": ["No reason", "Governance understanding", "Only voting", "Only obvious"], "answer": "Governance understanding"}
+  ]
+}

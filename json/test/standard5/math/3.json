@@ -1,0 +1,22 @@
+{
+  "id": 3,
+  "questions": [
+    {"id": 1, "question": "What is percentage?", "options": ["Fraction", "Per hundred", "Only tax", "No decimal"], "answer": "Per hundred"},
+    {"id": 2, "question": "What is 50%?", "options": ["Quarter", "Half", "Three quarters", "All"], "answer": "Half"},
+    {"id": 3, "question": "What is 25%?", "options": ["Half", "Quarter", "Third", "Three quarters"], "answer": "Quarter"},
+    {"id": 4, "question": "What is 75%?", "options": ["Quarter", "Half", "Three quarters", "All"], "answer": "Three quarters"},
+    {"id": 5, "question": "10% of 100 = ?", "options": ["50", "10", "90", "25"], "answer": "10"},
+    {"id": 6, "question": "50% of 80 = ?", "options": ["40", "80", "160", "20"], "answer": "40"},
+    {"id": 7, "question": "What is discount?", "options": ["No reduction", "Price reduction", "Only percentage", "No sale"], "answer": "Price reduction"},
+    {"id": 8, "question": "What is tax?", "options": ["No addition", "Price addition", "Only percentage", "Only final"], "answer": "Price addition"},
+    {"id": 9, "question": "Item $100, 20% discount = ?", "options": ["$80", "$120", "$20", "$100"], "answer": "80"},
+    {"id": 10, "question": "What is ratio?", "options": ["No comparison", "Comparison of two", "Only fractions", "No simplify"], "answer": "Comparison of two"},
+    {"id": 11, "question": "What is proportion?", "options": ["No equality", "Equal ratios", "Only fractions", "No cross"], "answer": "Equal ratios"},
+    {"id": 12, "question": "2:3 = 4:?", "options": ["5", "6", "8", "9"], "answer": "6"},
+    {"id": 13, "question": "What is scale factor?", "options": ["No factor", "Enlargement ratio", "Only big", "Only small"], "answer": "Enlargement ratio"},
+    {"id": 14, "question": "What is probability?", "options": ["Certainty", "Likelihood measure", "Only coins", "Only dice"], "answer": "Likelihood measure"},
+    {"id": 15, "question": "What is sample space?", "options": ["No space", "Possible outcomes", "Only big", "Only visible"], "answer": "Possible outcomes"},
+    {"id": 16, "question": "Coin flip probability heads?", "options": ["0", "1/2", "1", "1/4"], "answer": "1/2"},
+    {"id": 17, "question": "Why percentages?", "options": ["No reason", "Compare ratios", "Only money", "Only tests"], "answer": "Compare ratios"}
+  ]
+}

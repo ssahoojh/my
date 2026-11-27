@@ -1,0 +1,22 @@
+{
+  "id": 8,
+  "questions": [
+    {"id": 1, "question": "What is equation solving?", "options": ["No solving", "Finding unknown", "Only addition", "No solution"], "answer": "Finding unknown"},
+    {"id": 2, "question": "Solve: 2x + 5 = 13, x = ?", "options": ["4", "9", "6", "8"], "answer": "4"},
+    {"id": 3, "question": "What is inverse operation?", "options": ["Same", "Opposite operation", "Only + and −", "No opposite"], "answer": "Opposite operation"},
+    {"id": 4, "question": "Solve: 3x = 15, x = ?", "options": ["5", "12", "18", "45"], "answer": "5"},
+    {"id": 5, "question": "What is two-step equation?", "options": ["One operation", "Two operations", "Only multiply", "Only divide"], "answer": "Two operations"},
+    {"id": 6, "question": "Solve: 2x - 3 = 7, x = ?", "options": ["2", "4", "5", "10"], "answer": "5"},
+    {"id": 7, "question": "What is multi-step?", "options": ["Two steps", "Many operations", "Only big", "Only complex"], "answer": "Many operations"},
+    {"id": 8, "question": "What is variable isolation?", "options": ["No isolation", "Getting variable alone", "Only left", "Only right"], "answer": "Getting variable alone"},
+    {"id": 9, "question": "What is equivalent equation?", "options": ["Different", "Same solution", "Only equivalent", "No solution"], "answer": "Same solution"},
+    {"id": 10, "question": "Solve: x/2 = 6, x = ?", "options": ["3", "12", "8", "4"], "answer": "12"},
+    {"id": 11, "question": "What is inequality?", "options": ["Equality", "Not equal expression", "Only <", "Only >"], "answer": "Not equal expression"},
+    {"id": 12, "question": "What is solution set?", "options": ["One solution", "All solutions", "Only integer", "Only obvious"], "answer": "All solutions"},
+    {"id": 13, "question": "Solve: x + 3 > 7, x > ?", "options": ["3", "4", "10", "7"], "answer": "4"},
+    {"id": 14, "question": "What is compound inequality?", "options": ["Single", "Two inequalities", "Only and", "Only or"], "answer": "Two inequalities"},
+    {"id": 15, "question": "What is graphing solution?", "options": ["No graphing", "Visual representation", "Only line", "Only points"], "answer": "Visual representation"},
+    {"id": 16, "question": "What is interval notation?", "options": ["No notation", "Solution set form", "Only brackets", "Only parentheses"], "answer": "Solution set form"},
+    {"id": 17, "question": "Why equations?", "options": ["No reason", "Solve problems", "Only tests", "Only math"], "answer": "Solve problems"}
+  ]
+}

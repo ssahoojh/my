@@ -1,0 +1,22 @@
+{
+  "id": 4,
+  "questions": [
+    {"id": 1, "question": "What is velocity?", "options": ["Distance", "Speed direction", "Only fast", "Only slow"], "answer": "Speed direction"},
+    {"id": 2, "question": "What is acceleration?", "options": ["Constant", "Velocity change", "Only speeding", "Only slowing"], "answer": "Velocity change"},
+    {"id": 3, "question": "What is force?", "options": ["No effect", "Push pull", "Only big", "Only visible"], "answer": "Push pull"},
+    {"id": 4, "question": "What is Newton's first law?", "options": ["Change constant", "Inertia", "Only objects", "Only motion"], "answer": "Inertia"},
+    {"id": 5, "question": "What is Newton's second law?", "options": ["No relation", "F equals ma", "Only mass", "Only acceleration"], "answer": "F equals ma"},
+    {"id": 6, "question": "What is Newton's third law?", "options": ["Action alone", "Action reaction", "Only equal", "Only force"], "answer": "Action reaction"},
+    {"id": 7, "question": "What is momentum?", "options": ["No motion", "Mass velocity", "Only big", "Only fast"], "answer": "Mass velocity"},
+    {"id": 8, "question": "What is energy?", "options": ["No change", "Work capacity", "Only kinetic", "Only potential"], "answer": "Work capacity"},
+    {"id": 9, "question": "What is kinetic?", "options": ["Static", "Motion energy", "Only fast", "Only big"], "answer": "Motion energy"},
+    {"id": 10, "question": "What is potential?", "options": ["Actual", "Stored energy", "Only height", "Only position"], "answer": "Stored energy"},
+    {"id": 11, "question": "What is wave?", "options": ["Particle", "Oscillation propagation", "Only sound", "Only light"], "answer": "Oscillation propagation"},
+    {"id": 12, "question": "What is frequency?", "options": ["Wavelength", "Oscillation rate", "Only high", "Only low"], "answer": "Oscillation rate"},
+    {"id": 13, "question": "What is wavelength?", "options": ["Frequency", "Wave distance", "Only short", "Only long"], "answer": "Wave distance"},
+    {"id": 14, "question": "What is amplitude?", "options": ["Wavelength", "Wave height", "Only big", "Only small"], "answer": "Wave height"},
+    {"id": 15, "question": "What is interference?", "options": ["No effect", "Wave combination", "Only constructive", "Only destructive"], "answer": "Wave combination"},
+    {"id": 16, "question": "What is resonance?", "options": ["No frequency", "Frequency matching", "Only sound", "Only obvious"], "answer": "Frequency matching"},
+    {"id": 17, "question": "Why physics?", "options": ["No reason", "Motion understanding", "Only tests", "Only formulas"], "answer": "Motion understanding"}
+  ]
+}

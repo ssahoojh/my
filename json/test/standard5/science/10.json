@@ -1,0 +1,22 @@
+{
+  "id": 10,
+  "questions": [
+    {"id": 1, "question": "What is scientific method?", "options": ["Random", "Systematic process", "Only observation", "Only testing"], "answer": "Systematic process"},
+    {"id": 2, "question": "What is hypothesis?", "options": ["Conclusion", "Testable prediction", "Only guess", "No structure"], "answer": "Testable prediction"},
+    {"id": 3, "question": "What is observation?", "options": ["No data", "Sensory information", "Only visual", "Only obvious"], "answer": "Sensory information"},
+    {"id": 4, "question": "What is inference?", "options": ["Observation", "Logical conclusion", "Only guess", "No data"], "answer": "Logical conclusion"},
+    {"id": 5, "question": "What is experiment?", "options": ["Observation only", "Controlled test", "Only changing", "No control"], "answer": "Controlled test"},
+    {"id": 6, "question": "What is variable?", "options": ["Constant", "Changeable factor", "Only independent", "Only dependent"], "answer": "Changeable factor"},
+    {"id": 7, "question": "What is data?", "options": ["No information", "Collected information", "Only numbers", "Only visible"], "answer": "Collected information"},
+    {"id": 8, "question": "What is analysis?", "options": ["Collection only", "Data examination", "Only statistics", "Only patterns"], "answer": "Data examination"},
+    {"id": 9, "question": "What is conclusion?", "options": ["Guess", "Evidence-based result", "Only proven", "No hypothesis"], "answer": "Evidence-based result"},
+    {"id": 10, "question": "What is model?", "options": ["Exact", "Representation", "Only physical", "Only mathematical"], "answer": "Representation"},
+    {"id": 11, "question": "What is theory?", "options": ["Guess", "Supported explanation", "Only proven", "No testing"], "answer": "Supported explanation"},
+    {"id": 12, "question": "What is law?", "options": ["Theory", "Consistent pattern", "Only universal", "No exception"], "answer": "Consistent pattern"},
+    {"id": 13, "question": "What is measurement?", "options": ["No data", "Quantitative data", "Only visible", "Only precise"], "answer": "Quantitative data"},
+    {"id": 14, "question": "What is accuracy?", "options": ["Precision", "Closeness truth", "Only obvious", "Only important"], "answer": "Closeness truth"},
+    {"id": 15, "question": "What is precision?", "options": ["Accuracy", "Consistency", "Only obvious", "Only important"], "answer": "Consistency"},
+    {"id": 16, "question": "What is error?", "options": ["No mistake", "Measurement difference", "Only big", "Only visible"], "answer": "Measurement difference"},
+    {"id": 17, "question": "Why science?", "options": ["No reason", "Understanding nature", "Only tests", "Only class"], "answer": "Understanding nature"}
+  ]
+}

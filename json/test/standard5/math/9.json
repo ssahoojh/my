@@ -1,0 +1,22 @@
+{
+  "id": 9,
+  "questions": [
+    {"id": 1, "question": "What is polygon?", "options": ["Curved", "Closed multi-side", "Only triangle", "No vertices"], "answer": "Closed multi-side"},
+    {"id": 2, "question": "What is congruent?", "options": ["Similar", "Exact same", "Only size", "Only shape"], "answer": "Exact same"},
+    {"id": 3, "question": "What is similar?", "options": ["Congruent", "Same shape", "Only size", "No proportion"], "answer": "Same shape"},
+    {"id": 4, "question": "What is transformation?", "options": ["No change", "Moving shape", "Only translation", "Only rotation"], "answer": "Moving shape"},
+    {"id": 5, "question": "What is rotation?", "options": ["Translation", "Turning around", "Only 90", "Only clockwise"], "answer": "Turning around"},
+    {"id": 6, "question": "What is reflection?", "options": ["Rotation", "Flipping over line", "Only vertical", "Only horizontal"], "answer": "Flipping over line"},
+    {"id": 7, "question": "What is dilation?", "options": ["Translation", "Size scaling", "Only enlargement", "Only reduction"], "answer": "Size scaling"},
+    {"id": 8, "question": "What is surface area?", "options": ["Volume", "Outside area", "Only 2D", "Only outside"], "answer": "Outside area"},
+    {"id": 9, "question": "What is volume?", "options": ["Area", "Space inside", "Only 3D", "No measurement"], "answer": "Space inside"},
+    {"id": 10, "question": "What is Pythagorean theorem?", "options": ["No theorem", "a² + b² = c²", "Only triangles", "No right"], "answer": "a² + b² = c²"},
+    {"id": 11, "question": "Right triangle sides 3,4, hypotenuse = ?", "options": ["5", "7", "6", "8"], "answer": "5"},
+    {"id": 12, "question": "What is angle?", "options": ["Line", "Two rays meet", "Only sharp", "No measure"], "answer": "Two rays meet"},
+    {"id": 13, "question": "What is complementary?", "options": ["Supplementary", "Sum to 90°", "Only right", "No sum"], "answer": "Sum to 90°"},
+    {"id": 14, "question": "What is supplementary?", "options": ["Complementary", "Sum to 180°", "Only straight", "No sum"], "answer": "Sum to 180°"},
+    {"id": 15, "question": "What is parallel?", "options": ["Intersecting", "Never meet", "Only lines", "No direction"], "answer": "Never meet"},
+    {"id": 16, "question": "What is perpendicular?", "options": ["Parallel", "Meet at 90°", "Only right", "No angle"], "answer": "Meet at 90°"},
+    {"id": 17, "question": "Why geometry?", "options": ["No reason", "Understand space", "Only tests", "Only shapes"], "answer": "Understand space"}
+  ]
+}

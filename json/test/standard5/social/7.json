@@ -1,0 +1,22 @@
+{
+  "id": 7,
+  "questions": [
+    {"id": 1, "question": "What is technology?", "options": ["No tool", "Applied knowledge", "Only digital", "Only recent"], "answer": "Applied knowledge"},
+    {"id": 2, "question": "What is innovation?", "options": ["No change", "New method", "Only obvious", "Only recent"], "answer": "New method"},
+    {"id": 3, "question": "What is automation?", "options": ["Manual", "Machine operation", "Only visible", "Only recent"], "answer": "Machine operation"},
+    {"id": 4, "question": "What is artificial intelligence?", "options": ["No capability", "Machine learning", "Only obvious", "Only recent"], "answer": "Machine learning"},
+    {"id": 5, "question": "What is cybernetics?", "options": ["No control", "System control", "Only visible", "Only digital"], "answer": "System control"},
+    {"id": 6, "question": "What is Internet?", "options": ["Single", "Network system", "Only computers", "Only digital"], "answer": "Network system"},
+    {"id": 7, "question": "What is digital?", "options": ["Analog", "Binary representation", "Only computers", "Only obvious"], "answer": "Binary representation"},
+    {"id": 8, "question": "What is virtual?", "options": ["Physical", "Computer generated", "Only obvious", "Only digital"], "answer": "Computer generated"},
+    {"id": 9, "question": "What is blockchain?", "options": ["No chain", "Distributed ledger", "Only cryptocurrency", "Only obvious"], "answer": "Distributed ledger"},
+    {"id": 10, "question": "What is data big?", "options": ["Small", "Massive dataset", "Only computers", "Only obvious"], "answer": "Massive dataset"},
+    {"id": 11, "question": "What is security cyber?", "options": ["No protection", "Digital protection", "Only obvious", "Only digital"], "answer": "Digital protection"},
+    {"id": 12, "question": "What is privacy digital?", "options": ["No protection", "Information control", "Only obvious", "Only digital"], "answer": "Information control"},
+    {"id": 13, "question": "What is algorithm?", "options": ["Random", "Procedural rule", "Only mathematical", "Only obvious"], "answer": "Procedural rule"},
+    {"id": 14, "question": "What is software?", "options": ["Hardware", "Program code", "Only visible", "Only digital"], "answer": "Program code"},
+    {"id": 15, "question": "What is hardware?", "options": ["Software", "Physical device", "Only visible", "Only digital"], "answer": "Physical device"},
+    {"id": 16, "question": "What is disruption technological?", "options": ["No change", "Market change", "Only obvious", "Only recent"], "answer": "Market change"},
+    {"id": 17, "question": "Why technology society?", "options": ["No reason", "Change understanding", "Only obvious", "Only class"], "answer": "Change understanding"}
+  ]
+}

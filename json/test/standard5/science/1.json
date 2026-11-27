@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "questions": [
+    {"id": 1, "question": "What is hypothesis testing?", "options": ["No testing", "Validating prediction", "Only results", "No conclusion"], "answer": "Validating prediction"},
+    {"id": 2, "question": "What is null hypothesis?", "options": ["Alternative", "No effect", "Only rejected", "No null"], "answer": "No effect"},
+    {"id": 3, "question": "What is alternative?", "options": ["Null", "Different effect", "Only accepted", "No alternative"], "answer": "Different effect"},
+    {"id": 4, "question": "What is significance?", "options": ["No result", "Statistical measure", "Only p-value", "No threshold"], "answer": "Statistical measure"},
+    {"id": 5, "question": "What is p-value?", "options": ["Probability", "Result likelihood", "Only big", "Only small"], "answer": "Result likelihood"},
+    {"id": 6, "question": "What is confidence level?", "options": ["No level", "Certainty measure", "Only 95%", "No range"], "answer": "Certainty measure"},
+    {"id": 7, "question": "What is error type I?", "options": ["Correct", "False positive", "Only false", "No positive"], "answer": "False positive"},
+    {"id": 8, "question": "What is error type II?", "options": ["Correct", "False negative", "Only false", "No negative"], "answer": "False negative"},
+    {"id": 9, "question": "What is sample size?", "options": ["Population", "Data amount", "Only big", "Only small"], "answer": "Data amount"},
+    {"id": 10, "question": "What is bias?", "options": ["No bias", "Unfair influence", "Only testing", "No prejudice"], "answer": "Unfair influence"},
+    {"id": 11, "question": "What is control group?", "options": ["Experimental", "Baseline", "Only unchanged", "No comparison"], "answer": "Baseline"},
+    {"id": 12, "question": "What is experimental?", "options": ["Control", "Treatment group", "Only changed", "Only big"], "answer": "Treatment group"},
+    {"id": 13, "question": "What is replication?", "options": ["One time", "Repeating study", "Only identical", "No variation"], "answer": "Repeating study"},
+    {"id": 14, "question": "What is peer review?", "options": ["No review", "Expert evaluation", "Only published", "No feedback"], "answer": "Expert evaluation"},
+    {"id": 15, "question": "What is reproducibility?", "options": ["Unique", "Repeatable results", "Only exact", "No variation"], "answer": "Repeatable results"},
+    {"id": 16, "question": "What is paradigm?", "options": ["Single", "Framework model", "Only obvious", "No shift"], "answer": "Framework model"},
+    {"id": 17, "question": "Why rigorous method?", "options": ["No reason", "Reliable knowledge", "Only tests", "Only class"], "answer": "Reliable knowledge"}
+  ]
+}

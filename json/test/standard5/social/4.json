@@ -1,0 +1,22 @@
+{
+  "id": 4,
+  "questions": [
+    {"id": 1, "question": "What is geography?", "options": ["Political only", "Earth study", "Only maps", "Only visible"], "answer": "Earth study"},
+    {"id": 2, "question": "What is terrain?", "options": ["Climate", "Land shape", "Only visible", "Only mountains"], "answer": "Land shape"},
+    {"id": 3, "question": "What is topography?", "options": ["Climate", "Surface features", "Only visible", "Only mountains"], "answer": "Surface features"},
+    {"id": 4, "question": "What is geography human?", "options": ["Physical", "Population study", "Only demographic", "Only cultural"], "answer": "Population study"},
+    {"id": 5, "question": "What is geography physical?", "options": ["Political", "Natural feature", "Only visible", "Only mountains"], "answer": "Natural feature"},
+    {"id": 6, "question": "What is migration?", "options": ["Stationary", "Population movement", "Only forced", "Only obvious"], "answer": "Population movement"},
+    {"id": 7, "question": "What is urbanization?", "options": ["Rural", "City growth", "Only recent", "Only developed"], "answer": "City growth"},
+    {"id": 8, "question": "What is globalization?", "options": ["Local", "World integration", "Only economic", "Only obvious"], "answer": "World integration"},
+    {"id": 9, "question": "What is climate region?", "options": ["Single", "Weather pattern", "Only visible", "Only fixed"], "answer": "Weather pattern"},
+    {"id": 10, "question": "What is biome?", "options": ["Single", "Ecosystem type", "Only visible", "Only natural"], "answer": "Ecosystem type"},
+    {"id": 11, "question": "What is resource natural?", "options": ["Artificial", "Environmental supply", "Only visible", "Only finite"], "answer": "Environmental supply"},
+    {"id": 12, "question": "What is sustainability?", "options": ["Exploitation", "Responsible use", "Only environmental", "Only obvious"], "answer": "Responsible use"},
+    {"id": 13, "question": "What is border?", "options": ["No separation", "Political boundary", "Only visible", "Only fixed"], "answer": "Political boundary"},
+    {"id": 14, "question": "What is region?", "options": ["Single", "Area grouping", "Only visible", "Only political"], "answer": "Area grouping"},
+    {"id": 15, "question": "What is coordinates?", "options": ["Random", "Location system", "Only visible", "Only precise"], "answer": "Location system"},
+    {"id": 16, "question": "What is scale map?", "options": ["Random", "Proportion representation", "Only visible", "Only fixed"], "answer": "Proportion representation"},
+    {"id": 17, "question": "Why geography?", "options": ["No reason", "World understanding", "Only maps", "Only obvious"], "answer": "World understanding"}
+  ]
+}

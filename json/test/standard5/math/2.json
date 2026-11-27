@@ -1,0 +1,22 @@
+{
+  "id": 2,
+  "questions": [
+    {"id": 1, "question": "What is exponent?", "options": ["Base", "Power indicator", "Only 2", "No power"], "answer": "Power indicator"},
+    {"id": 2, "question": "What is base?", "options": ["Top", "Number multiplied", "Only 10", "No base"], "answer": "Number multiplied"},
+    {"id": 3, "question": "2^3 = ?", "options": ["5", "8", "6", "9"], "answer": "8"},
+    {"id": 4, "question": "What is square?", "options": ["Rectangle", "Number×itself", "Only 2", "No power"], "answer": "Number×itself"},
+    {"id": 5, "question": "5^2 = ?", "options": ["10", "25", "7", "30"], "answer": "25"},
+    {"id": 6, "question": "What is cube?", "options": ["Box", "Number×self×self", "Only 3", "No power"], "answer": "Number×self×self"},
+    {"id": 7, "question": "3^3 = ?", "options": ["9", "27", "6", "18"], "answer": "27"},
+    {"id": 8, "question": "What is square root?", "options": ["Power", "Inverse square", "Only 2", "No inverse"], "answer": "Inverse square"},
+    {"id": 9, "question": "√25 = ?", "options": ["5", "12.5", "625", "2.5"], "answer": "5"},
+    {"id": 10, "question": "What is perfect square?", "options": ["Exact", "Whole root", "Only big", "No exact"], "answer": "Whole root"},
+    {"id": 11, "question": "16 is perfect square?", "options": ["No", "Yes", "Maybe", "Only big"], "answer": "Yes"},
+    {"id": 12, "question": "What is order of operations?", "options": ["No order", "Sequence of steps", "Only +−", "No grouping"], "answer": "Sequence of steps"},
+    {"id": 13, "question": "What is PEMDAS?", "options": ["Random", "Order acronym", "Only + and −", "No grouping"], "answer": "Order acronym"},
+    {"id": 14, "question": "2 + 3 × 4 = ?", "options": ["20", "14", "18", "16"], "answer": "14"},
+    {"id": 15, "question": "(2 + 3) × 4 = ?", "options": ["14", "20", "18", "16"], "answer": "20"},
+    {"id": 16, "question": "What is exponent rule?", "options": ["No rule", "Same base property", "Only multiply", "Only divide"], "answer": "Same base property"},
+    {"id": 17, "question": "Why exponents?", "options": ["No reason", "Simplify repeated", "Only tests", "Only big"], "answer": "Simplify repeated"}
+  ]
+}

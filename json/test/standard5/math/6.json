@@ -1,0 +1,22 @@
+{
+  "id": 6,
+  "questions": [
+    {"id": 1, "question": "What is function?", "options": ["No relation", "Input-output relation", "Only graph", "No equation"], "answer": "Input-output relation"},
+    {"id": 2, "question": "What is domain?", "options": ["Output", "Input values", "Only x", "Only y"], "answer": "Input values"},
+    {"id": 3, "question": "What is range?", "options": ["Input", "Output values", "Only x", "Only y"], "answer": "Output values"},
+    {"id": 4, "question": "What is mapping?", "options": ["Navigation", "Pairing values", "Only function", "No relation"], "answer": "Pairing values"},
+    {"id": 5, "question": "What is relation?", "options": ["No connection", "Set of ordered pairs", "Only function", "Only function"], "answer": "Set of ordered pairs"},
+    {"id": 6, "question": "What is linear function?", "options": ["Curved", "Straight line", "Only upward", "Only downward"], "answer": "Straight line"},
+    {"id": 7, "question": "What is slope?", "options": ["Height", "Line steepness", "Only positive", "Only negative"], "answer": "Line steepness"},
+    {"id": 8, "question": "What is y-intercept?", "options": ["x-intercept", "y-axis crossing", "Only origin", "Only negative"], "answer": "y-axis crossing"},
+    {"id": 9, "question": "What is quadratic?", "options": ["Linear", "Degree 2 polynomial", "Only parabola", "Only u-shape"], "answer": "Degree 2 polynomial"},
+    {"id": 10, "question": "What is vertex?", "options": ["Edge", "Peak/valley point", "Only top", "Only bottom"], "answer": "Peak/valley point"},
+    {"id": 11, "question": "What is exponential?", "options": ["Polynomial", "Rapid growth", "Only decay", "No growth"], "answer": "Rapid growth"},
+    {"id": 12, "question": "What is inverse function?", "options": ["No inverse", "Reverses operation", "Only for functions", "No operation"], "answer": "Reverses operation"},
+    {"id": 13, "question": "What is composition?", "options": ["Addition", "Function combination", "Only multiply", "No nesting"], "answer": "Function combination"},
+    {"id": 14, "question": "What is transformation?", "options": ["No change", "Function shift", "Only translation", "Only reflection"], "answer": "Function shift"},
+    {"id": 15, "question": "What is translation?", "options": ["Rotation", "Shifting position", "Only horizontal", "Only vertical"], "answer": "Shifting position"},
+    {"id": 16, "question": "What is reflection?", "options": ["Rotation", "Flipping over line", "Only vertical", "Only horizontal"], "answer": "Flipping over line"},
+    {"id": 17, "question": "Why functions?", "options": ["No reason", "Model relationships", "Only math", "Only tests"], "answer": "Model relationships"}
+  ]
+}

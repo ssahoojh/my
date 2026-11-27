@@ -1,0 +1,22 @@
+{
+  "id": 6,
+  "questions": [
+    {"id": 1, "question": "What is sentence variety?", "options": ["Same length", "Varied structure", "Only short", "Only long"], "answer": "Varied structure"},
+    {"id": 2, "question": "What is parallel structure?", "options": ["No pattern", "Matching grammatical", "Only words", "No rhythm"], "answer": "Matching grammatical"},
+    {"id": 3, "question": "What is subordination?", "options": ["No dependence", "One dependent", "Only words", "No connection"], "answer": "One dependent"},
+    {"id": 4, "question": "What is coordination?", "options": ["No connection", "Joining equals", "Only phrases", "No conjunctions"], "answer": "Joining equals"},
+    {"id": 5, "question": "What is modifer?", "options": ["Nothing changes", "Describes/limits", "Only adjectives", "No verbs"], "answer": "Describes/limits"},
+    {"id": 6, "question": "What is dangling modifier?", "options": ["Correct", "Unclear reference", "Only adverbs", "No error"], "answer": "Unclear reference"},
+    {"id": 7, "question": "What is misplaced?", "options": ["Correct", "Wrong location", "Only words", "No position"], "answer": "Wrong location"},
+    {"id": 8, "question": "What is active voice?", "options": ["Passive", "Subject does action", "Only direct", "No action"], "answer": "Subject does action"},
+    {"id": 9, "question": "What is passive voice?", "options": ["Active", "Subject receives", "Only indirect", "No action"], "answer": "Subject receives"},
+    {"id": 10, "question": "What is wordiness?", "options": ["Concise", "Unnecessary words", "Only long", "Only detailed"], "answer": "Unnecessary words"},
+    {"id": 11, "question": "What is redundancy?", "options": ["Variety", "Repetition", "Only words", "No phrase"], "answer": "Repetition"},
+    {"id": 12, "question": "What is cliché?", "options": ["Original", "Overused phrase", "Only old", "Only new"], "answer": "Overused phrase"},
+    {"id": 13, "question": "What is connotation?", "options": ["Dictionary meaning", "Suggested meaning", "Only positive", "Only negative"], "answer": "Suggested meaning"},
+    {"id": 14, "question": "What is denotation?", "options": ["Suggested", "Literal meaning", "Only obvious", "No alternatives"], "answer": "Literal meaning"},
+    {"id": 15, "question": "What is diction?", "options": ["Speaking", "Word choice", "Only grammar", "No meaning"], "answer": "Word choice"},
+    {"id": 16, "question": "What is tone?", "options": ["Volume", "Attitude/manner", "Only harsh", "Only nice"], "answer": "Attitude/manner"},
+    {"id": 17, "question": "Why style matters?", "options": ["No reason", "Convey effectively", "Only tests", "Only class"], "answer": "Convey effectively"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 8,
+  "questions": [
+    {"id": 1, "question": "What is international relations?", "options": ["Domestic only", "Nations interaction", "Only politics", "Only trade"], "answer": "Nations interaction"},
+    {"id": 2, "question": "What is diplomacy?", "options": ["Conflict only", "Official communication", "Only peace", "Only trade"], "answer": "Official communication"},
+    {"id": 3, "question": "What is treaty?", "options": ["No agreement", "Formal agreement", "Only peace", "Only trade"], "answer": "Formal agreement"},
+    {"id": 4, "question": "What is alliance?", "options": ["Individual", "Coalition", "Only military", "Only obvious"], "answer": "Coalition"},
+    {"id": 5, "question": "What is sovereignty?", "options": ["Dependent", "Independent state", "Only recognized", "Only obvious"], "answer": "Independent state"},
+    {"id": 6, "question": "What is intervention?", "options": ["Non-action", "Foreign involvement", "Only military", "Only obvious"], "answer": "Foreign involvement"},
+    {"id": 7, "question": "What is embargo?", "options": ["No restriction", "Trade restriction", "Only obvious", "Only political"], "answer": "Trade restriction"},
+    {"id": 8, "question": "What is sanction international?", "options": ["No penalty", "Penalty measure", "Only military", "Only obvious"], "answer": "Penalty measure"},
+    {"id": 9, "question": "What is cooperation multilateral?", "options": ["Individual", "Multiple nation", "Only visible", "Only political"], "answer": "Multiple nation"},
+    {"id": 10, "question": "What is organization international?", "options": ["National only", "Multiple nation", "Only governmental", "Only visible"], "answer": "Multiple nation"},
+    {"id": 11, "question": "What is bloc political?", "options": ["Individual", "Alliance group", "Only military", "Only obvious"], "answer": "Alliance group"},
+    {"id": 12, "question": "What is cold war?", "options": ["Physical war", "Tension without combat", "Only US-Soviet", "Only obvious"], "answer": "Tension without combat"},
+    {"id": 13, "question": "What is conflict regional?", "options": ["Global only", "Limited area war", "Only obvious", "Only political"], "answer": "Limited area war"},
+    {"id": 14, "question": "What is terrorism?", "options": ["No violence", "Political violence", "Only obvious", "Only religious"], "answer": "Political violence"},
+    {"id": 15, "question": "What is peacekeeping?", "options": ["No intervention", "Military maintenance", "Only obvious", "Only political"], "answer": "Military maintenance"},
+    {"id": 16, "question": "What is humanitarian aid?", "options": ["No help", "Disaster assistance", "Only obvious", "Only political"], "answer": "Disaster assistance"},
+    {"id": 17, "question": "Why international relations?", "options": ["No reason", "World understanding", "Only obvious", "Only class"], "answer": "World understanding"}
+  ]
+}

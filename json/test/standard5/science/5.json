@@ -1,0 +1,22 @@
+{
+  "id": 5,
+  "questions": [
+    {"id": 1, "question": "What is universe?", "options": ["Earth only", "All existence", "Only space", "Only visible"], "answer": "All existence"},
+    {"id": 2, "question": "What is galaxy?", "options": ["Star only", "Star system", "Only billions", "Only massive"], "answer": "Star system"},
+    {"id": 3, "question": "What is star?", "options": ["Planet", "Fusion ball", "Only hot", "Only bright"], "answer": "Fusion ball"},
+    {"id": 4, "question": "What is planet?", "options": ["Star", "Orbiting body", "Only big", "Only visible"], "answer": "Orbiting body"},
+    {"id": 5, "question": "What is moon?", "options": ["Planet", "Orbiting satellite", "Only bright", "Only visible"], "answer": "Orbiting satellite"},
+    {"id": 6, "question": "What is asteroid?", "options": ["Star", "Space rock", "Only big", "Only dangerous"], "answer": "Space rock"},
+    {"id": 7, "question": "What is comet?", "options": ["Star", "Icy body", "Only visible", "Only orbital"], "answer": "Icy body"},
+    {"id": 8, "question": "What is solar system?", "options": ["Stars only", "Star planets", "Only eight", "Only visible"], "answer": "Star planets"},
+    {"id": 9, "question": "What is orbit?", "options": ["Straight", "Curved path", "Only planets", "Only moons"], "answer": "Curved path"},
+    {"id": 10, "question": "What is gravity?", "options": ["No force", "Attractive force", "Only big", "Only visible"], "answer": "Attractive force"},
+    {"id": 11, "question": "What is eclipse?", "options": ["No shadow", "Shadow event", "Only solar", "Only lunar"], "answer": "Shadow event"},
+    {"id": 12, "question": "What is rotation?", "options": ["Orbiting", "Spinning", "Only planets", "Only stars"], "answer": "Spinning"},
+    {"id": 13, "question": "What is revolution?", "options": ["Spinning", "Orbiting", "Only planets", "Only stars"], "answer": "Orbiting"},
+    {"id": 14, "question": "What is constellation?", "options": ["Single star", "Star pattern", "Only visible", "Only fixed"], "answer": "Star pattern"},
+    {"id": 15, "question": "What is light year?", "options": ["Time", "Distance measure", "Only space", "Only far"], "answer": "Distance measure"},
+    {"id": 16, "question": "What is Big Bang?", "options": ["Explosion", "Universe origin", "Only theory", "Only proven"], "answer": "Universe origin"},
+    {"id": 17, "question": "Why astronomy?", "options": ["No reason", "Understand cosmos", "Only tests", "Only space"], "answer": "Understand cosmos"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 6,
+  "questions": [
+    {"id": 1, "question": "What is history?", "options": ["Present only", "Past events", "Only written", "Only visible"], "answer": "Past events"},
+    {"id": 2, "question": "What is chronology?", "options": ["Random", "Time sequence", "Only recent", "Only obvious"], "answer": "Time sequence"},
+    {"id": 3, "question": "What is era?", "options": ["Single", "Time period", "Only long", "Only obvious"], "answer": "Time period"},
+    {"id": 4, "question": "What is periodization?", "options": ["No division", "Time division", "Only obvious", "Only fixed"], "answer": "Time division"},
+    {"id": 5, "question": "What is source primary?", "options": ["Interpreted", "Direct evidence", "Only written", "Only visible"], "answer": "Direct evidence"},
+    {"id": 6, "question": "What is source secondary?", "options": ["Direct", "Interpreted source", "Only written", "Only visible"], "answer": "Interpreted source"},
+    {"id": 7, "question": "What is artifact historical?", "options": ["No creation", "Historical object", "Only visible", "Only ancient"], "answer": "Historical object"},
+    {"id": 8, "question": "What is archaeology?", "options": ["Present only", "Past material study", "Only bones", "Only obvious"], "answer": "Past material study"},
+    {"id": 9, "question": "What is civilization?", "options": ["No organization", "Advanced society", "Only urban", "Only obvious"], "answer": "Advanced society"},
+    {"id": 10, "question": "What is empire?", "options": ["Single nation", "Territory control", "Only military", "Only obvious"], "answer": "Territory control"},
+    {"id": 11, "question": "What is conquest?", "options": ["No victory", "Territory taking", "Only military", "Only obvious"], "answer": "Territory taking"},
+    {"id": 12, "question": "What is colonization?", "options": ["No settlement", "New territory", "Only recent", "Only obvious"], "answer": "New territory"},
+    {"id": 13, "question": "What is revolution?", "options": ["Gradual", "Radical change", "Only political", "Only obvious"], "answer": "Radical change"},
+    {"id": 14, "question": "What is reform?", "options": ["Radical", "Gradual change", "Only political", "Only obvious"], "answer": "Gradual change"},
+    {"id": 15, "question": "What is precedent historical?", "options": ["Random", "Past example", "Only legal", "Only obvious"], "answer": "Past example"},
+    {"id": 16, "question": "What is legacy?", "options": ["No impact", "Long-term impact", "Only obvious", "Only cultural"], "answer": "Long-term impact"},
+    {"id": 17, "question": "Why history?", "options": ["No reason", "Past understanding", "Only obvious", "Only class"], "answer": "Past understanding"}
+  ]
+}

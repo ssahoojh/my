@@ -1,0 +1,22 @@
+{
+  "id": 2,
+  "questions": [
+    {"id": 1, "question": "What is economy?", "options": ["Political", "Resource production", "Only money", "Only trade"], "answer": "Resource production"},
+    {"id": 2, "question": "What is capitalism?", "options": ["Collective", "Private ownership", "Only competitive", "Only profit"], "answer": "Private ownership"},
+    {"id": 3, "question": "What is socialism?", "options": ["Private", "Collective ownership", "Only equal", "Only planned"], "answer": "Collective ownership"},
+    {"id": 4, "question": "What is market?", "options": ["Government", "Exchange system", "Only visible", "Only local"], "answer": "Exchange system"},
+    {"id": 5, "question": "What is supply?", "options": ["Demand", "Available quantity", "Only big", "Only visible"], "answer": "Available quantity"},
+    {"id": 6, "question": "What is demand?", "options": ["Supply", "Desired quantity", "Only high", "Only obvious"], "answer": "Desired quantity"},
+    {"id": 7, "question": "What is price?", "options": ["Value", "Exchange amount", "Only visible", "Only fixed"], "answer": "Exchange amount"},
+    {"id": 8, "question": "What is inflation?", "options": ["Deflation", "Price rising", "Only bad", "Only obvious"], "answer": "Price rising"},
+    {"id": 9, "question": "What is unemployment?", "options": ["Employment", "No job status", "Only temporary", "Only obvious"], "answer": "No job status"},
+    {"id": 10, "question": "What is wage?", "options": ["No payment", "Labor payment", "Only hourly", "Only fair"], "answer": "Labor payment"},
+    {"id": 11, "question": "What is profit?", "options": ["Loss", "Revenue excess", "Only visible", "Only good"], "answer": "Revenue excess"},
+    {"id": 12, "question": "What is investment?", "options": ["Spending", "Resource growth", "Only risky", "Only obvious"], "answer": "Resource growth"},
+    {"id": 13, "question": "What is trade?", "options": ["No exchange", "Good exchange", "Only international", "Only visible"], "answer": "Good exchange"},
+    {"id": 14, "question": "What is tariff?", "options": ["No tax", "Trade tax", "Only import", "Only revenue"], "answer": "Trade tax"},
+    {"id": 15, "question": "What is budget?", "options": ["Random", "Financial plan", "Only government", "Only visible"], "answer": "Financial plan"},
+    {"id": 16, "question": "What is tax?", "options": ["No payment", "Revenue requirement", "Only income", "Only visible"], "answer": "Revenue requirement"},
+    {"id": 17, "question": "Why economics?", "options": ["No reason", "Resource understanding", "Only money", "Only obvious"], "answer": "Resource understanding"}
+  ]
+}

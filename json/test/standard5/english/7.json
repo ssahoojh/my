@@ -1,0 +1,22 @@
+{
+  "id": 7,
+  "questions": [
+    {"id": 1, "question": "What is speaker?", "options": ["Listener", "Person communicating", "Only formal", "No voice"], "answer": "Person communicating"},
+    {"id": 2, "question": "What is audience?", "options": ["Speaker", "Receiving message", "Only big", "Only small"], "answer": "Receiving message"},
+    {"id": 3, "question": "What is purpose?", "options": ["No goal", "Communicative intent", "Only inform", "Only entertain"], "answer": "Communicative intent"},
+    {"id": 4, "question": "What is context?", "options": ["No setting", "Circumstances", "Only time", "Only place"], "answer": "Circumstances"},
+    {"id": 5, "question": "What is delivery?", "options": ["No presentation", "How spoken", "Only voice", "Only gestures"], "answer": "How spoken"},
+    {"id": 6, "question": "What is rhetoric?", "options": ["No speaking", "Persuasive technique", "Only writing", "Only technical"], "answer": "Persuasive technique"},
+    {"id": 7, "question": "What is persuasion?", "options": ["No convincing", "Influencing opinion", "Only force", "No change"], "answer": "Influencing opinion"},
+    {"id": 8, "question": "What is extemporaneous?", "options": ["Scripted", "Unrehearsed", "Only spontaneous", "No preparation"], "answer": "Unrehearsed"},
+    {"id": 9, "question": "What is impromptu?", "options": ["Planned", "Immediate response", "Only fast", "Only nervous"], "answer": "Immediate response"},
+    {"id": 10, "question": "What is manuscript?", "options": ["No script", "Written speech", "Only long", "Only formal"], "answer": "Written speech"},
+    {"id": 11, "question": "What is memorized?", "options": ["Unrehearsed", "Learned by heart", "Only perfect", "No error"], "answer": "Learned by heart"},
+    {"id": 12, "question": "What is modulation?", "options": ["Same tone", "Voice variation", "Only pitch", "Only volume"], "answer": "Voice variation"},
+    {"id": 13, "question": "What is pacing?", "options": ["Walking", "Speech speed", "Only fast", "Only slow"], "answer": "Speech speed"},
+    {"id": 14, "question": "What is pause?", "options": ["No stop", "Intentional silence", "Only endings", "No emphasis"], "answer": "Intentional silence"},
+    {"id": 15, "question": "What is intonation?", "options": ["Pitch only", "Rising/falling voice", "Only questions", "Only statements"], "answer": "Rising/falling voice"},
+    {"id": 16, "question": "What is enunciation?", "options": ["Accent", "Clear pronunciation", "Only formal", "No clarity"], "answer": "Clear pronunciation"},
+    {"id": 17, "question": "Why presentation skill?", "options": ["No reason", "Communicate impact", "Only tests", "Only class"], "answer": "Communicate impact"}
+  ]
+}

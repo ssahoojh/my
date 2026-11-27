@@ -1,0 +1,22 @@
+{
+  "id": 9,
+  "questions": [
+    {"id": 1, "question": "What is sustainability environmental?", "options": ["Exploitation", "Resource balance", "Only obvious", "Only environmental"], "answer": "Resource balance"},
+    {"id": 2, "question": "What is climate change?", "options": ["No change", "Temperature shift", "Only obvious", "Only recent"], "answer": "Temperature shift"},
+    {"id": 3, "question": "What is carbon footprint?", "options": ["No impact", "Emission measure", "Only obvious", "Only personal"], "answer": "Emission measure"},
+    {"id": 4, "question": "What is deforestation?", "options": ["Growth", "Forest loss", "Only obvious", "Only tropical"], "answer": "Forest loss"},
+    {"id": 5, "question": "What is biodiversity loss?", "options": ["Growth", "Species reduction", "Only obvious", "Only dramatic"], "answer": "Species reduction"},
+    {"id": 6, "question": "What is pollution?", "options": ["No contamination", "Environmental contamination", "Only obvious", "Only air"], "answer": "Environmental contamination"},
+    {"id": 7, "question": "What is renewable energy?", "options": ["Finite", "Regenerating source", "Only obvious", "Only solar"], "answer": "Regenerating source"},
+    {"id": 8, "question": "What is conservation?", "options": ["No protection", "Resource preservation", "Only obvious", "Only animals"], "answer": "Resource preservation"},
+    {"id": 9, "question": "What is equity environmental?", "options": ["No fairness", "Fair distribution", "Only obvious", "Only resources"], "answer": "Fair distribution"},
+    {"id": 10, "question": "What is justice environmental?", "options": ["No fairness", "Fair treatment", "Only obvious", "Only communities"], "answer": "Fair treatment"},
+    {"id": 11, "question": "What is poverty?", "options": ["Wealth", "Resource lack", "Only obvious", "Only economic"], "answer": "Resource lack"},
+    {"id": 12, "question": "What is inequality?", "options": ["Equal", "Unfair distribution", "Only obvious", "Only economic"], "answer": "Unfair distribution"},
+    {"id": 13, "question": "What is development sustainable?", "options": ["Growth only", "Balanced growth", "Only obvious", "Only environmental"], "answer": "Balanced growth"},
+    {"id": 14, "question": "What is globalization impact?", "options": ["No effect", "Worldwide influence", "Only obvious", "Only economic"], "answer": "Worldwide influence"},
+    {"id": 15, "question": "What is migration climate?", "options": ["No movement", "Weather displacement", "Only obvious", "Only recent"], "answer": "Weather displacement"},
+    {"id": 16, "question": "What is pandemic?", "options": ["No disease", "Global disease", "Only obvious", "Only recent"], "answer": "Global disease"},
+    {"id": 17, "question": "Why global issues?", "options": ["No reason", "World understanding", "Only obvious", "Only class"], "answer": "World understanding"}
+  ]
+}

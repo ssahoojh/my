@@ -1,0 +1,22 @@
+{
+  "id": 9,
+  "questions": [
+    {"id": 1, "question": "What is ecology?", "options": ["Organism only", "Organism environment", "Only big", "Only visible"], "answer": "Organism environment"},
+    {"id": 2, "question": "What is population?", "options": ["Single", "Same species group", "Only big", "Only visible"], "answer": "Same species group"},
+    {"id": 3, "question": "What is community?", "options": ["Single species", "Multiple species", "Only visible", "Only interacting"], "answer": "Multiple species"},
+    {"id": 4, "question": "What is biome?", "options": ["Single habitat", "Climate ecosystem", "Only big", "Only visible"], "answer": "Climate ecosystem"},
+    {"id": 5, "question": "What is habitat?", "options": ["Climate", "Organism home", "Only visible", "Only specific"], "answer": "Organism home"},
+    {"id": 6, "question": "What is niche?", "options": ["Habitat only", "Organism role", "Only space", "Only resources"], "answer": "Organism role"},
+    {"id": 7, "question": "What is predator?", "options": ["Prey", "Organism hunter", "Only visible", "Only big"], "answer": "Organism hunter"},
+    {"id": 8, "question": "What is prey?", "options": ["Predator", "Hunted organism", "Only visible", "Only small"], "answer": "Hunted organism"},
+    {"id": 9, "question": "What is symbiosis?", "options": ["No interaction", "Close relationship", "Only beneficial", "Only equal"], "answer": "Close relationship"},
+    {"id": 10, "question": "What is parasitism?", "options": ["Benefit both", "One benefits", "Only visible", "Only harmful"], "answer": "One benefits"},
+    {"id": 11, "question": "What is mutualism?", "options": ["One benefits", "Both benefit", "Only equal", "Only visible"], "answer": "Both benefit"},
+    {"id": 12, "question": "What is commensalism?", "options": ["Harmful", "One neutral", "Only equal", "Only visible"], "answer": "One neutral"},
+    {"id": 13, "question": "What is succession?", "options": ["No change", "Community change", "Only primary", "Only visible"], "answer": "Community change"},
+    {"id": 14, "question": "What is carrying capacity?", "options": ["No limit", "Population max", "Only space", "Only resources"], "answer": "Population max"},
+    {"id": 15, "question": "What is biodiversity?", "options": ["Single species", "Species variety", "Only genetics", "Only obvious"], "answer": "Species variety"},
+    {"id": 16, "question": "What is conservation?", "options": ["No protection", "Resource preservation", "Only animals", "Only visible"], "answer": "Resource preservation"},
+    {"id": 17, "question": "Why ecology?", "options": ["No reason", "Relationship understanding", "Only animals", "Only visible"], "answer": "Relationship understanding"}
+  ]
+}
