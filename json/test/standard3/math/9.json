@@ -1,0 +1,98 @@
+{
+  "id": 9,
+  "chapter": "Data, Charts, and Graphs",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A class survey shows: Apples = 8 votes, Bananas = 5 votes, Grapes = 3 votes. Which fruit got the most votes?",
+      "options": ["Apples", "Bananas", "Grapes", "They are equal"],
+      "answer": "Apples"
+    },
+    {
+      "id": 2,
+      "question": "A chart shows: Cats = 4, Dogs = 7, Fish = 2. How many students chose Dogs?",
+      "options": ["4", "5", "6", "7"],
+      "answer": "7"
+    },
+    {
+      "id": 3,
+      "question": "Which number is the greatest in this data set: 5, 8, 3, 6?",
+      "options": ["5", "6", "8", "3"],
+      "answer": "8"
+    },
+    {
+      "id": 4,
+      "question": "How many total votes are there: 6 votes for red, 4 votes for blue, and 5 votes for green?",
+      "options": ["13", "14", "15", "16"],
+      "answer": "15"
+    },
+    {
+      "id": 5,
+      "question": "A graph shows 9 students like soccer and 4 like tennis. Which sport is more popular?",
+      "options": ["Soccer", "Tennis", "Both equally", "Cannot tell"],
+      "answer": "Soccer"
+    },
+
+    {
+      "id": 6,
+      "question": "A survey shows: Reading = 7, Drawing = 5, Music = 8. How many students were surveyed altogether?",
+      "options": ["18", "19", "20", "21"],
+      "answer": "20"
+    },
+    {
+      "id": 7,
+      "question": "A bar chart shows: Monday = 6 books read, Tuesday = 8 books read, Wednesday = 5 books read. On which day were the most books read?",
+      "options": ["Monday", "Tuesday", "Wednesday", "Monday and Tuesday"],
+      "answer": "Tuesday"
+    },
+    {
+      "id": 8,
+      "question": "The temperatures for four days were 72°F, 68°F, 75°F, and 70°F. What was the highest temperature?",
+      "options": ["68°F", "70°F", "72°F", "75°F"],
+      "answer": "75°F"
+    },
+    {
+      "id": 9,
+      "question": "A chart shows 12 children like pizza, 7 like burgers, and 5 like tacos. How many more children like pizza than tacos?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "id": 10,
+      "question": "A graph shows sales of toys: Cars = 15, Dolls = 9, Balls = 12. Which toy sold the least?",
+      "options": ["Cars", "Dolls", "Balls", "Cars and Balls"],
+      "answer": "Dolls"
+    },
+
+    {
+      "id": 11,
+      "question": "A class recorded the number of books read by students: 3, 5, 2, 7, 8. How many books were read altogether?",
+      "options": ["20", "22", "25", "27"],
+      "answer": "25"
+    },
+    {
+      "id": 12,
+      "question": "A survey shows: Soccer = 14, Basketball = 10, Baseball = 6. How many more students chose Soccer than Basketball and Baseball combined?",
+      "options": ["0", "1", "2", "4"],
+      "answer": "0"
+    },
+    {
+      "id": 13,
+      "question": "A graph shows rainfall: April = 8 inches, May = 12 inches, June = 10 inches. What is the difference between the highest and lowest rainfall?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "4"
+    },
+    {
+      "id": 14,
+      "question": "A chart shows the number of pets owned by four families: 2, 5, 3, and 6. What is the total number of pets?",
+      "options": ["14", "15", "16", "17"],
+      "answer": "16"
+    },
+    {
+      "id": 15,
+      "question": "A teacher tracked homework completion: Monday = 18 students, Tuesday = 20 students, Wednesday = 17 students, Thursday = 19 students. How many students completed homework over all four days?",
+      "options": ["72", "73", "74", "75"],
+      "answer": "74"
+    }
+  ]
+}
