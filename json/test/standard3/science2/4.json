@@ -1,0 +1,83 @@
+{
+  "id": 4,
+  "chapter": "Animal Groups and Habitats",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a habitat?",
+      "options": [
+        "The natural home of an animal",
+        "A type of food",
+        "A body part",
+        "A weather condition"
+      ],
+      "answer": "The natural home of an animal"
+    },
+    {
+      "id": 2,
+      "question": "Which animal is best suited to live in a desert?",
+      "options": [
+        "Camel",
+        "Polar Bear",
+        "Penguin",
+        "Frog"
+      ],
+      "answer": "Camel"
+    },
+    {
+      "id": 3,
+      "question": "Which habitat would you most likely find a polar bear in?",
+      "options": [
+        "Arctic region",
+        "Desert",
+        "Rainforest",
+        "Grassland"
+      ],
+      "answer": "Arctic region"
+    },
+    {
+      "id": 4,
+      "question": "Animals that eat only plants are called ____.",
+      "options": [
+        "Herbivores",
+        "Carnivores",
+        "Omnivores",
+        "Scavengers"
+      ],
+      "answer": "Herbivores"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a carnivore?",
+      "options": [
+        "Lion",
+        "Cow",
+        "Rabbit",
+        "Deer"
+      ],
+      "answer": "Lion"
+    },
+    {
+      "id": 6,
+      "question": "A bear eats both plants and animals. A bear is a(n) ____.",
+      "options": [
+        "Omnivore",
+        "Herbivore",
+        "Carnivore",
+        "Producer"
+      ],
+      "answer": "Omnivore"
+    },
+    {
+      "id": 7,
+      "question": "Why do fish live well in water?",
+      "options": [
+        "They have gills to breathe in water",
+        "They have fur to keep warm",
+        "They can climb trees",
+        "They have wings"
+      ],
+      "answer": "They have gills to breathe in water"
+    }
+  ]
+}
