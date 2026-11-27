@@ -1,0 +1,98 @@
+{
+  "id": 1,
+  "chapter": "Addition and Subtraction",
+  "questions": [
+    {
+      "id": 1,
+      "question": "345 + 234 = ?",
+      "options": ["569", "579", "589", "599"],
+      "answer": "579"
+    },
+    {
+      "id": 2,
+      "question": "712 - 281 = ?",
+      "options": ["421", "431", "441", "451"],
+      "answer": "431"
+    },
+    {
+      "id": 3,
+      "question": "428 + 157 = ?",
+      "options": ["575", "585", "595", "605"],
+      "answer": "585"
+    },
+    {
+      "id": 4,
+      "question": "900 - 245 = ?",
+      "options": ["645", "655", "665", "675"],
+      "answer": "655"
+    },
+    {
+      "id": 5,
+      "question": "567 + 123 = ?",
+      "options": ["670", "680", "690", "700"],
+      "answer": "690"
+    },
+
+    {
+      "id": 6,
+      "question": "A library had 425 books. It received 168 more books. How many books does it have now?",
+      "options": ["583", "593", "603", "613"],
+      "answer": "593"
+    },
+    {
+      "id": 7,
+      "question": "A farmer picked 850 apples. He sold 375 apples. How many apples are left?",
+      "options": ["465", "475", "485", "495"],
+      "answer": "475"
+    },
+    {
+      "id": 8,
+      "question": "Mia has 245 stickers. Her friend gives her 189 more. How many stickers does Mia have now?",
+      "options": ["424", "434", "444", "454"],
+      "answer": "434"
+    },
+    {
+      "id": 9,
+      "question": "A tank contained 700 liters of water. 248 liters were used. How many liters remain?",
+      "options": ["442", "452", "462", "472"],
+      "answer": "452"
+    },
+    {
+      "id": 10,
+      "question": "The school collected 356 cans on Monday and 287 cans on Tuesday. How many cans were collected altogether?",
+      "options": ["633", "643", "653", "663"],
+      "answer": "643"
+    },
+
+    {
+      "id": 11,
+      "question": "A store sold 235 toys in the morning and 178 toys in the afternoon. If it started with 600 toys, how many toys are left?",
+      "options": ["177", "187", "197", "207"],
+      "answer": "187"
+    },
+    {
+      "id": 12,
+      "question": "Tom had 325 marbles. He won 146 more and then gave away 189. How many marbles does he have now?",
+      "options": ["272", "282", "292", "302"],
+      "answer": "282"
+    },
+    {
+      "id": 13,
+      "question": "A train carried 478 passengers. 129 got off at one station and 85 got off at the next station. How many passengers remain on the train?",
+      "options": ["254", "264", "274", "284"],
+      "answer": "264"
+    },
+    {
+      "id": 14,
+      "question": "Emma saved $245 in January, $178 in February, and $129 in March. How much did she save altogether?",
+      "options": ["532", "542", "552", "562"],
+      "answer": "552"
+    },
+    {
+      "id": 15,
+      "question": "A ribbon is 950 cm long. 275 cm is cut off, then another 185 cm is cut off. How much ribbon remains?",
+      "options": ["480 cm", "490 cm", "500 cm", "510 cm"],
+      "answer": "490 cm"
+    }
+  ]
+}
