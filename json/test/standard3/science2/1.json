@@ -1,0 +1,83 @@
+{
+  "id": 1,
+  "chapter": "Characteristics of Living Things",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which feature helps us know that a plant is a living thing?",
+      "options": [
+        "It grows over time",
+        "It is green",
+        "It stays in one place",
+        "It has roots"
+      ],
+      "answer": "It grows over time"
+    },
+    {
+      "id": 2,
+      "question": "A puppy grows into a dog. This is an example of living things being able to ____.",
+      "options": [
+        "Move",
+        "Grow",
+        "Sleep",
+        "Breathe"
+      ],
+      "answer": "Grow"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is living now but was once inside an egg?",
+      "options": [
+        "Chicken",
+        "Rock",
+        "Toy Car",
+        "Pencil"
+      ],
+      "answer": "Chicken"
+    },
+    {
+      "id": 4,
+      "question": "A sunflower turns toward sunlight. Which characteristic of living things does this show?",
+      "options": [
+        "Living things respond to their surroundings",
+        "Living things make noise",
+        "Living things are always moving",
+        "Living things are colorful"
+      ],
+      "answer": "Living things respond to their surroundings"
+    },
+    {
+      "id": 5,
+      "question": "Which of these needs food, water, and air to stay alive?",
+      "options": [
+        "A rabbit",
+        "A bicycle",
+        "A chair",
+        "A book"
+      ],
+      "answer": "A rabbit"
+    },
+    {
+      "id": 6,
+      "question": "A seed grows into a plant and later produces more seeds. This shows that living things can ____.",
+      "options": [
+        "Reproduce",
+        "Freeze",
+        "Melt",
+        "Rust"
+      ],
+      "answer": "Reproduce"
+    },
+    {
+      "id": 7,
+      "question": "Which of these is NOT a characteristic of living things?",
+      "options": [
+        "Growing",
+        "Breathing",
+        "Needing food",
+        "Being made of metal"
+      ],
+      "answer": "Being made of metal"
+    }
+  ]
+}
