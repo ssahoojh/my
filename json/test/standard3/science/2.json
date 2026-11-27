@@ -1,0 +1,48 @@
+{
+  "id": 1,
+  "chapter": "Living and Non-Living Things",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of these is a living thing?",
+      "options": ["Rock", "Tree", "Chair", "Book"],
+      "answer": "Tree"
+    },
+    {
+      "id": 2,
+      "question": "Living things need _____ to stay alive.",
+      "options": ["Food", "Paint", "Plastic", "Metal"],
+      "answer": "Food"
+    },
+    {
+      "id": 3,
+      "question": "Which of these is a non-living thing?",
+      "options": ["Dog", "Bird", "Table", "Fish"],
+      "answer": "Table"
+    },
+    {
+      "id": 4,
+      "question": "Which activity can all living things do?",
+      "options": ["Grow", "Drive", "Read", "Cook"],
+      "answer": "Grow"
+    },
+    {
+      "id": 5,
+      "question": "A baby cat grows into an adult cat. This shows that living things can _____?",
+      "options": ["Grow", "Melt", "Break", "Freeze"],
+      "answer": "Grow"
+    },
+    {
+      "id": 6,
+      "question": "Which of these needs water to live?",
+      "options": ["Stone", "Plant", "Pencil", "Eraser"],
+      "answer": "Plant"
+    },
+    {
+      "id": 7,
+      "question": "Which one can move on its own?",
+      "options": ["Bus", "Dog", "Bicycle", "Toy Car"],
+      "answer": "Dog"
+    }
+  ]
+}
