@@ -1,0 +1,83 @@
+{
+  "id": 5,
+  "chapter": "Adaptations of Animals",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Why does a polar bear have thick fur?",
+      "options": [
+        "To stay warm in cold places",
+        "To fly",
+        "To swim faster",
+        "To hide in trees"
+      ],
+      "answer": "To stay warm in cold places"
+    },
+    {
+      "id": 2,
+      "question": "Why do ducks have webbed feet?",
+      "options": [
+        "To help them swim",
+        "To climb mountains",
+        "To dig burrows",
+        "To catch insects"
+      ],
+      "answer": "To help them swim"
+    },
+    {
+      "id": 3,
+      "question": "A chameleon can change its color mainly to ____.",
+      "options": [
+        "Blend into its surroundings",
+        "Grow faster",
+        "Breathe underwater",
+        "Find food"
+      ],
+      "answer": "Blend into its surroundings"
+    },
+    {
+      "id": 4,
+      "question": "Why does a camel have a hump?",
+      "options": [
+        "To store fat for energy",
+        "To store water directly",
+        "To help it fly",
+        "To keep warm in snow"
+      ],
+      "answer": "To store fat for energy"
+    },
+    {
+      "id": 5,
+      "question": "Which adaptation helps a fish survive in water?",
+      "options": [
+        "Gills",
+        "Fur",
+        "Feathers",
+        "Hooves"
+      ],
+      "answer": "Gills"
+    },
+    {
+      "id": 6,
+      "question": "Why are a rabbit's ears longer than a cat's ears?",
+      "options": [
+        "They help the rabbit hear danger from far away",
+        "They help the rabbit swim",
+        "They help the rabbit climb trees",
+        "They help the rabbit store food"
+      ],
+      "answer": "They help the rabbit hear danger from far away"
+    },
+    {
+      "id": 7,
+      "question": "A giraffe's long neck is an adaptation that helps it ____.",
+      "options": [
+        "Reach leaves high in trees",
+        "Run faster than all animals",
+        "Hide underground",
+        "Swim across rivers"
+      ],
+      "answer": "Reach leaves high in trees"
+    }
+  ]
+}
