@@ -1,0 +1,94 @@
+{
+  "id": 10,
+  "chapter": "Earth, Sun, Moon, and Solar System",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the name of the star at the center of our solar system?",
+      "options": [
+        "Sun",
+        "Moon",
+        "Earth",
+        "Mars"
+      ],
+      "answer": "Sun"
+    },
+    {
+      "id": 2,
+      "question": "Which planet do we live on?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Earth",
+        "Jupiter"
+      ],
+      "answer": "Earth"
+    },
+    {
+      "id": 3,
+      "question": "Why do we have day and night on Earth?",
+      "options": [
+        "Earth rotates on its axis",
+        "The Moon covers the Sun",
+        "The Sun moves around Earth every day",
+        "Clouds block the sunlight"
+      ],
+      "answer": "Earth rotates on its axis"
+    },
+    {
+      "id": 4,
+      "question": "About how long does it take Earth to go around the Sun one time?",
+      "options": [
+        "1 day",
+        "1 month",
+        "1 year",
+        "10 years"
+      ],
+      "answer": "1 year"
+    },
+    {
+      "id": 5,
+      "question": "The Moon shines because it ____.",
+      "options": [
+        "Reflects light from the Sun",
+        "Makes its own light",
+        "Is made of fire",
+        "Receives light from the stars"
+      ],
+      "answer": "Reflects light from the Sun"
+    },
+    {
+      "id": 6,
+      "question": "What causes the different phases of the Moon?",
+      "options": [
+        "We see different amounts of its sunlit side",
+        "The Moon changes shape",
+        "Clouds cover part of the Moon",
+        "Earth gets bigger and smaller"
+      ],
+      "answer": "We see different amounts of its sunlit side"
+    },
+    {
+      "id": 7,
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        "Mars",
+        "Venus",
+        "Mercury",
+        "Saturn"
+      ],
+      "answer": "Mars"
+    },
+    {
+      "id": 8,
+      "question": "Which planet is the largest in our solar system?",
+      "options": [
+        "Jupiter",
+        "Earth",
+        "Mars",
+        "Mercury"
+      ],
+      "answer": "Jupiter"
+    }
+  ]
+}
