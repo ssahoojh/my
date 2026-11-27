@@ -1,0 +1,83 @@
+{
+  "id": 2,
+  "chapter": "Plant Parts and Functions",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the main job of roots?",
+      "options": [
+        "Absorb water and minerals",
+        "Make seeds",
+        "Catch insects",
+        "Produce flowers"
+      ],
+      "answer": "Absorb water and minerals"
+    },
+    {
+      "id": 2,
+      "question": "Which plant part carries water from the roots to the leaves?",
+      "options": [
+        "Flower",
+        "Stem",
+        "Fruit",
+        "Seed"
+      ],
+      "answer": "Stem"
+    },
+    {
+      "id": 3,
+      "question": "Leaves make food for the plant using sunlight. This process is called ____.",
+      "options": [
+        "Photosynthesis",
+        "Pollination",
+        "Germination",
+        "Respiration"
+      ],
+      "answer": "Photosynthesis"
+    },
+    {
+      "id": 4,
+      "question": "Why are most leaves green?",
+      "options": [
+        "Because they contain chlorophyll",
+        "Because they contain water",
+        "Because they grow in soil",
+        "Because insects paint them"
+      ],
+      "answer": "Because they contain chlorophyll"
+    },
+    {
+      "id": 5,
+      "question": "What is the main function of flowers?",
+      "options": [
+        "Help the plant reproduce",
+        "Store water",
+        "Absorb minerals",
+        "Hold the plant upright"
+      ],
+      "answer": "Help the plant reproduce"
+    },
+    {
+      "id": 6,
+      "question": "Which plant part contains seeds in many plants?",
+      "options": [
+        "Fruit",
+        "Root",
+        "Leaf",
+        "Stem"
+      ],
+      "answer": "Fruit"
+    },
+    {
+      "id": 7,
+      "question": "A cactus has thick stems because it ____.",
+      "options": [
+        "Stores water",
+        "Makes more flowers",
+        "Produces more seeds",
+        "Attracts animals"
+      ],
+      "answer": "Stores water"
+    }
+  ]
+}
