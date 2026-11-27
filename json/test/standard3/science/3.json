@@ -1,0 +1,58 @@
+{
+  "id": 2,
+  "chapter": "Plants Around Us",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which part of a plant absorbs water from the soil?",
+      "options": ["Leaf", "Flower", "Root", "Fruit"],
+      "answer": "Root"
+    },
+    {
+      "id": 2,
+      "question": "Which part of a plant makes food using sunlight?",
+      "options": ["Root", "Stem", "Leaf", "Seed"],
+      "answer": "Leaf"
+    },
+    {
+      "id": 3,
+      "question": "A sunflower turns toward the ____.",
+      "options": ["Moon", "Sun", "River", "Mountain"],
+      "answer": "Sun"
+    },
+    {
+      "id": 4,
+      "question": "Which part of a plant often becomes a fruit?",
+      "options": ["Root", "Flower", "Leaf", "Stem"],
+      "answer": "Flower"
+    },
+    {
+      "id": 5,
+      "question": "What do plants need to grow?",
+      "options": [
+        "Water and sunlight",
+        "Plastic and metal",
+        "Paper and glue",
+        "Sand and stones"
+      ],
+      "answer": "Water and sunlight"
+    },
+    {
+      "id": 6,
+      "question": "Which of these is a seed?",
+      "options": ["Mango seed", "Leaf", "Root", "Flower"],
+      "answer": "Mango seed"
+    },
+    {
+      "id": 7,
+      "question": "The stem helps a plant to ____.",
+      "options": [
+        "Stand upright",
+        "See objects",
+        "Hear sounds",
+        "Run fast"
+      ],
+      "answer": "Stand upright"
+    }
+  ]
+}
