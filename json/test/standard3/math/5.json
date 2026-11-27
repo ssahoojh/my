@@ -1,0 +1,98 @@
+{
+  "id": 5,
+  "chapter": "Measurement (Length, Weight, and Capacity)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which unit is best for measuring the length of a pencil?",
+      "options": ["Centimeters", "Kilograms", "Liters", "Minutes"],
+      "answer": "Centimeters"
+    },
+    {
+      "id": 2,
+      "question": "Which unit is best for measuring a person's weight?",
+      "options": ["Meters", "Kilograms", "Liters", "Seconds"],
+      "answer": "Kilograms"
+    },
+    {
+      "id": 3,
+      "question": "Which unit is used to measure how much water a bottle can hold?",
+      "options": ["Liters", "Meters", "Kilograms", "Centimeters"],
+      "answer": "Liters"
+    },
+    {
+      "id": 4,
+      "question": "100 centimeters equals how many meters?",
+      "options": ["1", "10", "100", "1000"],
+      "answer": "1"
+    },
+    {
+      "id": 5,
+      "question": "Which is longer?",
+      "options": ["2 meters", "150 centimeters", "They are equal", "Cannot tell"],
+      "answer": "2 meters"
+    },
+
+    {
+      "id": 6,
+      "question": "A rope is 3 meters long. How many centimeters is that?",
+      "options": ["30", "300", "3000", "30000"],
+      "answer": "300"
+    },
+    {
+      "id": 7,
+      "question": "A bucket can hold 8 liters of water. If it already contains 3 liters, how many more liters can it hold?",
+      "options": ["4", "5", "6", "7"],
+      "answer": "5"
+    },
+    {
+      "id": 8,
+      "question": "A watermelon weighs 6 kilograms. A pumpkin weighs 4 kilograms. What is their total weight?",
+      "options": ["8 kg", "9 kg", "10 kg", "11 kg"],
+      "answer": "10 kg"
+    },
+    {
+      "id": 9,
+      "question": "A ribbon is 250 cm long. If 75 cm is cut off, how much ribbon remains?",
+      "options": ["165 cm", "175 cm", "185 cm", "195 cm"],
+      "answer": "175 cm"
+    },
+    {
+      "id": 10,
+      "question": "A tank contains 20 liters of water. 7 liters are used. How much water remains?",
+      "options": ["11 liters", "12 liters", "13 liters", "14 liters"],
+      "answer": "13 liters"
+    },
+
+    {
+      "id": 11,
+      "question": "A snake is 2 meters 50 centimeters long. What is its length in centimeters?",
+      "options": ["205 cm", "250 cm", "300 cm", "350 cm"],
+      "answer": "250 cm"
+    },
+    {
+      "id": 12,
+      "question": "A truck carries 425 kg of sand and 275 kg of gravel. What is the total weight?",
+      "options": ["600 kg", "650 kg", "700 kg", "750 kg"],
+      "answer": "700 kg"
+    },
+    {
+      "id": 13,
+      "question": "A 10-liter container is filled with 4 liters of juice and 3 liters of water. How many liters of space are left?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "3"
+    },
+    {
+      "id": 14,
+      "question": "A runner completed a 500-meter race and then ran another 750 meters. How far did the runner run altogether?",
+      "options": ["1000 m", "1100 m", "1250 m", "1350 m"],
+      "answer": "1250 m"
+    },
+    {
+      "id": 15,
+      "question": "A piece of wood is 4 meters long. It is cut into two pieces measuring 150 cm and 120 cm. How many centimeters of wood remain?",
+      "options": ["110 cm", "120 cm", "130 cm", "140 cm"],
+      "answer": "130 cm"
+    }
+  ]
+}
