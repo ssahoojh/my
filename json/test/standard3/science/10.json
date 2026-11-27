@@ -1,0 +1,73 @@
+{
+  "id": 9,
+  "chapter": "Safety, Environment and Good Habits",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What should you do before eating food?",
+      "options": [
+        "Wash your hands",
+        "Watch TV",
+        "Run outside",
+        "Play a game"
+      ],
+      "answer": "Wash your hands"
+    },
+    {
+      "id": 2,
+      "question": "Which color on a traffic signal means STOP?",
+      "options": ["Green", "Yellow", "Red", "Blue"],
+      "answer": "Red"
+    },
+    {
+      "id": 3,
+      "question": "What should you wear when riding a bicycle?",
+      "options": ["Helmet", "Scarf", "Watch", "Ring"],
+      "answer": "Helmet"
+    },
+    {
+      "id": 4,
+      "question": "Why should we throw trash in a dustbin?",
+      "options": [
+        "To keep the surroundings clean",
+        "To make more trash",
+        "To waste time",
+        "To make bad smells"
+      ],
+      "answer": "To keep the surroundings clean"
+    },
+    {
+      "id": 5,
+      "question": "What should you do if you see a fire?",
+      "options": [
+        "Tell a trusted adult",
+        "Hide it",
+        "Play near it",
+        "Throw paper into it"
+      ],
+      "answer": "Tell a trusted adult"
+    },
+    {
+      "id": 6,
+      "question": "Which of these is a good habit?",
+      "options": [
+        "Brushing your teeth daily",
+        "Littering",
+        "Skipping baths",
+        "Leaving food on the floor"
+      ],
+      "answer": "Brushing your teeth daily"
+    },
+    {
+      "id": 7,
+      "question": "What can we do to help save water?",
+      "options": [
+        "Turn off the tap when not using it",
+        "Leave the tap running",
+        "Play with water all day",
+        "Waste water"
+      ],
+      "answer": "Turn off the tap when not using it"
+    }
+  ]
+}
