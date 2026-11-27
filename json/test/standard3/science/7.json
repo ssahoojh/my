@@ -1,0 +1,53 @@
+{
+  "id": 6,
+  "chapter": "Water and Air",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which gas do humans need to breathe?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+      "answer": "Oxygen"
+    },
+    {
+      "id": 2,
+      "question": "Which of these needs water to survive?",
+      "options": ["Plant", "Rock", "Chair", "Book"],
+      "answer": "Plant"
+    },
+    {
+      "id": 3,
+      "question": "What happens to water when it is frozen?",
+      "options": ["It becomes steam", "It becomes ice", "It disappears", "It becomes air"],
+      "answer": "It becomes ice"
+    },
+    {
+      "id": 4,
+      "question": "What do we call water that falls from clouds?",
+      "options": ["Snow", "Rain", "Steam", "Ice"],
+      "answer": "Rain"
+    },
+    {
+      "id": 5,
+      "question": "Air is all around us, but we cannot usually ____ it.",
+      "options": ["See", "Drink", "Eat", "Paint"],
+      "answer": "See"
+    },
+    {
+      "id": 6,
+      "question": "Which of these uses air to fly?",
+      "options": ["Kite", "Rock", "Book", "Table"],
+      "answer": "Kite"
+    },
+    {
+      "id": 7,
+      "question": "Why is water important for our body?",
+      "options": [
+        "It helps keep us healthy",
+        "It changes our eye color",
+        "It makes us taller in one day",
+        "It makes us fly"
+      ],
+      "answer": "It helps keep us healthy"
+    }
+  ]
+}
