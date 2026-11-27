@@ -1,0 +1,98 @@
+{
+  "id": 8,
+  "chapter": "Geometry and Shapes",
+  "questions": [
+    {
+      "id": 1,
+      "question": "How many sides does a triangle have?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "3"
+    },
+    {
+      "id": 2,
+      "question": "How many sides does a rectangle have?",
+      "options": ["3", "4", "5", "6"],
+      "answer": "4"
+    },
+    {
+      "id": 3,
+      "question": "Which shape has no corners?",
+      "options": ["Square", "Triangle", "Circle", "Rectangle"],
+      "answer": "Circle"
+    },
+    {
+      "id": 4,
+      "question": "How many corners (vertices) does a square have?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "4"
+    },
+    {
+      "id": 5,
+      "question": "Which shape has exactly 5 sides?",
+      "options": ["Triangle", "Rectangle", "Pentagon", "Hexagon"],
+      "answer": "Pentagon"
+    },
+
+    {
+      "id": 6,
+      "question": "How many sides does a hexagon have?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "6"
+    },
+    {
+      "id": 7,
+      "question": "Which shape has 4 equal sides?",
+      "options": ["Triangle", "Rectangle", "Square", "Circle"],
+      "answer": "Square"
+    },
+    {
+      "id": 8,
+      "question": "A rectangle has how many right angles?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "4"
+    },
+    {
+      "id": 9,
+      "question": "Which shape would be best used as a wheel?",
+      "options": ["Triangle", "Circle", "Square", "Pentagon"],
+      "answer": "Circle"
+    },
+    {
+      "id": 10,
+      "question": "How many sides do a triangle and a square have altogether?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+
+    {
+      "id": 11,
+      "question": "A shape has 8 sides. What is it called?",
+      "options": ["Hexagon", "Heptagon", "Octagon", "Pentagon"],
+      "answer": "Octagon"
+    },
+    {
+      "id": 12,
+      "question": "A shape has 6 corners and 6 sides. Which shape is it?",
+      "options": ["Pentagon", "Hexagon", "Octagon", "Rectangle"],
+      "answer": "Hexagon"
+    },
+    {
+      "id": 13,
+      "question": "How many total sides are there in 2 triangles and 1 square?",
+      "options": ["8", "9", "10", "12"],
+      "answer": "10"
+    },
+    {
+      "id": 14,
+      "question": "A pentagon and a hexagon are joined. How many sides do they have altogether?",
+      "options": ["9", "10", "11", "12"],
+      "answer": "11"
+    },
+    {
+      "id": 15,
+      "question": "Tom draws a triangle, a square, and a pentagon. How many corners do the three shapes have altogether?",
+      "options": ["10", "11", "12", "13"],
+      "answer": "12"
+    }
+  ]
+}
