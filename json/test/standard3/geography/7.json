@@ -1,0 +1,107 @@
+{
+  "id": 7,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a natural resource?",
+      "options": ["A building", "Something from nature that people use and value", "A city", "A type of map"],
+      "answer": "Something from nature that people use and value"
+    },
+    {
+      "id": 2,
+      "question": "What are renewable resources?",
+      "options": ["Resources that can't be replaced", "Resources that can be replaced or regrown", "Only trees", "Underground resources"],
+      "answer": "Resources that can be replaced or regrown"
+    },
+    {
+      "id": 3,
+      "question": "What are non-renewable resources?",
+      "options": ["Resources that grow quickly", "Resources that take very long to form or can't be replaced", "Only metals", "Only plants"],
+      "answer": "Resources that take very long to form or can't be replaced"
+    },
+    {
+      "id": 4,
+      "question": "True or False: Forests are renewable resources.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 5,
+      "question": "Is coal a renewable or non-renewable resource?",
+      "options": ["Renewable", "Non-renewable", "Both", "Neither"],
+      "answer": "Non-renewable"
+    },
+    {
+      "id": 6,
+      "question": "What is mineral?",
+      "options": ["A plant", "A solid, naturally occurring material with specific properties", "A type of food", "A fossil"],
+      "answer": "A solid, naturally occurring material with specific properties"
+    },
+    {
+      "id": 7,
+      "question": "Which of these is a fossil fuel?",
+      "options": ["Water", "Oil", "Soil", "Wood"],
+      "answer": "Oil"
+    },
+    {
+      "id": 8,
+      "question": "True or False: Soil is a natural resource.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 9,
+      "question": "What is water considered as a resource?",
+      "options": ["Non-renewable", "Renewable but can become scarce", "Unlimited", "Not a resource"],
+      "answer": "Renewable but can become scarce"
+    },
+    {
+      "id": 10,
+      "question": "What are metals used for?",
+      "options": ["Nothing useful", "Tools, construction, vehicles, and many other products", "Only jewelry", "No purpose"],
+      "answer": "Tools, construction, vehicles, and many other products"
+    },
+    {
+      "id": 11,
+      "question": "How do different regions have different natural resources?",
+      "options": ["All regions the same", "Geography, climate, and geology determine available resources", "No variation", "Random distribution"],
+      "answer": "Geography, climate, and geology determine available resources"
+    },
+    {
+      "id": 12,
+      "question": "Why is conservation of resources important?",
+      "options": ["It's not", "To ensure resources last and to protect the environment", "Resources are unlimited", "Conservation wastes time"],
+      "answer": "To ensure resources last and to protect the environment"
+    },
+    {
+      "id": 13,
+      "question": "What is sustainable resource management?",
+      "options": ["Using all resources quickly", "Using resources in a way that doesn't deplete them and protects the environment", "No management needed", "Only for farmers"],
+      "answer": "Using resources in a way that doesn't deplete them and protects the environment"
+    },
+    {
+      "id": 14,
+      "question": "What renewable energy sources are available?",
+      "options": ["None available", "Solar, wind, hydroelectric, and geothermal energy", "Only coal", "No alternatives"],
+      "answer": "Solar, wind, hydroelectric, and geothermal energy"
+    },
+    {
+      "id": 15,
+      "question": "How has technology changed resource usage?",
+      "options": ["No change", "New technologies allow better extraction, efficiency, and renewable energy use", "Only uses more", "Technology helps nothing"],
+      "answer": "New technologies allow better extraction, efficiency, and renewable energy use"
+    },
+    {
+      "id": 16,
+      "question": "What impact do humans have on natural resources?",
+      "options": ["No impact", "Humans use, extract, and sometimes deplete or damage natural resources", "Only positive impact", "No damage possible"],
+      "answer": "Humans use, extract, and sometimes deplete or damage natural resources"
+    },
+    {
+      "id": 17,
+      "question": "Why is understanding natural resources important for communities?",
+      "options": ["It's not", "Resource availability affects economy, development, and environmental health", "No connection", "Irrelevant"],
+      "answer": "Resource availability affects economy, development, and environmental health"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": 1,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a landform?",
+      "options": ["A type of building", "A natural shape or feature of Earth's surface", "A mountain only", "A type of vehicle"],
+      "answer": "A natural shape or feature of Earth's surface"
+    },
+    {
+      "id": 2,
+      "question": "What is a mountain?",
+      "options": ["A flat area", "A very tall landform with steep slopes", "A body of water", "A city"],
+      "answer": "A very tall landform with steep slopes"
+    },
+    {
+      "id": 3,
+      "question": "What is a valley?",
+      "options": ["A tall peak", "A low area between mountains or hills", "An ocean", "A desert"],
+      "answer": "A low area between mountains or hills"
+    },
+    {
+      "id": 4,
+      "question": "True or False: A hill is smaller than a mountain.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 5,
+      "question": "What is a plateau?",
+      "options": ["A deep hole", "A high, flat area of land", "A mountain range", "A type of rock"],
+      "answer": "A high, flat area of land"
+    },
+    {
+      "id": 6,
+      "question": "What is a plain?",
+      "options": ["A mountain", "A large, flat area of land", "A steep slope", "An island"],
+      "answer": "A large, flat area of land"
+    },
+    {
+      "id": 7,
+      "question": "Which landform is the flattest?",
+      "options": ["Mountain", "Valley", "Plain", "Plateau"],
+      "answer": "Plain"
+    },
+    {
+      "id": 8,
+      "question": "What is a mesa?",
+      "options": ["A small hill", "A high, flat-topped landform", "A river", "A forest"],
+      "answer": "A high, flat-topped landform"
+    },
+    {
+      "id": 9,
+      "question": "True or False: Canyons are deep valleys with steep walls.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 10,
+      "question": "What is a slope?",
+      "options": ["A flat surface", "A surface that is not level", "An ocean", "A city"],
+      "answer": "A surface that is not level"
+    },
+    {
+      "id": 11,
+      "question": "How are mountains and hills similar?",
+      "options": ["They are the same size", "Both are high landforms that rise above surrounding land", "They are both flat", "They are made of water"],
+      "answer": "Both are high landforms that rise above surrounding land"
+    },
+    {
+      "id": 12,
+      "question": "Which landform would be easiest to climb?",
+      "options": ["Mountain", "Steep plateau", "Gentle hill", "Canyon"],
+      "answer": "Gentle hill"
+    },
+    {
+      "id": 13,
+      "question": "What causes the formation of mountains?",
+      "options": ["Wind only", "Geological forces pushing Earth's crust upward", "Rain", "Animals"],
+      "answer": "Geological forces pushing Earth's crust upward"
+    },
+    {
+      "id": 14,
+      "question": "How do valleys form between mountains?",
+      "options": ["People dig them", "Rivers cut through or geological forces create them", "Wind makes them", "They appear randomly"],
+      "answer": "Rivers cut through or geological forces create them"
+    },
+    {
+      "id": 15,
+      "question": "Why are plains important for human settlements?",
+      "options": ["They are too boring", "They are flat, easy to build on, and good for farming", "Nobody lives on plains", "They are underwater"],
+      "answer": "They are flat, easy to build on, and good for farming"
+    },
+    {
+      "id": 16,
+      "question": "What is the relationship between elevation and temperature on mountains?",
+      "options": ["No relationship", "It's always the same temperature", "Higher elevation usually means colder temperature", "Higher means warmer"],
+      "answer": "Higher elevation usually means colder temperature"
+    },
+    {
+      "id": 17,
+      "question": "How do different landforms affect where people choose to live?",
+      "options": ["Landforms don't matter", "Landforms influence water access, weather, and ease of building", "Everyone lives in mountains", "Location is random"],
+      "answer": "Landforms influence water access, weather, and ease of building"
+    }
+  ]
+}

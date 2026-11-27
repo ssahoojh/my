@@ -1,0 +1,107 @@
+{
+  "id": 9,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a region?",
+      "options": ["A type of building", "An area with common characteristics that set it apart", "A city", "A continent"],
+      "answer": "An area with common characteristics that set it apart"
+    },
+    {
+      "id": 2,
+      "question": "What are the five regions of the United States?",
+      "options": ["North, South, East, West, Middle", "Northeast, Southeast, Midwest, Southwest, West", "Cold and Hot", "Big and Small"],
+      "answer": "Northeast, Southeast, Midwest, Southwest, West"
+    },
+    {
+      "id": 3,
+      "question": "What is the Northeast region known for?",
+      "options": ["Deserts", "Mountains and forests", "Major cities and dense population", "Oil production"],
+      "answer": "Major cities and dense population"
+    },
+    {
+      "id": 4,
+      "question": "True or False: The Midwest is known for agriculture and farming.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 5,
+      "question": "What landforms are common in the Southwest?",
+      "options": ["Forests", "Deserts and canyons", "Mountains only", "Flat plains"],
+      "answer": "Deserts and canyons"
+    },
+    {
+      "id": 6,
+      "question": "What is the West region known for?",
+      "options": ["Farmland", "Mountains, forests, and varied landscapes", "Deserts only", "No mountains"],
+      "answer": "Mountains, forests, and varied landscapes"
+    },
+    {
+      "id": 7,
+      "question": "What defines regions of the world?",
+      "options": ["Random selection", "Geography, culture, climate, and language", "Only size", "Population only"],
+      "answer": "Geography, culture, climate, and language"
+    },
+    {
+      "id": 8,
+      "question": "True or False: Regions can overlap or be defined in different ways.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 9,
+      "question": "What is the Pacific Northwest region of the USA known for?",
+      "options": ["Deserts", "Forests, mountains, and rainy climate", "Flat land", "Oil"],
+      "answer": "Forests, mountains, and rainy climate"
+    },
+    {
+      "id": 10,
+      "question": "What defines the Great Plains region?",
+      "options": ["Deserts", "Large, flat areas good for agriculture", "Mountains", "Forests"],
+      "answer": "Large, flat areas good for agriculture"
+    },
+    {
+      "id": 11,
+      "question": "How do geographic regions influence economy and development?",
+      "options": ["No influence", "Available resources and geography determine economic activities", "All regions identical", "Random"],
+      "answer": "Available resources and geography determine economic activities"
+    },
+    {
+      "id": 12,
+      "question": "What is a cultural region?",
+      "options": ["A political boundary", "An area where people share similar customs, language, or history", "No such thing", "Only in cities"],
+      "answer": "An area where people share similar customs, language, or history"
+    },
+    {
+      "id": 13,
+      "question": "How do climate zones divide the world into regions?",
+      "options": ["Random division", "Based on temperature and precipitation patterns", "No relationship", "Only politics"],
+      "answer": "Based on temperature and precipitation patterns"
+    },
+    {
+      "id": 14,
+      "question": "What is a physical region?",
+      "options": ["A political area", "An area defined by natural features like mountains or rivers", "Only cities", "No physical regions"],
+      "answer": "An area defined by natural features like mountains or rivers"
+    },
+    {
+      "id": 15,
+      "question": "How do trade and commerce define economic regions?",
+      "options": ["No connection", "Areas trading with each other form economic regions", "Only political", "No trade effect"],
+      "answer": "Areas trading with each other form economic regions"
+    },
+    {
+      "id": 16,
+      "question": "What is the difference between absolute and relative location?",
+      "options": ["Same thing", "Absolute uses exact coordinates; relative uses landmarks", "No difference", "Only for maps"],
+      "answer": "Absolute uses exact coordinates; relative uses landmarks"
+    },
+    {
+      "id": 17,
+      "question": "Why is understanding regions important in geography?",
+      "options": ["It's not", "Regions help explain patterns of culture, economy, and environment", "No importance", "Only for travel"],
+      "answer": "Regions help explain patterns of culture, economy, and environment"
+    }
+  ]
+}

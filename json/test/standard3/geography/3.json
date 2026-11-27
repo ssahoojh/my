@@ -1,0 +1,107 @@
+{
+  "id": 3,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a compass?",
+      "options": ["A drawing tool", "A tool that shows direction", "A measuring instrument", "A type of map"],
+      "answer": "A tool that shows direction"
+    },
+    {
+      "id": 2,
+      "question": "What are the four main compass directions?",
+      "options": ["Up, Down, Left, Right", "North, South, East, West", "Front, Back, Side, Center", "Hot, Cold, Wet, Dry"],
+      "answer": "North, South, East, West"
+    },
+    {
+      "id": 3,
+      "question": "What direction is opposite to North?",
+      "options": ["East", "West", "South", "Up"],
+      "answer": "South"
+    },
+    {
+      "id": 4,
+      "question": "True or False: A map legend explains the symbols used on a map.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 5,
+      "question": "What is map scale?",
+      "options": ["A type of fish", "A tool showing how distances on a map relate to real distances", "A mountain measurement", "A weather symbol"],
+      "answer": "A tool showing how distances on a map relate to real distances"
+    },
+    {
+      "id": 6,
+      "question": "What does a map key show?",
+      "options": ["Where to go", "What different colors and symbols mean on the map", "Only cities", "Only mountains"],
+      "answer": "What different colors and symbols mean on the map"
+    },
+    {
+      "id": 7,
+      "question": "Which type of map shows cities and state boundaries?",
+      "options": ["Physical map", "Political map", "Weather map", "Terrain map"],
+      "answer": "Political map"
+    },
+    {
+      "id": 8,
+      "question": "Which type of map shows mountains, rivers, and landforms?",
+      "options": ["Road map", "Physical map", "Political map", "Weather map"],
+      "answer": "Physical map"
+    },
+    {
+      "id": 9,
+      "question": "True or False: Latitude lines run horizontally across a map.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 10,
+      "question": "What are longitude lines?",
+      "options": ["Horizontal lines", "Vertical lines running from North to South Pole", "Curved lines", "Temperature lines"],
+      "answer": "Vertical lines running from North to South Pole"
+    },
+    {
+      "id": 11,
+      "question": "How do you determine direction on a map without a compass rose?",
+      "options": ["Guess", "Use the map legend", "North is usually at the top of the map", "It's impossible"],
+      "answer": "North is usually at the top of the map"
+    },
+    {
+      "id": 12,
+      "question": "What is a grid on a map used for?",
+      "options": ["Decoration", "To help locate places using coordinates", "To show colors", "No purpose"],
+      "answer": "To help locate places using coordinates"
+    },
+    {
+      "id": 13,
+      "question": "How do mapmakers decide what information to show on a map?",
+      "options": ["Randomly", "Based on the map's purpose and what's important to show", "They show everything", "It doesn't matter"],
+      "answer": "Based on the map's purpose and what's important to show"
+    },
+    {
+      "id": 14,
+      "question": "Why is map scale important?",
+      "options": ["It's not", "It helps people understand real distances", "Only for decoration", "Scale is not used"],
+      "answer": "It helps people understand real distances"
+    },
+    {
+      "id": 15,
+      "question": "What information would you find in a map's title?",
+      "options": ["Random words", "What area is shown and what type of map it is", "Only numbers", "Names of map makers"],
+      "answer": "What area is shown and what type of map it is"
+    },
+    {
+      "id": 16,
+      "question": "How do different types of maps serve different purposes?",
+      "options": ["All maps are the same", "Different maps show different information based on specific needs", "Maps all show just cities", "Purpose doesn't matter"],
+      "answer": "Different maps show different information based on specific needs"
+    },
+    {
+      "id": 17,
+      "question": "What skills are needed to read a map effectively?",
+      "options": ["Just looking at it", "Understanding direction, scale, symbols, and coordinates", "Only memorization", "No special skills"],
+      "answer": "Understanding direction, scale, symbols, and coordinates"
+    }
+  ]
+}

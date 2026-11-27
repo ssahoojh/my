@@ -1,0 +1,107 @@
+{
+  "id": 5,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is weather?",
+      "options": ["A type of map", "The condition of the atmosphere at a specific time and place", "A season", "A climate"],
+      "answer": "The condition of the atmosphere at a specific time and place"
+    },
+    {
+      "id": 2,
+      "question": "What is climate?",
+      "options": ["The weather today", "The average weather pattern in a region over a long time", "A mountain", "An ocean"],
+      "answer": "The average weather pattern in a region over a long time"
+    },
+    {
+      "id": 3,
+      "question": "What is precipitation?",
+      "options": ["A type of cloud", "Water falling from clouds as rain, snow, or sleet", "A temperature", "A wind speed"],
+      "answer": "Water falling from clouds as rain, snow, or sleet"
+    },
+    {
+      "id": 4,
+      "question": "True or False: Temperature and weather are the same thing.",
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "id": 5,
+      "question": "What causes wind?",
+      "options": ["Nothing causes it", "Differences in air pressure and temperature", "Only mountains", "Oceans"],
+      "answer": "Differences in air pressure and temperature"
+    },
+    {
+      "id": 6,
+      "question": "What is a hurricane?",
+      "options": ["A light breeze", "A powerful rotating storm with strong winds and heavy rain", "A type of cloud", "A season"],
+      "answer": "A powerful rotating storm with strong winds and heavy rain"
+    },
+    {
+      "id": 7,
+      "question": "What is a tornado?",
+      "options": ["A season", "A spinning column of air with strong rotating winds", "A type of precipitation", "A cloud"],
+      "answer": "A spinning column of air with strong rotating winds"
+    },
+    {
+      "id": 8,
+      "question": "True or False: Deserts are hot and have little precipitation.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 9,
+      "question": "What is a drought?",
+      "options": ["Heavy rain", "A long period with little or no precipitation", "A cold period", "A season"],
+      "answer": "A long period with little or no precipitation"
+    },
+    {
+      "id": 10,
+      "question": "What are the four seasons?",
+      "options": ["Spring, Summer, Fall, Winter", "Hot, Cold, Wet, Dry", "Morning, Afternoon, Evening, Night", "East, West, North, South"],
+      "answer": "Spring, Summer, Fall, Winter"
+    },
+    {
+      "id": 11,
+      "question": "How does latitude affect climate?",
+      "options": ["It doesn't", "Places closer to the equator tend to be warmer", "All places have the same climate", "Latitude only affects maps"],
+      "answer": "Places closer to the equator tend to be warmer"
+    },
+    {
+      "id": 12,
+      "question": "What role do oceans play in climate?",
+      "options": ["No role", "They regulate temperature, provide moisture, and affect wind patterns", "Only cause rain", "No effect"],
+      "answer": "They regulate temperature, provide moisture, and affect wind patterns"
+    },
+    {
+      "id": 13,
+      "question": "What causes seasons on Earth?",
+      "options": ["Random changes", "The tilt of Earth's axis as it orbits the sun", "Ocean currents", "Wind patterns"],
+      "answer": "The tilt of Earth's axis as it orbits the sun"
+    },
+    {
+      "id": 14,
+      "question": "How do mountains affect climate?",
+      "options": ["They don't", "They block wind and create rain shadows", "Mountains only create wind", "No weather effect"],
+      "answer": "They block wind and create rain shadows"
+    },
+    {
+      "id": 15,
+      "question": "What is the water cycle?",
+      "options": ["Just rain", "The continuous movement of water between Earth and atmosphere", "A type of storm", "Wind movement"],
+      "answer": "The continuous movement of water between Earth and atmosphere"
+    },
+    {
+      "id": 16,
+      "question": "How do El Niño and La Niña affect global weather?",
+      "options": ["They don't", "They are ocean temperature patterns that influence global climate", "Only local weather", "No effect on weather"],
+      "answer": "They are ocean temperature patterns that influence global climate"
+    },
+    {
+      "id": 17,
+      "question": "Why is understanding weather and climate important?",
+      "options": ["It's not", "To predict conditions, plan activities, and prepare for natural disasters", "Only for farmers", "No importance"],
+      "answer": "To predict conditions, plan activities, and prepare for natural disasters"
+    }
+  ]
+}

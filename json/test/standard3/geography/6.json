@@ -1,0 +1,107 @@
+{
+  "id": 6,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a biome?",
+      "options": ["A type of map", "A large region with similar climate, plants, and animals", "A single tree", "A mountain"],
+      "answer": "A large region with similar climate, plants, and animals"
+    },
+    {
+      "id": 2,
+      "question": "What is a desert?",
+      "options": ["A forest", "A dry area with little precipitation", "An ocean", "A valley"],
+      "answer": "A dry area with little precipitation"
+    },
+    {
+      "id": 3,
+      "question": "What animals live in deserts?",
+      "options": ["Penguins and seals", "Lizards, snakes, camels, and scorpions", "Polar bears", "Fish only"],
+      "answer": "Lizards, snakes, camels, and scorpions"
+    },
+    {
+      "id": 4,
+      "question": "True or False: Rainforests have high rainfall and many plant and animal species.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 5,
+      "question": "What is the tundra?",
+      "options": ["A hot desert", "A cold, treeless region with frozen ground", "A rainforest", "An ocean"],
+      "answer": "A cold, treeless region with frozen ground"
+    },
+    {
+      "id": 6,
+      "question": "What plants grow in grasslands?",
+      "options": ["Tall trees", "Mostly grasses and shrubs", "Cacti", "Nothing grows"],
+      "answer": "Mostly grasses and shrubs"
+    },
+    {
+      "id": 7,
+      "question": "Which biome has the most biodiversity?",
+      "options": ["Desert", "Tundra", "Rainforest", "Grassland"],
+      "answer": "Rainforest"
+    },
+    {
+      "id": 8,
+      "question": "What is a forest biome?",
+      "options": ["A desert", "A large area covered with trees", "A mountain", "A lake"],
+      "answer": "A large area covered with trees"
+    },
+    {
+      "id": 9,
+      "question": "True or False: Tundras have many types of large trees.",
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "id": 10,
+      "question": "What animals live in grasslands?",
+      "options": ["Fish and seals", "Lions, zebras, antelopes, and prairie dogs", "Polar bears", "Only insects"],
+      "answer": "Lions, zebras, antelopes, and prairie dogs"
+    },
+    {
+      "id": 11,
+      "question": "How is climate related to biomes?",
+      "options": ["No relationship", "Different climates support different types of plants and animals", "All biomes have same climate", "Climate doesn't matter"],
+      "answer": "Different climates support different types of plants and animals"
+    },
+    {
+      "id": 12,
+      "question": "What plants are adapted to desert life?",
+      "options": ["Tall trees", "Plants with deep roots and small leaves to save water", "Water plants", "Tropical plants"],
+      "answer": "Plants with deep roots and small leaves to save water"
+    },
+    {
+      "id": 13,
+      "question": "What is a boreal forest?",
+      "options": ["A desert", "A cold forest with coniferous trees like pine and spruce", "A rainforest", "A grassland"],
+      "answer": "A cold forest with coniferous trees like pine and spruce"
+    },
+    {
+      "id": 14,
+      "question": "How do animals in tundras survive extreme cold?",
+      "options": ["They don't survive", "Through thick fur, hibernation, and migration", "By living underground only", "No special adaptations"],
+      "answer": "Through thick fur, hibernation, and migration"
+    },
+    {
+      "id": 15,
+      "question": "What is the difference between tropical and temperate forests?",
+      "options": ["Same thing", "Tropical forests are hot and wet; temperate forests have milder climates with seasonal changes", "No difference", "Only temperature differs"],
+      "answer": "Tropical forests are hot and wet; temperate forests have milder climates with seasonal changes"
+    },
+    {
+      "id": 16,
+      "question": "What determines what plants and animals live in a biome?",
+      "options": ["Random choice", "Climate, temperature, precipitation, and available resources", "People decide", "No factors"],
+      "answer": "Climate, temperature, precipitation, and available resources"
+    },
+    {
+      "id": 17,
+      "question": "How is human activity affecting different biomes?",
+      "options": ["No effect", "Deforestation, pollution, and climate change threaten many biomes", "Only helps", "People can't affect biomes"],
+      "answer": "Deforestation, pollution, and climate change threaten many biomes"
+    }
+  ]
+}

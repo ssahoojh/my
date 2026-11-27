@@ -1,0 +1,107 @@
+{
+  "id": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does geography study?",
+      "options": ["Only maps", "The Earth, its features, people, and their interactions", "Only mountains", "Only cities"],
+      "answer": "The Earth, its features, people, and their interactions"
+    },
+    {
+      "id": 2,
+      "question": "What is human geography?",
+      "options": ["Study of landforms", "The study of human cultures, societies, and their environments", "Only animals", "Only weather"],
+      "answer": "The study of human cultures, societies, and their environments"
+    },
+    {
+      "id": 3,
+      "question": "What is physical geography?",
+      "options": ["Study of people", "The study of natural features like landforms, weather, and ecosystems", "Only cities", "No such thing"],
+      "answer": "The study of natural features like landforms, weather, and ecosystems"
+    },
+    {
+      "id": 4,
+      "question": "True or False: Humans can change their environment.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 5,
+      "question": "What is environmental geography?",
+      "options": ["Study of maps", "The study of human-environment interactions and their impacts", "Only animals", "No connection"],
+      "answer": "The study of human-environment interactions and their impacts"
+    },
+    {
+      "id": 6,
+      "question": "How does geography affect where people live?",
+      "options": ["It doesn't", "Geography provides resources, climate, and protection needed for settlements", "Random choice", "No factors"],
+      "answer": "Geography provides resources, climate, and protection needed for settlements"
+    },
+    {
+      "id": 7,
+      "question": "What is adaptation in geography?",
+      "options": ["Building cities", "How people adjust to their environment", "Moving away", "No adaptation"],
+      "answer": "How people adjust to their environment"
+    },
+    {
+      "id": 8,
+      "question": "True or False: Geography is only about maps and directions.",
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "id": 9,
+      "question": "What is sustainability in geography?",
+      "options": ["Unused resources", "Using resources and protecting environment for future generations", "No resources", "Only current use"],
+      "answer": "Using resources and protecting environment for future generations"
+    },
+    {
+      "id": 10,
+      "question": "What are geographic features?",
+      "options": ["Building styles", "Characteristics of places like mountains, rivers, and valleys", "Only weather", "No features"],
+      "answer": "Characteristics of places like mountains, rivers, and valleys"
+    },
+    {
+      "id": 11,
+      "question": "How do geographic location and culture connect?",
+      "options": ["No connection", "Geography influences the development of unique cultures", "Culture unrelated", "Random"],
+      "answer": "Geography influences the development of unique cultures"
+    },
+    {
+      "id": 12,
+      "question": "What is geographic diversity?",
+      "options": ["Same everywhere", "The variety of landforms, climates, and ecosystems on Earth", "No variation", "Only in mountains"],
+      "answer": "The variety of landforms, climates, and ecosystems on Earth"
+    },
+    {
+      "id": 13,
+      "question": "How has technology changed geography?",
+      "options": ["No change", "Better tools for mapping, communication, and understanding Earth", "Only makes it worse", "No improvement"],
+      "answer": "Better tools for mapping, communication, and understanding Earth"
+    },
+    {
+      "id": 14,
+      "question": "What is interconnectedness in geography?",
+      "options": ["No connections", "How places and people around the world are linked through trade and communication", "Only local", "No global links"],
+      "answer": "How places and people around the world are linked through trade and communication"
+    },
+    {
+      "id": 15,
+      "question": "How do geographers study Earth?",
+      "options": ["Only maps", "Through observation, field research, maps, data analysis, and technology", "No research", "Theory only"],
+      "answer": "Through observation, field research, maps, data analysis, and technology"
+    },
+    {
+      "id": 16,
+      "question": "What global challenges involve geography?",
+      "options": ["None", "Climate change, resource depletion, natural disasters, and pollution", "Only weather", "No challenges"],
+      "answer": "Climate change, resource depletion, natural disasters, and pollution"
+    },
+    {
+      "id": 17,
+      "question": "Why is geography important for understanding the world?",
+      "options": ["It's not", "Geography explains how natural systems and human societies interact", "No value", "Only for travelers"],
+      "answer": "Geography explains how natural systems and human societies interact"
+    }
+  ]
+}

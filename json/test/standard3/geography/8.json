@@ -1,0 +1,107 @@
+{
+  "id": 8,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a settlement?",
+      "options": ["A type of building", "A place where people establish a community", "A river", "A mountain"],
+      "answer": "A place where people establish a community"
+    },
+    {
+      "id": 2,
+      "question": "What is a city?",
+      "options": ["A farm", "A large settlement with many buildings and people", "A forest", "A desert"],
+      "answer": "A large settlement with many buildings and people"
+    },
+    {
+      "id": 3,
+      "question": "What is a town?",
+      "options": ["A large city", "A smaller settlement than a city", "A farm", "A village is bigger"],
+      "answer": "A smaller settlement than a city"
+    },
+    {
+      "id": 4,
+      "question": "True or False: Rural areas have fewer buildings and people than cities.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 5,
+      "question": "What is a suburb?",
+      "options": ["A city", "A residential area on the edge of a city", "A farm", "A forest"],
+      "answer": "A residential area on the edge of a city"
+    },
+    {
+      "id": 6,
+      "question": "What is urban development?",
+      "options": ["A farm expansion", "The growth and development of cities", "No growth", "Only in rural areas"],
+      "answer": "The growth and development of cities"
+    },
+    {
+      "id": 7,
+      "question": "What factors attract people to settle in an area?",
+      "options": ["Random choice", "Water access, good land, resources, and safety", "No factors matter", "Only mountains"],
+      "answer": "Water access, good land, resources, and safety"
+    },
+    {
+      "id": 8,
+      "question": "True or False: Most people in developed countries live in urban areas.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 9,
+      "question": "What is infrastructure in a settlement?",
+      "options": ["Just buildings", "Systems like roads, water, electricity, and communication", "Only streets", "No infrastructure"],
+      "answer": "Systems like roads, water, electricity, and communication"
+    },
+    {
+      "id": 10,
+      "question": "Why are ports important for settlements?",
+      "options": ["They're not", "They provide trade, transportation, and economic opportunities", "Only for fishing", "No importance"],
+      "answer": "They provide trade, transportation, and economic opportunities"
+    },
+    {
+      "id": 11,
+      "question": "How do geographic location and settlement development connect?",
+      "options": ["No connection", "Geography influences where and how settlements develop", "All locations same", "Random development"],
+      "answer": "Geography influences where and how settlements develop"
+    },
+    {
+      "id": 12,
+      "question": "What challenges does rapid urbanization create?",
+      "options": ["No challenges", "Overcrowding, pollution, housing shortages, and strain on resources", "Only benefits", "No problems"],
+      "answer": "Overcrowding, pollution, housing shortages, and strain on resources"
+    },
+    {
+      "id": 13,
+      "question": "What is population density?",
+      "options": ["Total population", "The number of people per unit of area", "No measurement", "City size"],
+      "answer": "The number of people per unit of area"
+    },
+    {
+      "id": 14,
+      "question": "How do rural and urban areas depend on each other?",
+      "options": ["They don't", "Rural provides food and resources; urban provides jobs and services", "Only cities matter", "Rural independent"],
+      "answer": "Rural provides food and resources; urban provides jobs and services"
+    },
+    {
+      "id": 15,
+      "question": "What is sustainable urban planning?",
+      "options": ["Building anywhere", "Planning cities to minimize environmental impact and improve quality of life", "No planning", "Only for farms"],
+      "answer": "Planning cities to minimize environmental impact and improve quality of life"
+    },
+    {
+      "id": 16,
+      "question": "What role do transportation networks play in settlements?",
+      "options": ["No role", "They connect areas, enable trade, and facilitate movement of people and goods", "Only roads", "Not important"],
+      "answer": "They connect areas, enable trade, and facilitate movement of people and goods"
+    },
+    {
+      "id": 17,
+      "question": "How do settlements reflect human culture and geography?",
+      "options": ["They don't", "Settlement patterns show how people adapt to their environment and cultural values", "No reflection", "Geography irrelevant"],
+      "answer": "Settlement patterns show how people adapt to their environment and cultural values"
+    }
+  ]
+}

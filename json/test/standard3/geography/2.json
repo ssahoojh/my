@@ -1,0 +1,107 @@
+{
+  "id": 2,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is an ocean?",
+      "options": ["A small pond", "A large body of salt water", "A river", "A lake"],
+      "answer": "A large body of salt water"
+    },
+    {
+      "id": 2,
+      "question": "What is a lake?",
+      "options": ["An ocean", "A body of water surrounded by land", "A small stream", "A waterfall"],
+      "answer": "A body of water surrounded by land"
+    },
+    {
+      "id": 3,
+      "question": "What is a river?",
+      "options": ["A body of still water", "A stream of flowing water", "An ocean", "A swamp"],
+      "answer": "A stream of flowing water"
+    },
+    {
+      "id": 4,
+      "question": "True or False: Oceans have salt water.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 5,
+      "question": "What is a stream?",
+      "options": ["A large ocean", "A small flowing body of water", "A lake", "A swamp"],
+      "answer": "A small flowing body of water"
+    },
+    {
+      "id": 6,
+      "question": "What is a waterfall?",
+      "options": ["A still lake", "Water flowing over a cliff or steep drop", "An ocean wave", "A spring"],
+      "answer": "Water flowing over a cliff or steep drop"
+    },
+    {
+      "id": 7,
+      "question": "Which water body has fresh water?",
+      "options": ["Ocean", "Sea", "Lake", "All oceans"],
+      "answer": "Lake"
+    },
+    {
+      "id": 8,
+      "question": "What is a bay?",
+      "options": ["An ocean", "A body of water partly surrounded by land", "A river", "A mountain"],
+      "answer": "A body of water partly surrounded by land"
+    },
+    {
+      "id": 9,
+      "question": "True or False: All rivers flow toward oceans.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 10,
+      "question": "What is a gulf?",
+      "options": ["A small pond", "A large bay surrounded by land", "A mountain", "A valley"],
+      "answer": "A large bay surrounded by land"
+    },
+    {
+      "id": 11,
+      "question": "How do rivers and streams differ in size?",
+      "options": ["They are the same size", "Streams are smaller than rivers", "Rivers don't flow", "Size doesn't matter"],
+      "answer": "Streams are smaller than rivers"
+    },
+    {
+      "id": 12,
+      "question": "What determines whether water is fresh or salty?",
+      "options": ["The color", "The minerals and salt dissolved in the water", "The temperature", "The size"],
+      "answer": "The minerals and salt dissolved in the water"
+    },
+    {
+      "id": 13,
+      "question": "How do waterfalls form in rivers?",
+      "options": ["People build them", "The river flows over a sudden drop in elevation", "They appear randomly", "Wind creates them"],
+      "answer": "The river flows over a sudden drop in elevation"
+    },
+    {
+      "id": 14,
+      "question": "What is the source of a river?",
+      "options": ["The ocean", "Where the river begins, often in mountains", "The end of the river", "A lake"],
+      "answer": "Where the river begins, often in mountains"
+    },
+    {
+      "id": 15,
+      "question": "Why are rivers important to people and animals?",
+      "options": ["They're not", "They provide fresh water, transportation, food, and power", "Only fish use them", "They cause flooding only"],
+      "answer": "They provide fresh water, transportation, food, and power"
+    },
+    {
+      "id": 16,
+      "question": "How do lakes form?",
+      "options": ["People dig them", "Through glaciers, rain collection, or geological activity", "They appear from nowhere", "Only in mountains"],
+      "answer": "Through glaciers, rain collection, or geological activity"
+    },
+    {
+      "id": 17,
+      "question": "What is the relationship between water features and settlements?",
+      "options": ["No relationship", "People settle near water for drinking water and transportation", "Water is avoided", "Settlements are random"],
+      "answer": "People settle near water for drinking water and transportation"
+    }
+  ]
+}

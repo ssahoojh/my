@@ -1,0 +1,107 @@
+{
+  "id": 4,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a continent?",
+      "options": ["A type of ocean", "A very large area of land", "A country", "An island"],
+      "answer": "A very large area of land"
+    },
+    {
+      "id": 2,
+      "question": "How many continents are there?",
+      "options": ["3", "5", "7", "10"],
+      "answer": "7"
+    },
+    {
+      "id": 3,
+      "question": "Which continent is the largest?",
+      "options": ["Africa", "North America", "Asia", "Europe"],
+      "answer": "Asia"
+    },
+    {
+      "id": 4,
+      "question": "True or False: Australia is both a continent and a country.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 5,
+      "question": "What is an ocean?",
+      "options": ["A large lake", "A very large body of salt water", "A river", "An island"],
+      "answer": "A very large body of salt water"
+    },
+    {
+      "id": 6,
+      "question": "How many major oceans are there?",
+      "options": ["2", "4", "5", "10"],
+      "answer": "5"
+    },
+    {
+      "id": 7,
+      "question": "Which ocean is the largest?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "id": 8,
+      "question": "What continent is closest to the Arctic?",
+      "options": ["South America", "Africa", "Asia", "Australia"],
+      "answer": "Asia"
+    },
+    {
+      "id": 9,
+      "question": "True or False: Europe and Asia are on the same landmass.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 10,
+      "question": "Which continent is the coldest?",
+      "options": ["Asia", "Africa", "Antarctica", "North America"],
+      "answer": "Antarctica"
+    },
+    {
+      "id": 11,
+      "question": "Name a country in Africa.",
+      "options": ["Canada", "Egypt", "Australia", "Germany"],
+      "answer": "Egypt"
+    },
+    {
+      "id": 12,
+      "question": "Which continents border the Atlantic Ocean?",
+      "options": ["Asia and Africa", "Europe and South America", "Africa and Australia", "Only Antarctica"],
+      "answer": "Europe and South America"
+    },
+    {
+      "id": 13,
+      "question": "What determines continental boundaries?",
+      "options": ["Random lines", "Large bodies of water and geographic features", "Countries decide", "Nobody knows"],
+      "answer": "Large bodies of water and geographic features"
+    },
+    {
+      "id": 14,
+      "question": "How many countries are in Europe?",
+      "options": ["About 15", "About 30", "About 50", "Only 5"],
+      "answer": "About 50"
+    },
+    {
+      "id": 15,
+      "question": "Why do continents have different climates?",
+      "options": ["Random variation", "Location, distance from equator, and ocean currents affect climate", "All the same", "Climate doesn't vary"],
+      "answer": "Location, distance from equator, and ocean currents affect climate"
+    },
+    {
+      "id": 16,
+      "question": "What is a peninsula?",
+      "options": ["An island", "A piece of land surrounded by water on three sides", "A desert", "An ocean"],
+      "answer": "A piece of land surrounded by water on three sides"
+    },
+    {
+      "id": 17,
+      "question": "How do continents and oceans work together in Earth's system?",
+      "options": ["They're separate", "They interact to influence climate, weather, and life on Earth", "Only continents matter", "Only oceans matter"],
+      "answer": "They interact to influence climate, weather, and life on Earth"
+    }
+  ]
+}
