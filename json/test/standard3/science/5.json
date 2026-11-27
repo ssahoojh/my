@@ -1,0 +1,48 @@
+{
+  "id": 4,
+  "chapter": "Human Body Parts and Their Functions",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which body part helps you think and learn?",
+      "options": ["Heart", "Brain", "Lungs", "Stomach"],
+      "answer": "Brain"
+    },
+    {
+      "id": 2,
+      "question": "Which body part pumps blood to all parts of the body?",
+      "options": ["Liver", "Brain", "Heart", "Kidney"],
+      "answer": "Heart"
+    },
+    {
+      "id": 3,
+      "question": "Which body part helps you breathe?",
+      "options": ["Lungs", "Teeth", "Bones", "Eyes"],
+      "answer": "Lungs"
+    },
+    {
+      "id": 4,
+      "question": "Which body part helps you see?",
+      "options": ["Ears", "Eyes", "Nose", "Tongue"],
+      "answer": "Eyes"
+    },
+    {
+      "id": 5,
+      "question": "Which body part helps you hear sounds?",
+      "options": ["Eyes", "Nose", "Ears", "Hands"],
+      "answer": "Ears"
+    },
+    {
+      "id": 6,
+      "question": "Which body part helps you smell flowers?",
+      "options": ["Tongue", "Eyes", "Nose", "Ears"],
+      "answer": "Nose"
+    },
+    {
+      "id": 7,
+      "question": "Which body part helps you taste food?",
+      "options": ["Tongue", "Nose", "Eyes", "Skin"],
+      "answer": "Tongue"
+    }
+  ]
+}
