@@ -1,0 +1,113 @@
+{
+  "id": 3,
+  "chapter": "Nouns",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which word is a noun?",
+      "options": ["Run", "Dog", "Quickly", "Happy"],
+      "answer": "Dog"
+    },
+    {
+      "id": 2,
+      "question": "Which word names a person?",
+      "options": ["Teacher", "Blue", "Jump", "Slowly"],
+      "answer": "Teacher"
+    },
+    {
+      "id": 3,
+      "question": "Which word names a place?",
+      "options": ["School", "Sing", "Happy", "Red"],
+      "answer": "School"
+    },
+    {
+      "id": 4,
+      "question": "Which word names a thing?",
+      "options": ["Book", "Run", "Kind", "Fast"],
+      "answer": "Book"
+    },
+    {
+      "id": 5,
+      "question": "Which word names an animal?",
+      "options": ["Tiger", "Walk", "Tall", "Loudly"],
+      "answer": "Tiger"
+    },
+
+    {
+      "id": 6,
+      "question": "Which noun is a proper noun?",
+      "options": ["city", "country", "John", "school"],
+      "answer": "John"
+    },
+    {
+      "id": 7,
+      "question": "Which word should begin with a capital letter?",
+      "options": ["river", "doctor", "sarah", "teacher"],
+      "answer": "sarah"
+    },
+    {
+      "id": 8,
+      "question": "Choose the common noun.",
+      "options": ["India", "Monday", "Teacher", "Amazon"],
+      "answer": "Teacher"
+    },
+    {
+      "id": 9,
+      "question": "In the sentence 'The cat sat on the chair.', which word is a noun?",
+      "options": ["sat", "on", "cat", "the"],
+      "answer": "cat"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence contains a proper noun?",
+      "options": [
+        "The boy is running.",
+        "The dog barked.",
+        "Mia is reading a book.",
+        "The teacher is teaching."
+      ],
+      "answer": "Mia is reading a book."
+    },
+
+    {
+      "id": 11,
+      "question": "How many nouns are in this sentence? 'Sam and his sister went to the park.'",
+      "options": ["2", "3", "4", "5"],
+      "answer": "3"
+    },
+    {
+      "id": 12,
+      "question": "Which group contains only nouns?",
+      "options": [
+        "dog, cat, rabbit",
+        "run, jump, swim",
+        "happy, sad, tall",
+        "quickly, slowly, quietly"
+      ],
+      "answer": "dog, cat, rabbit"
+    },
+    {
+      "id": 13,
+      "question": "Which noun should be capitalized?",
+      "options": ["teacher", "city", "london", "school"],
+      "answer": "london"
+    },
+    {
+      "id": 14,
+      "question": "In the sentence 'The children visited Denver Zoo.', which is a proper noun?",
+      "options": ["children", "visited", "Denver Zoo", "the"],
+      "answer": "Denver Zoo"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence contains both a common noun and a proper noun?",
+      "options": [
+        "The bird can fly.",
+        "Emma has a bicycle.",
+        "We played outside.",
+        "The sun is bright."
+      ],
+      "answer": "Emma has a bicycle."
+    }
+  ]
+}
