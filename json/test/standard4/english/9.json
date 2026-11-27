@@ -1,0 +1,22 @@
+{
+  "id": 9,
+  "questions": [
+    {"id": 1, "question": "What is media?", "options": ["One method", "Ways to communicate", "Only digital", "No transmission"], "answer": "Ways to communicate"},
+    {"id": 2, "question": "What is traditional media?", "options": ["Digital", "Books, TV, radio", "Only old", "No technology"], "answer": "Books, TV, radio"},
+    {"id": 3, "question": "What is digital media?", "options": ["Paper based", "Electronic communication", "Only internet", "No devices"], "answer": "Electronic communication"},
+    {"id": 4, "question": "What is advertisement?", "options": ["News", "Promoting product", "Only TV", "No selling"], "answer": "Promoting product"},
+    {"id": 5, "question": "What is bias?", "options": ["Factual", "One-sided view", "Only obvious", "No prejudice"], "answer": "One-sided view"},
+    {"id": 6, "question": "What is credible?", "options": ["False", "Reliable source", "Only obvious", "No trust"], "answer": "Reliable source"},
+    {"id": 7, "question": "What is fact?", "options": ["Opinion", "True statement", "Only proven", "No truth"], "answer": "True statement"},
+    {"id": 8, "question": "What is opinion?", "options": ["Fact", "Personal belief", "Only wrong", "No validity"], "answer": "Personal belief"},
+    {"id": 9, "question": "What is news?", "options": ["History", "Current events", "Only politics", "Only recent"], "answer": "Current events"},
+    {"id": 10, "question": "What is journalism?", "options": ["Creative", "Reporting news", "Only investigation", "No reporting"], "answer": "Reporting news"},
+    {"id": 11, "question": "What is source?", "options": ["No origin", "Origin of information", "Only books", "No reference"], "answer": "Origin of information"},
+    {"id": 12, "question": "What is primary source?", "options": ["Secondary", "Direct evidence", "Only original", "No firsthand"], "answer": "Direct evidence"},
+    {"id": 13, "question": "Example primary source?", "options": ["Encyclopedia", "Diary entry", "Textbook", "Article about"], "answer": "Diary entry"},
+    {"id": 14, "question": "What is secondary source?", "options": ["First", "Information about", "Only summary", "No interpretation"], "answer": "Information about"},
+    {"id": 15, "question": "Example secondary?", "options": ["Letter", "History book", "Interview", "Journal"], "answer": "History book"},
+    {"id": 16, "question": "What is media literacy?", "options": ["Reading only", "Understanding media", "Only critical", "No analysis"], "answer": "Understanding media"},
+    {"id": 17, "question": "Why analyze media?", "options": ["No reason", "Understand messages", "Only tests", "Only necessary"], "answer": "Understand messages"}
+  ]
+}

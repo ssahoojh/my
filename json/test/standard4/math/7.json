@@ -1,0 +1,22 @@
+{
+  "id": 7,
+  "questions": [
+    {"id": 1, "question": "What is measurement?", "options": ["Estimation", "Finding size/length", "Only big", "No exact"], "answer": "Finding size/length"},
+    {"id": 2, "question": "What is inch?", "options": ["Metric", "US standard length", "Only short", "No unit"], "answer": "US standard length"},
+    {"id": 3, "question": "What is foot?", "options": ["Single unit", "12 inches", "Only length", "No measurement"], "answer": "12 inches"},
+    {"id": 4, "question": "What is yard?", "options": ["Measurement", "3 feet", "36 inches", "All above"], "answer": "All above"},
+    {"id": 5, "question": "What is centimeter?", "options": ["US unit", "Metric unit", "Only long", "No decimal"], "answer": "Metric unit"},
+    {"id": 6, "question": "What is liter?", "options": ["Weight", "Volume measure", "Only big", "No liquid"], "answer": "Volume measure"},
+    {"id": 7, "question": "What is gram?", "options": ["Length", "Weight measure", "Only heavy", "No scale"], "answer": "Weight measure"},
+    {"id": 8, "question": "What is kilogram?", "options": ["Single", "1000 grams", "Weight unit", "B and C"], "answer": "B and C"},
+    {"id": 9, "question": "What is perimeter?", "options": ["Inside area", "Distance around", "Only outside", "No sum"], "answer": "Distance around"},
+    {"id": 10, "question": "Perimeter of rectangle 3×4?", "options": ["12", "14", "7", "24"], "answer": "14"},
+    {"id": 11, "question": "What is area?", "options": ["Outside distance", "Space inside", "Only surface", "No counting"], "answer": "Space inside"},
+    {"id": 12, "question": "Area of rectangle 3×4?", "options": ["14", "7", "12", "24"], "answer": "12"},
+    {"id": 13, "question": "What is volume?", "options": ["Surface only", "Space inside 3D", "Only height", "No depth"], "answer": "Space inside 3D"},
+    {"id": 14, "question": "What is capacity?", "options": ["Volume", "Amount container holds", "Only big", "No amount"], "answer": "Amount container holds"},
+    {"id": 15, "question": "What is temperature?", "options": ["Size", "Heat measure", "Only hot", "No cold"], "answer": "Heat measure"},
+    {"id": 16, "question": "What is Fahrenheit?", "options": ["Metric", "US temperature", "Only cold", "No scale"], "answer": "US temperature"},
+    {"id": 17, "question": "What is Celsius?", "options": ["US unit", "Metric temperature", "Only hot", "No decimal"], "answer": "Metric temperature"}
+  ]
+}

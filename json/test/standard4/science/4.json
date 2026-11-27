@@ -1,0 +1,22 @@
+{
+  "id": 4,
+  "questions": [
+    {"id": 1, "question": "What is force?", "options": ["Nothing", "Push or pull", "Only push", "Only pull"], "answer": "Push or pull"},
+    {"id": 2, "question": "What is motion?", "options": ["Static", "Change position", "Only fast", "Only slow"], "answer": "Change position"},
+    {"id": 3, "question": "What is velocity?", "options": ["Speed", "Speed and direction", "Only direction", "No direction"], "answer": "Speed and direction"},
+    {"id": 4, "question": "What is acceleration?", "options": ["Constant", "Change velocity", "Only speeding", "No change"], "answer": "Change velocity"},
+    {"id": 5, "question": "What is gravity?", "options": ["Nothing", "Pulling force", "Only down", "Only earth"], "answer": "Pulling force"},
+    {"id": 6, "question": "What is weight?", "options": ["Volume", "Mass × gravity", "Only big", "No measure"], "answer": "Mass × gravity"},
+    {"id": 7, "question": "What is mass?", "options": ["Weight", "Amount of matter", "Only heavy", "No scale"], "answer": "Amount of matter"},
+    {"id": 8, "question": "What is friction?", "options": ["Smooth", "Resistance force", "Only helpful", "Only harmful"], "answer": "Resistance force"},
+    {"id": 9, "question": "What is energy?", "options": ["Nothing", "Ability to work", "Only visible", "Only kinetic"], "answer": "Ability to work"},
+    {"id": 10, "question": "What is kinetic energy?", "options": ["Potential", "Energy of motion", "Only fast", "Only big"], "answer": "Energy of motion"},
+    {"id": 11, "question": "What is potential energy?", "options": ["Kinetic", "Stored energy", "Only high", "Only low"], "answer": "Stored energy"},
+    {"id": 12, "question": "What is work?", "options": ["No result", "Force × distance", "Only hard", "No measurement"], "answer": "Force × distance"},
+    {"id": 13, "question": "What is power?", "options": ["No energy", "Energy per time", "Only big", "Only fast"], "answer": "Energy per time"},
+    {"id": 14, "question": "What is wave?", "options": ["Static", "Disturbance travel", "Only water", "Only light"], "answer": "Disturbance travel"},
+    {"id": 15, "question": "What is frequency?", "options": ["No pattern", "Waves per time", "Only fast", "Only slow"], "answer": "Waves per time"},
+    {"id": 16, "question": "What is amplitude?", "options": ["Frequency", "Wave height", "Only big", "Only small"], "answer": "Wave height"},
+    {"id": 17, "question": "What is wavelength?", "options": ["Frequency", "Distance between", "Only short", "Only long"], "answer": "Distance between"}
+  ]
+}

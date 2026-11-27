@@ -1,0 +1,22 @@
+{
+  "id": 10,
+  "questions": [
+    {"id": 1, "question": "What is ecology?", "options": ["No relations", "Organism relationships", "Only animals", "Only plants"], "answer": "Organism relationships"},
+    {"id": 2, "question": "What is biosphere?", "options": ["No life", "All life area", "Only animals", "Only earth"], "answer": "All life area"},
+    {"id": 3, "question": "What is biome?", "options": ["Single", "Large ecosystem", "Only climate", "Only weather"], "answer": "Large ecosystem"},
+    {"id": 4, "question": "What is niche?", "options": ["Space", "Organism role", "Only food", "No role"], "answer": "Organism role"},
+    {"id": 5, "question": "What is habitat?", "options": ["Animal", "Organism place", "Only size", "No location"], "answer": "Organism place"},
+    {"id": 6, "question": "What is trophic?", "options": ["No level", "Energy level", "Only plants", "Only animals"], "answer": "Energy level"},
+    {"id": 7, "question": "What is succession?", "options": ["No change", "Community change", "Only primary", "No secondary"], "answer": "Community change"},
+    {"id": 8, "question": "What is climax community?", "options": ["Change", "Stable community", "Only forest", "Only big"], "answer": "Stable community"},
+    {"id": 9, "question": "What is carrying capacity?", "options": ["No limit", "Maximum population", "Only food", "Only space"], "answer": "Maximum population"},
+    {"id": 10, "question": "What is limiting factor?", "options": ["No factor", "Population limit", "Only water", "Only food"], "answer": "Population limit"},
+    {"id": 11, "question": "What is parasitism?", "options": ["Cooperation", "One benefits", "Only harm", "No benefit"], "answer": "One benefits"},
+    {"id": 12, "question": "What is mutualism?", "options": ["One benefits", "Both benefit", "Only equal", "No benefit"], "answer": "Both benefit"},
+    {"id": 13, "question": "What is commensalism?", "options": ["Harmful", "One benefits neutral", "Only helpful", "No benefit"], "answer": "One benefits neutral"},
+    {"id": 14, "question": "What is competition?", "options": ["Cooperation", "Resource battle", "Only food", "Only space"], "answer": "Resource battle"},
+    {"id": 15, "question": "What is predation?", "options": ["Cooperation", "Hunter-prey", "Only animals", "Only big"], "answer": "Hunter-prey"},
+    {"id": 16, "question": "What is keystone species?", "options": ["All equal", "Critical importance", "Only big", "Only visible"], "answer": "Critical importance"},
+    {"id": 17, "question": "What is biodiversity conservation?", "options": ["No protection", "Protecting life variety", "Only animals", "Only plants"], "answer": "Protecting life variety"}
+  ]
+}

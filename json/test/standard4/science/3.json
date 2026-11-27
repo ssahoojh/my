@@ -1,0 +1,22 @@
+{
+  "id": 3,
+  "questions": [
+    {"id": 1, "question": "What is matter?", "options": ["Nothing", "Anything takes space", "Only heavy", "Only light"], "answer": "Anything takes space"},
+    {"id": 2, "question": "What is atom?", "options": ["Organism", "Smallest particle", "Only visible", "Only big"], "answer": "Smallest particle"},
+    {"id": 3, "question": "What is molecule?", "options": ["Single", "Atoms combined", "Only big", "Only visible"], "answer": "Atoms combined"},
+    {"id": 4, "question": "What is element?", "options": ["Mixture", "Pure substance", "Only metal", "No compound"], "answer": "Pure substance"},
+    {"id": 5, "question": "What is compound?", "options": ["Element", "Elements combined", "Only chemical", "No mixture"], "answer": "Elements combined"},
+    {"id": 6, "question": "What is mixture?", "options": ["Pure", "Substances combined", "Only physical", "No separation"], "answer": "Substances combined"},
+    {"id": 7, "question": "What is chemical reaction?", "options": ["Mixture", "Change in substance", "Only visible", "No new"], "answer": "Change in substance"},
+    {"id": 8, "question": "What is physical change?", "options": ["Chemical", "No new substance", "Only appearance", "Only size"], "answer": "No new substance"},
+    {"id": 9, "question": "What is density?", "options": ["Volume", "Mass per volume", "Only heavy", "Only light"], "answer": "Mass per volume"},
+    {"id": 10, "question": "What is pH?", "options": ["No scale", "Acidity measure", "Only acidic", "No base"], "answer": "Acidity measure"},
+    {"id": 11, "question": "What is acid?", "options": ["Base", "Sour substance", "Only bitter", "No sour"], "answer": "Sour substance"},
+    {"id": 12, "question": "What is base?", "options": ["Acid", "Bitter substance", "Only salty", "No bitter"], "answer": "Bitter substance"},
+    {"id": 13, "question": "What is chemical bond?", "options": ["No connection", "Atoms attached", "Only temporary", "No strong"], "answer": "Atoms attached"},
+    {"id": 14, "question": "What is catalyst?", "options": ["Reagent", "Speeds reaction", "Only consumed", "No effect"], "answer": "Speeds reaction"},
+    {"id": 15, "question": "What is solution?", "options": ["Mixture", "Uniform mixture", "Only liquid", "Only clear"], "answer": "Uniform mixture"},
+    {"id": 16, "question": "What is solute?", "options": ["Solvent", "Dissolved substance", "Only liquid", "Only big"], "answer": "Dissolved substance"},
+    {"id": 17, "question": "What is solvent?", "options": ["Solute", "Dissolving medium", "Only water", "Only liquid"], "answer": "Dissolving medium"}
+  ]
+}

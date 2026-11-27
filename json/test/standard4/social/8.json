@@ -1,0 +1,22 @@
+{
+  "id": 8,
+  "questions": [
+    {"id": 1, "question": "What is international relations?", "options": ["No relations", "Countries interaction", "Only political", "Only economic"], "answer": "Countries interaction"},
+    {"id": 2, "question": "What is diplomacy?", "options": ["Conflict", "Peaceful negotiation", "Only agreement", "No resolution"], "answer": "Peaceful negotiation"},
+    {"id": 3, "question": "What is embargo?", "options": ["Trade", "Trade restriction", "Only temporary", "Only light"], "answer": "Trade restriction"},
+    {"id": 4, "question": "What is alliance?", "options": ["No connection", "Formal partnership", "Only military", "Only equal"], "answer": "Formal partnership"},
+    {"id": 5, "question": "What is sovereignty?", "options": ["No independence", "Self-rule", "Only political", "Only legal"], "answer": "Self-rule"},
+    {"id": 6, "question": "What is treaty?", "options": ["Informal", "Formal agreement", "Only peace", "No obligation"], "answer": "Formal agreement"},
+    {"id": 7, "question": "What is WTO?", "options": ["Political", "Trade organization", "Only big countries", "Only economic"], "answer": "Trade organization"},
+    {"id": 8, "question": "What is UN?", "options": ["Regional", "United Nations", "Only political", "Only big"], "answer": "United Nations"},
+    {"id": 9, "question": "What is NATO?", "options": ["Global", "Military alliance", "Only Europe", "Only defense"], "answer": "Military alliance"},
+    {"id": 10, "question": "What is intervention?", "options": ["No involvement", "Taking part", "Only military", "Only political"], "answer": "Taking part"},
+    {"id": 11, "question": "What is sanction?", "options": ["No consequence", "Penalty measure", "Only military", "Only economic"], "answer": "Penalty measure"},
+    {"id": 12, "question": "What is terrorism?", "options": ["No violence", "Political violence", "Only big", "Only visible"], "answer": "Political violence"},
+    {"id": 13, "question": "What is cold war?", "options": ["Temperature", "Political tension", "Only Soviet", "Only recent"], "answer": "Political tension"},
+    {"id": 14, "question": "What is genocide?", "options": ["Crime", "Systematic killing", "Only recent", "Only known"], "answer": "Systematic killing"},
+    {"id": 15, "question": "What is human trafficking?", "options": ["Trade", "Exploitation", "Only women", "Only sex"], "answer": "Exploitation"},
+    {"id": 16, "question": "What is refugees?", "options": ["Immigrants", "Fleeing people", "Only forced", "Only temporary"], "answer": "Fleeing people"},
+    {"id": 17, "question": "What is peacekeeping?", "options": ["Conflict", "Maintaining peace", "Only military", "Only temporary"], "answer": "Maintaining peace"}
+  ]
+}

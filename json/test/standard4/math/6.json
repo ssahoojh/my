@@ -1,0 +1,22 @@
+{
+  "id": 6,
+  "questions": [
+    {"id": 1, "question": "What is place value?", "options": ["Value only", "Value by position", "Only units", "No change"], "answer": "Value by position"},
+    {"id": 2, "question": "In 234, 3 is in what place?", "options": ["Ones", "Tens", "Hundreds", "Thousands"], "answer": "Tens"},
+    {"id": 3, "question": "In 5,678, 5 is in what place?", "options": ["Ones", "Tens", "Hundreds", "Thousands"], "answer": "Thousands"},
+    {"id": 4, "question": "What is expanded form?", "options": ["Shortened", "Breaking into place values", "Only addition", "No breaking"], "answer": "Breaking into place values"},
+    {"id": 5, "question": "Expand 345?", "options": ["300+40+5", "300+45", "30+45", "340+5"], "answer": "300+40+5"},
+    {"id": 6, "question": "What does digit represent?", "options": ["Nothing", "Single number", "Value by position", "B and C"], "answer": "B and C"},
+    {"id": 7, "question": "What is standard form?", "options": ["Expanded", "Number as written", "Only digits", "No standard"], "answer": "Number as written"},
+    {"id": 8, "question": "What is word form?", "options": ["Numbers", "Written in words", "Only sounds", "No words"], "answer": "Written in words"},
+    {"id": 9, "question": "What is 456 in word form?", "options": ["4-5-6", "Four hundred fifty-six", "Four fifty six", "Fourfiftysix"], "answer": "Four hundred fifty-six"},
+    {"id": 10, "question": "What is compare numbers?", "options": ["No difference", "Find bigger/smaller", "Only equal", "No order"], "answer": "Find bigger/smaller"},
+    {"id": 11, "question": "Compare: 345 or 354?", "options": ["345 bigger", "354 bigger", "Equal", "Cannot tell"], "answer": "354 bigger"},
+    {"id": 12, "question": "What symbol means greater than?", "options": ["<", ">", "=", "≠"], "answer": ">"},
+    {"id": 13, "question": "What symbol means less than?", "options": [">", "<", "=", "≠"], "answer": "<"},
+    {"id": 14, "question": "234 ___ 243?", "options": [">", "<", "=", "≠"], "answer": "<"},
+    {"id": 15, "question": "What is rounding?", "options": ["Exact", "Approximate value", "Only big", "No exact"], "answer": "Approximate value"},
+    {"id": 16, "question": "Round 47 to nearest 10?", "options": ["40", "50", "45", "47"], "answer": "50"},
+    {"id": 17, "question": "Round 342 to nearest 100?", "options": ["300", "340", "350", "400"], "answer": "300"}
+  ]
+}

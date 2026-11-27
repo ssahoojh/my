@@ -1,0 +1,22 @@
+{
+  "id": 6,
+  "questions": [
+    {"id": 1, "question": "What is creative writing?", "options": ["Factual", "Imaginative composition", "Only stories", "No creation"], "answer": "Imaginative composition"},
+    {"id": 2, "question": "What is story elements?", "options": ["No elements", "Characters, setting, plot", "Only characters", "Only action"], "answer": "Characters, setting, plot"},
+    {"id": 3, "question": "What is character?", "options": ["Setting", "Person in story", "Only main", "No role"], "answer": "Person in story"},
+    {"id": 4, "question": "What is protagonist?", "options": ["Villain", "Main character", "Only hero", "No main"], "answer": "Main character"},
+    {"id": 5, "question": "What is antagonist?", "options": ["Helper", "Opposing character", "Only villain", "No opposition"], "answer": "Opposing character"},
+    {"id": 6, "question": "What is setting?", "options": ["Character", "Time and place", "Only location", "Only time"], "answer": "Time and place"},
+    {"id": 7, "question": "What is plot?", "options": ["Setting", "Sequence of events", "Only beginning", "Only end"], "answer": "Sequence of events"},
+    {"id": 8, "question": "What is conflict?", "options": ["Agreement", "Problem to solve", "Only external", "No tension"], "answer": "Problem to solve"},
+    {"id": 9, "question": "What is climax?", "options": ["Beginning", "Most exciting point", "Only end", "No peak"], "answer": "Most exciting point"},
+    {"id": 10, "question": "What is resolution?", "options": ["Start", "How conflict ends", "Only happy", "No ending"], "answer": "How conflict ends"},
+    {"id": 11, "question": "What is dialogue?", "options": ["Monologue", "Conversation between", "Only argument", "No talking"], "answer": "Conversation between"},
+    {"id": 12, "question": "What is description?", "options": ["Action", "Details about things", "Only visual", "No detail"], "answer": "Details about things"},
+    {"id": 13, "question": "What is sensory detail?", "options": ["No senses", "Using 5 senses", "Only sight", "No feeling"], "answer": "Using 5 senses"},
+    {"id": 14, "question": "What is first person?", "options": ["Third", "Uses 'I'", "Only me", "No perspective"], "answer": "Uses 'I'"},
+    {"id": 15, "question": "What is third person?", "options": ["First", "Uses he/she/it", "Only outside", "No narrator"], "answer": "Uses he/she/it"},
+    {"id": 16, "question": "What is point of view?", "options": ["No perspective", "Who tells story", "Only narrator", "No viewpoint"], "answer": "Who tells story"},
+    {"id": 17, "question": "Why creative write?", "options": ["No reason", "Express ideas", "Only fun", "Only assignment"], "answer": "Express ideas"}
+  ]
+}

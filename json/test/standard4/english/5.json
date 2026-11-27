@@ -1,0 +1,22 @@
+{
+  "id": 5,
+  "questions": [
+    {"id": 1, "question": "What is tense?", "options": ["Stress", "Time of action", "Only past", "No time"], "answer": "Time of action"},
+    {"id": 2, "question": "What is past tense?", "options": ["Future", "Action already happened", "Only long ago", "No finished"], "answer": "Action already happened"},
+    {"id": 3, "question": "Past tense of walk?", "options": ["Walks", "Walked", "Will walk", "Walking"], "answer": "Walked"},
+    {"id": 4, "question": "What is present tense?", "options": ["Future", "Action happening now", "Only today", "No current"], "answer": "Action happening now"},
+    {"id": 5, "question": "Present tense of play?", "options": ["Played", "Play", "Will play", "Playing"], "answer": "Play"},
+    {"id": 6, "question": "What is future tense?", "options": ["Past", "Action will happen", "Only tomorrow", "No future"], "answer": "Action will happen"},
+    {"id": 7, "question": "Future tense of run?", "options": ["Ran", "Run", "Will run", "Running"], "answer": "Will run"},
+    {"id": 8, "question": "What is agreement?", "options": ["Disagreement", "Subject-verb match", "Only singular", "No connection"], "answer": "Subject-verb match"},
+    {"id": 9, "question": "Correct: 'She ___ fast'?", "options": ["Run", "Runs", "Running", "Will ran"], "answer": "Runs"},
+    {"id": 10, "question": "Correct: 'Dogs ___ animals'?", "options": ["Is", "Are", "Am", "Being"], "answer": "Are"},
+    {"id": 11, "question": "What is mood?", "options": ["Emotion", "Verb expressing attitude", "Only happy", "No feeling"], "answer": "Verb expressing attitude"},
+    {"id": 12, "question": "What is active voice?", "options": ["Passive", "Subject does action", "Only direct", "No action"], "answer": "Subject does action"},
+    {"id": 13, "question": "What is passive voice?", "options": ["Active", "Subject receives action", "Only indirect", "No action"], "answer": "Subject receives action"},
+    {"id": 14, "question": "What is irregular verb?", "options": ["Regular pattern", "Doesn't follow rules", "Only common", "No pattern"], "answer": "Doesn't follow rules"},
+    {"id": 15, "question": "Example irregular?", "options": ["Walked", "Go→went", "Jumped", "Played"], "answer": "Go→went"},
+    {"id": 16, "question": "What is helping verb?", "options": ["Action verb", "Assists main verb", "Only 'is'", "No help"], "answer": "Assists main verb"},
+    {"id": 17, "question": "Example helping?", "options": ["Run", "Is running", "Jumped", "Walk"], "answer": "Is running"}
+  ]
+}

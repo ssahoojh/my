@@ -1,0 +1,22 @@
+{
+  "id": 10,
+  "questions": [
+    {"id": 1, "question": "What is research?", "options": ["Guessing", "Finding information", "Only books", "No seeking"], "answer": "Finding information"},
+    {"id": 2, "question": "What is topic?", "options": ["Story", "Subject to explore", "Only questions", "No subject"], "answer": "Subject to explore"},
+    {"id": 3, "question": "What is outline?", "options": ["Random", "Organized plan", "Only final", "No structure"], "answer": "Organized plan"},
+    {"id": 4, "question": "What is bibliography?", "options": ["Story", "List of sources", "Only books", "No reference"], "answer": "List of sources"},
+    {"id": 5, "question": "What is citation?", "options": ["Quote", "Credit to source", "Only quotes", "No attribution"], "answer": "Credit to source"},
+    {"id": 6, "question": "What is plagiarism?", "options": ["Citing", "Taking credit wrongly", "Only copying", "No theft"], "answer": "Taking credit wrongly"},
+    {"id": 7, "question": "What is paraphrase?", "options": ["Copy", "Restate in own words", "Only summary", "No change"], "answer": "Restate in own words"},
+    {"id": 8, "question": "What is quotation?", "options": ["Paraphrase", "Exact words", "Only short", "Only long"], "answer": "Exact words"},
+    {"id": 9, "question": "What is summary?", "options": ["Full text", "Shorter version", "Only main", "No detail"], "answer": "Shorter version"},
+    {"id": 10, "question": "What is analysis?", "options": ["Describing", "Breaking down", "Only explaining", "No interpretation"], "answer": "Breaking down"},
+    {"id": 11, "question": "What is synthesis?", "options": ["Breaking down", "Combining ideas", "Only mixing", "No new"], "answer": "Combining ideas"},
+    {"id": 12, "question": "What is evaluation?", "options": ["Description", "Judging quality", "Only criticism", "No value"], "answer": "Judging quality"},
+    {"id": 13, "question": "What is argument?", "options": ["Fight", "Supporting position", "Only evidence", "No claim"], "answer": "Supporting position"},
+    {"id": 14, "question": "What is evidence?", "options": ["Opinion", "Support for claim", "Only examples", "No proof"], "answer": "Support for claim"},
+    {"id": 15, "question": "What is logical?", "options": ["Random", "Makes sense", "Only obvious", "No reasoning"], "answer": "Makes sense"},
+    {"id": 16, "question": "What is conclusion?", "options": ["Beginning", "Final statement", "Only summary", "No ending"], "answer": "Final statement"},
+    {"id": 17, "question": "Why write well?", "options": ["No reason", "Communicate clearly", "Only tests", "Only grades"], "answer": "Communicate clearly"}
+  ]
+}

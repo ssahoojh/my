@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "questions": [
+    {"id": 1, "question": "What is scientific method?", "options": ["Random", "Steps to explore", "Only testing", "No process"], "answer": "Steps to explore"},
+    {"id": 2, "question": "What is hypothesis?", "options": ["Fact", "Testable prediction", "Only guess", "No structure"], "answer": "Testable prediction"},
+    {"id": 3, "question": "What is experiment?", "options": ["Watching", "Test hypothesis", "Only big", "No structure"], "answer": "Test hypothesis"},
+    {"id": 4, "question": "What is variable?", "options": ["Constant", "Factor that changes", "Only one", "No change"], "answer": "Factor that changes"},
+    {"id": 5, "question": "What is control?", "options": ["Variable", "No change condition", "Only baseline", "No comparison"], "answer": "No change condition"},
+    {"id": 6, "question": "What is data?", "options": ["Guess", "Information collected", "Only numbers", "No collection"], "answer": "Information collected"},
+    {"id": 7, "question": "What is conclusion?", "options": ["Beginning", "Result analysis", "Only guess", "No end"], "answer": "Result analysis"},
+    {"id": 8, "question": "What is observation?", "options": ["Imagination", "Using senses", "Only looking", "No detail"], "answer": "Using senses"},
+    {"id": 9, "question": "What is measurement?", "options": ["Estimation", "Finding exact amount", "Only length", "No precision"], "answer": "Finding exact amount"},
+    {"id": 10, "question": "What is classification?", "options": ["Random", "Organizing into groups", "Only similar", "No sorting"], "answer": "Organizing into groups"},
+    {"id": 11, "question": "What is inference?", "options": ["Exact", "Logical conclusion", "Only guess", "No thinking"], "answer": "Logical conclusion"},
+    {"id": 12, "question": "What is prediction?", "options": ["Memory", "What happens next", "Only guessing", "No thought"], "answer": "What happens next"},
+    {"id": 13, "question": "Why use hypothesis?", "options": ["No reason", "Guide investigation", "Only tests", "Only requirement"], "answer": "Guide investigation"},
+    {"id": 14, "question": "What is bias?", "options": ["No bias", "Unfair influence", "Only testing", "No prejudice"], "answer": "Unfair influence"},
+    {"id": 15, "question": "What is reliability?", "options": ["No consistency", "Repeatable results", "Only once", "No accuracy"], "answer": "Repeatable results"},
+    {"id": 16, "question": "What is accuracy?", "options": ["Wrong", "Close to true", "Only obvious", "No precision"], "answer": "Close to true"},
+    {"id": 17, "question": "Why peer review?", "options": ["No reason", "Verify accuracy", "Only tests", "Only scientists"], "answer": "Verify accuracy"}
+  ]
+}

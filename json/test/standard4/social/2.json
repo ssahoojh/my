@@ -1,0 +1,22 @@
+{
+  "id": 2,
+  "questions": [
+    {"id": 1, "question": "What is economic system?", "options": ["No system", "Resource production", "Only buying", "Only selling"], "answer": "Resource production"},
+    {"id": 2, "question": "What is capitalism?", "options": ["Government", "Private ownership", "Only rich", "No business"], "answer": "Private ownership"},
+    {"id": 3, "question": "What is socialism?", "options": ["Private", "Government ownership", "Only equal", "No business"], "answer": "Government ownership"},
+    {"id": 4, "question": "What is mixed economy?", "options": ["Pure", "Public and private", "Only capitalism", "Only socialism"], "answer": "Public and private"},
+    {"id": 5, "question": "What is consumer?", "options": ["Seller", "Buyer", "Only rich", "Only many"], "answer": "Buyer"},
+    {"id": 6, "question": "What is producer?", "options": ["Consumer", "Maker goods", "Only big", "Only many"], "answer": "Maker goods"},
+    {"id": 7, "question": "What is scarcity?", "options": ["Unlimited", "Limited resources", "Only food", "Only water"], "answer": "Limited resources"},
+    {"id": 8, "question": "What is inflation?", "options": ["Stagnant", "Rising prices", "Only fast", "Only temporary"], "answer": "Rising prices"},
+    {"id": 9, "question": "What is recession?", "options": ["Growth", "Economic decline", "Only temporary", "Only short"], "answer": "Economic decline"},
+    {"id": 10, "question": "What is budget?", "options": ["Random", "Financial plan", "Only big", "Only long"], "answer": "Financial plan"},
+    {"id": 11, "question": "What is credit?", "options": ["Payment", "Borrowed money", "Only short", "Only long"], "answer": "Borrowed money"},
+    {"id": 12, "question": "What is debt?", "options": ["Credit", "Owed amount", "Only big", "Only temporary"], "answer": "Owed amount"},
+    {"id": 13, "question": "What is interest?", "options": ["Principle", "Cost of borrowing", "Only high", "Only low"], "answer": "Cost of borrowing"},
+    {"id": 14, "question": "What is tax?", "options": ["No payment", "Required payment", "Only income", "Only sales"], "answer": "Required payment"},
+    {"id": 15, "question": "What is tariff?", "options": ["No tax", "Import tax", "Only big", "Only fair"], "answer": "Import tax"},
+    {"id": 16, "question": "What is investment?", "options": ["Spending", "Asset growth", "Only stock", "Only bonds"], "answer": "Asset growth"},
+    {"id": 17, "question": "What is financial literacy?", "options": ["No knowledge", "Money understanding", "Only rich", "Only necessary"], "answer": "Money understanding"}
+  ]
+}

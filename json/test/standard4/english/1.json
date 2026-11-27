@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "questions": [
+    {"id": 1, "question": "What is a noun?", "options": ["Action", "Person, place, thing", "Only concrete", "No naming"], "answer": "Person, place, thing"},
+    {"id": 2, "question": "Example of noun?", "options": ["Run", "Happy", "School", "Quickly"], "answer": "School"},
+    {"id": 3, "question": "What is a verb?", "options": ["Description", "Action word", "Only fast", "No action"], "answer": "Action word"},
+    {"id": 4, "question": "Example of verb?", "options": ["Blue", "Jump", "Big", "Soft"], "answer": "Jump"},
+    {"id": 5, "question": "What is an adjective?", "options": ["Action", "Describing word", "Only big", "No quality"], "answer": "Describing word"},
+    {"id": 6, "question": "Example of adjective?", "options": ["Read", "Walk", "Happy", "Quick"], "answer": "Happy"},
+    {"id": 7, "question": "What is an adverb?", "options": ["Noun", "How action happens", "Only fast", "No manner"], "answer": "How action happens"},
+    {"id": 8, "question": "Example of adverb?", "options": ["Chair", "Run", "Quickly", "Big"], "answer": "Quickly"},
+    {"id": 9, "question": "Identify noun: 'The cat sat.'", "options": ["The", "Cat", "Sat", "On"], "answer": "Cat"},
+    {"id": 10, "question": "Identify verb: 'The dog runs.'", "options": ["The", "Dog", "Runs", "In"], "answer": "Runs"},
+    {"id": 11, "question": "Identify adjective: 'Blue sky'", "options": ["Sky", "Blue", "The", "Is"], "answer": "Blue"},
+    {"id": 12, "question": "What is pronoun?", "options": ["Noun", "Replaces noun", "Only he", "No reference"], "answer": "Replaces noun"},
+    {"id": 13, "question": "Example of pronoun?", "options": ["School", "Run", "She", "Happy"], "answer": "She"},
+    {"id": 14, "question": "What is preposition?", "options": ["Action", "Shows location", "Only above", "No position"], "answer": "Shows location"},
+    {"id": 15, "question": "Example of preposition?", "options": ["Happy", "Under", "Quick", "Big"], "answer": "Under"},
+    {"id": 16, "question": "What is conjunction?", "options": ["Separating", "Joining words", "Only 'and'", "No connection"], "answer": "Joining words"},
+    {"id": 17, "question": "Example of conjunction?", "options": ["Under", "Happy", "And", "Quick"], "answer": "And"}
+  ]
+}

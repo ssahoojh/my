@@ -1,0 +1,22 @@
+{
+  "id": 7,
+  "questions": [
+    {"id": 1, "question": "What is technology?", "options": ["Science", "Tools and methods", "Only computers", "Only modern"], "answer": "Tools and methods"},
+    {"id": 2, "question": "What is innovation?", "options": ["Copy", "New invention", "Only big", "Only recent"], "answer": "New invention"},
+    {"id": 3, "question": "What is industrial revolution?", "options": ["No revolution", "Machine production", "Only factories", "Only recent"], "answer": "Machine production"},
+    {"id": 4, "question": "What is mechanization?", "options": ["Manual", "Machine replacement", "Only industrial", "Only big"], "answer": "Machine replacement"},
+    {"id": 5, "question": "What is automation?", "options": ["Manual", "Machine doing work", "Only factories", "Only repetitive"], "answer": "Machine doing work"},
+    {"id": 6, "question": "What is digital revolution?", "options": ["Industrial", "Computer technology", "Only internet", "Only recent"], "answer": "Computer technology"},
+    {"id": 7, "question": "What is artificial intelligence?", "options": ["Human", "Machine thinking", "Only robots", "No learning"], "answer": "Machine thinking"},
+    {"id": 8, "question": "What is biotechnology?", "options": ["No technology", "Biology technology", "Only genetic", "Only medical"], "answer": "Biology technology"},
+    {"id": 9, "question": "What is nanotechnology?", "options": ["Big scale", "Tiny scale tech", "Only visible", "Only industrial"], "answer": "Tiny scale tech"},
+    {"id": 10, "question": "What is sustainability?", "options": ["Wasteful", "Long-term resource", "Only environmental", "Only economic"], "answer": "Long-term resource"},
+    {"id": 11, "question": "What is green technology?", "options": ["Color", "Eco-friendly tech", "Only environmental", "Only renewable"], "answer": "Eco-friendly tech"},
+    {"id": 12, "question": "What is renewable?", "options": ["Finite", "Replenishing resource", "Only solar", "Only wind"], "answer": "Replenishing resource"},
+    {"id": 13, "question": "What is fossil fuel?", "options": ["Renewable", "Ancient material", "Only oil", "Only coal"], "answer": "Ancient material"},
+    {"id": 14, "question": "What is carbon footprint?", "options": ["No impact", "Emission amount", "Only personal", "Only big"], "answer": "Emission amount"},
+    {"id": 15, "question": "What is globalization?", "options": ["Local", "World connection", "Only economic", "Only cultural"], "answer": "World connection"},
+    {"id": 16, "question": "What is digital divide?", "options": ["No gap", "Technology access gap", "Only internet", "Only big"], "answer": "Technology access gap"},
+    {"id": 17, "question": "What is technoethics?", "options": ["No ethics", "Technology morality", "Only legal", "Only recent"], "answer": "Technology morality"}
+  ]
+}

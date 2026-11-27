@@ -1,0 +1,22 @@
+{
+  "id": 3,
+  "questions": [
+    {"id": 1, "question": "What is civics?", "options": ["History", "Citizenship study", "Only government", "No rights"], "answer": "Citizenship study"},
+    {"id": 2, "question": "What is democracy?", "options": ["Dictatorship", "Government by people", "Only voting", "No representation"], "answer": "Government by people"},
+    {"id": 3, "question": "What is republic?", "options": ["Monarchy", "Representative democracy", "Only president", "No representation"], "answer": "Representative democracy"},
+    {"id": 4, "question": "What is monarchy?", "options": ["Democracy", "Rule by king/queen", "Only absolute", "No monarchy"], "answer": "Rule by king/queen"},
+    {"id": 5, "question": "What is constitution?", "options": ["Law book", "Governing framework", "Only US", "No change"], "answer": "Governing framework"},
+    {"id": 6, "question": "What are checks and balances?", "options": ["No limit", "Power distribution", "Only separation", "No limitation"], "answer": "Power distribution"},
+    {"id": 7, "question": "What is separation of powers?", "options": ["One branch", "Three branches", "Only executive", "No separation"], "answer": "Three branches"},
+    {"id": 8, "question": "What is legislative branch?", "options": ["Makes laws", "Executive", "Only president", "No representation"], "answer": "Makes laws"},
+    {"id": 9, "question": "What is executive branch?", "options": ["Makes laws", "Enforces laws", "Only parliament", "No enforcement"], "answer": "Enforces laws"},
+    {"id": 10, "question": "What is judicial branch?", "options": ["Makes laws", "Interprets laws", "Only judges", "No interpretation"], "answer": "Interprets laws"},
+    {"id": 11, "question": "What is bill of rights?", "options": ["Responsibilities", "Freedom guarantees", "Only US", "No protections"], "answer": "Freedom guarantees"},
+    {"id": 12, "question": "What is amendment?", "options": ["No change", "Constitution change", "Only addition", "No removal"], "answer": "Constitution change"},
+    {"id": 13, "question": "What is civil rights?", "options": ["No rights", "Individual freedoms", "Only legal", "Only voting"], "answer": "Individual freedoms"},
+    {"id": 14, "question": "What is civic duty?", "options": ["No duty", "Citizen responsibility", "Only voting", "Only jury"], "answer": "Citizen responsibility"},
+    {"id": 15, "question": "What is jury duty?", "options": ["No duty", "Court participation", "Only voting", "Only legal"], "answer": "Court participation"},
+    {"id": 16, "question": "What is patriotism?", "options": ["Dislike", "Love for country", "Only flags", "Only salutes"], "answer": "Love for country"},
+    {"id": 17, "question": "What is civic participation?", "options": ["No involvement", "Taking part", "Only voting", "Only service"], "answer": "Taking part"}
+  ]
+}

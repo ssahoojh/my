@@ -1,0 +1,22 @@
+{
+  "id": 5,
+  "questions": [
+    {"id": 1, "question": "What is decimal?", "options": ["Integer", "Number with point", "Only after point", "No fractions"], "answer": "Number with point"},
+    {"id": 2, "question": "What is 0.5?", "options": ["Zero five", "Five tenths", "Five hundredths", "Half"], "answer": "Five tenths"},
+    {"id": 3, "question": "0.25 as fraction?", "options": ["25/100", "25/10", "1/4", "Both A and C"], "answer": "Both A and C"},
+    {"id": 4, "question": "What is place value in decimal?", "options": ["Number position", "Digit value by position", "Only after point", "No value"], "answer": "Digit value by position"},
+    {"id": 5, "question": "In 3.42, 4 is in what place?", "options": ["Ones", "Tenths", "Hundredths", "Tens"], "answer": "Tenths"},
+    {"id": 6, "question": "0.3 + 0.2 = ?", "options": ["0.5", "0.05", "0.6", "0.1"], "answer": "0.5"},
+    {"id": 7, "question": "1.5 - 0.3 = ?", "options": ["1.2", "1.8", "2.2", "1.0"], "answer": "1.2"},
+    {"id": 8, "question": "What is money decimal?", "options": ["No decimal", "Using dollars/cents", "Only coins", "No cents"], "answer": "Using dollars/cents"},
+    {"id": 9, "question": "What is $2.50?", "options": ["$2 and 5 cents", "$2 and 50 cents", "250 cents", "B and C"], "answer": "B and C"},
+    {"id": 10, "question": "What is 0.1?", "options": ["One hundredth", "One tenth", "One tenth place", "Ten percent"], "answer": "One tenth"},
+    {"id": 11, "question": "0.75 is same as?", "options": ["75/100", "3/4", "75 hundredths", "All above"], "answer": "All above"},
+    {"id": 12, "question": "Compare: 0.3 or 0.30?", "options": ["0.3 bigger", "0.30 bigger", "Equal", "Cannot tell"], "answer": "Equal"},
+    {"id": 13, "question": "2.3 × 2 = ?", "options": ["4.6", "4.3", "2.6", "5.3"], "answer": "4.6"},
+    {"id": 14, "question": "What is rounding decimal?", "options": ["No change", "Nearest whole", "Approximate value", "B and C"], "answer": "B and C"},
+    {"id": 15, "question": "Round 3.4 to nearest whole?", "options": ["3", "4", "3.4", "3.0"], "answer": "3"},
+    {"id": 16, "question": "What is measurement decimal?", "options": ["Whole only", "Using decimals", "Length/weight", "B and C"], "answer": "B and C"},
+    {"id": 17, "question": "1.75 kg is how much?", "options": ["1 kg 75 g", "175 g", "1.75 g", "17.5 g"], "answer": "1 kg 75 g"}
+  ]
+}

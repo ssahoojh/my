@@ -1,0 +1,22 @@
+{
+  "id": 6,
+  "questions": [
+    {"id": 1, "question": "What is astronomy?", "options": ["Earth study", "Space study", "Only stars", "No planets"], "answer": "Space study"},
+    {"id": 2, "question": "What is universe?", "options": ["Earth", "All of space", "Only stars", "Only visible"], "answer": "All of space"},
+    {"id": 3, "question": "What is galaxy?", "options": ["Star", "Star system", "Only spiral", "No center"], "answer": "Star system"},
+    {"id": 4, "question": "What is Milky Way?", "options": ["Candy", "Our galaxy", "Only stars", "No sun"], "answer": "Our galaxy"},
+    {"id": 5, "question": "What is Big Bang?", "options": ["Explosion", "Universe origin", "Only recent", "No expansion"], "answer": "Universe origin"},
+    {"id": 6, "question": "What is black hole?", "options": ["No gravity", "Super dense", "Only dark", "No pull"], "answer": "Super dense"},
+    {"id": 7, "question": "What is quasar?", "options": ["Star", "Bright object", "Only visible", "No distance"], "answer": "Bright object"},
+    {"id": 8, "question": "What is pulsar?", "options": ["Star", "Rotating neutron", "Only bright", "No rotation"], "answer": "Rotating neutron"},
+    {"id": 9, "question": "What is nebula?", "options": ["Star", "Gas cloud", "Only bright", "No formation"], "answer": "Gas cloud"},
+    {"id": 10, "question": "What is constellation?", "options": ["Single", "Star group", "Only zodiac", "No pattern"], "answer": "Star group"},
+    {"id": 11, "question": "What is asteroid?", "options": ["Star", "Small rocky body", "Only big", "Only visible"], "answer": "Small rocky body"},
+    {"id": 12, "question": "What is meteor?", "options": ["Star", "Space rock entering", "Only visible", "Only landing"], "answer": "Space rock entering"},
+    {"id": 13, "question": "What is meteorite?", "options": ["Meteor", "Landed meteor", "Only big", "Only visible"], "answer": "Landed meteor"},
+    {"id": 14, "question": "What is orbit?", "options": ["Straight path", "Circular path", "Only ellipse", "No path"], "answer": "Circular path"},
+    {"id": 15, "question": "What is ecliptic?", "options": ["No plane", "Earth's orbital plane", "Only earth", "No path"], "answer": "Earth's orbital plane"},
+    {"id": 16, "question": "What is red shift?", "options": ["Color only", "Wavelength increase", "Only galaxies", "No wavelength"], "answer": "Wavelength increase"},
+    {"id": 17, "question": "What is cosmic radiation?", "options": ["No radiation", "Space radiation", "Only from sun", "No particles"], "answer": "Space radiation"}
+  ]
+}

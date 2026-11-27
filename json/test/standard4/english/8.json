@@ -1,0 +1,22 @@
+{
+  "id": 8,
+  "questions": [
+    {"id": 1, "question": "What is communication?", "options": ["Listening", "Sharing ideas", "Only speaking", "No exchange"], "answer": "Sharing ideas"},
+    {"id": 2, "question": "What is active listening?", "options": ["Quiet", "Focusing and understanding", "Only hearing", "No focus"], "answer": "Focusing and understanding"},
+    {"id": 3, "question": "What is speaker?", "options": ["Listener", "Person speaking", "Only loud", "No voice"], "answer": "Person speaking"},
+    {"id": 4, "question": "What is listener?", "options": ["Speaker", "Person listening", "Only quiet", "No attention"], "answer": "Person listening"},
+    {"id": 5, "question": "What is discussion?", "options": ["Monologue", "Exchange of ideas", "Only talking", "No listening"], "answer": "Exchange of ideas"},
+    {"id": 6, "question": "What is debate?", "options": ["Agreement", "Formal discussion", "Only arguing", "No structure"], "answer": "Formal discussion"},
+    {"id": 7, "question": "What is presentation?", "options": ["Listening", "Sharing formally", "Only speaking", "No audience"], "answer": "Sharing formally"},
+    {"id": 8, "question": "What is eye contact?", "options": ["No looking", "Looking at listener", "Only staring", "No connection"], "answer": "Looking at listener"},
+    {"id": 9, "question": "What is body language?", "options": ["Words", "Physical expression", "Only hands", "No nonverbal"], "answer": "Physical expression"},
+    {"id": 10, "question": "What is tone?", "options": ["Words", "Way of speaking", "Only volume", "No feeling"], "answer": "Way of speaking"},
+    {"id": 11, "question": "What is pacing?", "options": ["Walking", "Speed of speech", "Only fast", "No rhythm"], "answer": "Speed of speech"},
+    {"id": 12, "question": "What is volume?", "options": ["Size", "Loudness", "Only soft", "Only loud"], "answer": "Loudness"},
+    {"id": 13, "question": "What is enunciation?", "options": ["Accent", "Saying words clearly", "Only fast", "No clarity"], "answer": "Saying words clearly"},
+    {"id": 14, "question": "What is feedback?", "options": ["Silence", "Response", "Only criticism", "Only praise"], "answer": "Response"},
+    {"id": 15, "question": "What is empathy?", "options": ["Disagreement", "Understanding others", "Only agreement", "No feeling"], "answer": "Understanding others"},
+    {"id": 16, "question": "What is respectful?", "options": ["Disrespectful", "Showing courtesy", "Only formal", "No respect"], "answer": "Showing courtesy"},
+    {"id": 17, "question": "Why communicate?", "options": ["No reason", "Share and understand", "Only tests", "Only necessary"], "answer": "Share and understand"}
+  ]
+}

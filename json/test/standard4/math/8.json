@@ -1,0 +1,22 @@
+{
+  "id": 8,
+  "questions": [
+    {"id": 1, "question": "What is geometry?", "options": ["Numbers", "Study of shapes", "Only 2D", "No space"], "answer": "Study of shapes"},
+    {"id": 2, "question": "What is point?", "options": ["Line", "Single location", "Only marking", "No position"], "answer": "Single location"},
+    {"id": 3, "question": "What is line?", "options": ["Curved", "Straight continuous", "No end", "Only length"], "answer": "Straight continuous"},
+    {"id": 4, "question": "What is line segment?", "options": ["Infinite", "Line with endpoints", "Only finite", "No endpoints"], "answer": "Line with endpoints"},
+    {"id": 5, "question": "What is ray?", "options": ["Curved", "Line with one endpoint", "Only direction", "No endpoint"], "answer": "Line with one endpoint"},
+    {"id": 6, "question": "What is angle?", "options": ["Line", "Two rays meeting", "Only sharp", "No rotation"], "answer": "Two rays meeting"},
+    {"id": 7, "question": "What is right angle?", "options": ["Curved", "90 degrees", "Only perfect", "No measure"], "answer": "90 degrees"},
+    {"id": 8, "question": "What is polygon?", "options": ["Curved shape", "Closed shape sides", "Only triangles", "No vertices"], "answer": "Closed shape sides"},
+    {"id": 9, "question": "What is triangle?", "options": ["4 sides", "3 sided polygon", "Only right", "No angles"], "answer": "3 sided polygon"},
+    {"id": 10, "question": "What is quadrilateral?", "options": ["3 sides", "4 sided polygon", "Only squares", "No rectangles"], "answer": "4 sided polygon"},
+    {"id": 11, "question": "What is rectangle?", "options": ["All sides equal", "4 right angles", "Only long", "No width"], "answer": "4 right angles"},
+    {"id": 12, "question": "What is square?", "options": ["Unequal sides", "4 equal sides", "All right angles", "B and C"], "answer": "B and C"},
+    {"id": 13, "question": "What is circle?", "options": ["Polygon", "Round shape", "Equal distance center", "B and C"], "answer": "B and C"},
+    {"id": 14, "question": "What is diameter?", "options": ["Half line", "Line through center", "Only width", "No length"], "answer": "Line through center"},
+    {"id": 15, "question": "What is radius?", "options": ["Diameter", "Half of diameter", "Center to edge", "B and C"], "answer": "B and C"},
+    {"id": 16, "question": "What is 3D shape?", "options": ["Only 2D", "Solid with depth", "Volume shape", "B and C"], "answer": "B and C"},
+    {"id": 17, "question": "What is cube?", "options": ["6 unequal faces", "6 square faces", "Only 2D", "No depth"], "answer": "6 square faces"}
+  ]
+}

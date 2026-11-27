@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "questions": [
+    {"id": 1, "question": "What is society?", "options": ["Individual", "Group organized", "Only big", "Only small"], "answer": "Group organized"},
+    {"id": 2, "question": "What is culture?", "options": ["One thing", "Ways of people", "Only language", "Only traditions"], "answer": "Ways of people"},
+    {"id": 3, "question": "What is institution?", "options": ["Individual", "Established system", "Only big", "Only formal"], "answer": "Established system"},
+    {"id": 4, "question": "What is social norm?", "options": ["No rule", "Expected behavior", "Only written", "Only legal"], "answer": "Expected behavior"},
+    {"id": 5, "question": "What is role?", "options": ["No position", "Expected function", "Only job", "Only family"], "answer": "Expected function"},
+    {"id": 6, "question": "What is status?", "options": ["No position", "Social position", "Only high", "Only low"], "answer": "Social position"},
+    {"id": 7, "question": "What is socialization?", "options": ["Isolation", "Learning culture", "Only childhood", "Only school"], "answer": "Learning culture"},
+    {"id": 8, "question": "What is primary group?", "options": ["Secondary", "Close relationship", "Only family", "Only friends"], "answer": "Close relationship"},
+    {"id": 9, "question": "What is secondary group?", "options": ["Primary", "Formal relationship", "Only work", "Only school"], "answer": "Formal relationship"},
+    {"id": 10, "question": "What is in-group?", "options": ["Excluding", "Group we belong", "Only friends", "Only family"], "answer": "Group we belong"},
+    {"id": 11, "question": "What is out-group?", "options": ["Our group", "Group outside", "Only strangers", "Only others"], "answer": "Group outside"},
+    {"id": 12, "question": "What is stereotype?", "options": ["Individual", "Fixed belief", "Only negative", "Only positive"], "answer": "Fixed belief"},
+    {"id": 13, "question": "What is prejudice?", "options": ["Fairness", "Unfair judgment", "Only dislike", "Only preference"], "answer": "Unfair judgment"},
+    {"id": 14, "question": "What is discrimination?", "options": ["Equal", "Unequal treatment", "Only action", "Only thought"], "answer": "Unequal treatment"},
+    {"id": 15, "question": "What is diversity?", "options": ["Sameness", "Variety among", "Only language", "Only appearance"], "answer": "Variety among"},
+    {"id": 16, "question": "What is pluralism?", "options": ["Monolithic", "Many groups", "Only equal", "Only different"], "answer": "Many groups"},
+    {"id": 17, "question": "What is social change?", "options": ["No change", "Society evolution", "Only progress", "Only recent"], "answer": "Society evolution"}
+  ]
+}

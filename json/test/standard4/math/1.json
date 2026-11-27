@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "questions": [
+    {"id": 1, "question": "What is addition?", "options": ["Subtracting", "Putting numbers together", "Only positive", "No combination"], "answer": "Putting numbers together"},
+    {"id": 2, "question": "23 + 15 = ?", "options": ["38", "30", "35", "40"], "answer": "38"},
+    {"id": 3, "question": "What is sum?", "options": ["Difference", "Result of addition", "Only big", "No total"], "answer": "Result of addition"},
+    {"id": 4, "question": "50 + 25 = ?", "options": ["70", "75", "80", "85"], "answer": "75"},
+    {"id": 5, "question": "100 + 50 = ?", "options": ["150", "140", "160", "130"], "answer": "150"},
+    {"id": 6, "question": "What is inverse operation?", "options": ["Same operation", "Opposite operation", "No relation", "Only subtraction"], "answer": "Opposite operation"},
+    {"id": 7, "question": "What is addition property?", "options": ["No property", "7 + 3 = 3 + 7", "Only order", "No change"], "answer": "7 + 3 = 3 + 7"},
+    {"id": 8, "question": "12 + 8 + 5 = ?", "options": ["20", "25", "30", "35"], "answer": "25"},
+    {"id": 9, "question": "If 20 + ? = 35, what is missing?", "options": ["10", "15", "25", "5"], "answer": "15"},
+    {"id": 10, "question": "What is subtraction?", "options": ["Adding", "Taking away", "Only from big", "No removal"], "answer": "Taking away"},
+    {"id": 11, "question": "35 - 12 = ?", "options": ["23", "20", "25", "30"], "answer": "23"},
+    {"id": 12, "question": "What is difference?", "options": ["Same", "Result of subtraction", "Only bigger", "No gap"], "answer": "Result of subtraction"},
+    {"id": 13, "question": "50 - 18 = ?", "options": ["30", "32", "35", "38"], "answer": "32"},
+    {"id": 14, "question": "If 40 - ? = 15, what is missing?", "options": ["25", "20", "30", "35"], "answer": "25"},
+    {"id": 15, "question": "100 - 35 = ?", "options": ["60", "65", "70", "75"], "answer": "65"},
+    {"id": 16, "question": "What is regrouping?", "options": ["Separating", "Reorganizing for subtraction", "Only borrowing", "No change"], "answer": "Reorganizing for subtraction"},
+    {"id": 17, "question": "42 - 15 needs regrouping. Why?", "options": ["Units can't work", "2 is less than 5", "Need to borrow tens", "All above"], "answer": "All above"}
+  ]
+}

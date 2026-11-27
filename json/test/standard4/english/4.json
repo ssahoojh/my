@@ -1,0 +1,22 @@
+{
+  "id": 4,
+  "questions": [
+    {"id": 1, "question": "What is reading comprehension?", "options": ["Saying words", "Understanding text", "Only fast", "No meaning"], "answer": "Understanding text"},
+    {"id": 2, "question": "What is main idea?", "options": ["Detail", "Most important point", "Only example", "No main"], "answer": "Most important point"},
+    {"id": 3, "question": "What is supporting detail?", "options": ["Main idea", "Information supporting", "Only examples", "No detail"], "answer": "Information supporting"},
+    {"id": 4, "question": "What is inference?", "options": ["Exact", "Logical conclusion", "Only guess", "No thinking"], "answer": "Logical conclusion"},
+    {"id": 5, "question": "What is prediction?", "options": ["Memory", "What happens next", "Only guessing", "No thought"], "answer": "What happens next"},
+    {"id": 6, "question": "What is sequence?", "options": ["Random", "Order of events", "Only time", "No order"], "answer": "Order of events"},
+    {"id": 7, "question": "What is cause?", "options": ["Result", "Why something happens", "Only effect", "No reason"], "answer": "Why something happens"},
+    {"id": 8, "question": "What is effect?", "options": ["Cause", "Result of cause", "Only outcome", "No result"], "answer": "Result of cause"},
+    {"id": 9, "question": "What is compare?", "options": ["Separate", "Find similarities", "Only differences", "No connection"], "answer": "Find similarities"},
+    {"id": 10, "question": "What is contrast?", "options": ["Same", "Find differences", "Only similar", "No difference"], "answer": "Find differences"},
+    {"id": 11, "question": "What is Venn diagram?", "options": ["Line", "Overlapping circles", "Only compare", "No contrast"], "answer": "Overlapping circles"},
+    {"id": 12, "question": "What is visualize?", "options": ["Read only", "Create mental picture", "Only drawing", "No image"], "answer": "Create mental picture"},
+    {"id": 13, "question": "What is summarize?", "options": ["Expand", "Shorter version", "Only main", "No detail"], "answer": "Shorter version"},
+    {"id": 14, "question": "What is retell?", "options": ["Memorize", "Tell in own words", "Only exact", "No variation"], "answer": "Tell in own words"},
+    {"id": 15, "question": "What is paraphrase?", "options": ["Copy", "Restate in own words", "Only meaning", "No change"], "answer": "Restate in own words"},
+    {"id": 16, "question": "What is text structure?", "options": ["No structure", "How text organized", "Only order", "No pattern"], "answer": "How text organized"},
+    {"id": 17, "question": "Why comprehend?", "options": ["No reason", "Understand and learn", "Only tests", "Only time"], "answer": "Understand and learn"}
+  ]
+}

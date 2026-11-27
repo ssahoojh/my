@@ -1,0 +1,22 @@
+{
+  "id": 10,
+  "questions": [
+    {"id": 1, "question": "What is social responsibility?", "options": ["No responsibility", "Obligation to society", "Only personal", "Only legal"], "answer": "Obligation to society"},
+    {"id": 2, "question": "What is corporate responsibility?", "options": ["No responsibility", "Business obligation", "Only legal", "Only profit"], "answer": "Business obligation"},
+    {"id": 3, "question": "What is sustainability?", "options": ["Wasteful", "Long-term resource", "Only environmental", "No economic"], "answer": "Long-term resource"},
+    {"id": 4, "question": "What is ethical consumption?", "options": ["No ethics", "Responsible buying", "Only local", "Only fair"], "answer": "Responsible buying"},
+    {"id": 5, "question": "What is fair trade?", "options": ["No fairness", "Equitable business", "Only coffee", "No premium"], "answer": "Equitable business"},
+    {"id": 6, "question": "What is philanthropy?", "options": ["No giving", "Charitable giving", "Only money", "No impact"], "answer": "Charitable giving"},
+    {"id": 7, "question": "What is volunteering?", "options": ["Paid", "Unpaid help", "Only charity", "No skill"], "answer": "Unpaid help"},
+    {"id": 8, "question": "What is activism?", "options": ["No action", "Change advocacy", "Only protest", "No organization"], "answer": "Change advocacy"},
+    {"id": 9, "question": "What is advocacy?", "options": ["No support", "Public support", "Only legal", "No action"], "answer": "Public support"},
+    {"id": 10, "question": "What is social justice?", "options": ["No justice", "Fair treatment", "Only legal", "Only recent"], "answer": "Fair treatment"},
+    {"id": 11, "question": "What is equity?", "options": ["Equality", "Fair distribution", "Only wealth", "Only income"], "answer": "Fair distribution"},
+    {"id": 12, "question": "What is empowerment?", "options": ["Disempowerment", "Gaining power", "Only political", "No economic"], "answer": "Gaining power"},
+    {"id": 13, "question": "What is community development?", "options": ["No development", "Local improvement", "Only economic", "Only social"], "answer": "Local improvement"},
+    {"id": 14, "question": "What is civic engagement?", "options": ["No involvement", "Taking part", "Only voting", "No organization"], "answer": "Taking part"},
+    {"id": 15, "question": "What is global citizenship?", "options": ["No connection", "World responsibility", "Only legal", "Only recent"], "answer": "World responsibility"},
+    {"id": 16, "question": "What is interconnection?", "options": ["No connection", "Being related", "Only obvious", "Only equal"], "answer": "Being related"},
+    {"id": 17, "question": "What is positive change?", "options": ["No change", "Improvement", "Only recent", "Only temporary"], "answer": "Improvement"}
+  ]
+}

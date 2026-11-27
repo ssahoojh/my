@@ -1,0 +1,22 @@
+{
+  "id": 2,
+  "questions": [
+    {"id": 1, "question": "What is multiplication?", "options": ["Adding", "Repeated addition", "Only groups", "No total"], "answer": "Repeated addition"},
+    {"id": 2, "question": "3 × 4 = ?", "options": ["7", "12", "10", "14"], "answer": "12"},
+    {"id": 3, "question": "What are factors?", "options": ["Sum", "Numbers being multiplied", "Only big", "No pairs"], "answer": "Numbers being multiplied"},
+    {"id": 4, "question": "What is product?", "options": ["Addend", "Result of multiplication", "Only big", "No result"], "answer": "Result of multiplication"},
+    {"id": 5, "question": "5 × 6 = ?", "options": ["11", "30", "25", "35"], "answer": "30"},
+    {"id": 6, "question": "What is times table?", "options": ["Schedule", "Multiplication facts", "Only for 2", "No pattern"], "answer": "Multiplication facts"},
+    {"id": 7, "question": "7 × 8 = ?", "options": ["15", "54", "56", "60"], "answer": "56"},
+    {"id": 8, "question": "What is commutative property?", "options": ["No property", "Order doesn't matter", "Only addition", "No change"], "answer": "Order doesn't matter"},
+    {"id": 9, "question": "9 × 2 = 2 × 9?", "options": ["No", "Yes", "Only sometimes", "Never"], "answer": "Yes"},
+    {"id": 10, "question": "What is array?", "options": ["Single", "Rows and columns", "Only equal", "No organization"], "answer": "Rows and columns"},
+    {"id": 11, "question": "What is grouping?", "options": ["No groups", "Organizing items", "Only equal", "No counting"], "answer": "Organizing items"},
+    {"id": 12, "question": "12 × 3 = ?", "options": ["36", "35", "37", "40"], "answer": "36"},
+    {"id": 13, "question": "10 × 7 = ?", "options": ["17", "70", "77", "75"], "answer": "70"},
+    {"id": 14, "question": "What is zero property?", "options": ["Undefined", "Any number × 0 = 0", "Only 1", "Never happens"], "answer": "Any number × 0 = 0"},
+    {"id": 15, "question": "What is identity property?", "options": ["No property", "Any number × 1 = itself", "Only for 0", "Never true"], "answer": "Any number × 1 = itself"},
+    {"id": 16, "question": "6 × 4 + 2 = ?", "options": ["26", "24", "28", "30"], "answer": "26"},
+    {"id": 17, "question": "What is area of rectangle 4×5?", "options": ["9", "20", "18", "25"], "answer": "20"}
+  ]
+}

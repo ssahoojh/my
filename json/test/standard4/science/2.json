@@ -1,0 +1,22 @@
+{
+  "id": 2,
+  "questions": [
+    {"id": 1, "question": "What is organism?", "options": ["No life", "Living thing", "Only big", "Only small"], "answer": "Living thing"},
+    {"id": 2, "question": "What is cell?", "options": ["Organism", "Basic life unit", "Only big", "Only visible"], "answer": "Basic life unit"},
+    {"id": 3, "question": "What is mitochondria?", "options": ["No energy", "Powerhouse", "Only nucleus", "No function"], "answer": "Powerhouse"},
+    {"id": 4, "question": "What is photosynthesis?", "options": ["Eating", "Plant making food", "Only sun", "No energy"], "answer": "Plant making food"},
+    {"id": 5, "question": "What is reproduction?", "options": ["Growth", "Making new life", "Only birth", "Only split"], "answer": "Making new life"},
+    {"id": 6, "question": "What is adaptation?", "options": ["Change place", "Special feature", "No purpose", "Only size"], "answer": "Special feature"},
+    {"id": 7, "question": "What is genetics?", "options": ["Environment", "Inheritance study", "Only DNA", "No genes"], "answer": "Inheritance study"},
+    {"id": 8, "question": "What is DNA?", "options": ["Protein", "Genetic material", "Only nucleus", "No instruction"], "answer": "Genetic material"},
+    {"id": 9, "question": "What is evolution?", "options": ["Stagnation", "Change over time", "Only fast", "No change"], "answer": "Change over time"},
+    {"id": 10, "question": "What is natural selection?", "options": ["Artificial", "Survival adaptation", "Only genetic", "No selection"], "answer": "Survival adaptation"},
+    {"id": 11, "question": "What is taxonomy?", "options": ["No classification", "Classification system", "Only animals", "Only plants"], "answer": "Classification system"},
+    {"id": 12, "question": "What is kingdom?", "options": ["Group", "Largest category", "Only animals", "Only big"], "answer": "Largest category"},
+    {"id": 13, "question": "What is metabolism?", "options": ["Movement", "Life processes", "Only eating", "No energy"], "answer": "Life processes"},
+    {"id": 14, "question": "What is homeostasis?", "options": ["Change", "Maintaining balance", "Only temperature", "No stability"], "answer": "Maintaining balance"},
+    {"id": 15, "question": "What is antibody?", "options": ["Virus", "Defense protein", "Only outside", "No protection"], "answer": "Defense protein"},
+    {"id": 16, "question": "What is disease?", "options": ["Health", "Unhealthy condition", "Only infection", "Only genetic"], "answer": "Unhealthy condition"},
+    {"id": 17, "question": "What is immunity?", "options": ["Sick", "Resistance to disease", "Only vaccine", "No protection"], "answer": "Resistance to disease"}
+  ]
+}

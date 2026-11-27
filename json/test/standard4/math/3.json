@@ -1,0 +1,22 @@
+{
+  "id": 3,
+  "questions": [
+    {"id": 1, "question": "What is division?", "options": ["Multiplying", "Splitting into groups", "Only equal", "No sharing"], "answer": "Splitting into groups"},
+    {"id": 2, "question": "12 ÷ 3 = ?", "options": ["4", "9", "15", "36"], "answer": "4"},
+    {"id": 3, "question": "What is quotient?", "options": ["Dividend", "Result of division", "Only big", "No result"], "answer": "Result of division"},
+    {"id": 4, "question": "What is dividend?", "options": ["Divisor", "Number being divided", "Only big", "No splitting"], "answer": "Number being divided"},
+    {"id": 5, "question": "What is divisor?", "options": ["Dividend", "Number dividing", "Only small", "No splitting"], "answer": "Number dividing"},
+    {"id": 6, "question": "20 ÷ 4 = ?", "options": ["5", "16", "24", "80"], "answer": "5"},
+    {"id": 7, "question": "What is remainder?", "options": ["Zero", "Left over amount", "Only in division", "No leftover"], "answer": "Left over amount"},
+    {"id": 8, "question": "17 ÷ 5 = 3 R?", "options": ["2", "3", "0", "5"], "answer": "2"},
+    {"id": 9, "question": "24 ÷ 6 = ?", "options": ["4", "18", "30", "144"], "answer": "4"},
+    {"id": 10, "question": "What is inverse of division?", "options": ["Subtraction", "Multiplication", "Addition", "No inverse"], "answer": "Multiplication"},
+    {"id": 11, "question": "30 ÷ 5 = ?", "options": ["6", "25", "35", "150"], "answer": "6"},
+    {"id": 12, "question": "If 3 × 7 = 21, then 21 ÷ 3 = ?", "options": ["3", "7", "24", "18"], "answer": "7"},
+    {"id": 13, "question": "35 ÷ 7 = ?", "options": ["5", "28", "42", "245"], "answer": "5"},
+    {"id": 14, "question": "What is fair share?", "options": ["Unequal", "Equal distribution", "Only big", "No equality"], "answer": "Equal distribution"},
+    {"id": 15, "question": "9 books shared by 3 students. Each gets?", "options": ["3", "6", "12", "27"], "answer": "3"},
+    {"id": 16, "question": "What division fact matches 5 × 6 = 30?", "options": ["30 ÷ 5 = 6", "30 ÷ 6 = 5", "Both", "Neither"], "answer": "Both"},
+    {"id": 17, "question": "What is repeated subtraction?", "options": ["Adding", "Division as subtraction", "Only equal", "No connection"], "answer": "Division as subtraction"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3,
+  "questions": [
+    {"id": 1, "question": "What is vocabulary?", "options": ["Grammar", "Words and meanings", "Only big", "No meaning"], "answer": "Words and meanings"},
+    {"id": 2, "question": "What is synonym?", "options": ["Opposite", "Word with same meaning", "Only big", "No similarity"], "answer": "Word with same meaning"},
+    {"id": 3, "question": "Synonym for happy?", "options": ["Sad", "Joyful", "Angry", "Tired"], "answer": "Joyful"},
+    {"id": 4, "question": "What is antonym?", "options": ["Same meaning", "Word with opposite", "Only big", "No difference"], "answer": "Word with opposite"},
+    {"id": 5, "question": "Antonym for big?", "options": ["Large", "Huge", "Small", "Bigger"], "answer": "Small"},
+    {"id": 6, "question": "What is prefix?", "options": ["Suffix", "Beginning part", "Only 'un'", "No addition"], "answer": "Beginning part"},
+    {"id": 7, "question": "What does 'un' mean?", "options": ["One", "Not", "Before", "Again"], "answer": "Not"},
+    {"id": 8, "question": "Example with 'un'?", "options": ["Running", "Unhappy", "Happiness", "Very"], "answer": "Unhappy"},
+    {"id": 9, "question": "What is suffix?", "options": ["Prefix", "Ending part", "Only 'ing'", "No addition"], "answer": "Ending part"},
+    {"id": 10, "question": "What does 'ing' mean?", "options": ["Past", "Action happening", "Complete", "Will happen"], "answer": "Action happening"},
+    {"id": 11, "question": "Example with 'ing'?", "options": ["Played", "Running", "Played", "Will run"], "answer": "Running"},
+    {"id": 12, "question": "What is homonym?", "options": ["Different", "Same sound, different meaning", "Only homophones", "No difference"], "answer": "Same sound, different meaning"},
+    {"id": 13, "question": "Example homonym?", "options": ["Happy/sad", "Bear/bare", "Big/small", "Up/down"], "answer": "Bear/bare"},
+    {"id": 14, "question": "What is compound word?", "options": ["One word", "Two words combined", "Only long", "No combination"], "answer": "Two words combined"},
+    {"id": 15, "question": "Example compound?", "options": ["School", "Bookshelf", "Pencil", "Student"], "answer": "Bookshelf"},
+    {"id": 16, "question": "What is context?", "options": ["Single word", "Words around word", "Only sentence", "No surrounding"], "answer": "Words around word"},
+    {"id": 17, "question": "Why use context?", "options": ["No reason", "Understand meaning", "Only guessing", "No help"], "answer": "Understand meaning"}
+  ]
+}

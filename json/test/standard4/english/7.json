@@ -1,0 +1,22 @@
+{
+  "id": 7,
+  "questions": [
+    {"id": 1, "question": "What is poetry?", "options": ["Prose", "Rhythmic expression", "Only rhyming", "No rhythm"], "answer": "Rhythmic expression"},
+    {"id": 2, "question": "What is rhyme?", "options": ["Random", "Matching sounds", "Only end", "No pattern"], "answer": "Matching sounds"},
+    {"id": 3, "question": "What rhymes with cat?", "options": ["Dog", "Hat", "Mouse", "Bird"], "answer": "Hat"},
+    {"id": 4, "question": "What is stanza?", "options": ["One line", "Group of lines", "Only four", "No group"], "answer": "Group of lines"},
+    {"id": 5, "question": "What is rhyme scheme?", "options": ["No scheme", "Pattern of rhymes", "Only ABAB", "No pattern"], "answer": "Pattern of rhymes"},
+    {"id": 6, "question": "What is meter?", "options": ["Measurement", "Rhythm pattern", "Only fast", "No rhythm"], "answer": "Rhythm pattern"},
+    {"id": 7, "question": "What is alliteration?", "options": ["Rhyming", "Repeating sounds", "Only 's'", "No repetition"], "answer": "Repeating sounds"},
+    {"id": 8, "question": "Example alliteration?", "options": ["The dog", "Sally sells", "Red rose", "Big cat"], "answer": "Sally sells"},
+    {"id": 9, "question": "What is simile?", "options": ["Comparison", "Using 'like'", "With 'like'", "B and C"], "answer": "B and C"},
+    {"id": 10, "question": "Example simile?", "options": ["Quiet as mouse", "Time is money", "Sky fell", "Quiet as mouse"], "answer": "Quiet as mouse"},
+    {"id": 11, "question": "What is metaphor?", "options": ["With like", "Direct comparison", "No like", "No comparison"], "answer": "Direct comparison"},
+    {"id": 12, "question": "What is personification?", "options": ["Describing", "Human qualities to", "Only objects", "No humans"], "answer": "Human qualities to"},
+    {"id": 13, "question": "Example personification?", "options": ["Happy tree", "Wind whispered", "Rain fell", "Wind whispered"], "answer": "Wind whispered"},
+    {"id": 14, "question": "What is imagery?", "options": ["Pictures", "Sensory language", "Only visual", "No senses"], "answer": "Sensory language"},
+    {"id": 15, "question": "What is rhythm?", "options": ["Random", "Pattern of beats", "Only fast", "No pattern"], "answer": "Pattern of beats"},
+    {"id": 16, "question": "What is free verse?", "options": ["All rhymed", "No rhyme/meter", "Only long", "No freedom"], "answer": "No rhyme/meter"},
+    {"id": 17, "question": "Why read poetry?", "options": ["No reason", "Enjoy language", "Only tests", "Only school"], "answer": "Enjoy language"}
+  ]
+}

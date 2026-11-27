@@ -1,0 +1,22 @@
+{
+  "id": 5,
+  "questions": [
+    {"id": 1, "question": "What is heat?", "options": ["Cold", "Energy transfer", "Only hot", "No thermal"], "answer": "Energy transfer"},
+    {"id": 2, "question": "What is temperature?", "options": ["Heat", "Measure hotness", "Only hot", "Only cold"], "answer": "Measure hotness"},
+    {"id": 3, "question": "What is conduction?", "options": ["No transfer", "Heat through contact", "Only metals", "No touch"], "answer": "Heat through contact"},
+    {"id": 4, "question": "What is convection?", "options": ["No transfer", "Heat by movement", "Only air", "No flow"], "answer": "Heat by movement"},
+    {"id": 5, "question": "What is radiation?", "options": ["Contact", "Heat through waves", "Only sun", "No waves"], "answer": "Heat through waves"},
+    {"id": 6, "question": "What is light?", "options": ["Dark", "Electromagnetic wave", "Only visible", "No waves"], "answer": "Electromagnetic wave"},
+    {"id": 7, "question": "What is reflection?", "options": ["Absorption", "Light bouncing", "Only shiny", "No bounce"], "answer": "Light bouncing"},
+    {"id": 8, "question": "What is refraction?", "options": ["Straight", "Light bending", "Only water", "No bending"], "answer": "Light bending"},
+    {"id": 9, "question": "What is sound?", "options": ["Silent", "Vibration energy", "Only loud", "No waves"], "answer": "Vibration energy"},
+    {"id": 10, "question": "What is pitch?", "options": ["Loudness", "Frequency of sound", "Only high", "Only low"], "answer": "Frequency of sound"},
+    {"id": 11, "question": "What is volume?", "options": ["Size", "Loudness", "Only soft", "Only loud"], "answer": "Loudness"},
+    {"id": 12, "question": "What is echo?", "options": ["No sound", "Reflected sound", "Only loud", "No reflection"], "answer": "Reflected sound"},
+    {"id": 13, "question": "What is electricity?", "options": ["Nothing", "Electron flow", "Only static", "No current"], "answer": "Electron flow"},
+    {"id": 14, "question": "What is current?", "options": ["Static", "Flowing electrons", "Only water", "No flow"], "answer": "Flowing electrons"},
+    {"id": 15, "question": "What is voltage?", "options": ["No measurement", "Electric pressure", "Only high", "Only low"], "answer": "Electric pressure"},
+    {"id": 16, "question": "What is resistance?", "options": ["No opposition", "Opposition to flow", "Only wire", "No effect"], "answer": "Opposition to flow"},
+    {"id": 17, "question": "What is magnet?", "options": ["No poles", "Object attracting", "Only iron", "No field"], "answer": "Object attracting"}
+  ]
+}

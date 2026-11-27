@@ -1,0 +1,22 @@
+{
+  "id": 5,
+  "questions": [
+    {"id": 1, "question": "What is culture?", "options": ["Individual", "Way of living", "Only traditions", "Only language"], "answer": "Way of living"},
+    {"id": 2, "question": "What is cultural diffusion?", "options": ["No spread", "Culture spreading", "Only similar", "Only recent"], "answer": "Culture spreading"},
+    {"id": 3, "question": "What is acculturation?", "options": ["No change", "Culture adoption", "Only similar", "Only complete"], "answer": "Culture adoption"},
+    {"id": 4, "question": "What is assimilation?", "options": ["Separation", "Becoming part of", "Only language", "Only customs"], "answer": "Becoming part of"},
+    {"id": 5, "question": "What is artifact?", "options": ["Natural", "Human-made object", "Only old", "Only valuable"], "answer": "Human-made object"},
+    {"id": 6, "question": "What is tangible culture?", "options": ["Invisible", "Physical objects", "Only big", "Only visible"], "answer": "Physical objects"},
+    {"id": 7, "question": "What is intangible culture?", "options": ["Physical", "Ideas and beliefs", "Only visible", "Only concrete"], "answer": "Ideas and beliefs"},
+    {"id": 8, "question": "What is language evolution?", "options": ["No change", "Language change", "Only slang", "Only grammar"], "answer": "Language change"},
+    {"id": 9, "question": "What is dialect?", "options": ["One speech", "Regional language", "Only accent", "Only grammar"], "answer": "Regional language"},
+    {"id": 10, "question": "What is religion?", "options": ["No belief", "System of faith", "Only practice", "Only belief"], "answer": "System of faith"},
+    {"id": 11, "question": "What is ritual?", "options": ["Random", "Ceremonial act", "Only religious", "Only formal"], "answer": "Ceremonial act"},
+    {"id": 12, "question": "What is tradition?", "options": ["One time", "Repeated custom", "Only old", "Only family"], "answer": "Repeated custom"},
+    {"id": 13, "question": "What is value?", "options": ["No importance", "Principle belief", "Only moral", "Only personal"], "answer": "Principle belief"},
+    {"id": 14, "question": "What is norm?", "options": ["No rule", "Expected behavior", "Only written", "Only legal"], "answer": "Expected behavior"},
+    {"id": 15, "question": "What is sanction?", "options": ["No consequence", "Reward or punishment", "Only negative", "Only positive"], "answer": "Reward or punishment"},
+    {"id": 16, "question": "What is cultural relativism?", "options": ["Superiority", "Understanding context", "Only equal", "No judgment"], "answer": "Understanding context"},
+    {"id": 17, "question": "What is ethnocentrism?", "options": ["Understanding", "Culture-centered view", "Only biased", "Only negative"], "answer": "Culture-centered view"}
+  ]
+}

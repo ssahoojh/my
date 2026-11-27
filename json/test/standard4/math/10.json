@@ -1,0 +1,22 @@
+{
+  "id": 10,
+  "questions": [
+    {"id": 1, "question": "What is word problem?", "options": ["Numbers only", "Real situation with math", "Only addition", "No solution"], "answer": "Real situation with math"},
+    {"id": 2, "question": "How to solve word problem?", "options": ["Guess", "Read, understand, solve", "Only skip", "No steps"], "answer": "Read, understand, solve"},
+    {"id": 3, "question": "John has 5 apples, Mary has 3. Total?", "options": ["2", "5", "8", "15"], "answer": "8"},
+    {"id": 4, "question": "Sally had 20 cookies, ate 7. Left?", "options": ["27", "13", "14", "10"], "answer": "13"},
+    {"id": 5, "question": "What is key information?", "options": ["Numbers only", "Facts needed to solve", "Only big", "No detail"], "answer": "Facts needed to solve"},
+    {"id": 6, "question": "What is irrelevant detail?", "options": ["All important", "Information not needed", "Only small", "No detail"], "answer": "Information not needed"},
+    {"id": 7, "question": "3 boxes with 4 pencils each. Total?", "options": ["7", "12", "1", "4"], "answer": "12"},
+    {"id": 8, "question": "What is addition problem?", "options": ["Separating", "Combining amounts", "Only two", "No total"], "answer": "Combining amounts"},
+    {"id": 9, "question": "What is subtraction problem?", "options": ["Combining", "Taking away/difference", "Only equal", "No gap"], "answer": "Taking away/difference"},
+    {"id": 10, "question": "What is multiplication problem?", "options": ["Separating", "Equal groups", "Only big", "No groups"], "answer": "Equal groups"},
+    {"id": 11, "question": "What is division problem?", "options": ["Combining", "Fair sharing/groups", "Only equal", "No sharing"], "answer": "Fair sharing/groups"},
+    {"id": 12, "question": "12 students in 3 groups. Each group?", "options": ["4", "9", "36", "15"], "answer": "4"},
+    {"id": 13, "question": "What is strategy?", "options": ["No plan", "Method to solve", "Only one way", "No choice"], "answer": "Method to solve"},
+    {"id": 14, "question": "What is estimation?", "options": ["Exact", "Approximate answer", "Only big", "No precise"], "answer": "Approximate answer"},
+    {"id": 15, "question": "What is two-step problem?", "options": ["One operation", "Two operations", "Only big", "No steps"], "answer": "Two operations"},
+    {"id": 16, "question": "Lisa bought 2 books at $3 each. Change from $10?", "options": ["6", "4", "$4", "$1"], "answer": "$4"},
+    {"id": 17, "question": "Why check answer?", "options": ["No reason", "Verify correctness", "Only tests", "Only final"], "answer": "Verify correctness"}
+  ]
+}

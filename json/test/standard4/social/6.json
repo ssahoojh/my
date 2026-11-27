@@ -1,0 +1,22 @@
+{
+  "id": 6,
+  "questions": [
+    {"id": 1, "question": "What is history?", "options": ["Present", "Study of past", "Only people", "Only events"], "answer": "Study of past"},
+    {"id": 2, "question": "What is chronology?", "options": ["Random", "Time order", "Only years", "Only long"], "answer": "Time order"},
+    {"id": 3, "question": "What is era?", "options": ["Single year", "Long time period", "Only named", "Only obvious"], "answer": "Long time period"},
+    {"id": 4, "question": "What is epoch?", "options": ["Single year", "Distinct period", "Only long", "Only obvious"], "answer": "Distinct period"},
+    {"id": 5, "question": "What is primary source?", "options": ["Secondary", "Direct evidence", "Only original", "No firsthand"], "answer": "Direct evidence"},
+    {"id": 6, "question": "What is secondary source?", "options": ["Primary", "Information about", "Only summary", "No interpretation"], "answer": "Information about"},
+    {"id": 7, "question": "What is bias?", "options": ["No bias", "One-sided view", "Only obvious", "No prejudice"], "answer": "One-sided view"},
+    {"id": 8, "question": "What is interpretation?", "options": ["No meaning", "Analysis explanation", "Only obvious", "No thought"], "answer": "Analysis explanation"},
+    {"id": 9, "question": "What is causation?", "options": ["No cause", "Cause-effect", "Only obvious", "No connection"], "answer": "Cause-effect"},
+    {"id": 10, "question": "What is correlation?", "options": ["No connection", "Relationship", "Only equal", "No cause"], "answer": "Relationship"},
+    {"id": 11, "question": "What is civilization?", "options": ["No organization", "Advanced society", "Only big", "Only old"], "answer": "Advanced society"},
+    {"id": 12, "question": "What is archaeology?", "options": ["History", "Study of ancient", "Only digging", "No artifacts"], "answer": "Study of ancient"},
+    {"id": 13, "question": "What is artifact?", "options": ["Natural", "Object from past", "Only big", "Only old"], "answer": "Object from past"},
+    {"id": 14, "question": "What is historiography?", "options": ["History study", "History writing", "Only recent", "Only accurate"], "answer": "History writing"},
+    {"id": 15, "question": "What is revisionism?", "options": ["No change", "Reinterpreting history", "Only recent", "Only correct"], "answer": "Reinterpreting history"},
+    {"id": 16, "question": "What is continuity?", "options": ["Change", "Things staying", "Only tradition", "Only culture"], "answer": "Things staying"},
+    {"id": 17, "question": "What is change?", "options": ["No change", "Transformation", "Only recent", "Only obvious"], "answer": "Transformation"}
+  ]
+}

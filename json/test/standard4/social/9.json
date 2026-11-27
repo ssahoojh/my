@@ -1,0 +1,22 @@
+{
+  "id": 9,
+  "questions": [
+    {"id": 1, "question": "What is global issue?", "options": ["Local", "World-wide problem", "Only big", "Only political"], "answer": "World-wide problem"},
+    {"id": 2, "question": "What is climate change?", "options": ["Weather", "Long-term temp", "Only warming", "Only human"], "answer": "Long-term temp"},
+    {"id": 3, "question": "What is deforestation?", "options": ["Tree growth", "Forest removal", "Only intentional", "No consequences"], "answer": "Forest removal"},
+    {"id": 4, "question": "What is biodiversity loss?", "options": ["No loss", "Species decline", "Only animals", "Only big"], "answer": "Species decline"},
+    {"id": 5, "question": "What is overpopulation?", "options": ["Growth", "Exceeding capacity", "Only recent", "Only temporary"], "answer": "Exceeding capacity"},
+    {"id": 6, "question": "What is poverty?", "options": ["Wealth", "Insufficient means", "Only financial", "Only developing"], "answer": "Insufficient means"},
+    {"id": 7, "question": "What is inequality?", "options": ["Equal", "Unequal distribution", "Only wealth", "Only income"], "answer": "Unequal distribution"},
+    {"id": 8, "question": "What is disease spread?", "options": ["No spread", "Epidemic situation", "Only common", "Only local"], "answer": "Epidemic situation"},
+    {"id": 9, "question": "What is water scarcity?", "options": ["Abundant", "Water shortage", "Only hot", "Only development"], "answer": "Water shortage"},
+    {"id": 10, "question": "What is food insecurity?", "options": ["No insecurity", "Food access issue", "Only developed", "Only developing"], "answer": "Food access issue"},
+    {"id": 11, "question": "What is nuclear proliferation?", "options": ["No spread", "Nuclear weapon", "Only spread", "Only development"], "answer": "Nuclear weapon"},
+    {"id": 12, "question": "What is cyberwarfare?", "options": ["No war", "Digital attack", "Only recent", "Only future"], "answer": "Digital attack"},
+    {"id": 13, "question": "What is migration crisis?", "options": ["No crisis", "Mass movement", "Only temporary", "Only recent"], "answer": "Mass movement"},
+    {"id": 14, "question": "What is pandemics?", "options": ["No disease", "Global spread", "Only recent", "Only death"], "answer": "Global spread"},
+    {"id": 15, "question": "What is sustainability goal?", "options": ["No goal", "Long-term development", "Only environmental", "Only 2030"], "answer": "Long-term development"},
+    {"id": 16, "question": "What is cooperation?", "options": ["Conflict", "Working together", "Only countries", "Only equal"], "answer": "Working together"},
+    {"id": 17, "question": "What is solution?", "options": ["No solution", "Problem resolution", "Only one", "Only obvious"], "answer": "Problem resolution"}
+  ]
+}
