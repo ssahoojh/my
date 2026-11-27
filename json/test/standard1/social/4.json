@@ -1,0 +1,22 @@
+{
+  "id": 4,
+  "questions": [
+    {"id": 1, "question": "What is geography?", "options": ["A job", "Study of Earth and people", "Only maps", "Only mountains"], "answer": "Study of Earth and people"},
+    {"id": 2, "question": "What is a map?", "options": ["A picture", "Representation of area", "Only roads", "Only cities"], "answer": "Representation of area"},
+    {"id": 3, "question": "What is a compass?", "options": ["A tool for drawing", "Tool showing directions", "Only for maps", "Only points north"], "answer": "Tool showing directions"},
+    {"id": 4, "question": "What directions does a compass show?", "options": ["East and west", "North, south, east, west", "Only north", "Only south"], "answer": "North, south, east, west"},
+    {"id": 5, "question": "What is a continent?", "options": ["A country", "Large area of land", "An ocean", "A city"], "answer": "Large area of land"},
+    {"id": 6, "question": "How many continents are there?", "options": ["5", "6", "7", "8"], "answer": "7"},
+    {"id": 7, "question": "What is an ocean?", "options": ["A lake", "Large body of salt water", "Only water", "Only big"], "answer": "Large body of salt water"},
+    {"id": 8, "question": "How many oceans are there?", "options": ["3", "4", "5", "6"], "answer": "5"},
+    {"id": 9, "question": "What is a landform?", "options": ["A building", "Natural feature like mountain", "Only big", "Only visible"], "answer": "Natural feature like mountain"},
+    {"id": 10, "question": "What is climate?", "options": ["Weather", "Long-term weather patterns", "Only hot", "Only cold"], "answer": "Long-term weather patterns"},
+    {"id": 11, "question": "What is a desert?", "options": ["Forests", "Dry area with little rain", "Only hot", "Only sand"], "answer": "Dry area with little rain"},
+    {"id": 12, "question": "What is a rainforest?", "options": ["Desert", "Wet forest with much rain", "Only trees", "Only big"], "answer": "Wet forest with much rain"},
+    {"id": 13, "question": "What is a mountain?", "options": ["A hill", "High landform", "Only big", "Only rocky"], "answer": "High landform"},
+    {"id": 14, "question": "What is a river?", "options": ["A lake", "Flowing water body", "Only big", "Only wide"], "answer": "Flowing water body"},
+    {"id": 15, "question": "What is a lake?", "options": ["A river", "Body of fresh water", "Only big", "Only deep"], "answer": "Body of fresh water"},
+    {"id": 16, "question": "What is an island?", "options": ["A continent", "Land surrounded by water", "Only big", "Only small"], "answer": "Land surrounded by water"},
+    {"id": 17, "question": "What is a peninsula?", "options": ["An island", "Land surrounded by water on 3 sides", "Only big", "Only small"], "answer": "Land surrounded by water on 3 sides"}
+  ]
+}

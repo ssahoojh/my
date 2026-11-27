@@ -1,0 +1,22 @@
+{
+  "id": 6,
+  "questions": [
+    {"id": 1, "question": "What is a dictionary?", "options": ["Story", "Book of word meanings", "History", "Map"], "answer": "Book of word meanings"},
+    {"id": 2, "question": "What is phonics?", "options": ["Phone system", "Letter sounds", "Words only", "Spelling"], "answer": "Letter sounds"},
+    {"id": 3, "question": "What is a syllable?", "options": ["Letter", "Unit of sound", "Word", "Sentence"], "answer": "Unit of sound"},
+    {"id": 4, "question": "How many syllables in 'butterfly'?", "options": ["1", "2", "3", "4"], "answer": "3"},
+    {"id": 5, "question": "What is blending sounds?", "options": ["Mixing", "Putting sounds together", "Only letters", "No connection"], "answer": "Putting sounds together"},
+    {"id": 6, "question": "What is segmenting?", "options": ["Joining", "Breaking word into sounds", "Spelling", "Only vowels"], "answer": "Breaking word into sounds"},
+    {"id": 7, "question": "What is consonant digraph?", "options": ["Single letter", "Two letters with one sound", "Vowel", "Three letters"], "answer": "Two letters with one sound"},
+    {"id": 8, "question": "Which is digraph?", "options": ["ch", "a", "o", "u"], "answer": "ch"},
+    {"id": 9, "question": "What is a silent letter?", "options": ["Quiet", "Letter not pronounced", "Vowel", "Beginning letter"], "answer": "Letter not pronounced"},
+    {"id": 10, "question": "Which word has silent letter?", "options": ["Cat", "Dog", "Knife", "Run"], "answer": "Knife"},
+    {"id": 11, "question": "What is fluency?", "options": ["Slow", "Smooth, quick reading", "Only speed", "No expression"], "answer": "Smooth, quick reading"},
+    {"id": 12, "question": "What helps fluency?", "options": ["Skipping", "Practice reading", "Silent only", "No practice"], "answer": "Practice reading"},
+    {"id": 13, "question": "What is expression in reading?", "options": ["No feeling", "Reading with emotion and change", "Only fast", "Only loud"], "answer": "Reading with emotion and change"},
+    {"id": 14, "question": "What is pacing?", "options": ["Walking", "Speed of reading", "Only fast", "Only slow"], "answer": "Speed of reading"},
+    {"id": 15, "question": "What is intonation?", "options": ["Speaking", "Rising and falling of voice", "Only loud", "Only quiet"], "answer": "Rising and falling of voice"},
+    {"id": 16, "question": "What is a sight word?", "options": ["Seeing", "Word learned by sight", "Only common", "No real thing"], "answer": "Word learned by sight"},
+    {"id": 17, "question": "Why are sight words important?", "options": ["They're not", "Many are common", "Only for tests", "Only for writing"], "answer": "Many are common"}
+  ]
+}

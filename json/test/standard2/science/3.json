@@ -1,0 +1,22 @@
+{
+  "id": 3,
+  "questions": [
+    {"id": 1, "question": "What is an animal?", "options": ["Plant", "Living thing", "No movement", "Only big"], "answer": "Living thing"},
+    {"id": 2, "question": "How do animals move?", "options": ["No movement", "Walking, flying, swimming", "Only walking", "Only water"], "answer": "Walking, flying, swimming"},
+    {"id": 3, "question": "What eats plants?", "options": ["Carnivore", "Herbivore", "Only meat", "Nothing eats"], "answer": "Herbivore"},
+    {"id": 4, "question": "What eats meat?", "options": ["Herbivore", "Carnivore", "Only plants", "Nothing eats"], "answer": "Carnivore"},
+    {"id": 5, "question": "What eats plants and meat?", "options": ["Herbivore", "Carnivore", "Omnivore", "No eating"], "answer": "Omnivore"},
+    {"id": 6, "question": "What do birds have?", "options": ["Fur", "Scales", "Feathers", "No covering"], "answer": "Feathers"},
+    {"id": 7, "question": "What do fish have?", "options": ["Fur", "Feathers", "Scales", "No covering"], "answer": "Scales"},
+    {"id": 8, "question": "What do mammals have?", "options": ["Scales", "Feathers", "Fur", "No covering"], "answer": "Fur"},
+    {"id": 9, "question": "How do fish breathe?", "options": ["Lungs", "Gills", "No breathing", "Only air"], "answer": "Gills"},
+    {"id": 10, "question": "Where do fish live?", "options": ["Land", "Water", "Trees", "Underground"], "answer": "Water"},
+    {"id": 11, "question": "Where do birds live?", "options": ["Water", "Underground", "Trees and sky", "Underground"], "answer": "Trees and sky"},
+    {"id": 12, "question": "What is adaptation?", "options": ["Change place", "Special feature for survival", "No purpose", "Only size"], "answer": "Special feature for survival"},
+    {"id": 13, "question": "What animal has long neck?", "options": ["Elephant", "Giraffe", "Lion", "Monkey"], "answer": "Giraffe"},
+    {"id": 14, "question": "Why long neck?", "options": ["No reason", "Reach high leaves", "Only looks", "No purpose"], "answer": "Reach high leaves"},
+    {"id": 15, "question": "What animal has stripes?", "options": ["Lion", "Zebra", "Tiger", "Giraffe"], "answer": "Zebra"},
+    {"id": 16, "question": "What animals are endangered?", "options": ["Lion", "Elephant", "Panda", "All above"], "answer": "All above"},
+    {"id": 17, "question": "Why protect animals?", "options": ["No reason", "Part of nature", "Only zoos", "No importance"], "answer": "Part of nature"}
+  ]
+}

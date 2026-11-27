@@ -1,0 +1,22 @@
+{
+  "id": 8,
+  "questions": [
+    {"id": 1, "question": "What is technology?", "options": ["Science", "Tools and machines", "Only computers", "Only modern"], "answer": "Tools and machines"},
+    {"id": 2, "question": "What does technology do?", "options": ["Nothing", "Makes tasks easier", "Only communication", "Only entertainment"], "answer": "Makes tasks easier"},
+    {"id": 3, "question": "What is a computer?", "options": ["Machine", "Electronic device", "Only big", "Only fast"], "answer": "Electronic device"},
+    {"id": 4, "question": "What is internet?", "options": ["Computer", "Connected network", "Only websites", "Only communication"], "answer": "Connected network"},
+    {"id": 5, "question": "What is a smartphone?", "options": ["Phone", "Mobile computer", "Only calling", "Only texting"], "answer": "Mobile computer"},
+    {"id": 6, "question": "What is transportation?", "options": ["Walking", "Moving people/goods", "Only cars", "Only trains"], "answer": "Moving people/goods"},
+    {"id": 7, "question": "What is a vehicle?", "options": ["Road", "Machine for transport", "Only cars", "Only big"], "answer": "Machine for transport"},
+    {"id": 8, "question": "What is communication?", "options": ["Listening", "Sharing information", "Only speaking", "Only writing"], "answer": "Sharing information"},
+    {"id": 9, "question": "What is a telephone?", "options": ["Wire", "Device for calling", "Only old", "Only landline"], "answer": "Device for calling"},
+    {"id": 10, "question": "What changed with internet?", "options": ["Nothing", "How we communicate", "Only shopping", "Only entertainment"], "answer": "How we communicate"},
+    {"id": 11, "question": "What is social media?", "options": ["Traditional media", "Online sharing", "Only Facebook", "Only Twitter"], "answer": "Online sharing"},
+    {"id": 12, "question": "What is digital?", "options": ["Printed", "Electronic format", "Only computers", "Only binary"], "answer": "Electronic format"},
+    {"id": 13, "question": "What is app?", "options": ["Device", "Software program", "Only phone", "Only game"], "answer": "Software program"},
+    {"id": 14, "question": "What is artificial intelligence?", "options": ["Human", "Machine thinking", "Only robots", "Only future"], "answer": "Machine thinking"},
+    {"id": 15, "question": "What is automation?", "options": ["Manual", "Machine doing work", "Only factories", "Only repetitive"], "answer": "Machine doing work"},
+    {"id": 16, "question": "What is online?", "options": ["Offline", "Connected to internet", "Only computer", "Only always"], "answer": "Connected to internet"},
+    {"id": 17, "question": "Why use technology?", "options": ["No reason", "Make life easier", "Only work", "Only entertainment"], "answer": "Make life easier"}
+  ]
+}

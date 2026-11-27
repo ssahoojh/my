@@ -1,0 +1,22 @@
+{
+  "id": 3,
+  "questions": [
+    {"id": 1, "question": "What is a country?", "options": ["A city", "Area with its own government", "A town", "A building"], "answer": "Area with its own government"},
+    {"id": 2, "question": "What country do we live in?", "options": ["China", "United States", "Japan", "India"], "answer": "United States"},
+    {"id": 3, "question": "What is a state?", "options": ["A country", "Part of a country", "A city", "A town"], "answer": "Part of a country"},
+    {"id": 4, "question": "What is a city?", "options": ["A state", "Town with many buildings", "A street", "A house"], "answer": "Town with many buildings"},
+    {"id": 5, "question": "What is a town?", "options": ["A city", "Smaller than a city", "A state", "A country"], "answer": "Smaller than a city"},
+    {"id": 6, "question": "What is government?", "options": ["Businesses", "System that runs a country", "Schools", "Hospitals"], "answer": "System that runs a country"},
+    {"id": 7, "question": "What does government do?", "options": ["Nothing", "Makes rules and helps people", "Only teaches", "Only builds"], "answer": "Makes rules and helps people"},
+    {"id": 8, "question": "What is a law?", "options": ["A game", "Rule everyone must follow", "A job", "A place"], "answer": "Rule everyone must follow"},
+    {"id": 9, "question": "Why do we have laws?", "options": ["No reason", "To keep people safe", "Only for fun", "Only for schools"], "answer": "To keep people safe"},
+    {"id": 10, "question": "What is a president?", "options": ["A teacher", "Leader of a country", "A worker", "A doctor"], "answer": "Leader of a country"},
+    {"id": 11, "question": "What is a mayor?", "options": ["A teacher", "Leader of a city", "A worker", "A doctor"], "answer": "Leader of a city"},
+    {"id": 12, "question": "What is voting?", "options": ["Playing", "Choosing in an election", "Teaching", "Building"], "answer": "Choosing in an election"},
+    {"id": 13, "question": "What is democracy?", "options": ["One person rules", "People have a say in government", "Only voting", "Only presidents"], "answer": "People have a say in government"},
+    {"id": 14, "question": "What is the flag?", "options": ["A picture", "Symbol of a country", "Only colors", "Only cloth"], "answer": "Symbol of a country"},
+    {"id": 15, "question": "What is the pledge?", "options": ["A promise to sell", "Promise of loyalty to country", "Only words", "Only recited in school"], "answer": "Promise of loyalty to country"},
+    {"id": 16, "question": "What is a citizen?", "options": ["A worker", "Member of a country", "A tourist", "A visitor"], "answer": "Member of a country"},
+    {"id": 17, "question": "What rights do citizens have?", "options": ["No rights", "Freedom of speech and religion", "Only duties", "Only voting"], "answer": "Freedom of speech and religion"}
+  ]
+}

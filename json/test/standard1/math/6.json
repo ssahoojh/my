@@ -1,0 +1,22 @@
+{
+  "id": 6,
+  "questions": [
+    {"id": 1, "question": "What time is shown when the hour hand points to 3?", "options": ["2 o'clock", "3 o'clock", "4 o'clock", "5 o'clock"], "answer": "3 o'clock"},
+    {"id": 2, "question": "What time is shown when the hour hand points to 6?", "options": ["5 o'clock", "6 o'clock", "7 o'clock", "8 o'clock"], "answer": "6 o'clock"},
+    {"id": 3, "question": "When is lunch usually eaten?", "options": ["8 o'clock", "12 o'clock", "3 o'clock", "6 o'clock"], "answer": "12 o'clock"},
+    {"id": 4, "question": "When do you usually go to bed?", "options": ["8 o'clock", "10 o'clock", "1 o'clock", "3 o'clock"], "answer": "8 o'clock"},
+    {"id": 5, "question": "What time is shown when the hour hand points to 9?", "options": ["8 o'clock", "9 o'clock", "10 o'clock", "11 o'clock"], "answer": "9 o'clock"},
+    {"id": 6, "question": "When do you usually eat breakfast?", "options": ["12 o'clock", "7 o'clock", "3 o'clock", "6 o'clock"], "answer": "7 o'clock"},
+    {"id": 7, "question": "What time is 2 o'clock?", "options": ["1 o'clock", "2 o'clock", "3 o'clock", "4 o'clock"], "answer": "2 o'clock"},
+    {"id": 8, "question": "How many hours are in a half day?", "options": ["6 hours", "12 hours", "24 hours", "36 hours"], "answer": "12 hours"},
+    {"id": 9, "question": "If it is 10 o'clock now, what time is it in 1 hour?", "options": ["9 o'clock", "10 o'clock", "11 o'clock", "12 o'clock"], "answer": "11 o'clock"},
+    {"id": 10, "question": "If it is 5 o'clock now, what time is it in 2 hours?", "options": ["6 o'clock", "7 o'clock", "4 o'clock", "3 o'clock"], "answer": "7 o'clock"},
+    {"id": 11, "question": "What time is shown when the hour hand points to 1?", "options": ["12 o'clock", "1 o'clock", "2 o'clock", "3 o'clock"], "answer": "1 o'clock"},
+    {"id": 12, "question": "If it is 8 o'clock now, what time was it 2 hours ago?", "options": ["6 o'clock", "7 o'clock", "9 o'clock", "10 o'clock"], "answer": "6 o'clock"},
+    {"id": 13, "question": "How many minutes are in one hour?", "options": ["30 minutes", "45 minutes", "60 minutes", "90 minutes"], "answer": "60 minutes"},
+    {"id": 14, "question": "What time do you usually go to school?", "options": ["8 o'clock", "12 o'clock", "3 o'clock", "6 o'clock"], "answer": "8 o'clock"},
+    {"id": 15, "question": "If it is 4 o'clock now, what time was it 1 hour ago?", "options": ["2 o'clock", "3 o'clock", "5 o'clock", "6 o'clock"], "answer": "3 o'clock"},
+    {"id": 16, "question": "What time is shown when the hour hand points to 12?", "options": ["11 o'clock", "12 o'clock", "1 o'clock", "2 o'clock"], "answer": "12 o'clock"},
+    {"id": 17, "question": "If it is 7 o'clock now, what time is it in 3 hours?", "options": ["9 o'clock", "10 o'clock", "11 o'clock", "1 o'clock"], "answer": "10 o'clock"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 4,
+  "questions": [
+    {"id": 1, "question": "What is geography?", "options": ["History", "Study of places", "Only maps", "Only traveling"], "answer": "Study of places"},
+    {"id": 2, "question": "What is a map?", "options": ["Drawing", "Picture of area", "Only roads", "Only big"], "answer": "Picture of area"},
+    {"id": 3, "question": "What shows directions?", "options": ["Number", "Compass", "Only sun", "Only landmarks"], "answer": "Compass"},
+    {"id": 4, "question": "What is a continent?", "options": ["Country", "Large landmass", "Only big", "Only named"], "answer": "Large landmass"},
+    {"id": 5, "question": "How many continents?", "options": ["5", "7", "6", "8"], "answer": "7"},
+    {"id": 6, "question": "What is an ocean?", "options": ["Lake", "Large body of water", "Only salt", "Only big"], "answer": "Large body of water"},
+    {"id": 7, "question": "How many oceans?", "options": ["3", "4", "5", "6"], "answer": "5"},
+    {"id": 8, "question": "What is a mountain?", "options": ["Hill", "High elevated land", "Only tall", "Only rocky"], "answer": "High elevated land"},
+    {"id": 9, "question": "What is a valley?", "options": ["Mountain", "Low land", "Only water", "Only dry"], "answer": "Low land"},
+    {"id": 10, "question": "What is a river?", "options": ["Ocean", "Water flowing", "Only big", "Only fast"], "answer": "Water flowing"},
+    {"id": 11, "question": "What is a lake?", "options": ["River", "Water body", "Only big", "Only deep"], "answer": "Water body"},
+    {"id": 12, "question": "What is a desert?", "options": ["Rainy", "Dry land", "Only hot", "Only big"], "answer": "Dry land"},
+    {"id": 13, "question": "What is a forest?", "options": ["Field", "Many trees", "Only big", "Only animals"], "answer": "Many trees"},
+    {"id": 14, "question": "What is weather?", "options": ["Season", "Condition daily", "Only temperature", "Only rain"], "answer": "Condition daily"},
+    {"id": 15, "question": "What is climate?", "options": ["Weather", "Weather over time", "Only cold", "Only hot"], "answer": "Weather over time"},
+    {"id": 16, "question": "What is a region?", "options": ["Spot", "Area with features", "Only big", "Only named"], "answer": "Area with features"},
+    {"id": 17, "question": "What is border?", "options": ["Nothing", "Line between places", "Only land", "Only water"], "answer": "Line between places"}
+  ]
+}

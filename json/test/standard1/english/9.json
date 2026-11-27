@@ -1,0 +1,22 @@
+{
+  "id": 9,
+  "questions": [
+    {"id": 1, "question": "What is poetry?", "options": ["A story", "Writing with rhythm and rhyme", "A noun", "A verb"], "answer": "Writing with rhythm and rhyme"},
+    {"id": 2, "question": "What is a rhyme?", "options": ["A picture", "Words with similar ending sounds", "A noun", "An adjective"], "answer": "Words with similar ending sounds"},
+    {"id": 3, "question": "Which words rhyme with 'cat'?", "options": ["Dog", "Bat", "Run", "Jump"], "answer": "Bat"},
+    {"id": 4, "question": "What is rhythm in poetry?", "options": ["Random", "Pattern of sounds and beats", "A noun", "A verb"], "answer": "Pattern of sounds and beats"},
+    {"id": 5, "question": "What is a stanza?", "options": ["A poem", "A group of lines in a poem", "A noun", "A word"], "answer": "A group of lines in a poem"},
+    {"id": 6, "question": "What is a verse?", "options": ["A picture", "Lines of poetry", "A story", "A song"], "answer": "Lines of poetry"},
+    {"id": 7, "question": "What is a rhyme scheme?", "options": ["No pattern", "Pattern of rhyming words", "A noun", "A verb"], "answer": "Pattern of rhyming words"},
+    {"id": 8, "question": "What is alliteration?", "options": ["Rhyming", "Repeating beginning sounds", "A verb", "An adjective"], "answer": "Repeating beginning sounds"},
+    {"id": 9, "question": "Which shows alliteration?", "options": ["The dog ran", "Peter picked a peck", "A cat sat", "The sun shines"], "answer": "Peter picked a peck"},
+    {"id": 10, "question": "What is a metaphor?", "options": ["A comparison with 'like'", "Direct comparison without 'like'", "A rhyme", "A verb"], "answer": "Direct comparison without 'like'"},
+    {"id": 11, "question": "What is a simile?", "options": ["A direct comparison", "Comparison using 'like' or 'as'", "A rhyme", "A noun"], "answer": "Comparison using 'like' or 'as'"},
+    {"id": 12, "question": "Which is a simile?", "options": ["The sun is a star", "As quiet as a mouse", "Time is money", "The world is a stage"], "answer": "As quiet as a mouse"},
+    {"id": 13, "question": "What is mood in poetry?", "options": ["Happy always", "Feeling the poem creates", "The title", "A verb"], "answer": "Feeling the poem creates"},
+    {"id": 14, "question": "What is tone in poetry?", "options": ["The theme", "Attitude of the poet", "A rhyme", "A noun"], "answer": "Attitude of the poet"},
+    {"id": 15, "question": "What is imagery?", "options": ["Pictures only", "Vivid descriptions creating mental pictures", "A rhyme", "A verb"], "answer": "Vivid descriptions creating mental pictures"},
+    {"id": 16, "question": "What is personification?", "options": ["Making fun", "Giving human qualities to objects", "Rhyming", "An adjective"], "answer": "Giving human qualities to objects"},
+    {"id": 17, "question": "Which shows personification?", "options": ["The dog ran fast", "The wind whispered", "The cat is gray", "It is cold"], "answer": "The wind whispered"}
+  ]
+}

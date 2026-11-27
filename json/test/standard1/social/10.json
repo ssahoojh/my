@@ -1,0 +1,22 @@
+{
+  "id": 10,
+  "questions": [
+    {"id": 1, "question": "What is civics?", "options": ["History", "Study of citizenship and rights", "Only voting", "Only laws"], "answer": "Study of citizenship and rights"},
+    {"id": 2, "question": "What is a right?", "options": ["Duty", "Freedom or privilege", "Only legal", "Only voting"], "answer": "Freedom or privilege"},
+    {"id": 3, "question": "What is a responsibility?", "options": ["Choice", "Duty or obligation", "Only for adults", "Only for government"], "answer": "Duty or obligation"},
+    {"id": 4, "question": "What rights do citizens have?", "options": ["No rights", "Freedom of speech, religion, etc", "Only voting", "Only legal"], "answer": "Freedom of speech, religion, etc"},
+    {"id": 5, "question": "What is freedom of speech?", "options": ["Quiet", "Right to express ideas", "Only in public", "Only political"], "answer": "Right to express ideas"},
+    {"id": 6, "question": "What is freedom of religion?", "options": ["No religion", "Right to practice any faith", "Only majority", "Only public"], "answer": "Right to practice any faith"},
+    {"id": 7, "question": "What responsibilities do citizens have?", "options": ["None", "Pay taxes, obey laws, serve", "Only voting", "Only working"], "answer": "Pay taxes, obey laws, serve"},
+    {"id": 8, "question": "What is jury duty?", "options": ["Work", "Service judging cases", "Only mandatory", "Only adults"], "answer": "Service judging cases"},
+    {"id": 9, "question": "What is volunteering?", "options": ["Getting paid", "Helping without payment", "Only nonprofits", "Only legal"], "answer": "Helping without payment"},
+    {"id": 10, "question": "What is community service?", "options": ["Shopping", "Service to benefit community", "Only punishment", "Only young"], "answer": "Service to benefit community"},
+    {"id": 11, "question": "What is civic engagement?", "options": ["Passive", "Active participation in community", "Only voting", "Only political"], "answer": "Active participation in community"},
+    {"id": 12, "question": "How can you help your community?", "options": ["You can't", "Volunteer, recycle, help others", "Only voting", "Only working"], "answer": "Volunteer, recycle, help others"},
+    {"id": 13, "question": "What is charitable giving?", "options": ["Spending", "Donating to those in need", "Only rich", "Only nonprofits"], "answer": "Donating to those in need"},
+    {"id": 14, "question": "What is social responsibility?", "options": ["No obligation", "Caring for society", "Only government", "Only wealthy"], "answer": "Caring for society"},
+    {"id": 15, "question": "What is sustainability in community?", "options": ["Wasting", "Maintaining resources for future", "Only environmental", "Only economic"], "answer": "Maintaining resources for future"},
+    {"id": 16, "question": "What makes a good citizen?", "options": ["Nothing specific", "Respects laws and helps others", "Only voting", "Only working"], "answer": "Respects laws and helps others"},
+    {"id": 17, "question": "Why is civic participation important?", "options": ["It's not", "Strengthens democracy and community", "Only for elections", "Only for politics"], "answer": "Strengthens democracy and community"}
+  ]
+}

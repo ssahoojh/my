@@ -1,0 +1,22 @@
+{
+  "id": 4,
+  "questions": [
+    {"id": 1, "question": "What is matter?", "options": ["Energy", "Anything that takes up space", "Nothing", "Light"], "answer": "Anything that takes up space"},
+    {"id": 2, "question": "What are three states of matter?", "options": ["Solid, liquid, gas", "Hot, cold, warm", "Big, small, medium", "Light, dark, gray"], "answer": "Solid, liquid, gas"},
+    {"id": 3, "question": "What is a solid?", "options": ["Something that flows", "Something with a fixed shape", "Something that floats", "Nothing"], "answer": "Something with a fixed shape"},
+    {"id": 4, "question": "What is a liquid?", "options": ["A solid", "Takes the shape of its container", "Always hard", "Always light"], "answer": "Takes the shape of its container"},
+    {"id": 5, "question": "What is a gas?", "options": ["A solid", "Has no fixed shape or size", "Only smoke", "Only air"], "answer": "Has no fixed shape or size"},
+    {"id": 6, "question": "What is water?", "options": ["Only a solid", "Only a gas", "Can be solid, liquid, or gas", "Only a liquid"], "answer": "Can be solid, liquid, or gas"},
+    {"id": 7, "question": "What happens when water freezes?", "options": ["Becomes gas", "Becomes ice", "Disappears", "Becomes air"], "answer": "Becomes ice"},
+    {"id": 8, "question": "What happens when water boils?", "options": ["Becomes solid", "Becomes ice", "Becomes steam (gas)", "Becomes rock"], "answer": "Becomes steam (gas)"},
+    {"id": 9, "question": "What is evaporation?", "options": ["Freezing", "Liquid turning to gas", "Gas turning to liquid", "Solid forming"], "answer": "Liquid turning to gas"},
+    {"id": 10, "question": "What is condensation?", "options": ["Freezing", "Gas turning to liquid", "Liquid turning to solid", "Nothing"], "answer": "Gas turning to liquid"},
+    {"id": 11, "question": "What is the water cycle?", "options": ["Just rain", "Circle of water moving through Earth", "Only evaporation", "Only freezing"], "answer": "Circle of water moving through Earth"},
+    {"id": 12, "question": "What do you use to measure temperature?", "options": ["Ruler", "Thermometer", "Scale", "Clock"], "answer": "Thermometer"},
+    {"id": 13, "question": "What is density?", "options": ["Size", "How heavy something is for its size", "Weight only", "Length"], "answer": "How heavy something is for its size"},
+    {"id": 14, "question": "What floats in water?", "options": ["All solids", "Things less dense than water", "Only wood", "Nothing"], "answer": "Things less dense than water"},
+    {"id": 15, "question": "What is a mixture?", "options": ["One thing", "Two or more things combined", "Only liquids", "Only solids"], "answer": "Two or more things combined"},
+    {"id": 16, "question": "What is a solution?", "options": ["A problem", "Mixture where one thing dissolves", "Only water", "Nothing"], "answer": "Mixture where one thing dissolves"},
+    {"id": 17, "question": "What dissolves in water?", "options": ["Nothing", "Some things like salt and sugar", "Only wood", "Only rock"], "answer": "Some things like salt and sugar"}
+  ]
+}

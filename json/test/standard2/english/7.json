@@ -1,0 +1,22 @@
+{
+  "id": 7,
+  "questions": [
+    {"id": 1, "question": "What is a rhyme?", "options": ["Random", "Same ending sounds", "Same meaning", "No connection"], "answer": "Same ending sounds"},
+    {"id": 2, "question": "Which rhyme?", "options": ["Cat-dog", "Hat-bat", "Run-walk", "Big-small"], "answer": "Hat-bat"},
+    {"id": 3, "question": "What is rhythm?", "options": ["Random", "Pattern of beats", "Only fast", "Only slow"], "answer": "Pattern of beats"},
+    {"id": 4, "question": "What is poetry?", "options": ["Story", "Rhythmic language", "Facts only", "Long story"], "answer": "Rhythmic language"},
+    {"id": 5, "question": "What is a stanza?", "options": ["Poem", "Group of lines", "One line", "No group"], "answer": "Group of lines"},
+    {"id": 6, "question": "What is alliteration?", "options": ["Rhyming", "Repeating beginning sounds", "Same meaning", "Rhyme scheme"], "answer": "Repeating beginning sounds"},
+    {"id": 7, "question": "Example of alliteration?", "options": ["The dog danced", "Sally sells seashells", "Quick brown fox", "Sally sells seashells"], "answer": "Sally sells seashells"},
+    {"id": 8, "question": "What is a simile?", "options": ["Comparison with 'like'", "Direct comparison", "Same thing", "No comparison"], "answer": "Comparison with 'like'"},
+    {"id": 9, "question": "Example of simile?", "options": ["Quiet as a mouse", "Time is money", "Night fell", "Quiet as a mouse"], "answer": "Quiet as a mouse"},
+    {"id": 10, "question": "What is a metaphor?", "options": ["With 'like'", "Direct comparison", "Same meaning", "No comparison"], "answer": "Direct comparison"},
+    {"id": 11, "question": "What is personification?", "options": ["Describing", "Giving human qualities", "Only objects", "No meaning"], "answer": "Giving human qualities"},
+    {"id": 12, "question": "Example personification?", "options": ["The dog ran", "The wind whispered", "The cat jumped", "The dog ran"], "answer": "The wind whispered"},
+    {"id": 13, "question": "What is imagery?", "options": ["Pictures", "Vivid descriptions", "Only visual", "No meaning"], "answer": "Vivid descriptions"},
+    {"id": 14, "question": "What is mood?", "options": ["Emotion of character", "Feeling poem creates", "Setting", "Theme"], "answer": "Feeling poem creates"},
+    {"id": 15, "question": "What is tone?", "options": ["Sound", "Attitude of writer", "Volume", "Speed"], "answer": "Attitude of writer"},
+    {"id": 16, "question": "What is free verse?", "options": ["Expensive", "Poetry without rhyme/meter", "Only rhyming", "Only structured"], "answer": "Poetry without rhyme/meter"},
+    {"id": 17, "question": "Why read poetry?", "options": ["No reason", "Enjoy language and ideas", "Only tests", "Only school"], "answer": "Enjoy language and ideas"}
+  ]
+}

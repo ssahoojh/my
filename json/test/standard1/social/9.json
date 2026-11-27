@@ -1,0 +1,22 @@
+{
+  "id": 9,
+  "questions": [
+    {"id": 1, "question": "What is a world map?", "options": ["Local map", "Shows all countries", "Only continents", "Only oceans"], "answer": "Shows all countries"},
+    {"id": 2, "question": "What is Asia?", "options": ["Continent", "Largest continent", "Only countries", "Only developed"], "answer": "Largest continent"},
+    {"id": 3, "question": "What is Africa?", "options": ["Country", "Continent with many countries", "Only developing", "Only below Equator"], "answer": "Continent with many countries"},
+    {"id": 4, "question": "What is Europe?", "options": ["Country", "Continent with many developed nations", "Only west", "Only small"], "answer": "Continent with many developed nations"},
+    {"id": 5, "question": "What is South America?", "options": ["Country", "Continent south of equator", "Only rainforests", "Only developing"], "answer": "Continent south of equator"},
+    {"id": 6, "question": "What is North America?", "options": ["Country", "Continent including USA", "Only USA", "Only Canada"], "answer": "Continent including USA"},
+    {"id": 7, "question": "What is Australia?", "options": ["Country", "Continent and country", "Only beaches", "Only desert"], "answer": "Continent and country"},
+    {"id": 8, "question": "What is Antarctica?", "options": ["Cold country", "Frozen continent", "Only ice", "No life"], "answer": "Frozen continent"},
+    {"id": 9, "question": "What is Oceania?", "options": ["Ocean", "Region with Pacific islands", "Only Australia", "Only developed"], "answer": "Region with Pacific islands"},
+    {"id": 10, "question": "What do different continents have?", "options": ["Same everything", "Different geography and culture", "Only weather", "Only resources"], "answer": "Different geography and culture"},
+    {"id": 11, "question": "What is immigration?", "options": ["Vacation", "Moving to new country", "Only permanent", "Only legal"], "answer": "Moving to new country"},
+    {"id": 12, "question": "What is emigration?", "options": ["Visiting", "Leaving country to live elsewhere", "Only long term", "Only legal"], "answer": "Leaving country to live elsewhere"},
+    {"id": 13, "question": "What is a refugee?", "options": ["Tourist", "Person fleeing danger", "Only forced", "Only temporary"], "answer": "Person fleeing danger"},
+    {"id": 14, "question": "Why do people immigrate?", "options": ["No reason", "Seek better life, escape danger", "Only economic", "Only personal"], "answer": "Seek better life, escape danger"},
+    {"id": 15, "question": "What benefits does immigration bring?", "options": ["Nothing", "Diversity, labor, culture", "Only economic", "Only social"], "answer": "Diversity, labor, culture"},
+    {"id": 16, "question": "What is cultural exchange?", "options": ["Stealing", "Sharing cultures between nations", "Only food", "Only art"], "answer": "Sharing cultures between nations"},
+    {"id": 17, "question": "Why is global understanding important?", "options": ["It's not", "Creates peace and cooperation", "Only for trade", "Only for politics"], "answer": "Creates peace and cooperation"}
+  ]
+}

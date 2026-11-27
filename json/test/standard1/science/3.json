@@ -1,0 +1,22 @@
+{
+  "id": 3,
+  "questions": [
+    {"id": 1, "question": "What is a habitat?", "options": ["A building", "A place where an animal lives", "A food", "A tool"], "answer": "A place where an animal lives"},
+    {"id": 2, "question": "Where do fish live?", "options": ["Trees", "Water", "Ground", "Air"], "answer": "Water"},
+    {"id": 3, "question": "Where do birds live?", "options": ["Water", "In trees and sky", "Underground", "Houses only"], "answer": "In trees and sky"},
+    {"id": 4, "question": "Where do rabbits live?", "options": ["In trees", "In water", "Underground in burrows", "In houses only"], "answer": "Underground in burrows"},
+    {"id": 5, "question": "What do animals eat?", "options": ["Nothing", "Food that gives them energy", "Only plants", "Only meat"], "answer": "Food that gives them energy"},
+    {"id": 6, "question": "What is a food chain?", "options": ["A chain made of food", "Order of who eats what", "A type of food", "No such thing"], "answer": "Order of who eats what"},
+    {"id": 7, "question": "What do herbivores eat?", "options": ["Meat", "Plants", "Only water", "Only air"], "answer": "Plants"},
+    {"id": 8, "question": "What do carnivores eat?", "options": ["Plants only", "Meat", "Only water", "Nothing"], "answer": "Meat"},
+    {"id": 9, "question": "What eats plants?", "options": ["Carnivores", "Nothing eats plants", "Herbivores", "Humans only"], "answer": "Herbivores"},
+    {"id": 10, "question": "What is a predator?", "options": ["A plant", "An animal that hunts others", "An insect", "A bird"], "answer": "An animal that hunts others"},
+    {"id": 11, "question": "What is prey?", "options": ["A hunter", "An animal hunted for food", "A plant", "Nothing"], "answer": "An animal hunted for food"},
+    {"id": 12, "question": "What do dinosaurs do?", "options": ["Still live", "Lived long ago", "Live in zoos", "Live now"], "answer": "Lived long ago"},
+    {"id": 13, "question": "What do you call an animal that lives on land and water?", "options": ["Fish", "Bird", "Amphibian", "Reptile"], "answer": "Amphibian"},
+    {"id": 14, "question": "What is adaptation?", "options": ["A building", "How animals change to fit their habitat", "A food", "A tool"], "answer": "How animals change to fit their habitat"},
+    {"id": 15, "question": "Why do polar bears have thick fur?", "options": ["Fashion", "To stay warm in cold places", "To swim", "No reason"], "answer": "To stay warm in cold places"},
+    {"id": 16, "question": "What is a migration?", "options": ["A building", "Movement to a new place", "A food", "A tool"], "answer": "Movement to a new place"},
+    {"id": 17, "question": "What is hibernation?", "options": ["Eating", "Deep sleep during winter", "Moving away", "Flying south"], "answer": "Deep sleep during winter"}
+  ]
+}

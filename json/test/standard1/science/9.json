@@ -1,0 +1,22 @@
+{
+  "id": 9,
+  "questions": [
+    {"id": 1, "question": "What is the life cycle?", "options": ["A circle", "Stages a living thing goes through", "Only plants", "Only animals"], "answer": "Stages a living thing goes through"},
+    {"id": 2, "question": "What are stages of butterfly life?", "options": ["Birth, growth, adult", "Egg, caterpillar, pupa, butterfly", "Only caterpillar", "Only butterfly"], "answer": "Egg, caterpillar, pupa, butterfly"},
+    {"id": 3, "question": "What is a tadpole?", "options": ["A frog", "Young frog with tail", "Only water", "Only land"], "answer": "Young frog with tail"},
+    {"id": 4, "question": "What is a pupae?", "options": ["Insect", "Stage between caterpillar and butterfly", "Only caterpillar", "Only butterfly"], "answer": "Stage between caterpillar and butterfly"},
+    {"id": 5, "question": "What is reproduction?", "options": ["Eating", "Making new organisms", "Only animals", "Only plants"], "answer": "Making new organisms"},
+    {"id": 6, "question": "What do plants need to reproduce?", "options": ["Animals only", "Sun, water, soil", "Only water", "Only sun"], "answer": "Sun, water, soil"},
+    {"id": 7, "question": "What is a seed?", "options": ["A plant", "Beginning of new plant", "Only big", "Only small"], "answer": "Beginning of new plant"},
+    {"id": 8, "question": "What does a seed need to grow?", "options": ["Nothing", "Water, sun, soil", "Only water", "Only sun"], "answer": "Water, sun, soil"},
+    {"id": 9, "question": "What is germination?", "options": ["Death", "Seed beginning to grow", "Only in spring", "Only in soil"], "answer": "Seed beginning to grow"},
+    {"id": 10, "question": "What do flowers make?", "options": ["Leaves", "Seeds and fruit", "Only seeds", "Only fruit"], "answer": "Seeds and fruit"},
+    {"id": 11, "question": "What carries pollen between flowers?", "options": ["Wind", "Bees and insects", "Rain", "Gravity"], "answer": "Bees and insects"},
+    {"id": 12, "question": "What is pollination?", "options": ["Death", "Transfer of pollen to make seeds", "Only in spring", "Only by wind"], "answer": "Transfer of pollen to make seeds"},
+    {"id": 13, "question": "What is fruit?", "options": ["A seed", "Part holding seeds", "Only sweet", "Only big"], "answer": "Part holding seeds"},
+    {"id": 14, "question": "What animals are mammals?", "options": ["All animals", "Warm-blooded with fur", "Only big", "Only land animals"], "answer": "Warm-blooded with fur"},
+    {"id": 15, "question": "What animals are birds?", "options": ["All animals", "Have feathers and lay eggs", "Only can fly", "Only sing"], "answer": "Have feathers and lay eggs"},
+    {"id": 16, "question": "What is an amphibian?", "options": ["Fish", "Lives on land and water", "Only in water", "Only on land"], "answer": "Lives on land and water"},
+    {"id": 17, "question": "What is a reptile?", "options": ["Amphibian", "Cold-blooded with scales", "Only on land", "Only lay eggs"], "answer": "Cold-blooded with scales"}
+  ]
+}

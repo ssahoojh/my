@@ -1,0 +1,22 @@
+{
+  "id": 2,
+  "questions": [
+    {"id": 1, "question": "What is a compound word?", "options": ["One word", "Two words joined", "Three words", "No such thing"], "answer": "Two words joined"},
+    {"id": 2, "question": "Which is a compound word?", "options": ["Walking", "Playground", "Happy", "Run"], "answer": "Playground"},
+    {"id": 3, "question": "What is a prefix?", "options": ["Ending", "Letters at beginning", "In middle", "No such thing"], "answer": "Letters at beginning"},
+    {"id": 4, "question": "What does 'un-' mean?", "options": ["Again", "Not", "Before", "After"], "answer": "Not"},
+    {"id": 5, "question": "What is a suffix?", "options": ["Beginning", "Letters at end", "In middle", "No such thing"], "answer": "Letters at end"},
+    {"id": 6, "question": "What does '-ful' mean?", "options": ["Not", "Full of", "Without", "Again"], "answer": "Full of"},
+    {"id": 7, "question": "What is a synonym?", "options": ["Opposite", "Similar meaning", "No connection", "Same sound"], "answer": "Similar meaning"},
+    {"id": 8, "question": "What is an antonym?", "options": ["Same meaning", "Opposite", "No connection", "Similar sound"], "answer": "Opposite"},
+    {"id": 9, "question": "Synonym for 'big'?", "options": ["Small", "Large", "Tiny", "Quick"], "answer": "Large"},
+    {"id": 10, "question": "Antonym for 'hot'?", "options": ["Warm", "Cold", "Heat", "Fire"], "answer": "Cold"},
+    {"id": 11, "question": "What is homophone?", "options": ["Same meaning", "Same sound, different spelling", "No connection", "Same spelling"], "answer": "Same sound, different spelling"},
+    {"id": 12, "question": "Which are homophones?", "options": ["Happy, sad", "To, two", "Big, small", "Run, jump"], "answer": "To, two"},
+    {"id": 13, "question": "What is context?", "options": ["A word", "Words around word explaining it", "A picture", "A title"], "answer": "Words around word explaining it"},
+    {"id": 14, "question": "What is a root word?", "options": ["A plant", "Base word for new words", "A noun", "A verb"], "answer": "Base word for new words"},
+    {"id": 15, "question": "What is connotation?", "options": ["Exact meaning", "Feeling word gives", "A noun", "An adjective"], "answer": "Feeling word gives"},
+    {"id": 16, "question": "What makes strong vocabulary?", "options": ["Using simple words", "Learning new words", "Using same words", "No vocabulary"], "answer": "Learning new words"},
+    {"id": 17, "question": "Why are homophones tricky?", "options": ["They're not", "Sound same but different meaning", "Look the same", "No reason"], "answer": "Sound same but different meaning"}
+  ]
+}

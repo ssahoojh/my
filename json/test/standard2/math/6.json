@@ -1,0 +1,22 @@
+{
+  "id": 6,
+  "questions": [
+    {"id": 1, "question": "What place value does the 5 represent in 5,432?", "options": ["Tens", "Hundreds", "Thousands", "Ten-thousands"], "answer": "Thousands"},
+    {"id": 2, "question": "Round 456 to nearest 10?", "options": ["450", "455", "460", "465"], "answer": "460"},
+    {"id": 3, "question": "Round 782 to nearest 100?", "options": ["700", "750", "800", "850"], "answer": "800"},
+    {"id": 4, "question": "What is 3,245 in expanded form?", "options": ["3+2+4+5", "3000+200+40+5", "3000+200+4+5", "30+20+4+5"], "answer": "3000+200+40+5"},
+    {"id": 5, "question": "Which number is greater: 4,523 or 4,532?", "options": ["4,523", "4,532", "Equal", "Cannot tell"], "answer": "4,532"},
+    {"id": 6, "question": "What digit is in the tens place of 7,682?", "options": ["7", "6", "8", "2"], "answer": "8"},
+    {"id": 7, "question": "Round 1,567 to nearest 1,000?", "options": ["1,000", "1,500", "2,000", "2,500"], "answer": "2,000"},
+    {"id": 8, "question": "What is the place value of 3 in 23,456?", "options": ["Thousands", "Ten-thousands", "Hundreds", "Tens"], "answer": "Thousands"},
+    {"id": 9, "question": "Compare: 6,789 ___ 6,798?", "options": [">", "<", "=", "Cannot tell"], "answer": "<"},
+    {"id": 10, "question": "What is 5,000 + 300 + 20 + 7?", "options": ["5,237", "5,327", "5,372", "5,732"], "answer": "5,327"},
+    {"id": 11, "question": "Round 2,456 to nearest 100?", "options": ["2,400", "2,450", "2,500", "2,550"], "answer": "2,500"},
+    {"id": 12, "question": "What digit is in the hundreds place of 8,765?", "options": ["8", "7", "6", "5"], "answer": "7"},
+    {"id": 13, "question": "Order from least to greatest: 3,201 2,310 3,021?", "options": ["2,310 3,021 3,201", "3,201 3,021 2,310", "3,021 2,310 3,201", "2,310 3,201 3,021"], "answer": "2,310 3,021 3,201"},
+    {"id": 14, "question": "What is 4,567 rounded to nearest 10?", "options": ["4,560", "4,565", "4,570", "4,575"], "answer": "4,570"},
+    {"id": 15, "question": "Compare: 9,876 ___ 9,867?", "options": [">", "<", "=", "Cannot tell"], "answer": ">"},
+    {"id": 16, "question": "What number is 100 more than 3,456?", "options": ["3,456", "3,556", "3,556", "3,566"], "answer": "3,556"},
+    {"id": 17, "question": "What is 7,654 rounded to nearest 1,000?", "options": ["7,000", "7,500", "8,000", "8,500"], "answer": "8,000"}
+  ]
+}

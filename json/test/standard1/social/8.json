@@ -1,0 +1,22 @@
+{
+  "id": 8,
+  "questions": [
+    {"id": 1, "question": "What is technology?", "options": ["Science", "Tools and inventions", "Only computers", "Only modern"], "answer": "Tools and inventions"},
+    {"id": 2, "question": "What is an invention?", "options": ["Discovery", "New creation or device", "Only recent", "Only useful"], "answer": "New creation or device"},
+    {"id": 3, "question": "Who invented the light bulb?", "options": ["Tesla", "Edison", "Bell", "Franklin"], "answer": "Edison"},
+    {"id": 4, "question": "Who invented the telephone?", "options": ["Edison", "Bell", "Tesla", "Franklin"], "answer": "Bell"},
+    {"id": 5, "question": "What is transportation?", "options": ["Walking", "Moving people or things", "Only cars", "Only trains"], "answer": "Moving people or things"},
+    {"id": 6, "question": "What are forms of transportation?", "options": ["Walking only", "Cars, trains, planes, boats", "Only modern", "Only fast"], "answer": "Cars, trains, planes, boats"},
+    {"id": 7, "question": "What is communication?", "options": ["Listening", "Sharing information", "Only speaking", "Only writing"], "answer": "Sharing information"},
+    {"id": 8, "question": "What tools help communication?", "options": ["Nothing", "Phone, internet, mail", "Only phones", "Only internet"], "answer": "Phone, internet, mail"},
+    {"id": 9, "question": "What is the internet?", "options": ["Computers", "Network connecting computers", "Only for work", "Only recent"], "answer": "Network connecting computers"},
+    {"id": 10, "question": "What is artificial intelligence?", "options": ["Human intelligence", "Computer simulating human thinking", "Only robots", "Only future"], "answer": "Computer simulating human thinking"},
+    {"id": 11, "question": "What is automation?", "options": ["Manual work", "Machines doing work automatically", "Only factories", "Only recent"], "answer": "Machines doing work automatically"},
+    {"id": 12, "question": "What is renewable energy?", "options": ["Fossil fuels", "Energy from nature that renews", "Only solar", "Only wind"], "answer": "Energy from nature that renews"},
+    {"id": 13, "question": "What is solar power?", "options": ["Wind", "Energy from sun", "Only hot places", "Only daytime"], "answer": "Energy from sun"},
+    {"id": 14, "question": "What is wind power?", "options": ["Solar", "Energy from wind", "Only windy places", "Only fast winds"], "answer": "Energy from wind"},
+    {"id": 15, "question": "What is nuclear energy?", "options": ["Fossil fuels", "Power from atom splitting", "Only dangerous", "Only recent"], "answer": "Power from atom splitting"},
+    {"id": 16, "question": "What is sustainability?", "options": ["Wasting", "Using resources wisely", "Only environmental", "Only future"], "answer": "Using resources wisely"},
+    {"id": 17, "question": "What technology do you use daily?", "options": ["Nothing", "Phones, computers, lights", "Only phones", "Only screens"], "answer": "Phones, computers, lights"}
+  ]
+}

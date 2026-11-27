@@ -1,0 +1,22 @@
+{
+  "id": 10,
+  "questions": [
+    {"id": 1, "question": "What is civics?", "options": ["History", "Study of citizenship", "Only government", "Only voting"], "answer": "Study of citizenship"},
+    {"id": 2, "question": "What is a citizen?", "options": ["Visitor", "Member of society", "Only legal", "Only adult"], "answer": "Member of society"},
+    {"id": 3, "question": "What is civic duty?", "options": ["No duty", "Citizen responsibility", "Only voting", "Only legal"], "answer": "Citizen responsibility"},
+    {"id": 4, "question": "What is patriotism?", "options": ["Dislike", "Love for country", "Only flags", "Only salutes"], "answer": "Love for country"},
+    {"id": 5, "question": "What is democracy?", "options": ["Dictatorship", "Government by people", "Only voting", "Only equal"], "answer": "Government by people"},
+    {"id": 6, "question": "What is freedom?", "options": ["Control", "Right to choose", "Only speech", "Only movement"], "answer": "Right to choose"},
+    {"id": 7, "question": "What is justice?", "options": ["Unfairness", "Fair treatment", "Only legal", "Only equal"], "answer": "Fair treatment"},
+    {"id": 8, "question": "What is equality?", "options": ["Different", "Same rights/treatment", "Only legal", "Only wealth"], "answer": "Same rights/treatment"},
+    {"id": 9, "question": "What is liberty?", "options": ["Restriction", "Freedom", "Only speech", "Only legal"], "answer": "Freedom"},
+    {"id": 10, "question": "What is constitution?", "options": ["Law", "Basic legal document", "Only US", "Only old"], "answer": "Basic legal document"},
+    {"id": 11, "question": "What is a right?", "options": ["Wrong", "Freedom granted", "Only legal", "Only important"], "answer": "Freedom granted"},
+    {"id": 12, "question": "What is responsibility?", "options": ["No duty", "Obligation to act", "Only adults", "Only legal"], "answer": "Obligation to act"},
+    {"id": 13, "question": "What is volunteering?", "options": ["Paid", "Helping without pay", "Only charity", "Only skilled"], "answer": "Helping without pay"},
+    {"id": 14, "question": "What is community service?", "options": ["Personal", "Helping community", "Only legal", "Only required"], "answer": "Helping community"},
+    {"id": 15, "question": "What is tolerance?", "options": ["Dislike", "Accepting differences", "Only religion", "Only cultural"], "answer": "Accepting differences"},
+    {"id": 16, "question": "What is respect?", "options": ["Disrespect", "Honoring others", "Only elders", "Only authority"], "answer": "Honoring others"},
+    {"id": 17, "question": "What makes good citizen?", "options": ["No qualities", "Responsible and caring", "Only legal", "Only rich"], "answer": "Responsible and caring"}
+  ]
+}

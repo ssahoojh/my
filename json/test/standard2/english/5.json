@@ -1,0 +1,22 @@
+{
+  "id": 5,
+  "questions": [
+    {"id": 1, "question": "What is writing process?", "options": ["One step", "Multiple steps improving writing", "Only final copy", "No process"], "answer": "Multiple steps improving writing"},
+    {"id": 2, "question": "What is brainstorming?", "options": ["Dreaming", "Generating ideas", "Writing final", "Editing"], "answer": "Generating ideas"},
+    {"id": 3, "question": "What is a draft?", "options": ["Final", "First attempt", "Published", "Perfect"], "answer": "First attempt"},
+    {"id": 4, "question": "What is revision?", "options": ["Copying", "Improving and changing", "Publishing", "Starting over"], "answer": "Improving and changing"},
+    {"id": 5, "question": "What is editing?", "options": ["Rewriting", "Checking grammar and spelling", "Publishing", "Planning"], "answer": "Checking grammar and spelling"},
+    {"id": 6, "question": "What is proofreading?", "options": ["Planning", "Final check before publishing", "First draft", "Editing"], "answer": "Final check before publishing"},
+    {"id": 7, "question": "What is descriptive writing?", "options": ["Telling", "Using details to show picture", "Facts only", "No adjectives"], "answer": "Using details to show picture"},
+    {"id": 8, "question": "What is narrative writing?", "options": ["Information", "Story with events", "Description only", "Facts only"], "answer": "Story with events"},
+    {"id": 9, "question": "What is expository writing?", "options": ["Story", "Giving facts and information", "Description only", "Opinion only"], "answer": "Giving facts and information"},
+    {"id": 10, "question": "What is persuasive writing?", "options": ["Telling story", "Convincing reader", "Facts only", "No opinion"], "answer": "Convincing reader"},
+    {"id": 11, "question": "What is a topic sentence?", "options": ["Ending", "States main idea of paragraph", "A title", "A noun"], "answer": "States main idea of paragraph"},
+    {"id": 12, "question": "What do good writers do?", "options": ["Write once", "Plan, draft, revise, edit", "Ignore mistakes", "No planning"], "answer": "Plan, draft, revise, edit"},
+    {"id": 13, "question": "What is organization?", "options": ["Random", "Arranging ideas clearly", "Only words", "No structure"], "answer": "Arranging ideas clearly"},
+    {"id": 14, "question": "What is clarity?", "options": ["Confusion", "Writing is easy to understand", "Only long", "Only complex"], "answer": "Writing is easy to understand"},
+    {"id": 15, "question": "What makes writing better?", "options": ["Nothing", "Sensory words and details", "Only adjectives", "Long sentences"], "answer": "Sensory words and details"},
+    {"id": 16, "question": "What is voice in writing?", "options": ["Speaking", "Unique way writer expresses", "Only in stories", "No importance"], "answer": "Unique way writer expresses"},
+    {"id": 17, "question": "Why does practice help writing?", "options": ["It doesn't", "Improves skills", "Only tests", "Only grades"], "answer": "Improves skills"}
+  ]
+}

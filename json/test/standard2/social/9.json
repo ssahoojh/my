@@ -1,0 +1,22 @@
+{
+  "id": 9,
+  "questions": [
+    {"id": 1, "question": "What is a world?", "options": ["Country", "All of earth", "Only land", "Only people"], "answer": "All of earth"},
+    {"id": 2, "question": "What is a planet?", "options": ["Star", "Large round body", "Only earth", "Only big"], "answer": "Large round body"},
+    {"id": 3, "question": "What is a nation?", "options": ["Tribe", "Independent country", "Only big", "Only old"], "answer": "Independent country"},
+    {"id": 4, "question": "What are global issues?", "options": ["Local", "World-wide problems", "Only big", "Only political"], "answer": "World-wide problems"},
+    {"id": 5, "question": "What is climate change?", "options": ["Weather", "Long-term temperature change", "Only warming", "Only human"], "answer": "Long-term temperature change"},
+    {"id": 6, "question": "What is pollution?", "options": ["Clean", "Harmful substances", "Only air", "Only industrial"], "answer": "Harmful substances"},
+    {"id": 7, "question": "What is sustainability?", "options": ["Wasteful", "Using resources wisely", "Only environmental", "Only future"], "answer": "Using resources wisely"},
+    {"id": 8, "question": "What is global trade?", "options": ["Local", "Exchange between nations", "Only goods", "Only big"], "answer": "Exchange between nations"},
+    {"id": 9, "question": "What is immigration?", "options": ["Visiting", "Moving to new country", "Only permanent", "Only legal"], "answer": "Moving to new country"},
+    {"id": 10, "question": "What is a refugee?", "options": ["Immigrant", "Person fleeing danger", "Only forced", "Only temporary"], "answer": "Person fleeing danger"},
+    {"id": 11, "question": "What is cooperation?", "options": ["Conflict", "Working together", "Only countries", "Only big"], "answer": "Working together"},
+    {"id": 12, "question": "What is United Nations?", "options": ["Group", "International organization", "Only military", "Only political"], "answer": "International organization"},
+    {"id": 13, "question": "What is peace?", "options": ["War", "Absence of conflict", "Only political", "Only legal"], "answer": "Absence of conflict"},
+    {"id": 14, "question": "What is conflict?", "options": ["Agreement", "Disagreement", "Only war", "Only political"], "answer": "Disagreement"},
+    {"id": 15, "question": "What is human rights?", "options": ["No rights", "Basic freedoms", "Only legal", "Only political"], "answer": "Basic freedoms"},
+    {"id": 16, "question": "What is compassion?", "options": ["Dislike", "Caring for others", "Only family", "Only close"], "answer": "Caring for others"},
+    {"id": 17, "question": "Why understand world?", "options": ["No reason", "Be informed citizen", "Only travel", "Only study"], "answer": "Be informed citizen"}
+  ]
+}

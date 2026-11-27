@@ -1,0 +1,22 @@
+{
+  "id": 10,
+  "questions": [
+    {"id": 1, "question": "What is scientific method?", "options": ["No method", "Steps to solve problems", "Only for tests", "Only for experts"], "answer": "Steps to solve problems"},
+    {"id": 2, "question": "What is observation?", "options": ["Thinking", "Using senses to gather information", "Only seeing", "Only hearing"], "answer": "Using senses to gather information"},
+    {"id": 3, "question": "What is a hypothesis?", "options": ["A fact", "Educated guess about outcome", "A question", "A result"], "answer": "Educated guess about outcome"},
+    {"id": 4, "question": "What is an experiment?", "options": ["A game", "Test to check hypothesis", "Only in labs", "Only for scientists"], "answer": "Test to check hypothesis"},
+    {"id": 5, "question": "What is a variable?", "options": ["Constant", "Thing that changes in experiment", "Only one", "Only many"], "answer": "Thing that changes in experiment"},
+    {"id": 6, "question": "What is a conclusion?", "options": ["A guess", "Result and meaning of experiment", "Same as hypothesis", "No meaning"], "answer": "Result and meaning of experiment"},
+    {"id": 7, "question": "What is data?", "options": ["A guess", "Information collected", "Only numbers", "Only words"], "answer": "Information collected"},
+    {"id": 8, "question": "Why do we do experiments?", "options": ["No reason", "To understand nature", "Only for grades", "Only for fun"], "answer": "To understand nature"},
+    {"id": 9, "question": "What is a lab?", "options": ["School", "Place for safe experiments", "Only with equipment", "Only for scientists"], "answer": "Place for safe experiments"},
+    {"id": 10, "question": "What should you do in a lab?", "options": ["Anything", "Follow safety rules", "Ignore rules", "Only the teacher"], "answer": "Follow safety rules"},
+    {"id": 11, "question": "What is a microscope used for?", "options": ["Seeing far", "Seeing very small things", "Only for science", "Only in labs"], "answer": "Seeing very small things"},
+    {"id": 12, "question": "What is a telescope used for?", "options": ["Seeing near", "Seeing far away objects", "Only for stars", "Only scientists"], "answer": "Seeing far away objects"},
+    {"id": 13, "question": "What is classification?", "options": ["Mixing", "Organizing things into groups", "Only animals", "Only plants"], "answer": "Organizing things into groups"},
+    {"id": 14, "question": "What is a theory?", "options": ["A guess", "Explanation supported by evidence", "Same as hypothesis", "Not important"], "answer": "Explanation supported by evidence"},
+    {"id": 15, "question": "What is scientific evidence?", "options": ["An opinion", "Data and observations", "Only from tests", "Only from experts"], "answer": "Data and observations"},
+    {"id": 16, "question": "Why is repeatability important?", "options": ["No reason", "Same results show reliability", "Only for math", "Only for teachers"], "answer": "Same results show reliability"},
+    {"id": 17, "question": "What is science?", "options": ["Only tests", "Study of natural world using evidence", "Only for schools", "Only for adults"], "answer": "Study of natural world using evidence"}
+  ]
+}

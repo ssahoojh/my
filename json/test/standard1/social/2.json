@@ -1,0 +1,22 @@
+{
+  "id": 2,
+  "questions": [
+    {"id": 1, "question": "What is a job?", "options": ["Playing", "Work someone does", "Nothing", "Sleeping"], "answer": "Work someone does"},
+    {"id": 2, "question": "What does a doctor do?", "options": ["Builds houses", "Helps sick people", "Teaches school", "Grows food"], "answer": "Helps sick people"},
+    {"id": 3, "question": "What does a teacher do?", "options": ["Builds houses", "Helps sick people", "Teaches students", "Grows food"], "answer": "Teaches students"},
+    {"id": 4, "question": "What does a farmer do?", "options": ["Teaches", "Grows food", "Builds", "Sells things"], "answer": "Grows food"},
+    {"id": 5, "question": "What does a builder do?", "options": ["Grows food", "Builds houses", "Sells things", "Teaches"], "answer": "Builds houses"},
+    {"id": 6, "question": "What does a firefighter do?", "options": ["Grows food", "Sells things", "Puts out fires", "Builds houses"], "answer": "Puts out fires"},
+    {"id": 7, "question": "What does a police officer do?", "options": ["Grows food", "Helps keep community safe", "Teaches", "Sells things"], "answer": "Helps keep community safe"},
+    {"id": 8, "question": "What does a nurse do?", "options": ["Teaches", "Helps doctors care for patients", "Grows food", "Builds houses"], "answer": "Helps doctors care for patients"},
+    {"id": 9, "question": "What does a chef do?", "options": ["Teaches", "Cooks food", "Grows food", "Sells things"], "answer": "Cooks food"},
+    {"id": 10, "question": "What does a mechanic do?", "options": ["Grows food", "Fixes cars", "Builds houses", "Sells things"], "answer": "Fixes cars"},
+    {"id": 11, "question": "Why do people work?", "options": ["No reason", "To earn money and help others", "Only to play", "Only for fun"], "answer": "To earn money and help others"},
+    {"id": 12, "question": "What is money used for?", "options": ["Playing", "Buy things and services", "Only coins", "Only paper"], "answer": "Buy things and services"},
+    {"id": 13, "question": "What is a business?", "options": ["Playing", "Place where people work and earn", "Only shopping", "Only selling"], "answer": "Place where people work and earn"},
+    {"id": 14, "question": "What is a customer?", "options": ["Worker", "Person who buys things", "Owner", "Manager"], "answer": "Person who buys things"},
+    {"id": 15, "question": "What is a store?", "options": ["A building", "Place where you buy things", "Only big", "Only small"], "answer": "Place where you buy things"},
+    {"id": 16, "question": "What is a market?", "options": ["A building", "Place where people buy and sell", "Only outdoor", "Only for food"], "answer": "Place where people buy and sell"},
+    {"id": 17, "question": "Why do we need jobs?", "options": ["We don't", "To provide things we need", "Only for fun", "Only for teachers"], "answer": "To provide things we need"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 6,
+  "questions": [
+    {"id": 1, "question": "What is the solar system?", "options": ["One planet", "Sun and planets", "Only stars", "Only earth"], "answer": "Sun and planets"},
+    {"id": 2, "question": "What is at center?", "options": ["Earth", "Moon", "Sun", "Nothing"], "answer": "Sun"},
+    {"id": 3, "question": "What orbits the sun?", "options": ["Sun", "Planets", "Moon only", "Nothing"], "answer": "Planets"},
+    {"id": 4, "question": "How many planets?", "options": ["5", "8", "10", "3"], "answer": "8"},
+    {"id": 5, "question": "Which closest to sun?", "options": ["Venus", "Mercury", "Earth", "Mars"], "answer": "Mercury"},
+    {"id": 6, "question": "Which farthest from sun?", "options": ["Neptune", "Uranus", "Saturn", "Jupiter"], "answer": "Neptune"},
+    {"id": 7, "question": "What orbits Earth?", "options": ["Sun", "Moon", "Venus", "Mars"], "answer": "Moon"},
+    {"id": 8, "question": "What causes day/night?", "options": ["Sun move", "Earth rotate", "Moon shine", "No reason"], "answer": "Earth rotate"},
+    {"id": 9, "question": "What is a star?", "options": ["Planet", "Huge hot ball", "Only sun", "Cold object"], "answer": "Huge hot ball"},
+    {"id": 10, "question": "Why twinkle stars?", "options": ["Blinking", "Air movement", "Only illusion", "No reason"], "answer": "Air movement"},
+    {"id": 11, "question": "What is a constellation?", "options": ["Single star", "Star pattern", "Only zodiac", "No connection"], "answer": "Star pattern"},
+    {"id": 12, "question": "What is a meteor?", "options": ["Star", "Rock from space", "Only big", "No motion"], "answer": "Rock from space"},
+    {"id": 13, "question": "What is a comet?", "options": ["Planet", "Icy object", "Only far", "No tail"], "answer": "Icy object"},
+    {"id": 14, "question": "What is eclipse?", "options": ["Star shine", "Shadow on celestial body", "Only bright", "No shadow"], "answer": "Shadow on celestial body"},
+    {"id": 15, "question": "What is rotation?", "options": ["Around other", "Spinning on axis", "Only orbit", "No spin"], "answer": "Spinning on axis"},
+    {"id": 16, "question": "What is revolution?", "options": ["Spinning", "Moving around other", "Only sun", "No movement"], "answer": "Moving around other"},
+    {"id": 17, "question": "Why different seasons?", "options": ["No reason", "Earth tilt", "Only distance", "No tilt"], "answer": "Earth tilt"}
+  ]
+}

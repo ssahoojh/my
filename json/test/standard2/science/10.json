@@ -1,0 +1,22 @@
+{
+  "id": 10,
+  "questions": [
+    {"id": 1, "question": "What is a life cycle?", "options": ["No cycle", "Stages of life", "Only birth", "Only death"], "answer": "Stages of life"},
+    {"id": 2, "question": "What stages does plant have?", "options": ["One stage", "Seed, sprout, grow", "Only seed", "Only flower"], "answer": "Seed, sprout, grow"},
+    {"id": 3, "question": "What is germination?", "options": ["Death", "Seed starts growing", "Only root", "No growth"], "answer": "Seed starts growing"},
+    {"id": 4, "question": "What is photosynthesis?", "options": ["Eating", "Plant making food", "Only sun", "No growth"], "answer": "Plant making food"},
+    {"id": 5, "question": "What do plants need?", "options": ["Nothing", "Sun, water, soil", "Only water", "Only sun"], "answer": "Sun, water, soil"},
+    {"id": 6, "question": "What is a flower?", "options": ["Leaf", "Reproductive part", "Only pretty", "Only big"], "answer": "Reproductive part"},
+    {"id": 7, "question": "What does flower make?", "options": ["Roots", "Seeds", "Only petals", "Only smell"], "answer": "Seeds"},
+    {"id": 8, "question": "What is pollination?", "options": ["Plant death", "Transfer of pollen", "Only wind", "Only bees"], "answer": "Transfer of pollen"},
+    {"id": 9, "question": "What is a fruit?", "options": ["Flower", "Seed container", "Only sweet", "Only big"], "answer": "Seed container"},
+    {"id": 10, "question": "What is reproduction?", "options": ["Growth", "Making new organism", "Only birth", "Only split"], "answer": "Making new organism"},
+    {"id": 11, "question": "What is sexual reproduction?", "options": ["One parent", "Two parents", "Only one", "No variation"], "answer": "Two parents"},
+    {"id": 12, "question": "What is asexual reproduction?", "options": ["Two parent", "One parent", "Only split", "No variation"], "answer": "One parent"},
+    {"id": 13, "question": "What is a tadpole?", "options": ["Fish", "Baby frog", "Only swimming", "Only water"], "answer": "Baby frog"},
+    {"id": 14, "question": "What is metamorphosis?", "options": ["No change", "Complete change", "Only tadpole", "Only insect"], "answer": "Complete change"},
+    {"id": 15, "question": "Example of metamorphosis?", "options": ["Fish", "Butterfly", "Dog", "Pig"], "answer": "Butterfly"},
+    {"id": 16, "question": "What stages butterfly has?", "options": ["Two", "Egg, larva, pupa, adult", "Only two", "Only larva"], "answer": "Egg, larva, pupa, adult"},
+    {"id": 17, "question": "Why understand life cycles?", "options": ["No reason", "Know how life works", "Only tests", "Only school"], "answer": "Know how life works"}
+  ]
+}

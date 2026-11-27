@@ -1,0 +1,22 @@
+{
+  "id": 10,
+  "questions": [
+    {"id": 1, "question": "If a pizza costs $20 and is divided into 4 equal parts, how much per part?", "options": ["$4", "$5", "$6", "$8"], "answer": "$5"},
+    {"id": 2, "question": "If 24 apples are shared among 3 children, how many each?", "options": ["6", "7", "8", "9"], "answer": "8"},
+    {"id": 3, "question": "What is the first step in solving a word problem?", "options": ["Calculate", "Read and understand", "Draw", "Guess"], "answer": "Read and understand"},
+    {"id": 4, "question": "If you buy 5 books for $45, how much per book?", "options": ["$7", "$8", "$9", "$10"], "answer": "$9"},
+    {"id": 5, "question": "What does 'altogether' mean?", "options": ["Subtract", "Add", "Multiply", "Divide"], "answer": "Add"},
+    {"id": 6, "question": "If there are 50 students and 15 leave, how many remain?", "options": ["30", "35", "40", "45"], "answer": "35"},
+    {"id": 7, "question": "What does 'left' mean?", "options": ["Add", "Subtract", "Multiply", "Divide"], "answer": "Subtract"},
+    {"id": 8, "question": "If a shirt costs $25 and is on sale for $5 off, what's the new price?", "options": ["$18", "$20", "$22", "$25"], "answer": "$20"},
+    {"id": 9, "question": "If 3 friends buy 15 stickers equally, how many each?", "options": ["4", "5", "6", "7"], "answer": "5"},
+    {"id": 10, "question": "What is a strategy for solving word problems?", "options": ["Ignore details", "Draw picture or diagram", "Skip reading", "Guess fast"], "answer": "Draw picture or diagram"},
+    {"id": 11, "question": "If you have $100 and spend $45, how much left?", "options": ["$50", "$55", "$60", "$65"], "answer": "$55"},
+    {"id": 12, "question": "If a recipe needs 2 cups sugar for 12 cookies, how much for 24?", "options": ["2 cups", "3 cups", "4 cups", "5 cups"], "answer": "4 cups"},
+    {"id": 13, "question": "If oranges cost $1.50 each and you buy 4, what's the total?", "options": ["$5.00", "$5.50", "$6.00", "$6.50"], "answer": "$6.00"},
+    {"id": 14, "question": "What information is NOT needed in a word problem?", "options": ["Numbers", "What to find", "Interesting but irrelevant details", "Operation"], "answer": "Interesting but irrelevant details"},
+    {"id": 15, "question": "If a store has 120 items and sells 45, how many left?", "options": ["70", "75", "80", "85"], "answer": "75"},
+    {"id": 16, "question": "If 8 boxes have 6 items each, how many total?", "options": ["46", "48", "50", "52"], "answer": "48"},
+    {"id": 17, "question": "Why is understanding the question important?", "options": ["No reason", "Solves the problem correctly", "Only for fun", "Only for tests"], "answer": "Solves the problem correctly"}
+  ]
+}

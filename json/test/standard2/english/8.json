@@ -1,0 +1,22 @@
+{
+  "id": 8,
+  "questions": [
+    {"id": 1, "question": "What is communication?", "options": ["Listening", "Sharing information", "Only speaking", "Only writing"], "answer": "Sharing information"},
+    {"id": 2, "question": "What is active listening?", "options": ["Quiet", "Focusing and understanding", "Thinking", "Interrupting"], "answer": "Focusing and understanding"},
+    {"id": 3, "question": "What is a discussion?", "options": ["Monologue", "Exchange of ideas", "Only talking", "Only listening"], "answer": "Exchange of ideas"},
+    {"id": 4, "question": "What is respectful speaking?", "options": ["Loud", "Being kind", "Interrupting", "Rude"], "answer": "Being kind"},
+    {"id": 5, "question": "What is a presentation?", "options": ["Listening", "Sharing information formally", "Only writing", "Only story"], "answer": "Sharing information formally"},
+    {"id": 6, "question": "What should you do before speaking?", "options": ["Nothing", "Plan what to say", "Guess", "Ramble"], "answer": "Plan what to say"},
+    {"id": 7, "question": "What is eye contact?", "options": ["Avoiding eyes", "Looking at listener", "Only in books", "No importance"], "answer": "Looking at listener"},
+    {"id": 8, "question": "What is body language?", "options": ["Words", "Physical communication", "Only hands", "Only facial"], "answer": "Physical communication"},
+    {"id": 9, "question": "What helps clear speaking?", "options": ["Mumbling", "Clear voice", "Whispering", "Only loud"], "answer": "Clear voice"},
+    {"id": 10, "question": "What is feedback?", "options": ["Silence", "Response to communication", "Only criticism", "Only praise"], "answer": "Response to communication"},
+    {"id": 11, "question": "What is a conversation?", "options": ["One person talks", "Two-way exchange", "Only listening", "Only silence"], "answer": "Two-way exchange"},
+    {"id": 12, "question": "What is turn-taking?", "options": ["Interrupting", "Taking turns speaking", "Only listening", "Only silence"], "answer": "Taking turns speaking"},
+    {"id": 13, "question": "What is a question?", "options": ["Statement", "Request for information", "Only in school", "Only testing"], "answer": "Request for information"},
+    {"id": 14, "question": "What is empathy?", "options": ["Disagreement", "Understanding others' feelings", "Only emotions", "No feeling"], "answer": "Understanding others' feelings"},
+    {"id": 15, "question": "What is conflict resolution?", "options": ["Fighting", "Solving disagreements", "Only adults", "No solution"], "answer": "Solving disagreements"},
+    {"id": 16, "question": "What is apologizing?", "options": ["Excuse", "Saying sorry", "Only if forced", "No meaning"], "answer": "Saying sorry"},
+    {"id": 17, "question": "Why is good communication important?", "options": ["No reason", "Understanding and connection", "Only tests", "Only class"], "answer": "Understanding and connection"}
+  ]
+}

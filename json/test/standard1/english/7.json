@@ -1,0 +1,22 @@
+{
+  "id": 7,
+  "questions": [
+    {"id": 1, "question": "What is writing?", "options": ["Speaking", "Putting words on paper", "Drawing", "Playing"], "answer": "Putting words on paper"},
+    {"id": 2, "question": "What should you do before writing?", "options": ["Nothing", "Think about what to write", "Start immediately", "Erase everything"], "answer": "Think about what to write"},
+    {"id": 3, "question": "What is a draft?", "options": ["Final copy", "First attempt before revision", "Perfect writing", "No correction needed"], "answer": "First attempt before revision"},
+    {"id": 4, "question": "What is revision?", "options": ["Starting over", "Making changes to improve writing", "Erasing", "Adding pictures"], "answer": "Making changes to improve writing"},
+    {"id": 5, "question": "What do you do when you edit?", "options": ["Add more words", "Check for mistakes", "Change the topic", "Draw pictures"], "answer": "Check for mistakes"},
+    {"id": 6, "question": "What is describing?", "options": ["Telling", "Giving details about something", "Writing fast", "Only using nouns"], "answer": "Giving details about something"},
+    {"id": 7, "question": "What is an adjective used for?", "options": ["Describing nouns", "Showing action", "Asking questions", "No real use"], "answer": "Describing nouns"},
+    {"id": 8, "question": "What makes writing interesting?", "options": ["Nothing matters", "Good descriptions and details", "Long sentences only", "Repeating words"], "answer": "Good descriptions and details"},
+    {"id": 9, "question": "What is a topic?", "options": ["A feeling", "The subject you write about", "A noun", "A verb"], "answer": "The subject you write about"},
+    {"id": 10, "question": "What is an idea?", "options": ["A picture", "A thought or message", "A word", "A feeling"], "answer": "A thought or message"},
+    {"id": 11, "question": "What should a paragraph have?", "options": ["No organization", "Main idea and details", "Only nouns", "Only adjectives"], "answer": "Main idea and details"},
+    {"id": 12, "question": "What is a topic sentence?", "options": ["The last sentence", "Main idea of a paragraph", "A noun", "An adjective"], "answer": "Main idea of a paragraph"},
+    {"id": 13, "question": "What comes after brainstorming?", "options": ["Nothing", "Organizing ideas", "Giving up", "Playing"], "answer": "Organizing ideas"},
+    {"id": 14, "question": "What do you do with ideas?", "options": ["Ignore them", "Organize and develop them", "Throw them away", "Forget them"], "answer": "Organize and develop them"},
+    {"id": 15, "question": "What is proofreading?", "options": ["Starting over", "Final check for errors", "Adding words", "Changing everything"], "answer": "Final check for errors"},
+    {"id": 16, "question": "Should you write neatly?", "options": ["No", "Yes", "Only for teachers", "Only in class"], "answer": "Yes"},
+    {"id": 17, "question": "What helps you become a better writer?", "options": ["Giving up", "Practice and reading more", "Never trying", "Doing less"], "answer": "Practice and reading more"}
+  ]
+}

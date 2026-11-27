@@ -1,0 +1,22 @@
+{
+  "id": 7,
+  "questions": [
+    {"id": 1, "question": "What is a rock?", "options": ["Mineral", "Hard natural material", "Only earth", "No composition"], "answer": "Hard natural material"},
+    {"id": 2, "question": "What is a mineral?", "options": ["Rock", "Natural solid", "Only shiny", "No structure"], "answer": "Natural solid"},
+    {"id": 3, "question": "What is soil?", "options": ["Sand", "Mix for plants", "No composition", "Only earth"], "answer": "Mix for plants"},
+    {"id": 4, "question": "What is in soil?", "options": ["Only dirt", "Rocks, minerals, organisms", "Only water", "Only air"], "answer": "Rocks, minerals, organisms"},
+    {"id": 5, "question": "What is weathering?", "options": ["Weather", "Rocks break down", "Only wind", "Only rain"], "answer": "Rocks break down"},
+    {"id": 6, "question": "What is erosion?", "options": ["Weathering", "Moving of material", "Only water", "Only wind"], "answer": "Moving of material"},
+    {"id": 7, "question": "What causes erosion?", "options": ["Nothing", "Water, wind, ice", "Only water", "Only gravity"], "answer": "Water, wind, ice"},
+    {"id": 8, "question": "What are fossils?", "options": ["Living", "Traces of past life", "Only bones", "Only recent"], "answer": "Traces of past life"},
+    {"id": 9, "question": "What is limestone?", "options": ["Igneous rock", "Sedimentary rock", "Only hard", "No layers"], "answer": "Sedimentary rock"},
+    {"id": 10, "question": "What are igneous rocks?", "options": ["Layers", "From cooling magma", "Only soft", "Only water formed"], "answer": "From cooling magma"},
+    {"id": 11, "question": "What is magma?", "options": ["Lava outside", "Molten rock inside earth", "Only surface", "No heat"], "answer": "Molten rock inside earth"},
+    {"id": 12, "question": "What is lava?", "options": ["Magma inside", "Magma outside", "Only hot", "No flow"], "answer": "Magma outside"},
+    {"id": 13, "question": "What is a volcano?", "options": ["Mountain only", "Opening in earth", "No heat", "No eruption"], "answer": "Opening in earth"},
+    {"id": 14, "question": "What is an earthquake?", "options": ["Shaking only", "Ground shaking", "No movement", "No waves"], "answer": "Ground shaking"},
+    {"id": 15, "question": "What causes earthquakes?", "options": ["Nothing", "Plate movement", "Only weather", "Only wind"], "answer": "Plate movement"},
+    {"id": 16, "question": "What is a plate?", "options": ["Dish", "Large earth section", "Only surface", "No movement"], "answer": "Large earth section"},
+    {"id": 17, "question": "What is layers of earth?", "options": ["Only crust", "Crust, mantle, core", "Only hot", "No structure"], "answer": "Crust, mantle, core"}
+  ]
+}

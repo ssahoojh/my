@@ -1,0 +1,22 @@
+{
+  "id": 5,
+  "questions": [
+    {"id": 1, "question": "What is energy?", "options": ["Nothing", "Ability to do work", "Only visible", "No power"], "answer": "Ability to do work"},
+    {"id": 2, "question": "What is heat?", "options": ["Cold", "Energy transfer", "Only sun", "No transfer"], "answer": "Energy transfer"},
+    {"id": 3, "question": "What is light?", "options": ["Dark", "Energy we see", "Only bright", "No energy"], "answer": "Energy we see"},
+    {"id": 4, "question": "What is sound?", "options": ["Quiet", "Energy we hear", "Only loud", "No waves"], "answer": "Energy we hear"},
+    {"id": 5, "question": "What travels in waves?", "options": ["Nothing", "Sound and light", "Only sound", "Only light"], "answer": "Sound and light"},
+    {"id": 6, "question": "What is electricity?", "options": ["Nothing", "Moving energy", "Only static", "No power"], "answer": "Moving energy"},
+    {"id": 7, "question": "What powers a lamp?", "options": ["Nothing", "Electricity", "Only heat", "Only light"], "answer": "Electricity"},
+    {"id": 8, "question": "What is a simple machine?", "options": ["Toy", "Tool that makes work easier", "Only big", "No work"], "answer": "Tool that makes work easier"},
+    {"id": 9, "question": "Example of simple machine?", "options": ["Car", "Lever", "Computer", "No example"], "answer": "Lever"},
+    {"id": 10, "question": "What is a lever?", "options": ["Rope", "Bar that moves", "No movement", "No purpose"], "answer": "Bar that moves"},
+    {"id": 11, "question": "What is a pulley?", "options": ["Wheel", "Device using rope", "No rope", "No movement"], "answer": "Device using rope"},
+    {"id": 12, "question": "What is an inclined plane?", "options": ["Flat", "Sloped surface", "Only vertical", "No slope"], "answer": "Sloped surface"},
+    {"id": 13, "question": "What is friction?", "options": ["Smooth", "Force that slows", "Only help", "No resistance"], "answer": "Force that slows"},
+    {"id": 14, "question": "What is motion?", "options": ["Static", "Change in position", "Only fast", "Only slow"], "answer": "Change in position"},
+    {"id": 15, "question": "What is speed?", "options": ["Direction", "How fast", "Only slow", "No measure"], "answer": "How fast"},
+    {"id": 16, "question": "What is force?", "options": ["Nothing", "Push or pull", "Only push", "Only pull"], "answer": "Push or pull"},
+    {"id": 17, "question": "What is gravity?", "options": ["Nothing", "Force pulling down", "Only up", "No pull"], "answer": "Force pulling down"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 7,
+  "questions": [
+    {"id": 1, "question": "What is economics?", "options": ["History", "Study of money", "Only buying", "Only selling"], "answer": "Study of money"},
+    {"id": 2, "question": "What is money?", "options": ["Trade", "Medium of exchange", "Only coins", "Only bills"], "answer": "Medium of exchange"},
+    {"id": 3, "question": "What is a currency?", "options": ["Trade", "Money system", "Only bills", "Only coins"], "answer": "Money system"},
+    {"id": 4, "question": "What is buying?", "options": ["Giving", "Purchasing item", "Only big", "Only expensive"], "answer": "Purchasing item"},
+    {"id": 5, "question": "What is selling?", "options": ["Giving", "Exchanging for money", "Only big", "Only expensive"], "answer": "Exchanging for money"},
+    {"id": 6, "question": "What is a customer?", "options": ["Seller", "Person buying", "Only many", "Only big"], "answer": "Person buying"},
+    {"id": 7, "question": "What is a merchant?", "options": ["Buyer", "Person selling", "Only big", "Only many"], "answer": "Person selling"},
+    {"id": 8, "question": "What is trade?", "options": ["Giving", "Exchanging goods", "Only equal", "Only big"], "answer": "Exchanging goods"},
+    {"id": 9, "question": "What is a market?", "options": ["Place to live", "Place to buy/sell", "Only food", "Only big"], "answer": "Place to buy/sell"},
+    {"id": 10, "question": "What is supply?", "options": ["Demand", "Available amount", "Only big", "Only many"], "answer": "Available amount"},
+    {"id": 11, "question": "What is demand?", "options": ["Supply", "Desire to buy", "Only many", "Only big"], "answer": "Desire to buy"},
+    {"id": 12, "question": "What is price?", "options": ["Value", "Cost of item", "Only high", "Only low"], "answer": "Cost of item"},
+    {"id": 13, "question": "What is profit?", "options": ["Loss", "Money gained", "Only big", "Only small"], "answer": "Money gained"},
+    {"id": 14, "question": "What is a job income?", "options": ["No money", "Money from work", "Only salary", "Only wages"], "answer": "Money from work"},
+    {"id": 15, "question": "What is saving?", "options": ["Spending", "Keeping money", "Only bank", "Only long"], "answer": "Keeping money"},
+    {"id": 16, "question": "What is a budget?", "options": ["Spending", "Money plan", "Only big", "Only long"], "answer": "Money plan"},
+    {"id": 17, "question": "Why understand economy?", "options": ["No reason", "Make decisions", "Only adults", "Only rich"], "answer": "Make decisions"}
+  ]
+}

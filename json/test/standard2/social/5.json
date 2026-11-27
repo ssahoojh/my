@@ -1,0 +1,22 @@
+{
+  "id": 5,
+  "questions": [
+    {"id": 1, "question": "What is culture?", "options": ["One thing", "Ways of people", "Only language", "Only traditions"], "answer": "Ways of people"},
+    {"id": 2, "question": "What is a tradition?", "options": ["One time", "Repeated custom", "Only holidays", "Only family"], "answer": "Repeated custom"},
+    {"id": 3, "question": "What is a holiday?", "options": ["Vacation", "Special celebration day", "Only religious", "Only big"], "answer": "Special celebration day"},
+    {"id": 4, "question": "What is a festival?", "options": ["Party", "Event celebrating", "Only music", "Only big"], "answer": "Event celebrating"},
+    {"id": 5, "question": "What is language?", "options": ["Words", "Way to communicate", "Only speaking", "Only writing"], "answer": "Way to communicate"},
+    {"id": 6, "question": "What is a custom?", "options": ["Once", "Usual practice", "Only old", "Only big"], "answer": "Usual practice"},
+    {"id": 7, "question": "What is religion?", "options": ["No belief", "System of belief", "Only practices", "Only worship"], "answer": "System of belief"},
+    {"id": 8, "question": "What is art?", "options": ["No creation", "Creative expression", "Only painting", "Only big"], "answer": "Creative expression"},
+    {"id": 9, "question": "What is music?", "options": ["Noise", "Organized sounds", "Only instruments", "Only voices"], "answer": "Organized sounds"},
+    {"id": 10, "question": "What is dance?", "options": ["Exercise", "Rhythmic movement", "Only entertainment", "Only big"], "answer": "Rhythmic movement"},
+    {"id": 11, "question": "What is clothing style?", "options": ["No choice", "Way to dress", "Only traditional", "Only modern"], "answer": "Way to dress"},
+    {"id": 12, "question": "What is food culture?", "options": ["Eating", "Eating traditions", "Only ingredients", "Only recipes"], "answer": "Eating traditions"},
+    {"id": 13, "question": "What is diversity?", "options": ["Sameness", "Variety among groups", "Only language", "Only appearance"], "answer": "Variety among groups"},
+    {"id": 14, "question": "What is multicultural?", "options": ["One culture", "Many cultures", "Only mixing", "Only similar"], "answer": "Many cultures"},
+    {"id": 15, "question": "What is tolerance?", "options": ["Dislike", "Accepting differences", "Only religious", "Only language"], "answer": "Accepting differences"},
+    {"id": 16, "question": "What is appreciation?", "options": ["Dislike", "Valuing something", "Only people", "Only things"], "answer": "Valuing something"},
+    {"id": 17, "question": "Why learn cultures?", "options": ["No reason", "Understand people", "Only travel", "Only study"], "answer": "Understand people"}
+  ]
+}

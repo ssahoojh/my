@@ -1,0 +1,22 @@
+{
+  "id": 7,
+  "questions": [
+    {"id": 1, "question": "How many centimeters in 2 meters?", "options": ["50", "100", "150", "200"], "answer": "200"},
+    {"id": 2, "question": "If a pencil is 15 cm and a pen is 10 cm, how much longer is the pencil?", "options": ["3", "4", "5", "6"], "answer": "5"},
+    {"id": 3, "question": "How many inches in 2 feet?", "options": ["12", "18", "24", "30"], "answer": "24"},
+    {"id": 4, "question": "If you need 3 feet of rope and have 2 feet, how much more needed?", "options": ["1 foot", "2 feet", "3 feet", "4 feet"], "answer": "1 foot"},
+    {"id": 5, "question": "What is a kilogram used to measure?", "options": ["Length", "Weight", "Temperature", "Time"], "answer": "Weight"},
+    {"id": 6, "question": "What is a liter used to measure?", "options": ["Length", "Weight", "Volume", "Temperature"], "answer": "Volume"},
+    {"id": 7, "question": "If object A weighs 5 kg and B weighs 8 kg, which is heavier?", "options": ["A", "B", "Equal", "Cannot tell"], "answer": "B"},
+    {"id": 8, "question": "How many minutes in 2 hours?", "options": ["60", "90", "120", "150"], "answer": "120"},
+    {"id": 9, "question": "If it's 2:30 PM and you wait 2 hours, what time is it?", "options": ["3:30 PM", "4:00 PM", "4:30 PM", "5:00 PM"], "answer": "4:30 PM"},
+    {"id": 10, "question": "What is a thermometer used to measure?", "options": ["Length", "Weight", "Temperature", "Time"], "answer": "Temperature"},
+    {"id": 11, "question": "How many feet in 2 yards?", "options": ["4", "6", "8", "10"], "answer": "6"},
+    {"id": 12, "question": "If a container holds 5 liters and another holds 3 liters, what's the difference?", "options": ["1", "2", "3", "4"], "answer": "2"},
+    {"id": 13, "question": "How many seconds in 1 minute?", "options": ["30", "60", "90", "120"], "answer": "60"},
+    {"id": 14, "question": "If you're 150 cm tall, are you taller than 1 meter?", "options": ["Yes", "No", "Equal", "Cannot tell"], "answer": "Yes"},
+    {"id": 15, "question": "How many hours in 1 day?", "options": ["12", "18", "24", "30"], "answer": "24"},
+    {"id": 16, "question": "If a road is 15 kilometers long, how many meters is that?", "options": ["150", "1,500", "15,000", "150,000"], "answer": "15,000"},
+    {"id": 17, "question": "What is 3 hours and 30 minutes written as?", "options": ["3:30", "30:3", "330", "3.5"], "answer": "3:30"}
+  ]
+}

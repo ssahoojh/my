@@ -1,0 +1,22 @@
+{
+  "id": 2,
+  "questions": [
+    {"id": 1, "question": "What is the human body made of?", "options": ["One thing", "Head, body, limbs", "Only head", "Only arms"], "answer": "Head, body, limbs"},
+    {"id": 2, "question": "What is a skeleton?", "options": ["Muscle", "Framework of bones", "Only skin", "Only organs"], "answer": "Framework of bones"},
+    {"id": 3, "question": "What do bones do?", "options": ["Nothing", "Support body", "Only move", "Only protect"], "answer": "Support body"},
+    {"id": 4, "question": "What is a joint?", "options": ["Bone", "Where bones connect", "Only hands", "Only shoulders"], "answer": "Where bones connect"},
+    {"id": 5, "question": "What do muscles do?", "options": ["Nothing", "Help us move", "Only bones", "Only static"], "answer": "Help us move"},
+    {"id": 6, "question": "What is the brain?", "options": ["Bone", "Control center", "In stomach", "Only moves"], "answer": "Control center"},
+    {"id": 7, "question": "What does heart do?", "options": ["Thinks", "Pumps blood", "Only bones", "No movement"], "answer": "Pumps blood"},
+    {"id": 8, "question": "What do lungs do?", "options": ["Pump", "Help breathing", "Only digest", "No air"], "answer": "Help breathing"},
+    {"id": 9, "question": "What is breathing?", "options": ["Eating", "Taking in and out air", "Only in", "Only out"], "answer": "Taking in and out air"},
+    {"id": 10, "question": "What do we breathe?", "options": ["Water", "Oxygen", "Food", "Only sound"], "answer": "Oxygen"},
+    {"id": 11, "question": "What is the stomach?", "options": ["Brain", "Digests food", "Only bones", "No digestion"], "answer": "Digests food"},
+    {"id": 12, "question": "What is digestion?", "options": ["Breathing", "Breaking down food", "Only swallowing", "No process"], "answer": "Breaking down food"},
+    {"id": 13, "question": "What keeps us healthy?", "options": ["Unhealthy food", "Exercise and rest", "No sleep", "Only eating"], "answer": "Exercise and rest"},
+    {"id": 14, "question": "What is exercise?", "options": ["Sitting", "Physical activity", "Only sports", "No movement"], "answer": "Physical activity"},
+    {"id": 15, "question": "Why sleep important?", "options": ["No reason", "Body needs rest", "Only for fun", "No rest needed"], "answer": "Body needs rest"},
+    {"id": 16, "question": "How many hours sleep needed?", "options": ["4 hours", "8-10 hours", "2 hours", "No sleep"], "answer": "8-10 hours"},
+    {"id": 17, "question": "What protects our body?", "options": ["Nothing", "Skin and immune", "Only skin", "No protection"], "answer": "Skin and immune"}
+  ]
+}

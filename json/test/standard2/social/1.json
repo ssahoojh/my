@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "questions": [
+    {"id": 1, "question": "What is a family?", "options": ["Strangers", "Group of related people", "Only big", "Only small"], "answer": "Group of related people"},
+    {"id": 2, "question": "Who is in family?", "options": ["No one", "Parents, siblings, relatives", "Only parents", "Only siblings"], "answer": "Parents, siblings, relatives"},
+    {"id": 3, "question": "What is a home?", "options": ["Outside", "Place where family lives", "Only big", "Only small"], "answer": "Place where family lives"},
+    {"id": 4, "question": "What is a community?", "options": ["One person", "Group of people together", "Only big", "Only city"], "answer": "Group of people together"},
+    {"id": 5, "question": "Who are neighbors?", "options": ["Family", "People near us", "Only street", "Only town"], "answer": "People near us"},
+    {"id": 6, "question": "What is friendship?", "options": ["Dislike", "Caring for others", "Only family", "Only young"], "answer": "Caring for others"},
+    {"id": 7, "question": "What is cooperation?", "options": ["Fighting", "Working together", "Only big", "Only adults"], "answer": "Working together"},
+    {"id": 8, "question": "What is sharing?", "options": ["Keeping", "Giving to others", "Only food", "Only toys"], "answer": "Giving to others"},
+    {"id": 9, "question": "What is helping?", "options": ["Hurting", "Doing something good", "Only big tasks", "Only family"], "answer": "Doing something good"},
+    {"id": 10, "question": "What is respect?", "options": ["Disrespect", "Honoring others", "Only adults", "Only authority"], "answer": "Honoring others"},
+    {"id": 11, "question": "What is responsibility?", "options": ["No duty", "Doing what's expected", "Only adults", "Only school"], "answer": "Doing what's expected"},
+    {"id": 12, "question": "What is honesty?", "options": ["Lying", "Being truthful", "Only words", "Only big"], "answer": "Being truthful"},
+    {"id": 13, "question": "What is kindness?", "options": ["Meanness", "Being nice", "Only actions", "Only words"], "answer": "Being nice"},
+    {"id": 14, "question": "What is a rule?", "options": ["No purpose", "Guide for behavior", "Only home", "Only school"], "answer": "Guide for behavior"},
+    {"id": 15, "question": "Why have rules?", "options": ["No reason", "Safety and order", "Only punishment", "Only fun"], "answer": "Safety and order"},
+    {"id": 16, "question": "What is a celebration?", "options": ["Sadness", "Special happy event", "Only holidays", "Only birthdays"], "answer": "Special happy event"},
+    {"id": 17, "question": "Why celebrate?", "options": ["No reason", "Mark special times", "Only tradition", "Only fun"], "answer": "Mark special times"}
+  ]
+}

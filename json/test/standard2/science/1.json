@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "questions": [
+    {"id": 1, "question": "What is science?", "options": ["Guessing", "Study of nature", "Only facts", "No learning"], "answer": "Study of nature"},
+    {"id": 2, "question": "What are the senses?", "options": ["Feelings", "Ways we learn", "Only seeing", "No connection"], "answer": "Ways we learn"},
+    {"id": 3, "question": "How many main senses?", "options": ["3", "5", "2", "10"], "answer": "5"},
+    {"id": 4, "question": "What sense is seeing?", "options": ["Hearing", "Sight", "Smell", "Taste"], "answer": "Sight"},
+    {"id": 5, "question": "What sense is hearing?", "options": ["Touch", "Ears", "Eyes", "Nose"], "answer": "Ears"},
+    {"id": 6, "question": "What do we smell with?", "options": ["Ears", "Nose", "Mouth", "Fingers"], "answer": "Nose"},
+    {"id": 7, "question": "What do we taste with?", "options": ["Nose", "Mouth", "Eyes", "Ears"], "answer": "Mouth"},
+    {"id": 8, "question": "What do we touch with?", "options": ["Eyes", "Ears", "Skin", "Mouth"], "answer": "Skin"},
+    {"id": 9, "question": "What is an observation?", "options": ["Imagination", "Noticing with senses", "Guessing", "Only thinking"], "answer": "Noticing with senses"},
+    {"id": 10, "question": "What is a prediction?", "options": ["Knowing", "Guess about future", "Only memory", "No thinking"], "answer": "Guess about future"},
+    {"id": 11, "question": "What is an experiment?", "options": ["Watching", "Test to find answers", "Only guessing", "No structure"], "answer": "Test to find answers"},
+    {"id": 12, "question": "What is a hypothesis?", "options": ["Answer", "Guess about outcome", "Fact", "Only testing"], "answer": "Guess about outcome"},
+    {"id": 13, "question": "Why do scientists observe?", "options": ["No reason", "To learn about world", "Only guessing", "No learning"], "answer": "To learn about world"},
+    {"id": 14, "question": "What is data?", "options": ["Imagination", "Information collected", "Only numbers", "No collection"], "answer": "Information collected"},
+    {"id": 15, "question": "What is a conclusion?", "options": ["Beginning", "Result of experiment", "Only guessing", "No ending"], "answer": "Result of experiment"},
+    {"id": 16, "question": "What tools help science?", "options": ["Nothing", "Microscope, magnifier", "Only eyes", "No tools"], "answer": "Microscope, magnifier"},
+    {"id": 17, "question": "Why is science important?", "options": ["No reason", "Understanding world", "Only school", "Only tests"], "answer": "Understanding world"}
+  ]
+}

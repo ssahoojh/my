@@ -1,0 +1,22 @@
+{
+  "id": 8,
+  "questions": [
+    {"id": 1, "question": "What is a dictionary?", "options": ["A story book", "A book with word meanings", "A math book", "A picture book"], "answer": "A book with word meanings"},
+    {"id": 2, "question": "What does a synonym mean?", "options": ["Opposite word", "Word with same meaning", "A noun", "A verb"], "answer": "Word with same meaning"},
+    {"id": 3, "question": "What does an antonym mean?", "options": ["Same meaning", "Opposite meaning", "A noun", "An adjective"], "answer": "Opposite meaning"},
+    {"id": 4, "question": "What is a synonym for 'big'?", "options": ["Small", "Large", "Tiny", "Little"], "answer": "Large"},
+    {"id": 5, "question": "What is an antonym for 'hot'?", "options": ["Warm", "Warm", "Cold", "Heat"], "answer": "Cold"},
+    {"id": 6, "question": "What is a compound word?", "options": ["A difficult word", "Two words joined together", "A verb", "An adjective"], "answer": "Two words joined together"},
+    {"id": 7, "question": "Which is a compound word?", "options": ["Car", "House", "Playground", "Run"], "answer": "Playground"},
+    {"id": 8, "question": "What is a prefix?", "options": ["A word ending", "Letters added at the beginning", "A noun", "A verb"], "answer": "Letters added at the beginning"},
+    {"id": 9, "question": "What does 'un-' mean?", "options": ["Again", "Not", "Before", "After"], "answer": "Not"},
+    {"id": 10, "question": "What is a suffix?", "options": ["A word beginning", "Letters added at the end", "A noun", "An adjective"], "answer": "Letters added at the end"},
+    {"id": 11, "question": "What does '-ful' mean?", "options": ["Not", "Full of", "Without", "Again"], "answer": "Full of"},
+    {"id": 12, "question": "What is a homonym?", "options": ["Same meaning", "Different spelling but same sound", "A noun", "A verb"], "answer": "Different spelling but same sound"},
+    {"id": 13, "question": "Which are homonyms?", "options": ["Cat and dog", "To and two", "Run and walk", "Big and small"], "answer": "To and two"},
+    {"id": 14, "question": "What is context?", "options": ["A picture", "Words around a word that help explain it", "A noun", "A verb"], "answer": "Words around a word that help explain it"},
+    {"id": 15, "question": "What do context clues help with?", "options": ["Drawing pictures", "Understanding unknown words", "Nothing", "Playing games"], "answer": "Understanding unknown words"},
+    {"id": 16, "question": "What is connotation?", "options": ["Exact meaning", "Feeling a word gives", "A noun", "An adjective"], "answer": "Feeling a word gives"},
+    {"id": 17, "question": "Why is vocabulary important?", "options": ["It's not", "Better words make better writing", "Only for tests", "Never matters"], "answer": "Better words make better writing"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3,
+  "questions": [
+    {"id": 1, "question": "What is government?", "options": ["Game", "System that leads people", "Only big", "Only adults"], "answer": "System that leads people"},
+    {"id": 2, "question": "What does government do?", "options": ["Nothing", "Makes rules and laws", "Only enforces", "Only big decisions"], "answer": "Makes rules and laws"},
+    {"id": 3, "question": "What is a law?", "options": ["Game", "Official rule", "Only written", "Only important"], "answer": "Official rule"},
+    {"id": 4, "question": "Who makes laws?", "options": ["Police", "Government leaders", "Only president", "Only congress"], "answer": "Government leaders"},
+    {"id": 5, "question": "What is a country?", "options": ["City", "Independent nation", "Only big", "Only old"], "answer": "Independent nation"},
+    {"id": 6, "question": "What is a state?", "options": ["Country", "Part of country", "Only big", "Only east"], "answer": "Part of country"},
+    {"id": 7, "question": "What is a city?", "options": ["Country", "Urban settlement", "Only big", "Only crowded"], "answer": "Urban settlement"},
+    {"id": 8, "question": "What is a town?", "options": ["City", "Small settlement", "Only rural", "Only big"], "answer": "Small settlement"},
+    {"id": 9, "question": "What is president?", "options": ["King", "Leader of country", "Only US", "Only adults"], "answer": "Leader of country"},
+    {"id": 10, "question": "What is democracy?", "options": ["Dictatorship", "Government by people", "Only voting", "Only big"], "answer": "Government by people"},
+    {"id": 11, "question": "What is a vote?", "options": ["Talking", "Choice in election", "Only adults", "Only important"], "answer": "Choice in election"},
+    {"id": 12, "question": "What is a citizen?", "options": ["Visitor", "Member of country", "Only legal", "Only adult"], "answer": "Member of country"},
+    {"id": 13, "question": "What is a right?", "options": ["Wrong", "Freedom granted", "Only legal", "Only important"], "answer": "Freedom granted"},
+    {"id": 14, "question": "What is freedom?", "options": ["Restriction", "Ability to choose", "Only speech", "Only movement"], "answer": "Ability to choose"},
+    {"id": 15, "question": "What is patriotism?", "options": ["Dislike", "Love for country", "Only flags", "Only salutes"], "answer": "Love for country"},
+    {"id": 16, "question": "What is civic duty?", "options": ["No duty", "Responsibility to community", "Only voting", "Only adults"], "answer": "Responsibility to community"},
+    {"id": 17, "question": "What is patriotic?", "options": ["Disrespectful", "Showing love for country", "Only military", "Only official"], "answer": "Showing love for country"}
+  ]
+}

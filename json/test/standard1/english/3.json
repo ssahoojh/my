@@ -1,0 +1,22 @@
+{
+  "id": 3,
+  "questions": [
+    {"id": 1, "question": "What is reading?", "options": ["Writing", "Looking at words and understanding them", "Drawing", "Playing"], "answer": "Looking at words and understanding them"},
+    {"id": 2, "question": "What is a book?", "options": ["A picture", "Pages with words and pictures", "A toy", "A game"], "answer": "Pages with words and pictures"},
+    {"id": 3, "question": "What is a title?", "options": ["A picture", "The name of a book or story", "A character", "The last page"], "answer": "The name of a book or story"},
+    {"id": 4, "question": "Who writes a story?", "options": ["A reader", "An author", "A teacher", "A character"], "answer": "An author"},
+    {"id": 5, "question": "What is a character?", "options": ["A letter", "A person or animal in a story", "A word", "A picture"], "answer": "A person or animal in a story"},
+    {"id": 6, "question": "What is a main idea?", "options": ["A small detail", "The most important point", "A title", "A word"], "answer": "The most important point"},
+    {"id": 7, "question": "What is a detail?", "options": ["The main idea", "A small piece of information", "A noun", "A verb"], "answer": "A small piece of information"},
+    {"id": 8, "question": "What does it mean to 'predict'?", "options": ["To remember", "To guess what will happen next", "To read", "To write"], "answer": "To guess what will happen next"},
+    {"id": 9, "question": "What is a setting?", "options": ["The main character", "Where and when a story takes place", "A verb", "A noun"], "answer": "Where and when a story takes place"},
+    {"id": 10, "question": "What is a problem in a story?", "options": ["A difficult math question", "A challenge the character faces", "An ending", "A title"], "answer": "A challenge the character faces"},
+    {"id": 11, "question": "What is a solution?", "options": ["A problem", "The way a problem is solved", "A character", "A setting"], "answer": "The way a problem is solved"},
+    {"id": 12, "question": "What is a beginning?", "options": ["The middle", "The start of a story", "The end", "A character"], "answer": "The start of a story"},
+    {"id": 13, "question": "What is an ending?", "options": ["The beginning", "The middle", "What happens at the end of a story", "A character"], "answer": "What happens at the end of a story"},
+    {"id": 14, "question": "What is a middle?", "options": ["The beginning", "What happens after the beginning", "The end", "A word"], "answer": "What happens after the beginning"},
+    {"id": 15, "question": "What do you do when you read a book to someone?", "options": ["Write it", "Say the words aloud", "Draw it", "Sing it"], "answer": "Say the words aloud"},
+    {"id": 16, "question": "What is a picture in a book called?", "options": ["A title", "An illustration", "A word", "A character"], "answer": "An illustration"},
+    {"id": 17, "question": "What helps you understand a story better?", "options": ["Skipping parts", "Illustrations and pictures", "Ignoring words", "Only reading fast"], "answer": "Illustrations and pictures"}
+  ]
+}

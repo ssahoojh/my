@@ -1,0 +1,22 @@
+{
+  "id": 6,
+  "questions": [
+    {"id": 1, "question": "What is the solar system?", "options": ["One planet", "Sun and objects orbiting it", "Only stars", "Only planets"], "answer": "Sun and objects orbiting it"},
+    {"id": 2, "question": "How many planets are in our solar system?", "options": ["7", "8", "9", "10"], "answer": "8"},
+    {"id": 3, "question": "What is a planet?", "options": ["A star", "Large object orbiting the sun", "Only Earth", "Only Mars"], "answer": "Large object orbiting the sun"},
+    {"id": 4, "question": "What is Earth?", "options": ["A star", "Our home planet", "The sun", "The moon"], "answer": "Our home planet"},
+    {"id": 5, "question": "What revolves around Earth?", "options": ["The sun", "The moon", "Mars", "Nothing"], "answer": "The moon"},
+    {"id": 6, "question": "What is a star?", "options": ["A planet", "Huge ball of gas giving light", "Only in sky at night", "Only the sun"], "answer": "Huge ball of gas giving light"},
+    {"id": 7, "question": "What is a constellation?", "options": ["One star", "Pattern of stars", "A planet", "A moon"], "answer": "Pattern of stars"},
+    {"id": 8, "question": "How long does Earth take to orbit the sun?", "options": ["One day", "One month", "One year", "One week"], "answer": "One year"},
+    {"id": 9, "question": "How long does the moon orbit Earth?", "options": ["One day", "One week", "One month", "One year"], "answer": "One month"},
+    {"id": 10, "question": "What causes day and night?", "options": ["The moon", "Earth's rotation", "The sun moving", "Nothing"], "answer": "Earth's rotation"},
+    {"id": 11, "question": "What causes seasons?", "options": ["Earth's tilt", "The moon", "The sun moving", "Nothing"], "answer": "Earth's tilt"},
+    {"id": 12, "question": "When is the sun closest to Earth?", "options": ["Winter", "Summer", "Spring", "Fall"], "answer": "Summer"},
+    {"id": 13, "question": "What is a meteor?", "options": ["A star", "Rock from space falling to Earth", "A planet", "The moon"], "answer": "Rock from space falling to Earth"},
+    {"id": 14, "question": "What is a comet?", "options": ["A planet", "Icy object with tail", "A star", "The moon"], "answer": "Icy object with tail"},
+    {"id": 15, "question": "What is a crater?", "options": ["A mountain", "Hole from meteor impact", "A valley", "A cave"], "answer": "Hole from meteor impact"},
+    {"id": 16, "question": "What is the Milky Way?", "options": ["A candy", "Our galaxy", "A planet", "A star"], "answer": "Our galaxy"},
+    {"id": 17, "question": "How far is the nearest star?", "options": ["Very close", "About 4 light years away", "On Earth", "In our solar system"], "answer": "About 4 light years away"}
+  ]
+}

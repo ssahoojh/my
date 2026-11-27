@@ -1,0 +1,22 @@
+{
+  "id": 8,
+  "questions": [
+    {"id": 1, "question": "What is a measurement?", "options": ["A color", "A size or amount", "A shape", "A number"], "answer": "A size or amount"},
+    {"id": 2, "question": "How many inches are in a foot?", "options": ["6 inches", "10 inches", "12 inches", "15 inches"], "answer": "12 inches"},
+    {"id": 3, "question": "What tool do you use to measure length?", "options": ["Scale", "Ruler", "Clock", "Thermometer"], "answer": "Ruler"},
+    {"id": 4, "question": "If your pencil is 6 inches and your pen is 4 inches, which is longer?", "options": ["Pen", "Pencil", "They are equal", "Cannot tell"], "answer": "Pencil"},
+    {"id": 5, "question": "What do you use to measure weight?", "options": ["Ruler", "Clock", "Scale", "Thermometer"], "answer": "Scale"},
+    {"id": 6, "question": "What do you use to measure temperature?", "options": ["Ruler", "Clock", "Scale", "Thermometer"], "answer": "Thermometer"},
+    {"id": 7, "question": "How many centimeters are in 1 meter?", "options": ["10 cm", "50 cm", "100 cm", "200 cm"], "answer": "100 cm"},
+    {"id": 8, "question": "If a string is 8 inches long and another is 5 inches, how much longer is the first?", "options": ["2 inches", "3 inches", "4 inches", "5 inches"], "answer": "3 inches"},
+    {"id": 9, "question": "What is weight?", "options": ["Length", "Height", "How heavy something is", "Width"], "answer": "How heavy something is"},
+    {"id": 10, "question": "If you weigh 60 pounds, are you heavier than 50 pounds?", "options": ["Yes", "No", "They are equal", "Cannot tell"], "answer": "Yes"},
+    {"id": 11, "question": "What is temperature?", "options": ["Size", "Height", "How hot or cold something is", "Weight"], "answer": "How hot or cold something is"},
+    {"id": 12, "question": "Is ice hot or cold?", "options": ["Hot", "Cold", "Warm", "Cool"], "answer": "Cold"},
+    {"id": 13, "question": "If object A is 7 inches and object B is 10 inches, which is longer?", "options": ["A", "B", "They are equal", "Cannot tell"], "answer": "B"},
+    {"id": 14, "question": "How many feet are in a yard?", "options": ["1 foot", "2 feet", "3 feet", "4 feet"], "answer": "3 feet"},
+    {"id": 15, "question": "If a container holds 8 cups and another holds 5 cups, which holds more?", "options": ["First container", "Second container", "They hold equal", "Cannot tell"], "answer": "First container"},
+    {"id": 16, "question": "What is the longest: 2 feet, 20 inches, or 1 foot?", "options": ["2 feet", "20 inches", "1 foot", "Cannot tell"], "answer": "2 feet"},
+    {"id": 17, "question": "If you are 4 feet tall, are you taller than 3 feet?", "options": ["Yes", "No", "Equal height", "Cannot tell"], "answer": "Yes"}
+  ]
+}

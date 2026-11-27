@@ -1,0 +1,22 @@
+{
+  "id": 4,
+  "questions": [
+    {"id": 1, "question": "What is matter?", "options": ["Nothing", "Anything that takes space", "Only heavy", "Only light"], "answer": "Anything that takes space"},
+    {"id": 2, "question": "What are states of matter?", "options": ["Weight", "Solid, liquid, gas", "Only solid", "Only one"], "answer": "Solid, liquid, gas"},
+    {"id": 3, "question": "What is a solid?", "options": ["Flows", "Has fixed shape", "No form", "Flexible"], "answer": "Has fixed shape"},
+    {"id": 4, "question": "Example of solid?", "options": ["Water", "Chair", "Air", "Nothing"], "answer": "Chair"},
+    {"id": 5, "question": "What is a liquid?", "options": ["Fixed", "Takes shape of container", "No form", "Solid"], "answer": "Takes shape of container"},
+    {"id": 6, "question": "Example of liquid?", "options": ["Rock", "Water", "Chair", "Paper"], "answer": "Water"},
+    {"id": 7, "question": "What is a gas?", "options": ["Solid", "No fixed shape", "Takes space", "All above"], "answer": "All above"},
+    {"id": 8, "question": "Example of gas?", "options": ["Water", "Chair", "Air", "Stone"], "answer": "Air"},
+    {"id": 9, "question": "What is temperature?", "options": ["Size", "How hot or cold", "No change", "No measure"], "answer": "How hot or cold"},
+    {"id": 10, "question": "What measures temperature?", "options": ["Ruler", "Scale", "Thermometer", "No tool"], "answer": "Thermometer"},
+    {"id": 11, "question": "What is freezing point?", "options": ["100°C", "0°C", "50°C", "75°C"], "answer": "0°C"},
+    {"id": 12, "question": "What is boiling point?", "options": ["0°C", "50°C", "100°C", "75°C"], "answer": "100°C"},
+    {"id": 13, "question": "What is density?", "options": ["Size", "How heavy for volume", "No measure", "No connection"], "answer": "How heavy for volume"},
+    {"id": 14, "question": "What floats in water?", "options": ["Rock", "Wood", "Iron", "Lead"], "answer": "Wood"},
+    {"id": 15, "question": "What sinks in water?", "options": ["Wood", "Cork", "Rock", "Paper"], "answer": "Rock"},
+    {"id": 16, "question": "What is color of matter?", "options": ["No color", "Property we see", "Only bright", "Only dark"], "answer": "Property we see"},
+    {"id": 17, "question": "What is texture?", "options": ["Color", "How it feels", "Only soft", "No feeling"], "answer": "How it feels"}
+  ]
+}

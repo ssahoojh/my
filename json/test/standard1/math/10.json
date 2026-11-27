@@ -1,0 +1,22 @@
+{
+  "id": 10,
+  "questions": [
+    {"id": 1, "question": "What is a word problem?", "options": ["A problem with words", "A math problem in sentences", "A reading question", "A puzzle"], "answer": "A math problem in sentences"},
+    {"id": 2, "question": "Tom has 3 apples. He gets 2 more. How many total?", "options": ["3", "4", "5", "6"], "answer": "5"},
+    {"id": 3, "question": "Lisa has 8 crayons. She loses 3. How many left?", "options": ["4", "5", "6", "7"], "answer": "5"},
+    {"id": 4, "question": "What is the first step in solving a word problem?", "options": ["Calculate", "Read and understand", "Guess", "Draw"], "answer": "Read and understand"},
+    {"id": 5, "question": "Mike has 6 toy cars. His sister gives him 4 more. How many total?", "options": ["8", "9", "10", "11"], "answer": "10"},
+    {"id": 6, "question": "Sara has 10 cookies. She eats 2. How many are left?", "options": ["7", "8", "9", "10"], "answer": "8"},
+    {"id": 7, "question": "What does 'altogether' usually mean?", "options": ["Subtract", "Add", "Multiply", "Divide"], "answer": "Add"},
+    {"id": 8, "question": "What does 'left' or 'remaining' usually mean?", "options": ["Add", "Subtract", "Multiply", "Divide"], "answer": "Subtract"},
+    {"id": 9, "question": "If there are 5 red balls and 3 blue balls, how many total?", "options": ["6", "7", "8", "9"], "answer": "8"},
+    {"id": 10, "question": "If you have 12 marbles and lose 5, how many left?", "options": ["6", "7", "8", "9"], "answer": "7"},
+    {"id": 11, "question": "Emma has 4 pens. Her friend has 3 pens. How many together?", "options": ["6", "7", "8", "9"], "answer": "7"},
+    {"id": 12, "question": "If a box has 15 items and you take out 6, how many remain?", "options": ["8", "9", "10", "11"], "answer": "9"},
+    {"id": 13, "question": "There are 8 birds on a tree. 3 fly away. How many are left?", "options": ["4", "5", "6", "7"], "answer": "5"},
+    {"id": 14, "question": "What information is NOT needed in a word problem?", "options": ["Numbers", "What to find", "Interesting but irrelevant details", "Operation type"], "answer": "Interesting but irrelevant details"},
+    {"id": 15, "question": "If you have 7 books and get 5 more, how many books total?", "options": ["10", "11", "12", "13"], "answer": "12"},
+    {"id": 16, "question": "A store has 20 toys. It sells 8. How many are left?", "options": ["10", "11", "12", "13"], "answer": "12"},
+    {"id": 17, "question": "If 3 friends share 9 cookies equally, how many does each get?", "options": ["2", "3", "4", "5"], "answer": "3"}
+  ]
+}

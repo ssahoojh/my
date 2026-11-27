@@ -1,0 +1,22 @@
+{
+  "id": 6,
+  "questions": [
+    {"id": 1, "question": "What is history?", "options": ["Present", "Study of past", "Only people", "Only events"], "answer": "Study of past"},
+    {"id": 2, "question": "What is a historical event?", "options": ["Today", "Important past happening", "Only big", "Only old"], "answer": "Important past happening"},
+    {"id": 3, "question": "What is a historical figure?", "options": ["Nobody", "Important person in past", "Only kings", "Only warriors"], "answer": "Important person in past"},
+    {"id": 4, "question": "What is a timeline?", "options": ["Random", "Sequence of dates", "Only years", "Only long"], "answer": "Sequence of dates"},
+    {"id": 5, "question": "What is a decade?", "options": ["Year", "10 years", "Only long", "Only century"], "answer": "10 years"},
+    {"id": 6, "question": "What is a century?", "options": ["Decade", "100 years", "Only long", "Only decade"], "answer": "100 years"},
+    {"id": 7, "question": "What is archaeology?", "options": ["History", "Study of ancient life", "Only digging", "Only artifacts"], "answer": "Study of ancient life"},
+    {"id": 8, "question": "What is an artifact?", "options": ["Natural", "Object from past", "Only big", "Only old"], "answer": "Object from past"},
+    {"id": 9, "question": "What is a monument?", "options": ["Building", "Structure honoring", "Only big", "Only historical"], "answer": "Structure honoring"},
+    {"id": 10, "question": "What is a museum?", "options": ["Park", "Collection place", "Only artifacts", "Only big"], "answer": "Collection place"},
+    {"id": 11, "question": "What caused changes?", "options": ["Nothing", "Events and inventions", "Only wars", "Only people"], "answer": "Events and inventions"},
+    {"id": 12, "question": "What is progress?", "options": ["Backward", "Moving forward", "Only technology", "Only improvement"], "answer": "Moving forward"},
+    {"id": 13, "question": "What is invention?", "options": ["Discovery", "New creation", "Only tool", "Only machine"], "answer": "New creation"},
+    {"id": 14, "question": "What changed daily life?", "options": ["Nothing", "Technology", "Only electricity", "Only transport"], "answer": "Technology"},
+    {"id": 15, "question": "What is migration?", "options": ["Staying", "People moving", "Only temporary", "Only forever"], "answer": "People moving"},
+    {"id": 16, "question": "What is settlement?", "options": ["Moving", "People establishing", "Only towns", "Only big"], "answer": "People establishing"},
+    {"id": 17, "question": "Why learn history?", "options": ["No reason", "Understand present", "Only tests", "Only school"], "answer": "Understand present"}
+  ]
+}

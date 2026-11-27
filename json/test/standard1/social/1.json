@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "questions": [
+    {"id": 1, "question": "What is a family?", "options": ["A school", "Parents and children living together", "A group of friends", "A town"], "answer": "Parents and children living together"},
+    {"id": 2, "question": "What is a community?", "options": ["A family", "A group of people living together in one place", "A street", "A school"], "answer": "A group of people living together in one place"},
+    {"id": 3, "question": "What do people in a community do?", "options": ["Nothing", "Work together and help each other", "Only play", "Only sleep"], "answer": "Work together and help each other"},
+    {"id": 4, "question": "What is a school?", "options": ["A building", "A place where children learn", "A game", "A toy"], "answer": "A place where children learn"},
+    {"id": 5, "question": "What is a teacher?", "options": ["A parent", "A person who teaches students", "A friend", "A helper"], "answer": "A person who teaches students"},
+    {"id": 6, "question": "What is work?", "options": ["Playing", "Jobs that people do", "Sleeping", "Eating"], "answer": "Jobs that people do"},
+    {"id": 7, "question": "What does a doctor do?", "options": ["Builds houses", "Helps people stay healthy", "Teaches school", "Sells food"], "answer": "Helps people stay healthy"},
+    {"id": 8, "question": "What does a teacher do?", "options": ["Helps sick people", "Teaches students", "Builds houses", "Sells food"], "answer": "Teaches students"},
+    {"id": 9, "question": "What is a neighborhood?", "options": ["A school", "An area where people live near each other", "A game", "A toy"], "answer": "An area where people live near each other"},
+    {"id": 10, "question": "What is a street?", "options": ["A building", "A road where people and cars go", "A person", "A toy"], "answer": "A road where people and cars go"},
+    {"id": 11, "question": "What is a house?", "options": ["A school", "A building where people live", "A street", "A toy"], "answer": "A building where people live"},
+    {"id": 12, "question": "What do families do together?", "options": ["Nothing", "Spend time together", "Only work", "Only eat"], "answer": "Spend time together"},
+    {"id": 13, "question": "What is a holiday?", "options": ["A regular day", "A special day people celebrate", "A school day", "Any day"], "answer": "A special day people celebrate"},
+    {"id": 14, "question": "What is sharing?", "options": ["Keeping everything", "Giving something to others", "Taking things", "Hiding"], "answer": "Giving something to others"},
+    {"id": 15, "question": "What is helping?", "options": ["Hurting", "Doing something good for others", "Taking", "Nothing"], "answer": "Doing something good for others"},
+    {"id": 16, "question": "What is friendship?", "options": ["A job", "A close relationship with someone", "A school", "Food"], "answer": "A close relationship with someone"},
+    {"id": 17, "question": "What is respect?", "options": ["Disliking", "Showing care and honor for others", "Ignoring", "Being mean"], "answer": "Showing care and honor for others"}
+  ]
+}

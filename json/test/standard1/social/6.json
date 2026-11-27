@@ -1,0 +1,22 @@
+{
+  "id": 6,
+  "questions": [
+    {"id": 1, "question": "What is history?", "options": ["Story", "Study of past events", "Only long ago", "Only important"], "answer": "Study of past events"},
+    {"id": 2, "question": "What are Native Americans?", "options": ["Recent people", "First people in America", "Only in West", "Only tribes"], "answer": "First people in America"},
+    {"id": 3, "question": "What is a colony?", "options": ["A country", "Settlement controlled by another country", "Only 13", "Only old"], "answer": "Settlement controlled by another country"},
+    {"id": 4, "question": "What is Independence?", "options": ["Freedom from colony", "Freedom from control", "Only American", "Only 1776"], "answer": "Freedom from control"},
+    {"id": 5, "question": "When did America declare independence?", "options": ["1775", "1776", "1777", "1778"], "answer": "1776"},
+    {"id": 6, "question": "Who was the first president?", "options": ["Jefferson", "Washington", "Lincoln", "Franklin"], "answer": "Washington"},
+    {"id": 7, "question": "What is the Constitution?", "options": ["A building", "Main governing document", "Only rules", "Only laws"], "answer": "Main governing document"},
+    {"id": 8, "question": "What is the Bill of Rights?", "options": ["Responsibilities", "List of personal freedoms", "Only voting", "Only speaking"], "answer": "List of personal freedoms"},
+    {"id": 9, "question": "What is the Civil War?", "options": ["Recent war", "War between North and South", "Only about slavery", "1861-1865"], "answer": "War between North and South"},
+    {"id": 10, "question": "What ended slavery?", "options": ["The Civil War", "The Emancipation", "13th Amendment", "All of above"], "answer": "All of above"},
+    {"id": 11, "question": "Who was Abraham Lincoln?", "options": ["Founding father", "President during Civil War", "First president", "Freed slaves"], "answer": "President during Civil War"},
+    {"id": 12, "question": "What is a museum?", "options": ["Park", "Place showing history", "Only artifacts", "Only paintings"], "answer": "Place showing history"},
+    {"id": 13, "question": "What is a monument?", "options": ["Building", "Structure honoring someone", "Only big", "Only old"], "answer": "Structure honoring someone"},
+    {"id": 14, "question": "What is a primary source?", "options": ["Textbook", "Original document from time", "Only written", "Only official"], "answer": "Original document from time"},
+    {"id": 15, "question": "What is a secondary source?", "options": ["First account", "Information about past", "Only books", "Only recent"], "answer": "Information about past"},
+    {"id": 16, "question": "What does history teach us?", "options": ["Nothing", "Lessons from past", "Only facts", "Only dates"], "answer": "Lessons from past"},
+    {"id": 17, "question": "Why is it important to study history?", "options": ["It's not", "Understand present and future", "Only for tests", "Only for experts"], "answer": "Understand present and future"}
+  ]
+}

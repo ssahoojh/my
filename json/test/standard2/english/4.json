@@ -1,0 +1,22 @@
+{
+  "id": 4,
+  "questions": [
+    {"id": 1, "question": "What is a main idea?", "options": ["Small detail", "Most important point", "A title", "A word"], "answer": "Most important point"},
+    {"id": 2, "question": "What are supporting details?", "options": ["Main idea", "Information supporting main idea", "Questions", "Nouns"], "answer": "Information supporting main idea"},
+    {"id": 3, "question": "What is inference?", "options": ["Stated fact", "Conclusion from clues", "A title", "A word"], "answer": "Conclusion from clues"},
+    {"id": 4, "question": "What is prediction?", "options": ["Happened", "Guess about future", "A fact", "A noun"], "answer": "Guess about future"},
+    {"id": 5, "question": "What is cause and effect?", "options": ["Two things", "Why something happened and result", "A main idea", "An adjective"], "answer": "Why something happened and result"},
+    {"id": 6, "question": "What is a comparison?", "options": ["Differences", "Showing how things are alike", "A detail", "A noun"], "answer": "Showing how things are alike"},
+    {"id": 7, "question": "What is a contrast?", "options": ["Same things", "Showing differences", "A main idea", "An adjective"], "answer": "Showing differences"},
+    {"id": 8, "question": "What is a theme?", "options": ["Setting", "Big idea story teaches", "A character", "A verb"], "answer": "Big idea story teaches"},
+    {"id": 9, "question": "What is characterization?", "options": ["A plot", "Way author shows character", "Setting", "Title"], "answer": "Way author shows character"},
+    {"id": 10, "question": "What is point of view?", "options": ["A character's opinion", "Perspective story is told from", "A title", "No importance"], "answer": "Perspective story is told from"},
+    {"id": 11, "question": "What is first person POV?", "options": ["He/she speaks", "I/we speaking", "They speak", "No perspective"], "answer": "I/we speaking"},
+    {"id": 12, "question": "What is third person POV?", "options": ["I speaking", "You speaking", "He/she/they speaking", "No perspective"], "answer": "He/she/they speaking"},
+    {"id": 13, "question": "What is a summary?", "options": ["Complete retelling", "Brief main points", "A title", "A word list"], "answer": "Brief main points"},
+    {"id": 14, "question": "What is visualizing?", "options": ["Writing", "Creating mental pictures", "Drawing", "Skipping parts"], "answer": "Creating mental pictures"},
+    {"id": 15, "question": "What is a text's purpose?", "options": ["A word", "Why author wrote it", "A noun", "No reason"], "answer": "Why author wrote it"},
+    {"id": 16, "question": "What is sequence?", "options": ["Random order", "Order events happen", "A title", "A noun"], "answer": "Order events happen"},
+    {"id": 17, "question": "What helps understanding?", "options": ["Skipping parts", "Asking questions and rereading", "Ignoring details", "Only speed"], "answer": "Asking questions and rereading"}
+  ]
+}

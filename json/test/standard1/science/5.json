@@ -1,0 +1,22 @@
+{
+  "id": 5,
+  "questions": [
+    {"id": 1, "question": "What is energy?", "options": ["Nothing", "Ability to do work or cause change", "Light only", "Heat only"], "answer": "Ability to do work or cause change"},
+    {"id": 2, "question": "What are kinds of energy?", "options": ["Nothing", "Heat, light, sound, motion", "Only heat", "Only light"], "answer": "Heat, light, sound, motion"},
+    {"id": 3, "question": "What is heat?", "options": ["Cold", "Energy that makes things warm", "Light", "Sound"], "answer": "Energy that makes things warm"},
+    {"id": 4, "question": "What gives us heat and light?", "options": ["Moon", "Sun", "Stars", "Fire only"], "answer": "Sun"},
+    {"id": 5, "question": "What is light?", "options": ["Darkness", "Energy that lets us see", "Heat", "Sound"], "answer": "Energy that lets us see"},
+    {"id": 6, "question": "What is sound?", "options": ["Silence", "Energy we hear", "Light", "Heat"], "answer": "Energy we hear"},
+    {"id": 7, "question": "What is motion?", "options": ["Stillness", "Movement of something", "Light", "Heat"], "answer": "Movement of something"},
+    {"id": 8, "question": "What is electricity?", "options": ["Nothing", "Energy that powers devices", "Only in storms", "Only in houses"], "answer": "Energy that powers devices"},
+    {"id": 9, "question": "What is a magnet?", "options": ["A rock", "Object that attracts metal", "A toy", "Nothing special"], "answer": "Object that attracts metal"},
+    {"id": 10, "question": "What is a force?", "options": ["Nothing", "Push or pull that changes motion", "Only motion", "Only power"], "answer": "Push or pull that changes motion"},
+    {"id": 11, "question": "What is gravity?", "options": ["A toy", "Force pulling things down", "Only on Earth", "No real thing"], "answer": "Force pulling things down"},
+    {"id": 12, "question": "What is friction?", "options": ["Smoothness", "Force that slows down movement", "Only on ice", "Only in space"], "answer": "Force that slows down movement"},
+    {"id": 13, "question": "What machines help us?", "options": ["Nothing", "Tools that make work easier", "Only cars", "Only computers"], "answer": "Tools that make work easier"},
+    {"id": 14, "question": "What is simple machine?", "options": ["Toy", "Machine with few moving parts", "Computer", "Nothing"], "answer": "Machine with few moving parts"},
+    {"id": 15, "question": "What is a lever?", "options": ["Rope", "Simple machine that lifts things", "Only wood", "Only plastic"], "answer": "Simple machine that lifts things"},
+    {"id": 16, "question": "What is a pulley?", "options": ["Rope", "Machine using wheel and rope", "Only string", "Only wood"], "answer": "Machine using wheel and rope"},
+    {"id": 17, "question": "What is an inclined plane?", "options": ["Flat surface", "Ramp or slope used to move things", "Only stairs", "Only hills"], "answer": "Ramp or slope used to move things"}
+  ]
+}

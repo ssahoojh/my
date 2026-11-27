@@ -1,0 +1,22 @@
+{
+  "id": 8,
+  "questions": [
+    {"id": 1, "question": "What is an ecosystem?", "options": ["A place", "Community of organisms and environment", "Only forests", "Only water"], "answer": "Community of organisms and environment"},
+    {"id": 2, "question": "What is a forest ecosystem?", "options": ["Deserts", "Trees and forest animals", "Only water", "Only mountains"], "answer": "Trees and forest animals"},
+    {"id": 3, "question": "What is an ocean ecosystem?", "options": ["Land", "Water with marine life", "Only fish", "Only plants"], "answer": "Water with marine life"},
+    {"id": 4, "question": "What is a desert?", "options": ["Forests", "Hot, dry area", "Only water", "Only cold"], "answer": "Hot, dry area"},
+    {"id": 5, "question": "What is a rainforest?", "options": ["Dry area", "Wet, dense forest", "Only hot", "Only cold"], "answer": "Wet, dense forest"},
+    {"id": 6, "question": "What is a tundra?", "options": ["Hot area", "Cold, frozen area", "Only mountains", "Only desert"], "answer": "Cold, frozen area"},
+    {"id": 7, "question": "What is a biome?", "options": ["One ecosystem", "Large area with similar climate and life", "Only forest", "Only ocean"], "answer": "Large area with similar climate and life"},
+    {"id": 8, "question": "What animals live in deserts?", "options": ["Polar bears", "Lizards, snakes, camels", "Only camels", "Only snakes"], "answer": "Lizards, snakes, camels"},
+    {"id": 9, "question": "What animals live in oceans?", "options": ["Only sharks", "Fish, whales, dolphins", "Only whales", "Only dolphins"], "answer": "Fish, whales, dolphins"},
+    {"id": 10, "question": "What animals live in cold areas?", "options": ["Lizards", "Polar bears, seals, penguins", "Only bears", "Only seals"], "answer": "Polar bears, seals, penguins"},
+    {"id": 11, "question": "What do all ecosystems need?", "options": ["Animals only", "Sun, water, soil, organisms", "Only sun", "Only water"], "answer": "Sun, water, soil, organisms"},
+    {"id": 12, "question": "What would happen without sun?", "options": ["Nothing", "No life could survive", "More life", "Same as now"], "answer": "No life could survive"},
+    {"id": 13, "question": "What would happen without water?", "options": ["Nothing", "No life could survive", "More life", "Same as now"], "answer": "No life could survive"},
+    {"id": 14, "question": "What is pollution?", "options": ["Clean air", "Harmful substances in environment", "Only water", "Only air"], "answer": "Harmful substances in environment"},
+    {"id": 15, "question": "What causes pollution?", "options": ["Nothing", "Cars, factories, waste", "Only cars", "Only factories"], "answer": "Cars, factories, waste"},
+    {"id": 16, "question": "What is conservation?", "options": ["Wasting", "Protecting and using wisely", "Only trees", "Only water"], "answer": "Protecting and using wisely"},
+    {"id": 17, "question": "How can we help Earth?", "options": ["We can't", "Reduce waste, recycle, plant trees", "Only recycle", "Only plant trees"], "answer": "Reduce waste, recycle, plant trees"}
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 5,
+  "questions": [
+    {"id": 1, "question": "What is culture?", "options": ["A place", "Beliefs, customs, and way of life", "Only food", "Only clothes"], "answer": "Beliefs, customs, and way of life"},
+    {"id": 2, "question": "What are traditions?", "options": ["New things", "Customs passed down", "Only old", "Only big"], "answer": "Customs passed down"},
+    {"id": 3, "question": "What is a holiday?", "options": ["Vacation", "Special day people celebrate", "Only fun", "Only long"], "answer": "Special day people celebrate"},
+    {"id": 4, "question": "What is Christmas?", "options": ["Birthday", "Holiday celebrating birth of Jesus", "Only for fun", "Only in December"], "answer": "Holiday celebrating birth of Jesus"},
+    {"id": 5, "question": "What is Thanksgiving?", "options": ["Shopping", "Holiday to give thanks", "Only in November", "Only eating"], "answer": "Holiday to give thanks"},
+    {"id": 6, "question": "What is Independence Day?", "options": ["Vacation", "Holiday celebrating US independence", "July 4th", "July 4th"], "answer": "July 4th"},
+    {"id": 7, "question": "What is New Year?", "options": ["Birthday", "Beginning of new year", "Only January 1st", "Only celebrating"], "answer": "Beginning of new year"},
+    {"id": 8, "question": "What is religion?", "options": ["Culture", "Belief system about God", "Only Christianity", "Only one"], "answer": "Belief system about God"},
+    {"id": 9, "question": "What is language?", "options": ["Words", "System of words for communication", "Only spoken", "Only written"], "answer": "System of words for communication"},
+    {"id": 10, "question": "What is music?", "options": ["Sound", "Art form with organized sounds", "Only singing", "Only instruments"], "answer": "Art form with organized sounds"},
+    {"id": 11, "question": "What is art?", "options": ["Painting", "Creative expression", "Only visual", "Only sculptures"], "answer": "Creative expression"},
+    {"id": 12, "question": "What is dance?", "options": ["Exercise", "Moving to music", "Only entertainment", "Only tradition"], "answer": "Moving to music"},
+    {"id": 13, "question": "What is clothing?", "options": ["Fashion", "Covering for body", "Only style", "Only protection"], "answer": "Covering for body"},
+    {"id": 14, "question": "What is food?", "options": ["Eating", "What people consume", "Only healthy", "Only tasty"], "answer": "What people consume"},
+    {"id": 15, "question": "Why is culture important?", "options": ["No reason", "Shows who we are", "Only for fun", "Only for oldpeople"], "answer": "Shows who we are"},
+    {"id": 16, "question": "What is diversity?", "options": ["Sameness", "Variety of different people", "Only cultures", "Only religions"], "answer": "Variety of different people"},
+    {"id": 17, "question": "Why should we respect different cultures?", "options": ["We shouldn't", "Everyone deserves respect", "Only big cultures", "Only important ones"], "answer": "Everyone deserves respect"}
+  ]
+}

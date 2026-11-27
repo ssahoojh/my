@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "questions": [
+    {"id": 1, "question": "What is 10 + 15?", "options": ["20", "25", "30", "35"], "answer": "25"},
+    {"id": 2, "question": "What is 20 + 18?", "options": ["35", "36", "38", "40"], "answer": "38"},
+    {"id": 3, "question": "What is 30 + 25?", "options": ["50", "55", "60", "65"], "answer": "55"},
+    {"id": 4, "question": "What is 50 - 20?", "options": ["25", "30", "35", "40"], "answer": "30"},
+    {"id": 5, "question": "What is 45 - 15?", "options": ["25", "30", "35", "40"], "answer": "30"},
+    {"id": 6, "question": "What is 32 + 18?", "options": ["45", "48", "50", "52"], "answer": "50"},
+    {"id": 7, "question": "What is 60 - 25?", "options": ["30", "35", "40", "45"], "answer": "35"},
+    {"id": 8, "question": "If you have 25 marbles and get 15 more, how many total?", "options": ["35", "40", "45", "50"], "answer": "40"},
+    {"id": 9, "question": "What is 75 + 20?", "options": ["90", "92", "95", "97"], "answer": "95"},
+    {"id": 10, "question": "What is 100 - 35?", "options": ["60", "65", "70", "75"], "answer": "65"},
+    {"id": 11, "question": "What is 42 + 28?", "options": ["65", "68", "70", "72"], "answer": "70"},
+    {"id": 12, "question": "What is 88 - 32?", "options": ["50", "54", "56", "58"], "answer": "56"},
+    {"id": 13, "question": "If a book costs $25 and another costs $18, what's the total?", "options": ["40", "42", "43", "45"], "answer": "43"},
+    {"id": 14, "question": "What is 125 + 50?", "options": ["170", "175", "180", "185"], "answer": "175"},
+    {"id": 15, "question": "What is 150 - 60?", "options": ["85", "88", "90", "92"], "answer": "90"},
+    {"id": 16, "question": "If there are 35 students and 15 go home, how many remain?", "options": ["18", "20", "22", "25"], "answer": "20"},
+    {"id": 17, "question": "What is 99 + 11?", "options": ["105", "108", "110", "112"], "answer": "110"}
+  ]
+}

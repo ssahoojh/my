@@ -1,0 +1,22 @@
+{
+  "id": 2,
+  "questions": [
+    {"id": 1, "question": "What is a job?", "options": ["Hobby", "Work someone does", "Only adults", "Only outside"], "answer": "Work someone does"},
+    {"id": 2, "question": "What does a teacher do?", "options": ["Builds", "Teaches students", "Only reads", "Only talks"], "answer": "Teaches students"},
+    {"id": 3, "question": "What does a doctor do?", "options": ["Builds", "Helps sick people", "Only prescribes", "Only talks"], "answer": "Helps sick people"},
+    {"id": 4, "question": "What does a farmer do?", "options": ["Builds", "Grows food", "Only plants", "Only outdoors"], "answer": "Grows food"},
+    {"id": 5, "question": "What does a builder do?", "options": ["Grows", "Constructs houses", "Only wood", "Only big"], "answer": "Constructs houses"},
+    {"id": 6, "question": "What does a police officer do?", "options": ["Teaches", "Protects community", "Only outside", "Only arrests"], "answer": "Protects community"},
+    {"id": 7, "question": "What does a firefighter do?", "options": ["Builds", "Fights fires", "Only water", "Only outside"], "answer": "Fights fires"},
+    {"id": 8, "question": "What does a chef do?", "options": ["Grows", "Cooks food", "Only restaurants", "Only meat"], "answer": "Cooks food"},
+    {"id": 9, "question": "What does a nurse do?", "options": ["Teaches", "Cares for patients", "Only hospitals", "Only adults"], "answer": "Cares for patients"},
+    {"id": 10, "question": "What does a mechanic do?", "options": ["Grows", "Fixes machines", "Only cars", "Only big"], "answer": "Fixes machines"},
+    {"id": 11, "question": "What is payment?", "options": ["Nothing", "Money for work", "Only food", "Only in cash"], "answer": "Money for work"},
+    {"id": 12, "question": "Why do people work?", "options": ["No reason", "Make money", "Only adults", "Only necessity"], "answer": "Make money"},
+    {"id": 13, "question": "What is a career?", "options": ["Hobby", "Work done long-term", "Only adults", "Only important"], "answer": "Work done long-term"},
+    {"id": 14, "question": "What is training?", "options": ["Playing", "Learning for job", "Only school", "Only young"], "answer": "Learning for job"},
+    {"id": 15, "question": "What is a volunteer?", "options": ["Paid worker", "Works without pay", "Only charity", "Only skilled"], "answer": "Works without pay"},
+    {"id": 16, "question": "What is teamwork?", "options": ["One person", "People working together", "Only work", "Only family"], "answer": "People working together"},
+    {"id": 17, "question": "Why is teamwork important?", "options": ["No reason", "Get more done", "Only in jobs", "Only adults"], "answer": "Get more done"}
+  ]
+}

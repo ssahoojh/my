@@ -1,0 +1,22 @@
+{
+  "id": 10,
+  "questions": [
+    {"id": 1, "question": "What is communication?", "options": ["Staying quiet", "Sharing ideas and information", "Drawing", "Playing"], "answer": "Sharing ideas and information"},
+    {"id": 2, "question": "What are two ways to communicate?", "options": ["Drawing only", "Speaking and writing", "Listening only", "Watching"], "answer": "Speaking and writing"},
+    {"id": 3, "question": "What is listening?", "options": ["Talking", "Hearing and understanding", "Drawing", "Reading"], "answer": "Hearing and understanding"},
+    {"id": 4, "question": "What is a good listener?", "options": ["Talks a lot", "Pays attention to the speaker", "Interrupts", "Ignores"], "answer": "Pays attention to the speaker"},
+    {"id": 5, "question": "What is speaking clearly?", "options": ["Mumbling", "Using clear voice and good words", "Whispering", "Yelling"], "answer": "Using clear voice and good words"},
+    {"id": 6, "question": "What should you do before speaking?", "options": ["Nothing", "Think about what to say", "Interrupt others", "Be quiet"], "answer": "Think about what to say"},
+    {"id": 7, "question": "What is a conversation?", "options": ["One person talking", "Two or more people talking together", "Silent thinking", "Only writing"], "answer": "Two or more people talking together"},
+    {"id": 8, "question": "What is important in a conversation?", "options": ["One person talks", "Everyone listens to each other", "Only listening", "Only talking"], "answer": "Everyone listens to each other"},
+    {"id": 9, "question": "What is reading aloud?", "options": ["Silent reading", "Speaking words written on paper", "Drawing", "Singing"], "answer": "Speaking words written on paper"},
+    {"id": 10, "question": "What helps you remember what you read?", "options": ["Skipping parts", "Taking notes", "Reading too fast", "Not paying attention"], "answer": "Taking notes"},
+    {"id": 11, "question": "What is a question?", "options": ["A statement", "Words asking for information", "A noun", "A verb"], "answer": "Words asking for information"},
+    {"id": 12, "question": "When should you ask questions?", "options": ["Never", "When you don't understand", "Only in class", "Never in conversation"], "answer": "When you don't understand"},
+    {"id": 13, "question": "What is respectful communication?", "options": ["Being rude", "Being kind and listening", "Interrupting", "Ignoring"], "answer": "Being kind and listening"},
+    {"id": 14, "question": "What should you use to show emotions in writing?", "options": ["Capital letters only", "Punctuation marks", "No expression", "Numbers"], "answer": "Punctuation marks"},
+    {"id": 15, "question": "What is feedback?", "options": ["Silence", "Response to what someone said", "Criticism only", "Ignoring"], "answer": "Response to what someone said"},
+    {"id": 16, "question": "Why is clear communication important?", "options": ["It's not", "So people understand each other", "Only for teachers", "Only for writing"], "answer": "So people understand each other"},
+    {"id": 17, "question": "What makes a good reader?", "options": ["Reading slowly", "Understanding and enjoying books", "Skipping parts", "Not thinking"], "answer": "Understanding and enjoying books"}
+  ]
+}

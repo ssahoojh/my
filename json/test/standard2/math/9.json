@@ -1,0 +1,22 @@
+{
+  "id": 9,
+  "questions": [
+    {"id": 1, "question": "What comes next? 2, 4, 6, 8, ___?", "options": ["8", "9", "10", "12"], "answer": "10"},
+    {"id": 2, "question": "What comes next? 5, 10, 15, 20, ___?", "options": ["20", "22", "25", "30"], "answer": "25"},
+    {"id": 3, "question": "What is the rule? 3, 6, 9, 12?", "options": ["Add 2", "Add 3", "Add 4", "Add 5"], "answer": "Add 3"},
+    {"id": 4, "question": "What comes next? 1, 4, 7, 10, ___?", "options": ["12", "13", "14", "15"], "answer": "13"},
+    {"id": 5, "question": "What comes next? 20, 18, 16, 14, ___?", "options": ["12", "13", "14", "15"], "answer": "12"},
+    {"id": 6, "question": "What is the rule? 20, 16, 12, 8?", "options": ["Subtract 2", "Subtract 3", "Subtract 4", "Subtract 5"], "answer": "Subtract 4"},
+    {"id": 7, "question": "What comes next? 2, 4, 8, 16, ___?", "options": ["20", "24", "32", "36"], "answer": "32"},
+    {"id": 8, "question": "What is the rule? 1, 2, 4, 8?", "options": ["Add 1", "Double", "Add 2", "Triple"], "answer": "Double"},
+    {"id": 9, "question": "What comes next? 100, 90, 80, 70, ___?", "options": ["50", "60", "70", "80"], "answer": "60"},
+    {"id": 10, "question": "What comes next? 1, 1, 2, 3, 5, 8, ___?", "options": ["10", "11", "12", "13"], "answer": "13"},
+    {"id": 11, "question": "What is the rule? 5, 10, 20, 40?", "options": ["Add 5", "Double", "Add 10", "Triple"], "answer": "Double"},
+    {"id": 12, "question": "What comes next? 50, 45, 40, 35, ___?", "options": ["25", "30", "35", "40"], "answer": "30"},
+    {"id": 13, "question": "What comes next? 2, 6, 18, 54, ___?", "options": ["108", "110", "162", "180"], "answer": "162"},
+    {"id": 14, "question": "What is the rule? 2, 6, 18, 54?", "options": ["Add 4", "Triple", "Double", "Add 12"], "answer": "Triple"},
+    {"id": 15, "question": "What comes next? 10, 20, 30, 40, ___?", "options": ["45", "48", "50", "55"], "answer": "50"},
+    {"id": 16, "question": "What comes next? 64, 32, 16, 8, ___?", "options": ["2", "3", "4", "5"], "answer": "4"},
+    {"id": 17, "question": "What is the rule? 64, 32, 16, 8?", "options": ["Subtract 32", "Divide by 2", "Halve", "Divide by 2"], "answer": "Divide by 2"}
+  ]
+}
