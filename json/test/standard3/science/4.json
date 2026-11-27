@@ -1,0 +1,48 @@
+{
+  "id": 3,
+  "chapter": "Animals Around Us",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which animal gives us milk?",
+      "options": ["Cow", "Lion", "Tiger", "Elephant"],
+      "answer": "Cow"
+    },
+    {
+      "id": 2,
+      "question": "Which of these animals can fly?",
+      "options": ["Dog", "Cat", "Parrot", "Goat"],
+      "answer": "Parrot"
+    },
+    {
+      "id": 3,
+      "question": "A frog lives in ____.",
+      "options": ["Water and land", "Only in trees", "Only in deserts", "Only in houses"],
+      "answer": "Water and land"
+    },
+    {
+      "id": 4,
+      "question": "Which animal is known as the 'King of the Jungle'?",
+      "options": ["Tiger", "Lion", "Bear", "Wolf"],
+      "answer": "Lion"
+    },
+    {
+      "id": 5,
+      "question": "Which animal lays eggs?",
+      "options": ["Hen", "Cow", "Dog", "Goat"],
+      "answer": "Hen"
+    },
+    {
+      "id": 6,
+      "question": "Fish use ____ to breathe in water.",
+      "options": ["Lungs", "Gills", "Nose", "Skin"],
+      "answer": "Gills"
+    },
+    {
+      "id": 7,
+      "question": "Which animal is a pet in many homes?",
+      "options": ["Dog", "Shark", "Whale", "Deer"],
+      "answer": "Dog"
+    }
+  ]
+}
