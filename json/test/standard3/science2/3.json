@@ -1,0 +1,83 @@
+{
+  "id": 3,
+  "chapter": "How Plants Grow and Reproduce",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the first stage in the life cycle of most plants?",
+      "options": [
+        "Seed",
+        "Flower",
+        "Fruit",
+        "Leaf"
+      ],
+      "answer": "Seed"
+    },
+    {
+      "id": 2,
+      "question": "What process begins when a seed starts to grow into a plant?",
+      "options": [
+        "Germination",
+        "Pollination",
+        "Photosynthesis",
+        "Respiration"
+      ],
+      "answer": "Germination"
+    },
+    {
+      "id": 3,
+      "question": "Which three things does a seed usually need to germinate?",
+      "options": [
+        "Water, air, and warmth",
+        "Milk, sunlight, and soil",
+        "Wind, rocks, and water",
+        "Sand, ice, and air"
+      ],
+      "answer": "Water, air, and warmth"
+    },
+    {
+      "id": 4,
+      "question": "What is pollination?",
+      "options": [
+        "The transfer of pollen from one flower to another",
+        "The growth of roots",
+        "The making of food by leaves",
+        "The falling of leaves"
+      ],
+      "answer": "The transfer of pollen from one flower to another"
+    },
+    {
+      "id": 5,
+      "question": "Which of these animals helps pollinate flowers?",
+      "options": [
+        "Bee",
+        "Rabbit",
+        "Fish",
+        "Frog"
+      ],
+      "answer": "Bee"
+    },
+    {
+      "id": 6,
+      "question": "After pollination, many flowers develop into ____.",
+      "options": [
+        "Fruits containing seeds",
+        "New roots",
+        "New leaves only",
+        "Bigger stems"
+      ],
+      "answer": "Fruits containing seeds"
+    },
+    {
+      "id": 7,
+      "question": "A maple tree's seeds spin through the air. This is an example of ____.",
+      "options": [
+        "Seed dispersal",
+        "Photosynthesis",
+        "Germination",
+        "Pollination"
+      ],
+      "answer": "Seed dispersal"
+    }
+  ]
+}
