@@ -1,0 +1,48 @@
+{
+  "id": 7,
+  "chapter": "Weather and Seasons",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which season is usually the hottest?",
+      "options": ["Winter", "Summer", "Spring", "Autumn"],
+      "answer": "Summer"
+    },
+    {
+      "id": 2,
+      "question": "What do we often see in the sky on a rainy day?",
+      "options": ["Rain clouds", "Snowman", "Traffic lights", "Mountains"],
+      "answer": "Rain clouds"
+    },
+    {
+      "id": 3,
+      "question": "Which season is usually the coldest?",
+      "options": ["Summer", "Spring", "Winter", "Autumn"],
+      "answer": "Winter"
+    },
+    {
+      "id": 4,
+      "question": "What should you carry when it is raining?",
+      "options": ["Umbrella", "Sunglasses", "Football", "Kite"],
+      "answer": "Umbrella"
+    },
+    {
+      "id": 5,
+      "question": "Which clothes do people usually wear in winter?",
+      "options": ["Woolen clothes", "Swimsuit", "Raincoat", "Shorts only"],
+      "answer": "Woolen clothes"
+    },
+    {
+      "id": 6,
+      "question": "A rainbow is often seen after ____.",
+      "options": ["Rain", "Snow", "Night", "Earthquake"],
+      "answer": "Rain"
+    },
+    {
+      "id": 7,
+      "question": "Which season comes after summer?",
+      "options": ["Autumn", "Winter", "Spring", "Summer"],
+      "answer": "Autumn"
+    }
+  ]
+}
