@@ -1,0 +1,98 @@
+{
+  "id": 2,
+  "chapter": "Multiplication",
+  "questions": [
+    {
+      "id": 1,
+      "question": "6 × 7 = ?",
+      "options": ["36", "42", "48", "54"],
+      "answer": "42"
+    },
+    {
+      "id": 2,
+      "question": "8 × 9 = ?",
+      "options": ["64", "72", "81", "90"],
+      "answer": "72"
+    },
+    {
+      "id": 3,
+      "question": "5 × 12 = ?",
+      "options": ["50", "55", "60", "65"],
+      "answer": "60"
+    },
+    {
+      "id": 4,
+      "question": "7 × 8 = ?",
+      "options": ["49", "56", "63", "64"],
+      "answer": "56"
+    },
+    {
+      "id": 5,
+      "question": "9 × 4 = ?",
+      "options": ["27", "36", "45", "54"],
+      "answer": "36"
+    },
+
+    {
+      "id": 6,
+      "question": "There are 8 rows of chairs with 6 chairs in each row. How many chairs are there altogether?",
+      "options": ["42", "48", "54", "56"],
+      "answer": "48"
+    },
+    {
+      "id": 7,
+      "question": "A box contains 9 packs of crayons. Each pack has 7 crayons. How many crayons are there?",
+      "options": ["56", "63", "72", "81"],
+      "answer": "63"
+    },
+    {
+      "id": 8,
+      "question": "A baker made 12 trays of cookies. Each tray has 8 cookies. How many cookies did the baker make?",
+      "options": ["86", "92", "96", "104"],
+      "answer": "96"
+    },
+    {
+      "id": 9,
+      "question": "11 × 7 = ?",
+      "options": ["67", "77", "87", "97"],
+      "answer": "77"
+    },
+    {
+      "id": 10,
+      "question": "A classroom has 10 tables. Each table seats 4 students. How many students can sit altogether?",
+      "options": ["30", "35", "40", "45"],
+      "answer": "40"
+    },
+
+    {
+      "id": 11,
+      "question": "A farmer has 8 baskets with 7 apples in each basket. He sells 12 apples. How many apples are left?",
+      "options": ["44", "46", "48", "50"],
+      "answer": "44"
+    },
+    {
+      "id": 12,
+      "question": "A toy store receives 9 boxes. Each box contains 12 toy cars. If 15 toy cars are sold, how many remain?",
+      "options": ["83", "93", "103", "113"],
+      "answer": "93"
+    },
+    {
+      "id": 13,
+      "question": "There are 6 teams with 8 players on each team. If 9 players are absent, how many players are present?",
+      "options": ["37", "39", "41", "43"],
+      "answer": "39"
+    },
+    {
+      "id": 14,
+      "question": "A school buys 12 packs of pencils. Each pack has 9 pencils. Then 28 pencils are given away. How many pencils remain?",
+      "options": ["70", "78", "80", "88"],
+      "answer": "80"
+    },
+    {
+      "id": 15,
+      "question": "A movie theater has 11 rows with 12 seats in each row. If 37 seats are empty, how many seats are occupied?",
+      "options": ["85", "95", "105", "115"],
+      "answer": "95"
+    }
+  ]
+}
