@@ -1,0 +1,83 @@
+{
+  "id": 9,
+  "chapter": "Weather, Water Cycle, and Climate",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is evaporation?",
+      "options": [
+        "Liquid water changing into water vapor",
+        "Water freezing into ice",
+        "Rain falling from clouds",
+        "Ice melting into water"
+      ],
+      "answer": "Liquid water changing into water vapor"
+    },
+    {
+      "id": 2,
+      "question": "What happens to water vapor when it cools high in the sky?",
+      "options": [
+        "It forms tiny water droplets and clouds",
+        "It turns into rocks",
+        "It disappears forever",
+        "It becomes sunlight"
+      ],
+      "answer": "It forms tiny water droplets and clouds"
+    },
+    {
+      "id": 3,
+      "question": "Which part of the water cycle is rain, snow, or hail falling from clouds?",
+      "options": [
+        "Precipitation",
+        "Evaporation",
+        "Condensation",
+        "Collection"
+      ],
+      "answer": "Precipitation"
+    },
+    {
+      "id": 4,
+      "question": "What is the main source of energy that drives the water cycle?",
+      "options": [
+        "The Sun",
+        "The Moon",
+        "The Wind",
+        "The Ocean"
+      ],
+      "answer": "The Sun"
+    },
+    {
+      "id": 5,
+      "question": "A weather forecast tells us ____.",
+      "options": [
+        "What the weather may be like soon",
+        "What happened 100 years ago",
+        "How plants grow",
+        "How mountains are formed"
+      ],
+      "answer": "What the weather may be like soon"
+    },
+    {
+      "id": 6,
+      "question": "Which weather instrument is used to measure temperature?",
+      "options": [
+        "Thermometer",
+        "Ruler",
+        "Compass",
+        "Clock"
+      ],
+      "answer": "Thermometer"
+    },
+    {
+      "id": 7,
+      "question": "Climate is different from weather because climate describes ____.",
+      "options": [
+        "The usual weather in a place over many years",
+        "The weather for one day only",
+        "The temperature inside a house",
+        "The amount of water in a glass"
+      ],
+      "answer": "The usual weather in a place over many years"
+    }
+  ]
+}
