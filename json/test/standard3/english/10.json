@@ -1,0 +1,173 @@
+{
+  "id": 10,
+  "chapter": "Critical Thinking, Inference, and Language Usage",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Read: 'Dark clouds covered the sky. Mia grabbed her umbrella before leaving.' Why did Mia take her umbrella?",
+      "options": [
+        "She expected rain",
+        "She expected snow",
+        "She was going swimming",
+        "She lost her coat"
+      ],
+      "answer": "She expected rain"
+    },
+    {
+      "id": 2,
+      "question": "Which sentence makes the most sense?",
+      "options": [
+        "I drink a sandwich.",
+        "I eat a sandwich.",
+        "I wear a sandwich.",
+        "I drive a sandwich."
+      ],
+      "answer": "I eat a sandwich."
+    },
+    {
+      "id": 3,
+      "question": "Read: 'Ben studied every night for a week.' What is most likely to happen?",
+      "options": [
+        "He may do well on the test",
+        "He may forget everything",
+        "He may miss school",
+        "He may lose his books"
+      ],
+      "answer": "He may do well on the test"
+    },
+    {
+      "id": 4,
+      "question": "Which word best completes the sentence? 'The baby was so ____ that she fell asleep quickly.'",
+      "options": [
+        "tired",
+        "loud",
+        "hungry",
+        "fast"
+      ],
+      "answer": "tired"
+    },
+    {
+      "id": 5,
+      "question": "Read: 'The ice cream melted in the sun.' Why did it melt?",
+      "options": [
+        "Because it got warm",
+        "Because it got cold",
+        "Because it got wet",
+        "Because it got bigger"
+      ],
+      "answer": "Because it got warm"
+    },
+
+    {
+      "id": 6,
+      "question": "Read: 'The classroom was silent when the principal walked in.' What does 'silent' mean?",
+      "options": [
+        "Noisy",
+        "Quiet",
+        "Crowded",
+        "Bright"
+      ],
+      "answer": "Quiet"
+    },
+    {
+      "id": 7,
+      "question": "Which sentence is the best choice for a thank-you note?",
+      "options": [
+        "Thank you for the wonderful gift.",
+        "Give me another gift.",
+        "I don't like presents.",
+        "Where is my gift?"
+      ],
+      "answer": "Thank you for the wonderful gift."
+    },
+    {
+      "id": 8,
+      "question": "Read: 'Lena put on a coat, gloves, and boots.' What can you infer about the weather?",
+      "options": [
+        "It was cold",
+        "It was hot",
+        "It was sunny and warm",
+        "It was windy only"
+      ],
+      "answer": "It was cold"
+    },
+    {
+      "id": 9,
+      "question": "Which word best completes the sentence? 'The firefighter was very ____ because he entered the burning building to help others.'",
+      "options": [
+        "brave",
+        "lazy",
+        "quiet",
+        "careless"
+      ],
+      "answer": "brave"
+    },
+    {
+      "id": 10,
+      "question": "Read: 'After watering the plant every day, Sam noticed new leaves growing.' What caused the plant to grow?",
+      "options": [
+        "Regular care and water",
+        "A new pot",
+        "The color of the leaves",
+        "The weather report"
+      ],
+      "answer": "Regular care and water"
+    },
+
+    {
+      "id": 11,
+      "question": "Read: 'The soccer field was muddy, so the game was canceled.' Why was the game canceled?",
+      "options": [
+        "The field was not safe to play on",
+        "The players forgot the ball",
+        "The coach was late",
+        "The field was too dry"
+      ],
+      "answer": "The field was not safe to play on"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence gives the strongest clue that someone is nervous?",
+      "options": [
+        "Her hands were shaking before the speech.",
+        "She ate breakfast.",
+        "She wore a blue shirt.",
+        "She carried a notebook."
+      ],
+      "answer": "Her hands were shaking before the speech."
+    },
+    {
+      "id": 13,
+      "question": "Read: 'Daniel saved part of his allowance every week. After six months, he bought a tablet.' What helped Daniel buy the tablet?",
+      "options": [
+        "Saving money regularly",
+        "Borrowing money",
+        "Finding the tablet",
+        "Winning a race"
+      ],
+      "answer": "Saving money regularly"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence is the most polite way to ask for help?",
+      "options": [
+        "Help me now!",
+        "Move out of my way!",
+        "Could you please help me?",
+        "You must help me."
+      ],
+      "answer": "Could you please help me?"
+    },
+    {
+      "id": 15,
+      "question": "Read: 'When the alarm rang, Maya jumped out of bed and rushed to get ready.' What can you infer?",
+      "options": [
+        "Maya was running late",
+        "Maya was going to sleep",
+        "Maya was reading a book",
+        "Maya was on vacation"
+      ],
+      "answer": "Maya was running late"
+    }
+  ]
+}
