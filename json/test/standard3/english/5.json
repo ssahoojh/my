@@ -1,0 +1,103 @@
+{
+  "id": 5,
+  "chapter": "Adjectives and Adverbs",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which word is an adjective in this sentence? 'The red ball bounced high.'",
+      "options": ["red", "ball", "bounced", "high"],
+      "answer": "red"
+    },
+    {
+      "id": 2,
+      "question": "Which word is an adverb in this sentence? 'The rabbit ran quickly.'",
+      "options": ["rabbit", "ran", "quickly", "the"],
+      "answer": "quickly"
+    },
+    {
+      "id": 3,
+      "question": "An adjective describes a ____.",
+      "options": ["noun", "verb", "sentence", "question"],
+      "answer": "noun"
+    },
+    {
+      "id": 4,
+      "question": "An adverb often describes a ____.",
+      "options": ["verb", "noun", "book", "person"],
+      "answer": "verb"
+    },
+    {
+      "id": 5,
+      "question": "Choose the adjective.",
+      "options": ["beautiful", "run", "quickly", "jump"],
+      "answer": "beautiful"
+    },
+
+    {
+      "id": 6,
+      "question": "Choose the adverb.",
+      "options": ["slowly", "tall", "happy", "green"],
+      "answer": "slowly"
+    },
+    {
+      "id": 7,
+      "question": "Which word best completes the sentence? 'The ____ puppy wagged its tail.'",
+      "options": ["playful", "playfully", "played", "plays"],
+      "answer": "playful"
+    },
+    {
+      "id": 8,
+      "question": "Which word best completes the sentence? 'The bird sang ____.'",
+      "options": ["sweet", "sweetly", "sweeter", "sweetness"],
+      "answer": "sweetly"
+    },
+    {
+      "id": 9,
+      "question": "Which adjective best describes a mountain?",
+      "options": ["tall", "quickly", "loudly", "carefully"],
+      "answer": "tall"
+    },
+    {
+      "id": 10,
+      "question": "Which adverb best completes the sentence? 'The students worked ____ on the project.'",
+      "options": ["hard", "hardly", "hardworking", "hardness"],
+      "answer": "hard"
+    },
+
+    {
+      "id": 11,
+      "question": "In the sentence 'The small brown dog barked loudly,' how many adjectives are there?",
+      "options": ["1", "2", "3", "4"],
+      "answer": "2"
+    },
+    {
+      "id": 12,
+      "question": "Which sentence contains both an adjective and an adverb?",
+      "options": [
+        "The happy child laughed loudly.",
+        "The child laughed.",
+        "Happy children.",
+        "Laugh loudly."
+      ],
+      "answer": "The happy child laughed loudly."
+    },
+    {
+      "id": 13,
+      "question": "Choose the adjective that best fits the sentence: 'The _____ elephant walked across the field.'",
+      "options": ["enormous", "carefully", "walking", "quietly"],
+      "answer": "enormous"
+    },
+    {
+      "id": 14,
+      "question": "Choose the adverb that best fits the sentence: 'The firefighter _____ climbed the ladder during the rescue.'",
+      "options": ["brave", "bravely", "bravery", "braves"],
+      "answer": "bravely"
+    },
+    {
+      "id": 15,
+      "question": "In the sentence 'The bright sun shone brightly over the calm lake,' which word is an adverb?",
+      "options": ["bright", "sun", "brightly", "calm"],
+      "answer": "brightly"
+    }
+  ]
+}
