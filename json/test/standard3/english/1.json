@@ -1,0 +1,123 @@
+{
+  "id": 1,
+  "chapter": "Vocabulary and Word Meanings",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does the word 'tiny' mean?",
+      "options": ["Small", "Large", "Fast", "Loud"],
+      "answer": "Small"
+    },
+    {
+      "id": 2,
+      "question": "What does the word 'happy' mean?",
+      "options": ["Sad", "Angry", "Glad", "Tired"],
+      "answer": "Glad"
+    },
+    {
+      "id": 3,
+      "question": "Which word means the same as 'begin'?",
+      "options": ["Start", "Stop", "Finish", "Wait"],
+      "answer": "Start"
+    },
+    {
+      "id": 4,
+      "question": "What does the word 'silent' mean?",
+      "options": ["Noisy", "Quiet", "Bright", "Busy"],
+      "answer": "Quiet"
+    },
+    {
+      "id": 5,
+      "question": "Which word means 'a place where books are kept'?",
+      "options": ["Library", "Hospital", "Market", "Airport"],
+      "answer": "Library"
+    },
+
+    {
+      "id": 6,
+      "question": "Which word best describes someone who is not afraid?",
+      "options": ["Brave", "Lazy", "Quiet", "Messy"],
+      "answer": "Brave"
+    },
+    {
+      "id": 7,
+      "question": "What does the word 'discover' mean?",
+      "options": ["To lose", "To find", "To hide", "To throw"],
+      "answer": "To find"
+    },
+    {
+      "id": 8,
+      "question": "Which word means 'a journey from one place to another'?",
+      "options": ["Trip", "Book", "Meal", "Game"],
+      "answer": "Trip"
+    },
+    {
+      "id": 9,
+      "question": "What does the word 'observe' mean?",
+      "options": ["Look at carefully", "Run quickly", "Sleep", "Forget"],
+      "answer": "Look at carefully"
+    },
+    {
+      "id": 10,
+      "question": "Which word means 'very hungry'?",
+      "options": ["Excited", "Starving", "Sleepy", "Curious"],
+      "answer": "Starving"
+    },
+
+    {
+      "id": 11,
+      "question": "If someone is 'generous', what are they likely to do?",
+      "options": [
+        "Share with others",
+        "Hide everything",
+        "Break things",
+        "Stay silent"
+      ],
+      "answer": "Share with others"
+    },
+    {
+      "id": 12,
+      "question": "The word 'ancient' means ____.",
+      "options": [
+        "Very old",
+        "Very new",
+        "Very large",
+        "Very fast"
+      ],
+      "answer": "Very old"
+    },
+    {
+      "id": 13,
+      "question": "Which word best completes the sentence? 'The scientist made an important ____.'",
+      "options": [
+        "Discovery",
+        "Homework",
+        "Nap",
+        "Mistake"
+      ],
+      "answer": "Discovery"
+    },
+    {
+      "id": 14,
+      "question": "If the weather is 'pleasant', it is ____.",
+      "options": [
+        "Enjoyable",
+        "Dangerous",
+        "Terrible",
+        "Freezing"
+      ],
+      "answer": "Enjoyable"
+    },
+    {
+      "id": 15,
+      "question": "Which word best fits this sentence? 'After hiking for three hours, the children were ____.'",
+      "options": [
+        "Exhausted",
+        "Invisible",
+        "Ancient",
+        "Careful"
+      ],
+      "answer": "Exhausted"
+    }
+  ]
+}
