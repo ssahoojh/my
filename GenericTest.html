@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Practice Tests</title>
+
+<style>
+    * {
+        box-sizing: border-box;
+        font-family: Arial, sans-serif;
+    }
+
+    body {
+        margin: 0;
+        padding: 15px;
+        background: #f5f5f5;
+    }
+
+    .container {
+        max-width: 1000px;
+        margin: auto;
+    }
+
+    .selector-panel {
+        background: white;
+        padding: 15px;
+        border-radius: 8px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-bottom: 15px;
+    }
+
+    select, button {
+        padding: 10px;
+        font-size: 16px;
+    }
+
+    button {
+        cursor: pointer;
+    }
+
+    .score {
+        background: white;
+        padding: 12px;
+        border-radius: 8px;
+        margin-bottom: 15px;
+        font-weight: bold;
+        text-align: center;
+        font-size: 18px;
+    }
+
+    .question {
+        background: white;
+        margin-bottom: 15px;
+        padding: 15px;
+        border-radius: 8px;
+    }
+
+    .question-title {
+        font-size: 18px;
+        margin-bottom: 10px;
+        font-weight: bold;
+    }
+
+    .options {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .option {
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+        cursor: pointer;
+        background: white;
+    }
+
+    .option:hover {
+        background: #f0f0f0;
+    }
+
+    .correct {
+        background: #c8f7c5 !important;
+        border-color: green !important;
+    }
+
+    .wrong {
+        background: #ffd6d6 !important;
+        border-color: red !important;
+    }
+
+    .disabled {
+        pointer-events: none;
+    }
+
+    .bottom-buttons {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+    @media(max-width:600px){
+        .selector-panel {
+            flex-direction: column;
+        }
+
+        select,
+        button {
+            width: 100%;
+        }
+    }
+</style>
+</head>
+<body>
+
+<div class="container">
+
+    <div class="selector-panel">
+        <select id="standard"></select>
+
+        <select id="subject">
+            <option value="math">Math</option>
+            <option value="science">Science</option>
+            <option value="english">English</option>
+            <option value="geography">Geography</option>
+            <option value="social">Social</option>
+            <option value="whoami">WhoAmI</option>
+        </select>
+
+        <select id="test"></select>
+
+        <button onclick="loadTest()">Load Test</button>
+    </div>
+
+    <div class="score" id="scoreTop">
+        Right: 0 | Wrong: 0
+    </div>
+
+    <div id="questions"></div>
+
+    <div class="score" id="scoreBottom">
+        Right: 0 | Wrong: 0
+    </div>
+
+    <div class="bottom-buttons">
+        <button onclick="clearCurrentTest()">
+            Clear Current Test Progress
+        </button>
+    </div>
+
+</div>
+
+<script>
+
+for(let i=1;i<=5;i++){
+    standard.innerHTML +=
+        `<option value="standard${i}">Standard ${i}</option>`;
+}
+
+for(let i=1;i<=15;i++){
+    test.innerHTML +=
+        `<option value="${i}">Test ${i}</option>`;
+}
+
+function getTestUrl(){
+    const std = standard.value;
+    const subj = subject.value;
+    const testId = test.value;
+
+    return `https://ssahoojh.github.io/my/json/test/${std}/${subj}/${testId}.json`;
+}
+
+function getStorageKey(){
+    return `test_${standard.value}_${subject.value}_${test.value}`;
+}
+
+let currentData = null;
+
+async function loadTest(){
+
+    const url = getTestUrl();
+
+    try{
+
+        const res = await fetch(url);
+
+        if(!res.ok){
+            throw new Error("File not found");
+        }
+
+        currentData = await res.json();
+
+        renderQuestions();
+
+    }catch(err){
+
+        document.getElementById("questions").innerHTML =
+            "<h3>Test not found.</h3>";
+
+    }
+}
+
+function renderQuestions(){
+
+    const container =
+        document.getElementById("questions");
+
+    const saved =
+        JSON.parse(localStorage.getItem(getStorageKey()) || "{}");
+
+    container.innerHTML = "";
+
+    let right = 0;
+    let wrong = 0;
+
+    currentData.questions.forEach(q=>{
+
+        if(saved[q.id]){
+            if(saved[q.id].correct){
+                right++;
+            }else{
+                wrong++;
+            }
+        }
+
+        const div =
+            document.createElement("div");
+
+        div.className = "question";
+
+        const selected =
+            saved[q.id]?.selected;
+
+        let optionsHtml = "";
+
+        q.options.forEach(option => {
+
+    let cls = "option";
+
+    if (selected) {
+
+        const isCorrectAnswer =
+            option === q.answer;
+
+        const isSelectedAnswer =
+            option === selected;
+
+        if (saved[q.id].correct) {
+
+            if (isSelectedAnswer) {
+                cls += " correct";
+            }
+
+        } else {
+
+            if (isSelectedAnswer) {
+                cls += " wrong";
+            }
+
+            if (isCorrectAnswer) {
+                cls += " correct";
+            }
+        }
+
+        cls += " disabled";
+    }
+
+    optionsHtml += `
+        <div class="${cls}"
+             onclick="selectAnswer(${q.id},
+             '${option.replace(/'/g, "\\'")}')">
+            ${option}
+        </div>`;
+});
+        div.innerHTML = `
+            <div class="question-title">
+                ${q.id}. ${q.question}
+            </div>
+            <div class="options">
+                ${optionsHtml}
+            </div>`;
+
+        container.appendChild(div);
+
+    });
+
+    updateScore(right,wrong);
+}
+
+function selectAnswer(questionId, selectedOption){
+
+    const saved =
+        JSON.parse(localStorage.getItem(getStorageKey()) || "{}");
+
+    if(saved[questionId]){
+        return;
+    }
+
+    const q =
+        currentData.questions.find(
+            x=>x.id===questionId);
+
+    const correct =
+        q.answer === selectedOption;
+
+    saved[questionId] = {
+        selected:selectedOption,
+        correct:correct
+    };
+
+    localStorage.setItem(
+        getStorageKey(),
+        JSON.stringify(saved)
+    );
+
+    renderQuestions();
+}
+
+function updateScore(right,wrong){
+
+    const text =
+        `Right: ${right} | Wrong: ${wrong}`;
+
+    scoreTop.textContent = text;
+    scoreBottom.textContent = text;
+}
+
+function clearCurrentTest(){
+
+    if(!confirm("Clear progress for current test?")){
+        return;
+    }
+
+    localStorage.removeItem(getStorageKey());
+
+    if(currentData){
+        renderQuestions();
+    }
+}
+
+window.onload = () => {
+    loadTest();
+};
+
+</script>
+
+</body>
+</html>
