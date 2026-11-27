@@ -1,0 +1,83 @@
+{
+  "id": 8,
+  "chapter": "Matter: Solids, Liquids, and Gases",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of these is a solid?",
+      "options": [
+        "Ice Cube",
+        "Milk",
+        "Air",
+        "Steam"
+      ],
+      "answer": "Ice Cube"
+    },
+    {
+      "id": 2,
+      "question": "Which of these is a liquid?",
+      "options": [
+        "Water",
+        "Rock",
+        "Balloon",
+        "Book"
+      ],
+      "answer": "Water"
+    },
+    {
+      "id": 3,
+      "question": "Which of these is a gas?",
+      "options": [
+        "Air",
+        "Juice",
+        "Wood",
+        "Paper"
+      ],
+      "answer": "Air"
+    },
+    {
+      "id": 4,
+      "question": "Which statement about liquids is true?",
+      "options": [
+        "Liquids take the shape of their container",
+        "Liquids always keep the same shape",
+        "Liquids cannot be poured",
+        "Liquids are invisible"
+      ],
+      "answer": "Liquids take the shape of their container"
+    },
+    {
+      "id": 5,
+      "question": "What happens when ice warms up?",
+      "options": [
+        "It melts into liquid water",
+        "It becomes a rock",
+        "It disappears completely",
+        "It turns into metal"
+      ],
+      "answer": "It melts into liquid water"
+    },
+    {
+      "id": 6,
+      "question": "Water boiling in a pot changes into ____.",
+      "options": [
+        "Water vapor",
+        "Ice",
+        "Mud",
+        "Glass"
+      ],
+      "answer": "Water vapor"
+    },
+    {
+      "id": 7,
+      "question": "A balloon gets bigger when air is blown into it because gases ____.",
+      "options": [
+        "Take up space",
+        "Are heavier than rocks",
+        "Have a fixed shape",
+        "Cannot move"
+      ],
+      "answer": "Take up space"
+    }
+  ]
+}
