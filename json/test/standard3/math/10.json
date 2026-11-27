@@ -1,0 +1,98 @@
+{
+  "id": 10,
+  "chapter": "Multi-Step Word Problems and Logical Reasoning",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Jay has 12 marbles. He wins 5 more marbles. How many marbles does he have now?",
+      "options": ["15", "16", "17", "18"],
+      "answer": "17"
+    },
+    {
+      "id": 2,
+      "question": "A box contains 20 pencils. 7 pencils are taken out. How many pencils remain?",
+      "options": ["11", "12", "13", "14"],
+      "answer": "13"
+    },
+    {
+      "id": 3,
+      "question": "There are 8 bags with 4 apples in each bag. How many apples are there altogether?",
+      "options": ["24", "28", "32", "36"],
+      "answer": "32"
+    },
+    {
+      "id": 4,
+      "question": "A ribbon is 30 cm long. 12 cm is cut off. How much ribbon remains?",
+      "options": ["16 cm", "18 cm", "20 cm", "22 cm"],
+      "answer": "18 cm"
+    },
+    {
+      "id": 5,
+      "question": "A toy costs $9. You pay with a $10 bill. How much change do you get?",
+      "options": ["$1", "$2", "$3", "$4"],
+      "answer": "$1"
+    },
+
+    {
+      "id": 6,
+      "question": "Tom has 24 stickers. He gives 8 stickers to his friend and then buys 6 more. How many stickers does Tom have now?",
+      "options": ["20", "22", "24", "26"],
+      "answer": "22"
+    },
+    {
+      "id": 7,
+      "question": "A bakery made 7 trays of cookies with 8 cookies on each tray. They sold 20 cookies. How many cookies are left?",
+      "options": ["34", "36", "38", "40"],
+      "answer": "36"
+    },
+    {
+      "id": 8,
+      "question": "A bus has 35 passengers. At one stop, 9 get off and 4 get on. How many passengers are now on the bus?",
+      "options": ["28", "30", "32", "34"],
+      "answer": "30"
+    },
+    {
+      "id": 9,
+      "question": "Sara has $25. She buys a book for $8 and a notebook for $5. How much money does she have left?",
+      "options": ["$10", "$11", "$12", "$13"],
+      "answer": "$12"
+    },
+    {
+      "id": 10,
+      "question": "A rope is 50 meters long. 15 meters are used on Monday and 10 meters on Tuesday. How many meters remain?",
+      "options": ["20", "25", "30", "35"],
+      "answer": "25"
+    },
+
+    {
+      "id": 11,
+      "question": "Ria has 3 fewer marbles than Tom. Tom has 15 marbles. How many marbles do they have together?",
+      "options": ["27", "30", "33", "36"],
+      "answer": "27"
+    },
+    {
+      "id": 12,
+      "question": "A farmer has 9 baskets with 6 oranges in each basket. He sells 18 oranges. How many oranges are left?",
+      "options": ["32", "34", "36", "38"],
+      "answer": "36"
+    },
+    {
+      "id": 13,
+      "question": "A train traveled 125 miles on Monday and 138 miles on Tuesday. How many miles did it travel in all?",
+      "options": ["253", "263", "273", "283"],
+      "answer": "263"
+    },
+    {
+      "id": 14,
+      "question": "A school collected 325 cans in Week 1 and 278 cans in Week 2. They recycled 150 cans. How many cans remain?",
+      "options": ["443", "453", "463", "473"],
+      "answer": "453"
+    },
+    {
+      "id": 15,
+      "question": "A store received 12 boxes of pencils with 9 pencils in each box. It sold 37 pencils and later received 20 more pencils. How many pencils does the store have now?",
+      "options": ["81", "91", "101", "111"],
+      "answer": "91"
+    }
+  ]
+}
