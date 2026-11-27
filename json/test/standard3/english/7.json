@@ -1,0 +1,173 @@
+{
+  "id": 7,
+  "chapter": "Sentence Structure and Grammar",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence is complete?",
+      "options": [
+        "The dog.",
+        "Ran quickly.",
+        "The dog ran quickly.",
+        "Quickly the."
+      ],
+      "answer": "The dog ran quickly."
+    },
+    {
+      "id": 2,
+      "question": "Which sentence begins with a capital letter and ends with a period?",
+      "options": [
+        "the cat sleeps.",
+        "The cat sleeps",
+        "The cat sleeps.",
+        "the cat sleeps"
+      ],
+      "answer": "The cat sleeps."
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct sentence.",
+      "options": [
+        "She are happy.",
+        "She is happy.",
+        "She am happy.",
+        "She be happy."
+      ],
+      "answer": "She is happy."
+    },
+    {
+      "id": 4,
+      "question": "Which word should come first in a sentence?",
+      "options": [
+        "a capital letter",
+        "a period",
+        "a comma",
+        "a question mark"
+      ],
+      "answer": "a capital letter"
+    },
+    {
+      "id": 5,
+      "question": "Which mark ends a question?",
+      "options": [
+        ".",
+        ",",
+        "?",
+        "!"
+      ],
+      "answer": "?"
+    },
+
+    {
+      "id": 6,
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The boys plays soccer.",
+        "The boys play soccer.",
+        "The boys playing soccer.",
+        "The boys is soccer."
+      ],
+      "answer": "The boys play soccer."
+    },
+    {
+      "id": 7,
+      "question": "Which sentence is a question?",
+      "options": [
+        "I like pizza.",
+        "What is your name?",
+        "Please sit down.",
+        "What a nice day!"
+      ],
+      "answer": "What is your name?"
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct word: 'My friend and I ____ going to the zoo.'",
+      "options": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "answer": "are"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence uses the correct grammar?",
+      "options": [
+        "They was late.",
+        "They were late.",
+        "They is late.",
+        "They be late."
+      ],
+      "answer": "They were late."
+    },
+    {
+      "id": 10,
+      "question": "Which sentence is an exclamation?",
+      "options": [
+        "Where are you going?",
+        "I am going home.",
+        "Please open the door.",
+        "What a beautiful rainbow!"
+      ],
+      "answer": "What a beautiful rainbow!"
+    },
+
+    {
+      "id": 11,
+      "question": "Choose the sentence with the correct word order.",
+      "options": [
+        "Ate quickly Sam lunch.",
+        "Sam ate lunch quickly.",
+        "Quickly lunch Sam ate.",
+        "Lunch quickly ate Sam."
+      ],
+      "answer": "Sam ate lunch quickly."
+    },
+    {
+      "id": 12,
+      "question": "Which sentence has the correct subject and verb agreement?",
+      "options": [
+        "The dog bark loudly.",
+        "The dog barks loudly.",
+        "The dog barking loudly.",
+        "The dog barked loudly every day."
+      ],
+      "answer": "The dog barks loudly."
+    },
+    {
+      "id": 13,
+      "question": "Choose the best way to combine the ideas: 'Mia likes reading. Mia likes science.'",
+      "options": [
+        "Mia likes reading and science.",
+        "Mia reading science likes.",
+        "Likes Mia reading and science.",
+        "Mia likes. Science reading."
+      ],
+      "answer": "Mia likes reading and science."
+    },
+    {
+      "id": 14,
+      "question": "Which sentence is written correctly?",
+      "options": [
+        "on monday we went to denver.",
+        "On Monday we went to Denver.",
+        "On monday we went to denver.",
+        "on Monday We Went To Denver."
+      ],
+      "answer": "On Monday we went to Denver."
+    },
+    {
+      "id": 15,
+      "question": "Read the sentence: 'After finishing her homework, Emma played outside with her friends.' Who played outside?",
+      "options": [
+        "Homework",
+        "Friends",
+        "Emma",
+        "Outside"
+      ],
+      "answer": "Emma"
+    }
+  ]
+}
