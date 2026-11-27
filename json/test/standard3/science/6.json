@@ -1,0 +1,53 @@
+{
+  "id": 5,
+  "chapter": "Food and Nutrition",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which food helps build strong muscles?",
+      "options": ["Eggs", "Candy", "Chips", "Soda"],
+      "answer": "Eggs"
+    },
+    {
+      "id": 2,
+      "question": "Which vitamin-rich food helps keep us healthy?",
+      "options": ["Fruits", "Chocolate", "Cake", "Ice Cream"],
+      "answer": "Fruits"
+    },
+    {
+      "id": 3,
+      "question": "Milk is important because it helps make our ____ strong.",
+      "options": ["Bones and teeth", "Hair", "Nails", "Ears"],
+      "answer": "Bones and teeth"
+    },
+    {
+      "id": 4,
+      "question": "Which of these is a healthy snack?",
+      "options": ["Apple", "Candy Bar", "Potato Chips", "Donut"],
+      "answer": "Apple"
+    },
+    {
+      "id": 5,
+      "question": "Why do we need food?",
+      "options": [
+        "To get energy and grow",
+        "To change our height every day",
+        "To make noise",
+        "To change our eye color"
+      ],
+      "answer": "To get energy and grow"
+    },
+    {
+      "id": 6,
+      "question": "Which meal is important to eat in the morning?",
+      "options": ["Breakfast", "Lunch", "Dinner", "Snack"],
+      "answer": "Breakfast"
+    },
+    {
+      "id": 7,
+      "question": "Which drink is the healthiest choice when you are thirsty?",
+      "options": ["Water", "Soda", "Energy Drink", "Candy Shake"],
+      "answer": "Water"
+    }
+  ]
+}
