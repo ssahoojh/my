@@ -1,0 +1,107 @@
+{
+  "id": 3,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who were the first people to live in North America?",
+      "options": ["Europeans", "Native Americans", "Africans", "Australians"],
+      "answer": "Native Americans"
+    },
+    {
+      "id": 2,
+      "question": "True or False: Native Americans had their own communities and ways of life.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 3,
+      "question": "What did Native Americans hunt for food?",
+      "options": ["Pizza", "Hamburgers", "Buffalo, deer, and fish", "Candy"],
+      "answer": "Buffalo, deer, and fish"
+    },
+    {
+      "id": 4,
+      "question": "Which of these is a Native American tribe?",
+      "options": ["The Romans", "The Cherokee", "The British", "The French"],
+      "answer": "The Cherokee"
+    },
+    {
+      "id": 5,
+      "question": "What type of homes did some Native Americans live in?",
+      "options": ["Apartments", "Teepees and wooden houses", "Skyscrapers", "Tents only"],
+      "answer": "Teepees and wooden houses"
+    },
+    {
+      "id": 6,
+      "question": "True or False: Native Americans farmed the land.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 7,
+      "question": "How did Native Americans adapt to their environment?",
+      "options": ["They didn't", "By using local resources and creating shelters suited to their climate", "By importing things from Europe", "By ignoring nature"],
+      "answer": "By using local resources and creating shelters suited to their climate"
+    },
+    {
+      "id": 8,
+      "question": "What did Native Americans value highly?",
+      "options": ["Money", "Gold", "Land and nature", "Toys"],
+      "answer": "Land and nature"
+    },
+    {
+      "id": 9,
+      "question": "How did Native American communities make decisions?",
+      "options": ["A king decided everything", "Leaders and councils discussed and decided together", "Nobody made decisions", "Only one person spoke"],
+      "answer": "Leaders and councils discussed and decided together"
+    },
+    {
+      "id": 10,
+      "question": "True or False: Native Americans had their own languages, customs, and beliefs.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 11,
+      "question": "Which Native American group lived in the Southwest and grew corn, beans, and squash?",
+      "options": ["The Inuit", "The Pueblo people", "The Great Plains tribes", "The Pacific Northwest tribes"],
+      "answer": "The Pueblo people"
+    },
+    {
+      "id": 12,
+      "question": "What was important to Native American culture and spiritual life?",
+      "options": ["Movies", "Cars", "Stories, art, music, and ceremonies", "Plastic"],
+      "answer": "Stories, art, music, and ceremonies"
+    },
+    {
+      "id": 13,
+      "question": "How did different Native American tribes adapt differently to their regions?",
+      "options": ["They all lived the same way", "They developed different hunting, farming, and housing based on climate and resources", "Geography had no effect", "All tribes lived in teepees"],
+      "answer": "They developed different hunting, farming, and housing based on climate and resources"
+    },
+    {
+      "id": 14,
+      "question": "What was the significance of natural resources like buffalo to Plains tribes?",
+      "options": ["No significance", "They provided food, clothing, shelter, and tools", "Only for hunting sport", "They were not useful"],
+      "answer": "They provided food, clothing, shelter, and tools"
+    },
+    {
+      "id": 15,
+      "question": "How did Native Americans maintain and pass down their knowledge?",
+      "options": ["They didn't", "Through oral traditions, stories, and teaching by elders", "They had written books only", "Knowledge was not important"],
+      "answer": "Through oral traditions, stories, and teaching by elders"
+    },
+    {
+      "id": 16,
+      "question": "What was unique about Native American view of land ownership?",
+      "options": ["Same as modern ownership", "They believed land belonged to everyone and nature, not individuals", "They didn't value land", "Everyone owned their own plot"],
+      "answer": "They believed land belonged to everyone and nature, not individuals"
+    },
+    {
+      "id": 17,
+      "question": "How did Native American communities interact with nature responsibly?",
+      "options": ["They didn't care about nature", "They hunted and farmed sustainably, taking only what they needed", "They hunted everything", "Nature had no value to them"],
+      "answer": "They hunted and farmed sustainably, taking only what they needed"
+    }
+  ]
+}

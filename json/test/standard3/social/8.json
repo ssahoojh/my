@@ -1,0 +1,107 @@
+{
+  "id": 8,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a holiday?",
+      "options": ["A day off from school", "A special day when people celebrate", "A type of food", "A type of game"],
+      "answer": "A special day when people celebrate"
+    },
+    {
+      "id": 2,
+      "question": "Which holiday celebrates America's independence?",
+      "options": ["Thanksgiving", "Christmas", "Fourth of July", "Halloween"],
+      "answer": "Fourth of July"
+    },
+    {
+      "id": 3,
+      "question": "What do people do on Thanksgiving?",
+      "options": ["Go trick-or-treating", "Gather with family and give thanks for what they have", "Give presents", "Decorate with lights"],
+      "answer": "Gather with family and give thanks for what they have"
+    },
+    {
+      "id": 4,
+      "question": "True or False: Holidays are celebrated by many people together.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 5,
+      "question": "What is Christmas?",
+      "options": ["A holiday celebrating the birthday of Jesus", "A day for decorating", "A holiday celebrating independence", "A day for eating turkey"],
+      "answer": "A holiday celebrating the birthday of Jesus"
+    },
+    {
+      "id": 6,
+      "question": "What do many people do on New Year's Day?",
+      "options": ["Celebrate a new beginning", "Thanksgiving", "Go to bed early", "Nothing special"],
+      "answer": "Celebrate a new beginning"
+    },
+    {
+      "id": 7,
+      "question": "Why do people celebrate holidays?",
+      "options": ["No reason", "To remember important events, honor traditions, and spend time with loved ones", "Holidays are just days off", "Only for getting gifts"],
+      "answer": "To remember important events, honor traditions, and spend time with loved ones"
+    },
+    {
+      "id": 8,
+      "question": "What is Memorial Day?",
+      "options": ["A day to celebrate independence", "A day to honor people who died in military service", "A holiday to give thanks", "A birthday celebration"],
+      "answer": "A day to honor people who died in military service"
+    },
+    {
+      "id": 9,
+      "question": "What is Martin Luther King Jr. Day?",
+      "options": ["A celebration of independence", "A day honoring a civil rights leader", "A holiday to give thanks", "A birthday of a president"],
+      "answer": "A day honoring a civil rights leader"
+    },
+    {
+      "id": 10,
+      "question": "True or False: Different cultures celebrate different holidays.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 11,
+      "question": "What is Veterans Day?",
+      "options": ["A day for independence", "A day to thank and honor military veterans", "A day for giving thanks", "A day celebrating independence"],
+      "answer": "A day to thank and honor military veterans"
+    },
+    {
+      "id": 12,
+      "question": "What is President's Day?",
+      "options": ["A day to celebrate independence", "A day honoring past U.S. Presidents", "A holiday to give thanks", "A birthday celebration"],
+      "answer": "A day honoring past U.S. Presidents"
+    },
+    {
+      "id": 13,
+      "question": "How do holidays bring communities together?",
+      "options": ["They don't", "Shared celebrations create bonds and common experiences", "Holidays divide people", "Holidays are only for families"],
+      "answer": "Shared celebrations create bonds and common experiences"
+    },
+    {
+      "id": 14,
+      "question": "Why is it important to remember historical holidays?",
+      "options": ["It's not important", "They help us remember important events and people that shaped our nation", "Holidays are just for fun", "History doesn't matter"],
+      "answer": "They help us remember important events and people that shaped our nation"
+    },
+    {
+      "id": 15,
+      "question": "How have American holidays changed over time?",
+      "options": ["They haven't changed", "New holidays were added, meanings evolved, and ways of celebrating changed", "Holidays stayed exactly the same", "Only very old holidays matter"],
+      "answer": "New holidays were added, meanings evolved, and ways of celebrating changed"
+    },
+    {
+      "id": 16,
+      "question": "What is the significance of Independence Day?",
+      "options": ["Just a summer holiday", "It celebrates America's independence from Britain and freedom", "Only for fireworks", "Just a day off"],
+      "answer": "It celebrates America's independence from Britain and freedom"
+    },
+    {
+      "id": 17,
+      "question": "How do traditions pass through generations?",
+      "options": ["They don't", "Through families repeating celebrations, telling stories, and sharing customs", "Traditions are not important", "Only young people create traditions"],
+      "answer": "Through families repeating celebrations, telling stories, and sharing customs"
+    }
+  ]
+}

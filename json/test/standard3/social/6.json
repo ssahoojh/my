@@ -1,0 +1,107 @@
+{
+  "id": 6,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is government?",
+      "options": ["A building", "The system that makes and enforces rules for people", "A type of food", "A sport"],
+      "answer": "The system that makes and enforces rules for people"
+    },
+    {
+      "id": 2,
+      "question": "Who is the leader of the United States?",
+      "options": ["The King", "The President", "The Mayor", "The Principal"],
+      "answer": "The President"
+    },
+    {
+      "id": 3,
+      "question": "What is a citizen?",
+      "options": ["A person from a city only", "A member of a country or state", "A soldier", "A teacher"],
+      "answer": "A member of a country or state"
+    },
+    {
+      "id": 4,
+      "question": "True or False: Citizens have both rights and responsibilities.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 5,
+      "question": "What is a law?",
+      "options": ["A story", "A rule that people must follow", "A type of building", "A person's name"],
+      "answer": "A rule that people must follow"
+    },
+    {
+      "id": 6,
+      "question": "Who makes laws for the United States?",
+      "options": ["The President alone", "Congress (the Senate and House of Representatives)", "The judges", "The citizens alone"],
+      "answer": "Congress (the Senate and House of Representatives)"
+    },
+    {
+      "id": 7,
+      "question": "What are citizen responsibilities?",
+      "options": ["There are no responsibilities", "Following laws, voting, helping community, being honest", "Being wealthy", "Becoming powerful"],
+      "answer": "Following laws, voting, helping community, being honest"
+    },
+    {
+      "id": 8,
+      "question": "What rights do American citizens have?",
+      "options": ["No rights", "Freedom of speech, religion, and the right to vote", "Only the wealthy have rights", "Rights don't exist"],
+      "answer": "Freedom of speech, religion, and the right to vote"
+    },
+    {
+      "id": 9,
+      "question": "How often do Americans vote for a new President?",
+      "options": ["Every year", "Every 2 years", "Every 4 years", "Never"],
+      "answer": "Every 4 years"
+    },
+    {
+      "id": 10,
+      "question": "True or False: Everyone in America must follow the same laws.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 11,
+      "question": "What is the Constitution?",
+      "options": ["A disease", "The document that outlines the structure and laws of the U.S. government", "A type of food", "A river"],
+      "answer": "The document that outlines the structure and laws of the U.S. government"
+    },
+    {
+      "id": 12,
+      "question": "What is the purpose of the Bill of Rights?",
+      "options": ["To list military strategies", "To protect certain freedoms and rights of citizens", "To describe weather", "To list foods"],
+      "answer": "To protect certain freedoms and rights of citizens"
+    },
+    {
+      "id": 13,
+      "question": "Why do we need government?",
+      "options": ["We don't", "To make and enforce laws, protect people, and help society work together", "Only to collect taxes", "To make life harder"],
+      "answer": "To make and enforce laws, protect people, and help society work together"
+    },
+    {
+      "id": 14,
+      "question": "How do the three branches of government work together?",
+      "options": ["They don't", "Executive enforces laws, Legislative makes laws, Judicial interprets laws", "Only one branch has power", "They argue constantly"],
+      "answer": "Executive enforces laws, Legislative makes laws, Judicial interprets laws"
+    },
+    {
+      "id": 15,
+      "question": "What is the importance of voting?",
+      "options": ["Voting doesn't matter", "Citizens choose leaders and have a voice in government", "Only rich people should vote", "Voting is too hard"],
+      "answer": "Citizens choose leaders and have a voice in government"
+    },
+    {
+      "id": 16,
+      "question": "How does a court system protect citizens?",
+      "options": ["It doesn't", "It interprets laws, tries cases, and ensures justice", "Courts only punish people", "Courts have no power"],
+      "answer": "It interprets laws, tries cases, and ensures justice"
+    },
+    {
+      "id": 17,
+      "question": "Why is citizenship important?",
+      "options": ["It's not important", "It gives people rights, responsibilities, and a voice in their country", "Only for military people", "Citizenship is outdated"],
+      "answer": "It gives people rights, responsibilities, and a voice in their country"
+    }
+  ]
+}

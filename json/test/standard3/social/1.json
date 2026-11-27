@@ -1,0 +1,107 @@
+{
+  "id": 1,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a community?",
+      "options": ["A group of houses only", "A group of people who live and work together in the same area", "A single person", "A type of building"],
+      "answer": "A group of people who live and work together in the same area"
+    },
+    {
+      "id": 2,
+      "question": "Which of these is part of your neighborhood?",
+      "options": ["Houses", "Schools", "Parks", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "id": 3,
+      "question": "What do we call a person who takes care of a neighborhood?",
+      "options": ["A neighbor", "A principal", "A baker", "A farmer"],
+      "answer": "A neighbor"
+    },
+    {
+      "id": 4,
+      "question": "True or False: A community only has one type of job.",
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "id": 5,
+      "question": "Who helps keep a community safe?",
+      "options": ["Police officers", "Fire fighters", "Doctors", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "id": 6,
+      "question": "What is a neighborhood helper who delivers mail called?",
+      "options": ["A teacher", "A mail carrier", "A mayor", "A chef"],
+      "answer": "A mail carrier"
+    },
+    {
+      "id": 7,
+      "question": "How do people in a community depend on each other?",
+      "options": ["They don't", "They share services and jobs", "They only see each other on holidays", "They all do the same job"],
+      "answer": "They share services and jobs"
+    },
+    {
+      "id": 8,
+      "question": "Which community helper works to keep people healthy?",
+      "options": ["A librarian", "A doctor", "A baker", "A carpenter"],
+      "answer": "A doctor"
+    },
+    {
+      "id": 9,
+      "question": "What would happen if there were no rules in a community?",
+      "options": ["Nothing would change", "It would be organized and peaceful", "It would be unsafe and confusing", "Everyone would become friends"],
+      "answer": "It would be unsafe and confusing"
+    },
+    {
+      "id": 10,
+      "question": "True or False: Communities need teachers to help children learn.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 11,
+      "question": "Why is it important to have parks in a community?",
+      "options": ["For recreation and gathering", "To waste space", "For storing cars", "It's not important"],
+      "answer": "For recreation and gathering"
+    },
+    {
+      "id": 12,
+      "question": "Who leads a community and makes important decisions?",
+      "options": ["The teacher", "The principal", "The mayor", "The chef"],
+      "answer": "The mayor"
+    },
+    {
+      "id": 13,
+      "question": "How does a community change over time?",
+      "options": ["It stays exactly the same", "New buildings are built, people move, and services improve", "Only the weather changes", "Communities cannot change"],
+      "answer": "New buildings are built, people move, and services improve"
+    },
+    {
+      "id": 14,
+      "question": "What is the difference between a rural and urban community?",
+      "options": ["No difference", "Rural has more farms, urban has more buildings and people", "Rural is always cold", "Urban communities have no jobs"],
+      "answer": "Rural has more farms, urban has more buildings and people"
+    },
+    {
+      "id": 15,
+      "question": "How do different community helpers work together?",
+      "options": ["They work alone", "They coordinate to solve problems and serve people", "They never communicate", "They only work on weekends"],
+      "answer": "They coordinate to solve problems and serve people"
+    },
+    {
+      "id": 16,
+      "question": "Why do communities have libraries?",
+      "options": ["To store books only", "To provide education and information to all people", "To keep people out", "Libraries are not important"],
+      "answer": "To provide education and information to all people"
+    },
+    {
+      "id": 17,
+      "question": "How can young people contribute to their community?",
+      "options": ["They cannot help", "By following rules, helping others, and respecting neighbors", "Only adults can help", "By ignoring community problems"],
+      "answer": "By following rules, helping others, and respecting neighbors"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": 9,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does the American flag represent?",
+      "options": ["Just colors", "The United States and its values of freedom and unity", "A decoration", "Nothing special"],
+      "answer": "The United States and its values of freedom and unity"
+    },
+    {
+      "id": 2,
+      "question": "How many stars are on the American flag?",
+      "options": ["13", "25", "50", "100"],
+      "answer": "50"
+    },
+    {
+      "id": 3,
+      "question": "What is the Statue of Liberty?",
+      "options": ["A building in New York", "A symbol of freedom and democracy", "A bridge", "A museum"],
+      "answer": "A symbol of freedom and democracy"
+    },
+    {
+      "id": 4,
+      "question": "True or False: The eagle is a symbol of America.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 5,
+      "question": "What do the stripes on the American flag represent?",
+      "options": ["Rivers", "The original 13 colonies", "States", "Nothing"],
+      "answer": "The original 13 colonies"
+    },
+    {
+      "id": 6,
+      "question": "What is the national anthem of the United States?",
+      "options": ["God Bless America", "The Star-Spangled Banner", "America", "Yankee Doodle"],
+      "answer": "The Star-Spangled Banner"
+    },
+    {
+      "id": 7,
+      "question": "What is Mount Rushmore?",
+      "options": ["A mountain with carvings of four U.S. Presidents", "A regular mountain", "A building in New York", "A bridge"],
+      "answer": "A mountain with carvings of four U.S. Presidents"
+    },
+    {
+      "id": 8,
+      "question": "What does the Great Seal of the United States represent?",
+      "options": ["Just an old seal", "The authority and history of the U.S. government", "A type of animal", "A decoration"],
+      "answer": "The authority and history of the U.S. government"
+    },
+    {
+      "id": 9,
+      "question": "Who was George Washington?",
+      "options": ["A king", "The first President of the United States", "A general only", "A writer"],
+      "answer": "The first President of the United States"
+    },
+    {
+      "id": 10,
+      "question": "True or False: The Liberty Bell is a historic American symbol.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 11,
+      "question": "What is the Constitution?",
+      "options": ["A building", "The founding document that describes how the U.S. government works", "A flag", "A holiday"],
+      "answer": "The founding document that describes how the U.S. government works"
+    },
+    {
+      "id": 12,
+      "question": "Who was Thomas Jefferson?",
+      "options": ["A king", "A founding father who wrote the Declaration of Independence", "A general only", "A builder"],
+      "answer": "A founding father who wrote the Declaration of Independence"
+    },
+    {
+      "id": 13,
+      "question": "Why are national symbols important?",
+      "options": ["They're not", "They represent national values, identity, and history", "They're just pretty decorations", "Symbols don't matter"],
+      "answer": "They represent national values, identity, and history"
+    },
+    {
+      "id": 14,
+      "question": "How do historical events shape national identity?",
+      "options": ["They don't", "Major events create shared experiences and define who a nation is", "Only recent events matter", "History isn't part of identity"],
+      "answer": "Major events create shared experiences and define who a nation is"
+    },
+    {
+      "id": 15,
+      "question": "What is the significance of historical landmarks?",
+      "options": ["Just old buildings", "They preserve history and help people remember important events", "Only for tourists", "Landmarks have no value"],
+      "answer": "They preserve history and help people remember important events"
+    },
+    {
+      "id": 16,
+      "question": "How do we learn about American history?",
+      "options": ["We don't", "Through documents, artifacts, stories, museums, and education", "Only from movies", "History can't be learned"],
+      "answer": "Through documents, artifacts, stories, museums, and education"
+    },
+    {
+      "id": 17,
+      "question": "Why should young people learn about American symbols and history?",
+      "options": ["They shouldn't", "To understand their country's values, heritage, and to become informed citizens", "Symbols are boring", "History is not relevant"],
+      "answer": "To understand their country's values, heritage, and to become informed citizens"
+    }
+  ]
+}

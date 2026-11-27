@@ -1,0 +1,107 @@
+{
+  "id": 5,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a revolution?",
+      "options": ["A spinning motion", "A major change in government or way of life", "A type of dance", "A food"],
+      "answer": "A major change in government or way of life"
+    },
+    {
+      "id": 2,
+      "question": "Why did colonists want independence from Britain?",
+      "options": ["They didn't", "They were tired of taxes and rules without representation", "Britain gave them extra freedom", "It was just for fun"],
+      "answer": "They were tired of taxes and rules without representation"
+    },
+    {
+      "id": 3,
+      "question": "Who was a famous American Revolution leader?",
+      "options": ["King George", "George Washington", "King Henry", "Queen Elizabeth"],
+      "answer": "George Washington"
+    },
+    {
+      "id": 4,
+      "question": "True or False: The Declaration of Independence said colonists had a right to freedom.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 5,
+      "question": "What year did America declare independence?",
+      "options": ["1676", "1776", "1876", "1976"],
+      "answer": "1776"
+    },
+    {
+      "id": 6,
+      "question": "Who fought against the American colonists in the Revolution?",
+      "options": ["France", "Spain", "Great Britain", "Germany"],
+      "answer": "Great Britain"
+    },
+    {
+      "id": 7,
+      "question": "What did 'No taxation without representation' mean?",
+      "options": ["Colonists liked taxes", "Colonists wanted to pay taxes if they had a voice in government", "Taxes didn't exist", "It's a type of song"],
+      "answer": "Colonists wanted to pay taxes if they had a voice in government"
+    },
+    {
+      "id": 8,
+      "question": "How did the American colonists fight for independence?",
+      "options": ["They didn't fight", "They had a war against Britain", "They asked nicely", "They moved to France"],
+      "answer": "They had a war against Britain"
+    },
+    {
+      "id": 9,
+      "question": "Which important document declared American independence?",
+      "options": ["The Constitution", "The Declaration of Independence", "The Bill of Rights", "The Mayflower Compact"],
+      "answer": "The Declaration of Independence"
+    },
+    {
+      "id": 10,
+      "question": "True or False: France helped the colonists during the Revolution.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 11,
+      "question": "What was the main reason colonists wanted independence?",
+      "options": ["To start a war", "They wanted to govern themselves and have freedom", "They wanted to help Britain", "It was an accident"],
+      "answer": "They wanted to govern themselves and have freedom"
+    },
+    {
+      "id": 12,
+      "question": "Who wrote the Declaration of Independence?",
+      "options": ["George Washington", "Thomas Jefferson", "Benjamin Franklin", "John Adams"],
+      "answer": "Thomas Jefferson"
+    },
+    {
+      "id": 13,
+      "question": "How did the American Revolution inspire other countries?",
+      "options": ["It didn't", "It showed that people could fight for freedom and independence from powerful rulers", "Other countries didn't care", "It made countries want to be more powerful"],
+      "answer": "It showed that people could fight for freedom and independence from powerful rulers"
+    },
+    {
+      "id": 14,
+      "question": "What was the result of the American Revolution?",
+      "options": ["America stayed under British rule", "America became an independent nation", "Britain won and took more colonies", "Nothing changed"],
+      "answer": "America became an independent nation"
+    },
+    {
+      "id": 15,
+      "question": "How did the Revolution change society?",
+      "options": ["It didn't", "It created ideas of democracy, liberty, and representation", "It made society more equal to England", "Society stayed exactly the same"],
+      "answer": "It created ideas of democracy, liberty, and representation"
+    },
+    {
+      "id": 16,
+      "question": "What was the significance of the Founding Fathers?",
+      "options": ["They were soldiers only", "They led the fight for independence and created a new government based on freedom", "They wanted to stay under British rule", "They had no importance"],
+      "answer": "They led the fight for independence and created a new government based on freedom"
+    },
+    {
+      "id": 17,
+      "question": "How did the American Revolution affect the world?",
+      "options": ["It had no effect", "It inspired people worldwide to fight for freedom and democracy", "Only America cared about it", "The world remained unchanged"],
+      "answer": "It inspired people worldwide to fight for freedom and democracy"
+    }
+  ]
+}

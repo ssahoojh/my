@@ -1,0 +1,107 @@
+{
+  "id": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a culture?",
+      "options": ["A type of food", "The way of life of a group of people, including beliefs, customs, and traditions", "A dance", "A sport"],
+      "answer": "The way of life of a group of people, including beliefs, customs, and traditions"
+    },
+    {
+      "id": 2,
+      "question": "What do people in different cultures celebrate?",
+      "options": ["Nothing different", "Different holidays and traditions based on their beliefs and history", "The same things everywhere", "Culture doesn't affect celebrations"],
+      "answer": "Different holidays and traditions based on their beliefs and history"
+    },
+    {
+      "id": 3,
+      "question": "True or False: Different countries have different types of food.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 4,
+      "question": "What are traditional clothes called?",
+      "options": ["Modern clothes", "Clothing worn for special occasions and cultural events", "Uniforms", "Business clothes"],
+      "answer": "Clothing worn for special occasions and cultural events"
+    },
+    {
+      "id": 5,
+      "question": "What is a language?",
+      "options": ["A type of food", "A system of words used to communicate", "A dance", "A game"],
+      "answer": "A system of words used to communicate"
+    },
+    {
+      "id": 6,
+      "question": "How many continents are there?",
+      "options": ["3", "5", "7", "10"],
+      "answer": "7"
+    },
+    {
+      "id": 7,
+      "question": "Why is it important to learn about other cultures?",
+      "options": ["It's not", "It helps us understand and respect different people and ways of life", "Other cultures don't matter", "We should only learn about our own culture"],
+      "answer": "It helps us understand and respect different people and ways of life"
+    },
+    {
+      "id": 8,
+      "question": "What is a tradition?",
+      "options": ["A story", "A practice or custom passed down through families or groups", "A type of holiday", "A celebration"],
+      "answer": "A practice or custom passed down through families or groups"
+    },
+    {
+      "id": 9,
+      "question": "How do cultures share and exchange ideas?",
+      "options": ["They don't", "Through trade, travel, communication, and meeting people", "Cultures stay completely separate", "Ideas can't be shared"],
+      "answer": "Through trade, travel, communication, and meeting people"
+    },
+    {
+      "id": 10,
+      "question": "True or False: Every country has its own unique culture.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 11,
+      "question": "What influences cultural differences?",
+      "options": ["Nothing", "Geography, history, climate, and beliefs influence how cultures develop", "All cultures are the same", "Differences don't exist"],
+      "answer": "Geography, history, climate, and beliefs influence how cultures develop"
+    },
+    {
+      "id": 12,
+      "question": "What is a stereotype?",
+      "options": ["A true fact", "An unfair, oversimplified belief about a group of people", "A type of tradition", "A cultural celebration"],
+      "answer": "An unfair, oversimplified belief about a group of people"
+    },
+    {
+      "id": 13,
+      "question": "How does culture affect people's values and beliefs?",
+      "options": ["It doesn't", "Culture teaches people what to value and how to understand the world", "Values come only from individuals", "Culture has no effect"],
+      "answer": "Culture teaches people what to value and how to understand the world"
+    },
+    {
+      "id": 14,
+      "question": "Why should we respect cultural differences?",
+      "options": ["We shouldn't", "Every culture is valuable, and respect creates understanding and peace", "Only some cultures matter", "Differences should divide us"],
+      "answer": "Every culture is valuable, and respect creates understanding and peace"
+    },
+    {
+      "id": 15,
+      "question": "How does culture change over time?",
+      "options": ["It doesn't", "Cultures evolve through new ideas, technology, and contact with other cultures", "Cultures never change", "Change is bad"],
+      "answer": "Cultures evolve through new ideas, technology, and contact with other cultures"
+    },
+    {
+      "id": 16,
+      "question": "What is cultural exchange?",
+      "options": ["Trading only goods", "The sharing of ideas, traditions, food, music, and customs between different cultures", "Cultures stealing from each other", "Exchange doesn't happen"],
+      "answer": "The sharing of ideas, traditions, food, music, and customs between different cultures"
+    },
+    {
+      "id": 17,
+      "question": "How can understanding world cultures benefit us?",
+      "options": ["It doesn't", "It promotes peace, reduces prejudice, and helps us become global citizens", "Other cultures don't benefit us", "Understanding isn't necessary"],
+      "answer": "It promotes peace, reduces prejudice, and helps us become global citizens"
+    }
+  ]
+}

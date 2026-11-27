@@ -1,0 +1,107 @@
+{
+  "id": 4,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a colony?",
+      "options": ["A type of food", "A settlement controlled by another country", "A beach", "A type of animal"],
+      "answer": "A settlement controlled by another country"
+    },
+    {
+      "id": 2,
+      "question": "Which European country sent colonists to settle in America?",
+      "options": ["Japan", "England", "Russia", "China"],
+      "answer": "England"
+    },
+    {
+      "id": 3,
+      "question": "What was Jamestown?",
+      "options": ["A Native American tribe", "An English colony in Virginia", "A city in England", "A river"],
+      "answer": "An English colony in Virginia"
+    },
+    {
+      "id": 4,
+      "question": "True or False: Colonists came to America looking for a new life and opportunity.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 5,
+      "question": "What was Plymouth?",
+      "options": ["A ship", "A city in England", "An English colony founded by the Pilgrims", "A Native American settlement"],
+      "answer": "An English colony founded by the Pilgrims"
+    },
+    {
+      "id": 6,
+      "question": "True or False: Colonial families grew their own food on farms.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 7,
+      "question": "Why did the Pilgrims come to America?",
+      "options": ["To get rich quick", "To find religious freedom", "To discover gold", "For fun"],
+      "answer": "To find religious freedom"
+    },
+    {
+      "id": 8,
+      "question": "What helped the colonists survive their first winters?",
+      "options": ["Supplies from England", "Modern technology", "Help from Native Americans", "Nobody survived"],
+      "answer": "Help from Native Americans"
+    },
+    {
+      "id": 9,
+      "question": "What was the main job for most colonists?",
+      "options": ["Mining", "Farming", "Banking", "Sailing"],
+      "answer": "Farming"
+    },
+    {
+      "id": 10,
+      "question": "True or False: Colonists relied on trade with Native Americans.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 11,
+      "question": "What was the first Thanksgiving?",
+      "options": ["A holiday invented by pilgrims", "A meal celebrating the harvest and friendship with Native Americans", "A birthday party", "An English holiday"],
+      "answer": "A meal celebrating the harvest and friendship with Native Americans"
+    },
+    {
+      "id": 12,
+      "question": "How did colonists govern themselves?",
+      "options": ["They had no rules", "They created community councils and meetings", "Only the King decided", "They had no government"],
+      "answer": "They created community councils and meetings"
+    },
+    {
+      "id": 13,
+      "question": "How did the relationship between colonists and Native Americans change over time?",
+      "options": ["It stayed friendly", "It started friendly but became hostile as colonists took land", "Native Americans attacked first", "They never met"],
+      "answer": "It started friendly but became hostile as colonists took land"
+    },
+    {
+      "id": 14,
+      "question": "What was the impact of colonization on Native American populations?",
+      "options": ["No impact", "Diseases, land loss, and displacement hurt Native American populations", "It helped Native Americans", "Nothing changed"],
+      "answer": "Diseases, land loss, and displacement hurt Native American populations"
+    },
+    {
+      "id": 15,
+      "question": "How did different colonial regions develop different economies?",
+      "options": ["They were all the same", "Geography and climate led to farming in the South, trade in the North, and mixed economy in Middle colonies", "Only the South had an economy", "Geography didn't matter"],
+      "answer": "Geography and climate led to farming in the South, trade in the North, and mixed economy in Middle colonies"
+    },
+    {
+      "id": 16,
+      "question": "What role did trade play in colonial America?",
+      "options": ["No role", "It connected colonists to other parts of the world and brought goods and ideas", "Only colonists traded", "Trade was forbidden"],
+      "answer": "It connected colonists to other parts of the world and brought goods and ideas"
+    },
+    {
+      "id": 17,
+      "question": "How did colonial life prepare America for independence?",
+      "options": ["It didn't", "Colonists learned self-governance, became united, and wanted freedom from British control", "Colonists wanted to stay under Britain", "Independence wasn't planned"],
+      "answer": "Colonists learned self-governance, became united, and wanted freedom from British control"
+    }
+  ]
+}

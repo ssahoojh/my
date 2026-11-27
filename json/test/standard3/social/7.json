@@ -1,0 +1,107 @@
+{
+  "id": 7,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is economics?",
+      "options": ["A subject in school", "The study of money, goods, and services", "A type of food", "A sport"],
+      "answer": "The study of money, goods, and services"
+    },
+    {
+      "id": 2,
+      "question": "What is a job?",
+      "options": ["A game", "Work that a person does to earn money", "A type of animal", "A building"],
+      "answer": "Work that a person does to earn money"
+    },
+    {
+      "id": 3,
+      "question": "True or False: Money is used to buy things we need and want.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 4,
+      "question": "What is a business?",
+      "options": ["A game", "A company that makes or sells goods or services", "A type of food", "A person"],
+      "answer": "A company that makes or sells goods or services"
+    },
+    {
+      "id": 5,
+      "question": "What do we call money paid for work?",
+      "options": ["A gift", "A wage or salary", "A price", "A tax"],
+      "answer": "A wage or salary"
+    },
+    {
+      "id": 6,
+      "question": "What is a store?",
+      "options": ["A building where people sleep", "A place where goods are sold", "A type of food", "A sport"],
+      "answer": "A place where goods are sold"
+    },
+    {
+      "id": 7,
+      "question": "What is supply and demand?",
+      "options": ["Types of dances", "Supply is what's available, demand is what people want to buy", "Ways to exercise", "Types of foods"],
+      "answer": "Supply is what's available, demand is what people want to buy"
+    },
+    {
+      "id": 8,
+      "question": "What is a consumer?",
+      "options": ["A type of animal", "A person who buys goods or services", "A person who makes things", "A type of plant"],
+      "answer": "A person who buys goods or services"
+    },
+    {
+      "id": 9,
+      "question": "Why do people save money?",
+      "options": ["They shouldn't", "To have money for future needs and emergencies", "Money should be spent immediately", "Saving is useless"],
+      "answer": "To have money for future needs and emergencies"
+    },
+    {
+      "id": 10,
+      "question": "True or False: Different jobs pay different amounts of money.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 11,
+      "question": "What is a producer?",
+      "options": ["A type of food", "A person or business that makes goods or provides services", "A type of animal", "An instrument"],
+      "answer": "A person or business that makes goods or provides services"
+    },
+    {
+      "id": 12,
+      "question": "What happens when something is rare and many people want it?",
+      "options": ["The price stays the same", "The price usually goes up", "The price always goes down", "Nothing happens"],
+      "answer": "The price usually goes up"
+    },
+    {
+      "id": 13,
+      "question": "How does trade benefit communities?",
+      "options": ["It doesn't", "It allows communities to get goods they don't produce and share their own goods", "Trade makes communities poorer", "Trade is not beneficial"],
+      "answer": "It allows communities to get goods they don't produce and share their own goods"
+    },
+    {
+      "id": 14,
+      "question": "What is the free market?",
+      "options": ["A place where things are free", "An economic system where supply and demand determine prices", "A system with no money", "Only one person can trade"],
+      "answer": "An economic system where supply and demand determine prices"
+    },
+    {
+      "id": 15,
+      "question": "Why do businesses advertise?",
+      "options": ["Just for fun", "To inform people about their products and encourage them to buy", "To waste money", "Advertising doesn't help"],
+      "answer": "To inform people about their products and encourage them to buy"
+    },
+    {
+      "id": 16,
+      "question": "What is a resource?",
+      "options": ["A building", "Something useful like land, water, minerals, or labor", "A type of food", "A sport"],
+      "answer": "Something useful like land, water, minerals, or labor"
+    },
+    {
+      "id": 17,
+      "question": "How does the economy affect daily life?",
+      "options": ["It doesn't", "Job availability, prices, and opportunity affect what people can buy and do", "Economy only affects businesses", "Economy has no impact on people"],
+      "answer": "Job availability, prices, and opportunity affect what people can buy and do"
+    }
+  ]
+}

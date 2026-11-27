@@ -1,0 +1,107 @@
+{
+  "id": 2,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a map?",
+      "options": ["A picture", "A drawing that shows where places are located", "A list of people", "A type of food"],
+      "answer": "A drawing that shows where places are located"
+    },
+    {
+      "id": 2,
+      "question": "Which direction is opposite to North?",
+      "options": ["East", "West", "South", "Up"],
+      "answer": "South"
+    },
+    {
+      "id": 3,
+      "question": "What is a compass used for?",
+      "options": ["To draw circles", "To show directions", "To measure time", "To cook food"],
+      "answer": "To show directions"
+    },
+    {
+      "id": 4,
+      "question": "True or False: Mountains are examples of landforms.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 5,
+      "question": "What do we call a large body of water surrounded by land?",
+      "options": ["A river", "A lake", "A stream", "A puddle"],
+      "answer": "A lake"
+    },
+    {
+      "id": 6,
+      "question": "Which of these is a water landform?",
+      "options": ["Mountain", "Valley", "Ocean", "Hill"],
+      "answer": "Ocean"
+    },
+    {
+      "id": 7,
+      "question": "What is a legend on a map?",
+      "options": ["A story", "A key that explains the symbols on a map", "A mountain", "A city name"],
+      "answer": "A key that explains the symbols on a map"
+    },
+    {
+      "id": 8,
+      "question": "How would you find your location on a map?",
+      "options": ["By guessing", "By using the legend and compass directions", "Maps don't show locations", "By closing your eyes"],
+      "answer": "By using the legend and compass directions"
+    },
+    {
+      "id": 9,
+      "question": "What is the difference between a physical map and a political map?",
+      "options": ["No difference", "Physical shows landforms, political shows countries and states", "Political maps are more colorful", "They show the same thing"],
+      "answer": "Physical shows landforms, political shows countries and states"
+    },
+    {
+      "id": 10,
+      "question": "True or False: Deserts are areas that get very little rain.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 11,
+      "question": "Which type of area would you find the most trees?",
+      "options": ["Desert", "Mountain top", "Forest", "Ocean"],
+      "answer": "Forest"
+    },
+    {
+      "id": 12,
+      "question": "What is a peninsula?",
+      "options": ["An island", "A piece of land surrounded by water on three sides", "A desert", "A river"],
+      "answer": "A piece of land surrounded by water on three sides"
+    },
+    {
+      "id": 13,
+      "question": "How do mapmakers use scale to show distance?",
+      "options": ["They use weight", "They use symbols to represent real distances", "Maps cannot show distance", "They use colors only"],
+      "answer": "They use symbols to represent real distances"
+    },
+    {
+      "id": 14,
+      "question": "Why are different regions suitable for different activities?",
+      "options": ["They're not", "Because of different landforms, climates, and resources", "All regions are the same", "Only mountains are useful"],
+      "answer": "Because of different landforms, climates, and resources"
+    },
+    {
+      "id": 15,
+      "question": "How does geography affect where people build cities?",
+      "options": ["It doesn't", "People choose places with water access, flat land, and good resources", "All places are equally good", "Geography only affects weather"],
+      "answer": "People choose places with water access, flat land, and good resources"
+    },
+    {
+      "id": 16,
+      "question": "What would happen if sea levels rose?",
+      "options": ["Nothing", "Some islands and low-lying areas would flood", "It would be colder", "Maps would be useless"],
+      "answer": "Some islands and low-lying areas would flood"
+    },
+    {
+      "id": 17,
+      "question": "How do natural resources connect to geography?",
+      "options": ["They don't", "Different regions have different resources based on their geography", "All regions have the same resources", "Resources are not important"],
+      "answer": "Different regions have different resources based on their geography"
+    }
+  ]
+}
