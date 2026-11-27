@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which part of a plant takes in water from the soil?",
+      "options": ["Leaf", "Flower", "Root", "Fruit"],
+      "answer": "Root"
+    },
+    {
+      "id": 2,
+      "question": "What do plants need to make their own food?",
+      "options": ["Sunlight", "Sand", "Rocks", "Plastic"],
+      "answer": "Sunlight"
+    },
+    {
+      "id": 3,
+      "question": "Which organ pumps blood to all parts of the body?",
+      "options": ["Lungs", "Brain", "Stomach", "Heart"],
+      "answer": "Heart"
+    },
+    {
+      "id": 4,
+      "question": "Which planet do we live on?",
+      "options": ["Mars", "Earth", "Jupiter", "Venus"],
+      "answer": "Earth"
+    },
+    {
+      "id": 5,
+      "question": "Water changes into ice when it becomes very ____.",
+      "options": ["Hot", "Cold", "Dry", "Windy"],
+      "answer": "Cold"
+    }
+  ]
+}
