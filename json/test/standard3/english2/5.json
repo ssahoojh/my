@@ -1,0 +1,107 @@
+{
+  "id": 5,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the main idea of a text?",
+      "options": ["A small detail", "The most important point the author is making", "A specific example", "A word definition"],
+      "answer": "The most important point the author is making"
+    },
+    {
+      "id": 2,
+      "question": "What are supporting details?",
+      "options": ["The title of a book", "Information that explains or supports the main idea", "Questions at the end", "A type of noun"],
+      "answer": "Information that explains or supports the main idea"
+    },
+    {
+      "id": 3,
+      "question": "What is an inference?",
+      "options": ["A fact stated in text", "A conclusion based on evidence and prior knowledge", "A title", "A dialogue"],
+      "answer": "A conclusion based on evidence and prior knowledge"
+    },
+    {
+      "id": 4,
+      "question": "True or False: Inferences are always stated directly in the text.",
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "id": 5,
+      "question": "What is a prediction?",
+      "options": ["Something that happened", "A guess about what will happen next based on clues", "A title", "A setting description"],
+      "answer": "A guess about what will happen next based on clues"
+    },
+    {
+      "id": 6,
+      "question": "What information helps you make a prediction?",
+      "options": ["Random guesses", "Text clues and your own knowledge", "Only the title", "Dictionary definitions"],
+      "answer": "Text clues and your own knowledge"
+    },
+    {
+      "id": 7,
+      "question": "What is cause and effect?",
+      "options": ["Two unrelated ideas", "What happens (effect) and why it happens (cause)", "A type of adjective", "A verb form"],
+      "answer": "What happens (effect) and why it happens (cause)"
+    },
+    {
+      "id": 8,
+      "question": "In this sentence, what is the cause? 'Because it was raining, the game was cancelled.'",
+      "options": ["The game was cancelled", "It was raining", "Because", "The"],
+      "answer": "It was raining"
+    },
+    {
+      "id": 9,
+      "question": "What is a comparison?",
+      "options": ["A single description", "Showing how two things are alike", "A cause and effect", "A sequence of events"],
+      "answer": "Showing how two things are alike"
+    },
+    {
+      "id": 10,
+      "question": "What is a contrast?",
+      "options": ["A similarity", "Showing how two things are different", "A main idea", "An adjective"],
+      "answer": "Showing how two things are different"
+    },
+    {
+      "id": 11,
+      "question": "What is a text's context?",
+      "options": ["A word definition", "Background information and situation surrounding the text", "A genre", "No importance"],
+      "answer": "Background information and situation surrounding the text"
+    },
+    {
+      "id": 12,
+      "question": "What does it mean to visualize while reading?",
+      "options": ["To write a summary", "To create mental pictures of what's described", "To draw illustrations", "To skip parts"],
+      "answer": "To create mental pictures of what's described"
+    },
+    {
+      "id": 13,
+      "question": "What is a summary?",
+      "options": ["A complete retelling", "A brief statement of the main points", "A title", "A word list"],
+      "answer": "A brief statement of the main points"
+    },
+    {
+      "id": 14,
+      "question": "What is theme?",
+      "options": ["The setting", "A character's name", "The lesson or big idea a story teaches", "A verb form"],
+      "answer": "The lesson or big idea a story teaches"
+    },
+    {
+      "id": 15,
+      "question": "What is characterization?",
+      "options": ["A plot point", "The way an author shows what a character is like", "A setting description", "A title"],
+      "answer": "The way an author shows what a character is like"
+    },
+    {
+      "id": 16,
+      "question": "What is point of view?",
+      "options": ["A character's opinion", "The perspective from which a story is told", "A title", "No importance"],
+      "answer": "The perspective from which a story is told"
+    },
+    {
+      "id": 17,
+      "question": "What is a text's purpose?",
+      "options": ["A word", "The reason an author wrote the text", "A noun", "No specific reason"],
+      "answer": "The reason an author wrote the text"
+    }
+  ]
+}

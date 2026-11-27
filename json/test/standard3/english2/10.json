@@ -1,0 +1,107 @@
+{
+  "id": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is phonics?",
+      "options": ["A type of poem", "The relationship between letters and sounds", "A noun", "A verb"],
+      "answer": "The relationship between letters and sounds"
+    },
+    {
+      "id": 2,
+      "question": "What is a blend?",
+      "options": ["A single letter", "Two or more consonants spoken together", "A vowel sound", "A type of noun"],
+      "answer": "Two or more consonants spoken together"
+    },
+    {
+      "id": 3,
+      "question": "Which is a consonant blend?",
+      "options": ["AI", "EA", "ST", "OU"],
+      "answer": "ST"
+    },
+    {
+      "id": 4,
+      "question": "What is a digraph?",
+      "options": ["A single letter", "Two letters representing one sound", "A vowel", "A verb form"],
+      "answer": "Two letters representing one sound"
+    },
+    {
+      "id": 5,
+      "question": "Which is an example of a digraph?",
+      "options": ["ST", "CH", "BR", "FL"],
+      "answer": "CH"
+    },
+    {
+      "id": 6,
+      "question": "What is a vowel?",
+      "options": ["A type of consonant", "A letter representing open speech sound", "A noun", "An adjective"],
+      "answer": "A letter representing open speech sound"
+    },
+    {
+      "id": 7,
+      "question": "Which is NOT a vowel?",
+      "options": ["A", "E", "M", "O"],
+      "answer": "M"
+    },
+    {
+      "id": 8,
+      "question": "What is a silent letter?",
+      "options": ["A loud letter", "A letter in a word that is not pronounced", "A vowel", "A common letter"],
+      "answer": "A letter in a word that is not pronounced"
+    },
+    {
+      "id": 9,
+      "question": "Which word has a silent letter?",
+      "options": ["Cat", "Knife", "Run", "Happy"],
+      "answer": "Knife"
+    },
+    {
+      "id": 10,
+      "question": "What is syllable?",
+      "options": ["A word type", "A unit of sound in a word", "A noun", "An adjective"],
+      "answer": "A unit of sound in a word"
+    },
+    {
+      "id": 11,
+      "question": "How many syllables does the word 'butterfly' have?",
+      "options": ["1", "2", "3", "4"],
+      "answer": "3"
+    },
+    {
+      "id": 12,
+      "question": "What is sentence fluency?",
+      "options": ["Using complex words", "The smooth flow of sentences varying in length", "Using short words", "No importance"],
+      "answer": "The smooth flow of sentences varying in length"
+    },
+    {
+      "id": 13,
+      "question": "What is voice in writing?",
+      "options": ["Using adjectives", "The unique way a writer expresses ideas", "A verb", "No importance"],
+      "answer": "The unique way a writer expresses ideas"
+    },
+    {
+      "id": 14,
+      "question": "Identify the parts of speech in this sentence: 'The quick brown fox runs fast.'",
+      "options": ["Fox, brown, fast", "Quick, brown, runs, fast", "The, runs, fox", "Quick and brown are adjectives; runs is verb; fast is adverb"],
+      "answer": "Quick and brown are adjectives; runs is verb; fast is adverb"
+    },
+    {
+      "id": 15,
+      "question": "What are homophones?",
+      "options": ["Same meaning", "Same spelling", "Same sound but different meaning", "No relationship"],
+      "answer": "Same sound but different meaning"
+    },
+    {
+      "id": 16,
+      "question": "Which is a correct example of homophone usage?",
+      "options": ["The cat is there.", "Their cat is there.", "There cat is their.", "Their cat is there."],
+      "answer": "Their cat is there."
+    },
+    {
+      "id": 17,
+      "question": "What is a comprehensive reading strategy?",
+      "options": ["Reading once quickly", "Using multiple strategies including prediction, questioning, visualization, and summarizing", "Skipping difficult parts", "No strategy needed"],
+      "answer": "Using multiple strategies including prediction, questioning, visualization, and summarizing"
+    }
+  ]
+}

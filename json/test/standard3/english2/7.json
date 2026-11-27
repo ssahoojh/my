@@ -1,0 +1,107 @@
+{
+  "id": 7,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a topic sentence?",
+      "options": ["The ending sentence", "A sentence stating the main idea of a paragraph", "A title", "A descriptive word"],
+      "answer": "A sentence stating the main idea of a paragraph"
+    },
+    {
+      "id": 2,
+      "question": "Where is the topic sentence usually found?",
+      "options": ["At the end of a paragraph", "In the middle", "At the beginning of a paragraph", "Nowhere specific"],
+      "answer": "At the beginning of a paragraph"
+    },
+    {
+      "id": 3,
+      "question": "What is organization in writing?",
+      "options": ["Using big words", "Arranging ideas in a clear, logical order", "Writing long sentences", "Using adjectives"],
+      "answer": "Arranging ideas in a clear, logical order"
+    },
+    {
+      "id": 4,
+      "question": "True or False: Good writing should have ideas that are hard to follow.",
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "id": 5,
+      "question": "What is descriptive writing?",
+      "options": ["Writing that only tells facts", "Writing that uses vivid details to paint a picture", "Writing that asks questions", "Writing with no adjectives"],
+      "answer": "Writing that uses vivid details to paint a picture"
+    },
+    {
+      "id": 6,
+      "question": "What do descriptive writers use to create images?",
+      "options": ["Simple words only", "Adjectives, verbs, and sensory words", "Numbers only", "No descriptive words"],
+      "answer": "Adjectives, verbs, and sensory words"
+    },
+    {
+      "id": 7,
+      "question": "What are sensory words?",
+      "options": ["Words describing numbers", "Words that appeal to the five senses", "Action words", "No such thing"],
+      "answer": "Words that appeal to the five senses"
+    },
+    {
+      "id": 8,
+      "question": "Which is an example of a sensory word?",
+      "options": ["Happy", "Sparkled", "Soft", "Green"],
+      "answer": "Soft"
+    },
+    {
+      "id": 9,
+      "question": "What is a rough draft?",
+      "options": ["A finished piece", "A first attempt at writing before revising", "An outline", "A title"],
+      "answer": "A first attempt at writing before revising"
+    },
+    {
+      "id": 10,
+      "question": "True or False: Rough drafts should be perfect the first time.",
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "id": 11,
+      "question": "What is revision?",
+      "options": ["Stopping writing", "Changing and improving your writing", "Adding pictures", "No change needed"],
+      "answer": "Changing and improving your writing"
+    },
+    {
+      "id": 12,
+      "question": "What is editing?",
+      "options": ["Creating new ideas", "Checking for grammar, spelling, and punctuation errors", "Deleting everything", "No correction needed"],
+      "answer": "Checking for grammar, spelling, and punctuation errors"
+    },
+    {
+      "id": 13,
+      "question": "What is proofreading?",
+      "options": ["Planning an essay", "Final checking for errors before publication", "Starting a draft", "Adding adjectives"],
+      "answer": "Final checking for errors before publication"
+    },
+    {
+      "id": 14,
+      "question": "What type of writing tells a story?",
+      "options": ["Expository", "Narrative", "Persuasive", "Technical"],
+      "answer": "Narrative"
+    },
+    {
+      "id": 15,
+      "question": "What type of writing gives facts and information?",
+      "options": ["Narrative", "Expository", "Persuasive", "Poetry"],
+      "answer": "Expository"
+    },
+    {
+      "id": 16,
+      "question": "What type of writing tries to convince the reader?",
+      "options": ["Narrative", "Expository", "Persuasive", "Poetic"],
+      "answer": "Persuasive"
+    },
+    {
+      "id": 17,
+      "question": "What is important when planning to write?",
+      "options": ["Nothing needs planning", "Knowing your purpose and audience", "Using complex words", "Skipping the outline"],
+      "answer": "Knowing your purpose and audience"
+    }
+  ]
+}

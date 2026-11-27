@@ -1,0 +1,107 @@
+{
+  "id": 4,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a sentence?",
+      "options": ["A group of random words", "A group of words expressing a complete thought", "A single word", "A list of nouns"],
+      "answer": "A group of words expressing a complete thought"
+    },
+    {
+      "id": 2,
+      "question": "What are the two main parts of a sentence?",
+      "options": ["Noun and verb", "Subject and predicate", "Beginning and end", "Questions and answers"],
+      "answer": "Subject and predicate"
+    },
+    {
+      "id": 3,
+      "question": "Identify the subject in this sentence: 'The dog barked loudly.'",
+      "options": ["Barked", "Loudly", "The dog", "The"],
+      "answer": "The dog"
+    },
+    {
+      "id": 4,
+      "question": "True or False: A complete sentence must have a subject and predicate.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 5,
+      "question": "What is a simple sentence?",
+      "options": ["A sentence with many clauses", "A sentence with one independent clause", "A short sentence", "No main verb"],
+      "answer": "A sentence with one independent clause"
+    },
+    {
+      "id": 6,
+      "question": "What is a compound sentence?",
+      "options": ["A single idea", "Two independent clauses joined together", "A very long sentence", "A question sentence"],
+      "answer": "Two independent clauses joined together"
+    },
+    {
+      "id": 7,
+      "question": "What word often joins two independent clauses in a compound sentence?",
+      "options": ["Because", "When", "And", "While"],
+      "answer": "And"
+    },
+    {
+      "id": 8,
+      "question": "What is a complex sentence?",
+      "options": ["A sentence that's hard to understand", "A sentence with one independent and one dependent clause", "A very long sentence", "A plural sentence"],
+      "answer": "A sentence with one independent and one dependent clause"
+    },
+    {
+      "id": 9,
+      "question": "True or False: 'Because' can introduce a dependent clause.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 10,
+      "question": "What is a dependent clause?",
+      "options": ["A complete sentence alone", "A group of words that cannot stand alone", "An independent clause", "A type of noun"],
+      "answer": "A group of words that cannot stand alone"
+    },
+    {
+      "id": 11,
+      "question": "What is a fragment?",
+      "options": ["A complete sentence", "An incomplete sentence that lacks subject or verb", "A type of adjective", "A plural noun"],
+      "answer": "An incomplete sentence that lacks subject or verb"
+    },
+    {
+      "id": 12,
+      "question": "Which is a sentence fragment?",
+      "options": ["The cat sat.", "Running in the park.", "She jumped high.", "They played outside."],
+      "answer": "Running in the park."
+    },
+    {
+      "id": 13,
+      "question": "What is a run-on sentence?",
+      "options": ["A long sentence", "Two independent clauses joined without proper punctuation", "A sentence about running", "A plural sentence"],
+      "answer": "Two independent clauses joined without proper punctuation"
+    },
+    {
+      "id": 14,
+      "question": "What type of sentence is used to ask a question?",
+      "options": ["Declarative", "Imperative", "Interrogative", "Exclamatory"],
+      "answer": "Interrogative"
+    },
+    {
+      "id": 15,
+      "question": "What type of sentence expresses strong emotion?",
+      "options": ["Interrogative", "Exclamatory", "Imperative", "Declarative"],
+      "answer": "Exclamatory"
+    },
+    {
+      "id": 16,
+      "question": "What is sentence structure important for?",
+      "options": ["Just decoration", "Clear communication of ideas", "Making writing shorter", "No real purpose"],
+      "answer": "Clear communication of ideas"
+    },
+    {
+      "id": 17,
+      "question": "Which sentence is correct and complete?",
+      "options": ["Running fast through.", "The girl studied hard.", "Without any reason.", "Very happy person."],
+      "answer": "The girl studied hard."
+    }
+  ]
+}

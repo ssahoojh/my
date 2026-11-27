@@ -1,0 +1,107 @@
+{
+  "id": 3,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is an adjective?",
+      "options": ["An action word", "A word that describes a noun", "A person or place", "A word showing tense"],
+      "answer": "A word that describes a noun"
+    },
+    {
+      "id": 2,
+      "question": "Which of these is an adjective?",
+      "options": ["Run", "Blue", "Jump", "Happy"],
+      "answer": "Blue"
+    },
+    {
+      "id": 3,
+      "question": "Identify the adjective in this sentence: 'The bright sun shone brightly.'",
+      "options": ["Sun", "Bright", "Shone", "Brightly"],
+      "answer": "Bright"
+    },
+    {
+      "id": 4,
+      "question": "True or False: 'Quickly' is an adjective.",
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "id": 5,
+      "question": "What is an adverb?",
+      "options": ["A descriptive noun", "A word that describes a verb, adjective, or adverb", "A type of noun", "A verb form"],
+      "answer": "A word that describes a verb, adjective, or adverb"
+    },
+    {
+      "id": 6,
+      "question": "Which of these is an adverb?",
+      "options": ["Happy", "Quickly", "Blue", "Table"],
+      "answer": "Quickly"
+    },
+    {
+      "id": 7,
+      "question": "Identify all adjectives in this sentence: 'The small, red car drove slowly.'",
+      "options": ["Small, red", "Drove, slowly", "The, car", "Small, red, slowly"],
+      "answer": "Small, red"
+    },
+    {
+      "id": 8,
+      "question": "What do many adverbs end with?",
+      "options": ["A vowel", "The letters 'ly'", "A consonant", "A number"],
+      "answer": "The letters 'ly'"
+    },
+    {
+      "id": 9,
+      "question": "True or False: Adverbs can modify adjectives.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 10,
+      "question": "In this sentence, what does the adverb modify? 'She sang beautifully.'",
+      "options": ["She", "Beautifully", "Sang", "No modification"],
+      "answer": "Sang"
+    },
+    {
+      "id": 11,
+      "question": "How do adjectives and adverbs differ?",
+      "options": ["Same thing", "Adjectives describe nouns; adverbs describe verbs/adjectives", "Adverbs are always plural", "No difference"],
+      "answer": "Adjectives describe nouns; adverbs describe verbs/adjectives"
+    },
+    {
+      "id": 12,
+      "question": "What is a descriptive adjective?",
+      "options": ["An adjective with prefix", "An adjective that describes quality or appearance", "A plural adjective", "A verb form"],
+      "answer": "An adjective that describes quality or appearance"
+    },
+    {
+      "id": 13,
+      "question": "Which is an example of a descriptive adjective?",
+      "options": ["This", "That", "Wonderful", "Some"],
+      "answer": "Wonderful"
+    },
+    {
+      "id": 14,
+      "question": "What is a demonstrative adjective?",
+      "options": ["A descriptive word", "An adjective that points out a specific noun", "A word describing action", "An adverb form"],
+      "answer": "An adjective that points out a specific noun"
+    },
+    {
+      "id": 15,
+      "question": "Which is an example of a demonstrative adjective?",
+      "options": ["Beautiful", "Quickly", "This", "Happily"],
+      "answer": "This"
+    },
+    {
+      "id": 16,
+      "question": "What is a comparative adjective?",
+      "options": ["A plural form", "An adjective comparing two things", "A descriptive word", "An action word"],
+      "answer": "An adjective comparing two things"
+    },
+    {
+      "id": 17,
+      "question": "Which is a comparative form of 'big'?",
+      "options": ["Biggest", "Bigger", "Bigly", "Biger"],
+      "answer": "Bigger"
+    }
+  ]
+}

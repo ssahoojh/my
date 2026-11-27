@@ -1,0 +1,107 @@
+{
+  "id": 9,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is poetry?",
+      "options": ["Regular prose writing", "A form of writing that uses rhythm, rhyme, and vivid language", "A story", "A list of words"],
+      "answer": "A form of writing that uses rhythm, rhyme, and vivid language"
+    },
+    {
+      "id": 2,
+      "question": "What is rhyme?",
+      "options": ["A type of poem", "When words have similar ending sounds", "A verb", "A noun"],
+      "answer": "When words have similar ending sounds"
+    },
+    {
+      "id": 3,
+      "question": "Which pair of words rhyme?",
+      "options": ["Cat, dog", "Hot, pot", "Run, jump", "Sit, lie"],
+      "answer": "Hot, pot"
+    },
+    {
+      "id": 4,
+      "question": "What is rhythm in poetry?",
+      "options": ["Random word choice", "The pattern of sounds and beats in a poem", "A title", "No pattern"],
+      "answer": "The pattern of sounds and beats in a poem"
+    },
+    {
+      "id": 5,
+      "question": "What is a metaphor?",
+      "options": ["A comparison using 'like' or 'as'", "A direct comparison without 'like' or 'as'", "A type of noun", "An adjective"],
+      "answer": "A direct comparison without 'like' or 'as'"
+    },
+    {
+      "id": 6,
+      "question": "What is a simile?",
+      "options": ["A direct comparison", "A comparison using 'like' or 'as'", "A noun", "A verb"],
+      "answer": "A comparison using 'like' or 'as'"
+    },
+    {
+      "id": 7,
+      "question": "Which is an example of a simile?",
+      "options": ["The sun is a golden coin.", "Her heart is a stone.", "The snow is like ice.", "Time is a river."],
+      "answer": "The snow is like ice."
+    },
+    {
+      "id": 8,
+      "question": "Which is an example of a metaphor?",
+      "options": ["Happy as a clam", "She runs like the wind", "The world is a stage", "Tired like a dog"],
+      "answer": "The world is a stage"
+    },
+    {
+      "id": 9,
+      "question": "What is personification?",
+      "options": ["Using similes", "Giving human qualities to non-human things", "A type of noun", "A verb form"],
+      "answer": "Giving human qualities to non-human things"
+    },
+    {
+      "id": 10,
+      "question": "Which is an example of personification?",
+      "options": ["The cat is gray.", "The wind whispered through the trees.", "The dog ran fast.", "The flower is red."],
+      "answer": "The wind whispered through the trees."
+    },
+    {
+      "id": 11,
+      "question": "What is imagery?",
+      "options": ["Using adjectives", "Using vivid descriptions to create mental pictures", "A title", "No importance"],
+      "answer": "Using vivid descriptions to create mental pictures"
+    },
+    {
+      "id": 12,
+      "question": "What is alliteration?",
+      "options": ["Rhyming words", "The repetition of beginning consonant sounds", "A type of noun", "An adjective"],
+      "answer": "The repetition of beginning consonant sounds"
+    },
+    {
+      "id": 13,
+      "question": "Which is an example of alliteration?",
+      "options": ["The cat sat.", "Sally sells seashells.", "The dog ran.", "I love to read."],
+      "answer": "Sally sells seashells."
+    },
+    {
+      "id": 14,
+      "question": "What is a stanza in a poem?",
+      "options": ["A single line", "A group of lines forming a verse", "A word", "No grouping"],
+      "answer": "A group of lines forming a verse"
+    },
+    {
+      "id": 15,
+      "question": "What is mood in poetry?",
+      "options": ["The theme", "The feeling or atmosphere created by the poem", "A verb", "A noun"],
+      "answer": "The feeling or atmosphere created by the poem"
+    },
+    {
+      "id": 16,
+      "question": "What is tone in poetry?",
+      "options": ["The theme", "The attitude or voice of the poet", "A noun", "An adjective"],
+      "answer": "The attitude or voice of the poet"
+    },
+    {
+      "id": 17,
+      "question": "Which type of poem tells a story?",
+      "options": ["Haiku", "Acrostic", "Narrative poem", "Limerick"],
+      "answer": "Narrative poem"
+    }
+  ]
+}

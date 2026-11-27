@@ -1,0 +1,107 @@
+{
+  "id": 8,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is vocabulary?",
+      "options": ["A type of verb", "The set of words a person knows and uses", "A sentence structure", "A punctuation mark"],
+      "answer": "The set of words a person knows and uses"
+    },
+    {
+      "id": 2,
+      "question": "What is a synonym?",
+      "options": ["A word that sounds similar", "A word with opposite meaning", "A word with similar meaning", "A verb form"],
+      "answer": "A word with similar meaning"
+    },
+    {
+      "id": 3,
+      "question": "Which is a synonym for 'big'?",
+      "options": ["Small", "Tiny", "Large", "Quick"],
+      "answer": "Large"
+    },
+    {
+      "id": 4,
+      "question": "What is an antonym?",
+      "options": ["A word with similar meaning", "A word with opposite meaning", "A noun form", "An adjective"],
+      "answer": "A word with opposite meaning"
+    },
+    {
+      "id": 5,
+      "question": "Which is an antonym for 'hot'?",
+      "options": ["Warm", "Cold", "Heated", "Boiling"],
+      "answer": "Cold"
+    },
+    {
+      "id": 6,
+      "question": "What are context clues?",
+      "options": ["Definitions in a dictionary", "Words or phrases nearby that help explain an unknown word", "Titles", "Nouns"],
+      "answer": "Words or phrases nearby that help explain an unknown word"
+    },
+    {
+      "id": 7,
+      "question": "True or False: Context clues help you understand new words without a dictionary.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 8,
+      "question": "What is a compound word?",
+      "options": ["A word with prefix", "Two or more words joined together to make one word", "A plural word", "A verb form"],
+      "answer": "Two or more words joined together to make one word"
+    },
+    {
+      "id": 9,
+      "question": "Which is an example of a compound word?",
+      "options": ["Happy", "Understand", "Playground", "Beautiful"],
+      "answer": "Playground"
+    },
+    {
+      "id": 10,
+      "question": "What is a prefix?",
+      "options": ["A word ending", "A word part added to the beginning of a word", "A noun", "A suffix"],
+      "answer": "A word part added to the beginning of a word"
+    },
+    {
+      "id": 11,
+      "question": "What does the prefix 'un-' mean?",
+      "options": ["Again", "Not", "Before", "After"],
+      "answer": "Not"
+    },
+    {
+      "id": 12,
+      "question": "What is a suffix?",
+      "options": ["A word beginning", "A word part added to the end of a word", "A verb", "An adjective"],
+      "answer": "A word part added to the end of a word"
+    },
+    {
+      "id": 13,
+      "question": "What does the suffix '-ful' mean?",
+      "options": ["Not", "Full of", "Without", "Again"],
+      "answer": "Full of"
+    },
+    {
+      "id": 14,
+      "question": "What is a homonym?",
+      "options": ["A word with similar meaning", "A word that sounds like another word but has different meaning", "A plural noun", "An adjective"],
+      "answer": "A word that sounds like another word but has different meaning"
+    },
+    {
+      "id": 15,
+      "question": "Which pair are homonyms?",
+      "options": ["Happy, sad", "Big, large", "Their, there", "Walk, run"],
+      "answer": "Their, there"
+    },
+    {
+      "id": 16,
+      "question": "What is a root word?",
+      "options": ["A plant part", "The base word to which prefixes and suffixes are added", "A noun", "A verb"],
+      "answer": "The base word to which prefixes and suffixes are added"
+    },
+    {
+      "id": 17,
+      "question": "What is connotation?",
+      "options": ["A word's exact meaning", "The feeling or idea a word gives beyond its definition", "A title", "No importance"],
+      "answer": "The feeling or idea a word gives beyond its definition"
+    }
+  ]
+}
