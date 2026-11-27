@@ -1,0 +1,107 @@
+{
+  "id": 7,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the length of an object measured in?",
+      "options": ["Weight", "Height", "Distance from one end to another", "Time"],
+      "answer": "Distance from one end to another"
+    },
+    {
+      "id": 2,
+      "question": "How many inches are in a foot?",
+      "options": ["10 inches", "12 inches", "16 inches", "20 inches"],
+      "answer": "12 inches"
+    },
+    {
+      "id": 3,
+      "question": "What tool is used to measure length?",
+      "options": ["Thermometer", "Scale", "Ruler", "Clock"],
+      "answer": "Ruler"
+    },
+    {
+      "id": 4,
+      "question": "How many feet are in a yard?",
+      "options": ["2 feet", "3 feet", "4 feet", "5 feet"],
+      "answer": "3 feet"
+    },
+    {
+      "id": 5,
+      "question": "What unit measures weight?",
+      "options": ["Feet", "Inches", "Pounds", "Hours"],
+      "answer": "Pounds"
+    },
+    {
+      "id": 6,
+      "question": "If a pencil is 7 inches long and another is 5 inches, how much longer is the first?",
+      "options": ["1 inch", "2 inches", "3 inches", "4 inches"],
+      "answer": "2 inches"
+    },
+    {
+      "id": 7,
+      "question": "What is used to measure time?",
+      "options": ["Ruler", "Clock", "Scale", "Thermometer"],
+      "answer": "Clock"
+    },
+    {
+      "id": 8,
+      "question": "How many minutes are in an hour?",
+      "options": ["30 minutes", "45 minutes", "60 minutes", "90 minutes"],
+      "answer": "60 minutes"
+    },
+    {
+      "id": 9,
+      "question": "What time is it at 15 minutes past 3?",
+      "options": ["3:00", "3:15", "3:30", "3:45"],
+      "answer": "3:15"
+    },
+    {
+      "id": 10,
+      "question": "If it's 2:30 and you wait 1 hour, what time is it?",
+      "options": ["2:30", "3:00", "3:30", "4:00"],
+      "answer": "3:30"
+    },
+    {
+      "id": 11,
+      "question": "How many centimeters are in a meter?",
+      "options": ["10 cm", "50 cm", "100 cm", "1000 cm"],
+      "answer": "100 cm"
+    },
+    {
+      "id": 12,
+      "question": "If a rope is 2 feet long and you need 5 feet, how much more do you need?",
+      "options": ["1 foot", "2 feet", "3 feet", "4 feet"],
+      "answer": "3 feet"
+    },
+    {
+      "id": 13,
+      "question": "What is the temperature shown on this thermometer? (Imagine 72 degrees)",
+      "options": ["68 degrees", "70 degrees", "72 degrees", "75 degrees"],
+      "answer": "72 degrees"
+    },
+    {
+      "id": 14,
+      "question": "If an item weighs 5 pounds and another weighs 12 pounds, what's the total weight?",
+      "options": ["15 pounds", "16 pounds", "17 pounds", "18 pounds"],
+      "answer": "17 pounds"
+    },
+    {
+      "id": 15,
+      "question": "What time is 45 minutes after 1:15?",
+      "options": ["1:45", "1:60", "2:00", "2:15"],
+      "answer": "2:00"
+    },
+    {
+      "id": 16,
+      "question": "If you start at 10:00 AM and work for 3 hours, what time do you finish?",
+      "options": ["12:00 PM", "1:00 PM", "2:00 PM", "3:00 PM"],
+      "answer": "1:00 PM"
+    },
+    {
+      "id": 17,
+      "question": "A book weighs 2 pounds and a pencil weighs 0.1 pounds. How much heavier is the book?",
+      "options": ["1.5 pounds", "1.8 pounds", "1.9 pounds", "2.0 pounds"],
+      "answer": "1.9 pounds"
+    }
+  ]
+}

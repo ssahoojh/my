@@ -1,0 +1,107 @@
+{
+  "id": 6,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the place value of the 5 in 345?",
+      "options": ["5 ones", "5 tens", "5 hundreds", "500"],
+      "answer": "5 ones"
+    },
+    {
+      "id": 2,
+      "question": "What is the place value of the 7 in 729?",
+      "options": ["7 ones", "7 tens", "7 hundreds", "700"],
+      "answer": "7 hundreds"
+    },
+    {
+      "id": 3,
+      "question": "In the number 234, the 3 represents?",
+      "options": ["3 ones", "3 tens", "3 hundreds", "30"],
+      "answer": "3 tens"
+    },
+    {
+      "id": 4,
+      "question": "What is 100 + 20 + 5 in standard form?",
+      "options": ["125", "152", "205", "512"],
+      "answer": "125"
+    },
+    {
+      "id": 5,
+      "question": "What is 456 in expanded form?",
+      "options": ["4 + 5 + 6", "40 + 50 + 6", "400 + 50 + 6", "400 + 500 + 6"],
+      "answer": "400 + 50 + 6"
+    },
+    {
+      "id": 6,
+      "question": "Which number is greater: 345 or 354?",
+      "options": ["345", "354", "They are equal", "Cannot tell"],
+      "answer": "354"
+    },
+    {
+      "id": 7,
+      "question": "What is 1,000 + 200 + 30 + 4?",
+      "options": ["1,234", "1,324", "1,243", "1,432"],
+      "answer": "1,234"
+    },
+    {
+      "id": 8,
+      "question": "What is the place value of 8 in 8,765?",
+      "options": ["8 ones", "8 tens", "8 hundreds", "8 thousands"],
+      "answer": "8 thousands"
+    },
+    {
+      "id": 9,
+      "question": "Round 456 to the nearest ten?",
+      "options": ["450", "455", "460", "465"],
+      "answer": "460"
+    },
+    {
+      "id": 10,
+      "question": "Round 782 to the nearest hundred?",
+      "options": ["700", "750", "780", "800"],
+      "answer": "800"
+    },
+    {
+      "id": 11,
+      "question": "What is the value of 5 in 5,432?",
+      "options": ["5", "50", "500", "5,000"],
+      "answer": "5,000"
+    },
+    {
+      "id": 12,
+      "question": "Which number shows 3 thousands, 4 hundreds, 2 tens, 1 one?",
+      "options": ["1,243", "3,124", "3,421", "4,321"],
+      "answer": "3,421"
+    },
+    {
+      "id": 13,
+      "question": "Round 1,567 to the nearest thousand?",
+      "options": ["1,000", "1,500", "2,000", "1,600"],
+      "answer": "2,000"
+    },
+    {
+      "id": 14,
+      "question": "What is 5,678 in expanded form?",
+      "options": ["5 + 6 + 7 + 8", "500 + 60 + 7 + 8", "5000 + 600 + 70 + 8", "5000 + 60 + 7 + 8"],
+      "answer": "5000 + 600 + 70 + 8"
+    },
+    {
+      "id": 15,
+      "question": "Which digit is in the tens place in 2,345?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "4"
+    },
+    {
+      "id": 16,
+      "question": "What is 7,654 rounded to the nearest thousand?",
+      "options": ["7,000", "7,500", "7,600", "8,000"],
+      "answer": "8,000"
+    },
+    {
+      "id": 17,
+      "question": "If a number is 10,000 + 2,000 + 300 + 40 + 5, what is it?",
+      "options": ["10,235", "12,345", "10,345", "12,340"],
+      "answer": "12,345"
+    }
+  ]
+}

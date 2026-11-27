@@ -1,0 +1,107 @@
+{
+  "id": 9,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is data?",
+      "options": ["A story", "Information collected from surveys or observations", "A number", "A shape"],
+      "answer": "Information collected from surveys or observations"
+    },
+    {
+      "id": 2,
+      "question": "What is a tally mark used for?",
+      "options": ["Drawing shapes", "Recording data", "Measuring length", "Telling time"],
+      "answer": "Recording data"
+    },
+    {
+      "id": 3,
+      "question": "What type of graph uses bars to show data?",
+      "options": ["Pie chart", "Line graph", "Bar graph", "Picture graph"],
+      "answer": "Bar graph"
+    },
+    {
+      "id": 4,
+      "question": "What is a pictograph?",
+      "options": ["A graph using numbers", "A graph using pictures or symbols", "A written story", "A type of line"],
+      "answer": "A graph using pictures or symbols"
+    },
+    {
+      "id": 5,
+      "question": "If the data shows: Red 5, Blue 3, Green 2, which color appears most?",
+      "options": ["Blue", "Green", "Red", "Cannot tell"],
+      "answer": "Red"
+    },
+    {
+      "id": 6,
+      "question": "What is a line graph used to show?",
+      "options": ["Categories only", "Changes over time", "Parts of a whole", "Comparisons"],
+      "answer": "Changes over time"
+    },
+    {
+      "id": 7,
+      "question": "What is a pie chart?",
+      "options": ["A type of food", "A circular graph showing parts of a whole", "A line graph", "A bar graph"],
+      "answer": "A circular graph showing parts of a whole"
+    },
+    {
+      "id": 8,
+      "question": "If a bar is 10 units tall and another is 7 units, what is the difference?",
+      "options": ["2 units", "3 units", "4 units", "5 units"],
+      "answer": "3 units"
+    },
+    {
+      "id": 9,
+      "question": "What does the x-axis on a graph represent?",
+      "options": ["Height", "Width or horizontal direction", "Categories", "Time"],
+      "answer": "Width or horizontal direction"
+    },
+    {
+      "id": 10,
+      "question": "What does the y-axis on a graph represent?",
+      "options": ["Width", "Height or vertical direction", "Time", "Categories"],
+      "answer": "Height or vertical direction"
+    },
+    {
+      "id": 11,
+      "question": "What is the mode in a data set?",
+      "options": ["The highest number", "The lowest number", "The number that appears most often", "The middle number"],
+      "answer": "The number that appears most often"
+    },
+    {
+      "id": 12,
+      "question": "If the data is 2, 3, 3, 5, 7, what is the mode?",
+      "options": ["2", "3", "5", "7"],
+      "answer": "3"
+    },
+    {
+      "id": 13,
+      "question": "What is the median in a data set?",
+      "options": ["The highest", "The lowest", "The middle value", "The most common"],
+      "answer": "The middle value"
+    },
+    {
+      "id": 14,
+      "question": "If the data is 1, 2, 3, 4, 5, what is the median?",
+      "options": ["1", "2", "3", "5"],
+      "answer": "3"
+    },
+    {
+      "id": 15,
+      "question": "What is the range in a data set?",
+      "options": ["The highest", "The lowest", "The difference between highest and lowest", "The middle"],
+      "answer": "The difference between highest and lowest"
+    },
+    {
+      "id": 16,
+      "question": "If the data is 2, 5, 8, 12, what is the range?",
+      "options": ["10", "11", "12", "14"],
+      "answer": "10"
+    },
+    {
+      "id": 17,
+      "question": "If a survey asks 20 students their favorite color and 8 choose blue, what fraction chose blue?",
+      "options": ["1/4", "2/5", "1/2", "3/4"],
+      "answer": "2/5"
+    }
+  ]
+}

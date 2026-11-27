@@ -1,0 +1,107 @@
+{
+  "id": 10,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a word problem?",
+      "options": ["A problem with words only", "A math problem written in sentences", "A reading exercise", "A type of puzzle"],
+      "answer": "A math problem written in sentences"
+    },
+    {
+      "id": 2,
+      "question": "John has 12 apples. He gives 5 to his sister. How many does he have left?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "7"
+    },
+    {
+      "id": 3,
+      "question": "What is the first step in solving a word problem?",
+      "options": ["Write the answer", "Guess", "Read and understand the problem", "Start calculating"],
+      "answer": "Read and understand the problem"
+    },
+    {
+      "id": 4,
+      "question": "A book costs $8 and a pen costs $3. How much for both?",
+      "options": ["$10", "$11", "12", "$13"],
+      "answer": "$11"
+    },
+    {
+      "id": 5,
+      "question": "What information is NOT needed in a word problem?",
+      "options": ["Given numbers", "What the problem asks", "Interesting but irrelevant details", "Operation to use"],
+      "answer": "Interesting but irrelevant details"
+    },
+    {
+      "id": 6,
+      "question": "Sarah has 15 cookies. She bakes 8 more. How many total?",
+      "options": ["20", "21", "22", "23"],
+      "answer": "23"
+    },
+    {
+      "id": 7,
+      "question": "What does 'altogether' usually mean in a problem?",
+      "options": ["Subtract", "Add", "Multiply", "Divide"],
+      "answer": "Add"
+    },
+    {
+      "id": 8,
+      "question": "If there are 24 students and they're divided into 4 equal groups, how many per group?",
+      "options": ["4", "5", "6", "8"],
+      "answer": "6"
+    },
+    {
+      "id": 9,
+      "question": "What does 'left' or 'remaining' usually mean?",
+      "options": ["Add", "Multiply", "Subtract", "Divide"],
+      "answer": "Subtract"
+    },
+    {
+      "id": 10,
+      "question": "A store has 50 apples. They sell 18. How many are left?",
+      "options": ["30", "31", "32", "33"],
+      "answer": "32"
+    },
+    {
+      "id": 11,
+      "question": "If tickets cost $12 each and you buy 5, how much is the total?",
+      "options": ["$55", "$58", "$60", "$65"],
+      "answer": "$60"
+    },
+    {
+      "id": 12,
+      "question": "Maria reads 3 books with 150 pages each. How many pages total?",
+      "options": ["300", "350", "400", "450"],
+      "answer": "450"
+    },
+    {
+      "id": 13,
+      "question": "What is a strategy for solving word problems?",
+      "options": ["Ignore the words", "Draw a picture or diagram", "Skip to the end", "Guess randomly"],
+      "answer": "Draw a picture or diagram"
+    },
+    {
+      "id": 14,
+      "question": "If you need 24 cookies for a party and have 15, how many more do you need?",
+      "options": ["7", "8", "9", "10"],
+      "answer": "9"
+    },
+    {
+      "id": 15,
+      "question": "A recipe needs 2 cups of flour for 12 cookies. For 36 cookies, how much flour?",
+      "options": ["4 cups", "5 cups", "6 cups", "8 cups"],
+      "answer": "6 cups"
+    },
+    {
+      "id": 16,
+      "question": "If a shirt is $25 and on sale for $5 off, what's the new price?",
+      "options": ["$18", "$19", "$20", "$21"],
+      "answer": "$20"
+    },
+    {
+      "id": 17,
+      "question": "Three friends share 36 candies equally. How many does each get?",
+      "options": ["10", "11", "12", "13"],
+      "answer": "12"
+    }
+  ]
+}
