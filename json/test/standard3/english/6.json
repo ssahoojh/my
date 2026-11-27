@@ -1,0 +1,108 @@
+{
+  "id": 6,
+  "chapter": "Pronouns and Prepositions",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which word is a pronoun?",
+      "options": ["He", "Dog", "Run", "Blue"],
+      "answer": "He"
+    },
+    {
+      "id": 2,
+      "question": "Which pronoun can replace 'Sarah'?",
+      "options": ["He", "She", "It", "They"],
+      "answer": "She"
+    },
+    {
+      "id": 3,
+      "question": "Which word is a preposition?",
+      "options": ["Under", "Jump", "Happy", "Quickly"],
+      "answer": "Under"
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct pronoun: 'Tom and I went to the park. ___ played soccer.'",
+      "options": ["He", "They", "We", "She"],
+      "answer": "We"
+    },
+    {
+      "id": 5,
+      "question": "The cat is ___ the table.",
+      "options": ["under", "run", "happy", "they"],
+      "answer": "under"
+    },
+
+    {
+      "id": 6,
+      "question": "Choose the correct pronoun: 'Lisa has a book. ___ is reading it.'",
+      "options": ["He", "She", "They", "We"],
+      "answer": "She"
+    },
+    {
+      "id": 7,
+      "question": "Which preposition best completes the sentence? 'The picture hangs ___ the wall.'",
+      "options": ["on", "jump", "slowly", "she"],
+      "answer": "on"
+    },
+    {
+      "id": 8,
+      "question": "Which sentence uses a pronoun correctly?",
+      "options": [
+        "Him is my friend.",
+        "She is my friend.",
+        "Her are my friend.",
+        "Them is my friend."
+      ],
+      "answer": "She is my friend."
+    },
+    {
+      "id": 9,
+      "question": "The ball rolled ___ the chair.",
+      "options": ["under", "they", "eat", "bright"],
+      "answer": "under"
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct pronoun: 'The children are playing. ___ are having fun.'",
+      "options": ["He", "She", "It", "They"],
+      "answer": "They"
+    },
+
+    {
+      "id": 11,
+      "question": "Which sentence contains a preposition?",
+      "options": [
+        "The dog slept beside the bed.",
+        "The dog barked loudly.",
+        "The dog is friendly.",
+        "The dog runs."
+      ],
+      "answer": "The dog slept beside the bed."
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct pronoun: 'My sister and I finished the puzzle by ___. '",
+      "options": ["ourselves", "herself", "himself", "itself"],
+      "answer": "ourselves"
+    },
+    {
+      "id": 13,
+      "question": "Which preposition best completes the sentence? 'The airplane flew ___ the clouds.'",
+      "options": ["above", "quickly", "they", "jumped"],
+      "answer": "above"
+    },
+    {
+      "id": 14,
+      "question": "In the sentence 'The keys are between the books,' which word is the preposition?",
+      "options": ["keys", "are", "between", "books"],
+      "answer": "between"
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct pronoun: 'If John and Maya arrive early, ___ can help set up the room.'",
+      "options": ["he", "she", "they", "it"],
+      "answer": "they"
+    }
+  ]
+}
