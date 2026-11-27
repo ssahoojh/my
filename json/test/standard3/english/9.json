@@ -1,0 +1,168 @@
+{
+  "id": 9,
+  "chapter": "Punctuation and Capitalization",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence is capitalized correctly?",
+      "options": [
+        "my dog likes to play.",
+        "My dog likes to play.",
+        "my Dog likes to play.",
+        "My Dog Likes To Play."
+      ],
+      "answer": "My dog likes to play."
+    },
+    {
+      "id": 2,
+      "question": "Which punctuation mark belongs at the end of this sentence? 'I like ice cream___'",
+      "options": [".", "?", ",", ":"],
+      "answer": "."
+    },
+    {
+      "id": 3,
+      "question": "Which sentence is a question?",
+      "options": [
+        "Where is my book?",
+        "Where is my book.",
+        "Where is my book!",
+        "Where is my book,"
+      ],
+      "answer": "Where is my book?"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence shows excitement?",
+      "options": [
+        "I won the race.",
+        "I won the race?",
+        "I won the race!",
+        "I won the race,"
+      ],
+      "answer": "I won the race!"
+    },
+    {
+      "id": 5,
+      "question": "Which word should begin with a capital letter?",
+      "options": [
+        "dog",
+        "apple",
+        "friday",
+        "book"
+      ],
+      "answer": "friday"
+    },
+
+    {
+      "id": 6,
+      "question": "Choose the correctly written sentence.",
+      "options": [
+        "we went to the zoo on Saturday.",
+        "We went to the zoo on saturday.",
+        "We went to the zoo on Saturday.",
+        "we Went to the Zoo on Saturday."
+      ],
+      "answer": "We went to the zoo on Saturday."
+    },
+    {
+      "id": 7,
+      "question": "Which punctuation mark belongs in this sentence? 'Yes___ I finished my homework.'",
+      "options": [
+        ",",
+        ".",
+        "?",
+        "!"
+      ],
+      "answer": ","
+    },
+    {
+      "id": 8,
+      "question": "Which word should be capitalized?",
+      "options": [
+        "teacher",
+        "school",
+        "january",
+        "student"
+      ],
+      "answer": "january"
+    },
+    {
+      "id": 9,
+      "question": "Which sentence uses punctuation correctly?",
+      "options": [
+        "What is your favorite color.",
+        "What is your favorite color?",
+        "What is your favorite color,",
+        "What is your favorite color!"
+      ],
+      "answer": "What is your favorite color?"
+    },
+    {
+      "id": 10,
+      "question": "Choose the sentence with correct capitalization.",
+      "options": [
+        "I live in texas.",
+        "I live in Texas.",
+        "I Live in texas.",
+        "i live in Texas."
+      ],
+      "answer": "I live in Texas."
+    },
+
+    {
+      "id": 11,
+      "question": "Which sentence is written correctly?",
+      "options": [
+        "On monday, we visited Denver.",
+        "On Monday, we visited Denver.",
+        "On Monday we visited denver.",
+        "on Monday, we visited Denver."
+      ],
+      "answer": "On Monday, we visited Denver."
+    },
+    {
+      "id": 12,
+      "question": "Choose the sentence that uses commas correctly.",
+      "options": [
+        "I packed apples bananas and grapes.",
+        "I packed apples, bananas and grapes.",
+        "I packed apples, bananas, and grapes.",
+        "I packed apples bananas, and grapes."
+      ],
+      "answer": "I packed apples, bananas, and grapes."
+    },
+    {
+      "id": 13,
+      "question": "Which sentence is punctuated correctly?",
+      "options": [
+        "Wow what a great game!",
+        "Wow, what a great game!",
+        "Wow. what a great game!",
+        "wow, what a great game!"
+      ],
+      "answer": "Wow, what a great game!"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence correctly capitalizes a proper noun?",
+      "options": [
+        "My friend lives in california.",
+        "My friend lives in California.",
+        "My Friend lives in california.",
+        "My friend lives in california."
+      ],
+      "answer": "My friend lives in California."
+    },
+    {
+      "id": 15,
+      "question": "Which sentence is completely correct?",
+      "options": [
+        "last summer, we visited yellowstone national park.",
+        "Last summer we visited Yellowstone National Park.",
+        "Last summer, we visited Yellowstone National Park.",
+        "Last Summer, we visited yellowstone national park."
+      ],
+      "answer": "Last summer, we visited Yellowstone National Park."
+    }
+  ]
+}
