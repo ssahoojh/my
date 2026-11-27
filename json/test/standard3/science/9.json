@@ -1,0 +1,53 @@
+{
+  "id": 8,
+  "chapter": "Earth, Sun, Moon and Sky",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which planet do we live on?",
+      "options": ["Mars", "Earth", "Jupiter", "Venus"],
+      "answer": "Earth"
+    },
+    {
+      "id": 2,
+      "question": "Which star gives us light and heat during the day?",
+      "options": ["Moon", "Sun", "Earth", "Mars"],
+      "answer": "Sun"
+    },
+    {
+      "id": 3,
+      "question": "What do we see in the sky mostly at night?",
+      "options": ["Moon and stars", "Rainbow", "Clouds only", "Mountains"],
+      "answer": "Moon and stars"
+    },
+    {
+      "id": 4,
+      "question": "The Earth moves around the ____.",
+      "options": ["Moon", "Sun", "Stars", "Clouds"],
+      "answer": "Sun"
+    },
+    {
+      "id": 5,
+      "question": "Why do we have day and night?",
+      "options": [
+        "Because Earth spins",
+        "Because the Moon shines",
+        "Because clouds move",
+        "Because stars move"
+      ],
+      "answer": "Because Earth spins"
+    },
+    {
+      "id": 6,
+      "question": "Which object in the sky changes its shape as seen from Earth?",
+      "options": ["Sun", "Moon", "Earth", "Rainbow"],
+      "answer": "Moon"
+    },
+    {
+      "id": 7,
+      "question": "What is the name of our planet's natural satellite?",
+      "options": ["Sun", "Mars", "Moon", "Venus"],
+      "answer": "Moon"
+    }
+  ]
+}
